@@ -61,7 +61,7 @@ export default function AddContentPage() {
         contentUrl = URL.createObjectURL(localFile);
     }
     
-    const newContent = addContent({ ...data, url: contentUrl });
+    const newContent = addContent({ ...data, url: contentUrl, imageUrl: data.imageUrl || '' });
 
     toast({
       title: "¡Éxito!",
@@ -238,5 +238,3 @@ export default function AddContentPage() {
     </div>
   );
 }
-
-    
