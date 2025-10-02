@@ -79,14 +79,14 @@
     },
     {
       "id": "mov6",
-      "title": "Harry Potter y El Caliz de Fuego 4",
+      "title": "Harry Potter y El Prisionero de Azkaban 3",
       "type": "movie",
       "genre": "Fantasía",
       "year": 2019,
       "description": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida",
-      "imageUrl": "https://pics.filmaffinity.com/Harry_Potter_y_el_caaliz_de_fuego-574935053-large.jpg",
+      "imageUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/oabaGVDN9pqLzMT6w5qMGdFawH5.jpg",
       "imageHint": "movie",
-      "url": "/public/files/pelis/HarryPotter_4_y_el_caliz_de_fuego.mp4"
+      "url": "/files/pelis/HarryPotter3.mkv"
     },
     {
       "id": "ser1",
