@@ -8,11 +8,12 @@ import {
   Trash2,
   Heart,
   PlayCircle,
+  Music4,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
-import { useEffect, useState } from "react";
+import { useEffect, useState }from "react";
 import {
   AlertDialog,
   AlertDialogAction,
@@ -79,7 +80,7 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
     if(isVideo && !isAudio) { 
       return (
         <div className="aspect-video bg-black">
-          <video controls autoPlay className="w-full h-full" src={contentUrl}>
+          <video controls autoPlay muted className="w-full h-full" src={contentUrl}>
              Tu navegador no soporta la etiqueta de video.
           </video>
         </div>
@@ -88,8 +89,9 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
 
     if(isAudio) {
       return (
-        <div className="bg-black flex flex-col items-center justify-center p-8 h-48">
-          <audio controls autoPlay src={contentUrl} className="w-full">
+        <div className="bg-zinc-800/50 aspect-video flex flex-col items-center justify-center p-8 text-center text-foreground">
+          <Music4 className="w-24 h-24 text-primary mb-4" />
+          <audio controls autoPlay src={contentUrl} className="w-full max-w-md mt-4">
             Tu navegador no soporta el elemento de audio.
           </audio>
         </div>
