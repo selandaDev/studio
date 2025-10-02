@@ -1,7 +1,6 @@
 
 "use client";
 
-import { useState } from "react";
 import { useForm, SubmitHandler } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
@@ -24,6 +23,7 @@ const FormSchema = z.object({
   year: z.coerce.number().min(1800, "El año debe ser válido.").max(new Date().getFullYear(), "El año no puede ser en el futuro."),
   artist: z.string().optional(),
   path: z.string().optional(),
+  imageUrl: z.string().url("Debe ser una URL de imagen válida.").optional().or(z.literal('')),
   url: z.string().url("Debe ser una URL válida.").optional().or(z.literal('')),
 });
 
@@ -41,6 +41,7 @@ export default function AddContentPage() {
       year: new Date().getFullYear(),
       artist: "",
       path: "",
+      imageUrl: "",
       url: "",
     },
   });
@@ -158,17 +159,18 @@ export default function AddContentPage() {
                   )}
                 />
               </div>
-              <FormField
-                  control={form.control}
-                  name="path"
-                  render={({ field }) => (
+
+               <FormField
+                control={form.control}
+                name="imageUrl"
+                render={({ field }) => (
                   <FormItem>
-                    <FormLabel>Ruta del Archivo o Carpeta</FormLabel>
+                    <FormLabel>URL del Póster (Opcional)</FormLabel>
                     <FormControl>
-                      <Input placeholder="/ruta/a/tu/archivo/multimedia" {...field} />
+                      <Input type="url" placeholder="https://ruta/a/imagen.jpg" {...field} />
                     </FormControl>
                      <p className="text-sm text-muted-foreground">
-                        Esto es una simulación. En una aplicación real, buscarías un archivo.
+                        Si se deja en blanco, se usará una imagen por defecto.
                     </p>
                     <FormMessage />
                   </FormItem>
@@ -181,17 +183,34 @@ export default function AddContentPage() {
                 </div>
                 <div className="relative flex justify-center text-xs uppercase">
                   <span className="bg-background px-2 text-muted-foreground">
-                    O
+                    Fuente del Contenido
                   </span>
                 </div>
               </div>
+
+              <FormField
+                  control={form.control}
+                  name="path"
+                  render={({ field }) => (
+                  <FormItem>
+                    <FormLabel>Archivo Local</FormLabel>
+                    <FormControl>
+                      <Input type="file" {...field} />
+                    </FormControl>
+                     <p className="text-sm text-muted-foreground">
+                        Busca un archivo en tu equipo. (Simulado)
+                    </p>
+                    <FormMessage />
+                  </FormItem>
+                )}
+              />
               
               <FormField
                 control={form.control}
                 name="url"
                 render={({ field }) => (
                   <FormItem>
-                    <FormLabel>URL del Contenido (Opcional)</FormLabel>
+                    <FormLabel>URL Externa (Opcional)</FormLabel>
                     <FormControl>
                       <Input type="url" placeholder="https://www.youtube.com/watch?v=..." {...field} />
                     </FormControl>

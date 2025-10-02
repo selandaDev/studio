@@ -19,6 +19,8 @@ export interface Content {
 }
 
 let allContent: Content[] = [
+  { id: 'mov7', title: 'Big Buck Bunny', type: 'movie', genre: 'Animación', year: 2008, description: 'Un conejito grande y amigable se enfrenta a tres roedores acosadores.', imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/1024px-Big_buck_bunny_poster_big.jpg', imageHint: 'animation cartoon', url: 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4' },
+  { id: 'mov8', title: 'Elephants Dream', type: 'movie', genre: 'Animación', year: 2006, description: 'Dos personas exploran un mundo surrealista y cambiante.', imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Elephants_Dream_s5_proog.jpg/1280px-Elephants_Dream_s5_proog.jpg', imageHint: 'animation surreal', url: 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4' },
   { id: 'mov1', title: 'Ciudad Cibernética', type: 'movie', genre: 'Acción', year: 2023, description: 'En un futuro bañado en neón, un operativo solitario debe descubrir una conspiración corporativa.', imageUrl: PlaceHolderImages.find(i => i.id === 'movie-1')?.imageUrl!, imageHint: 'action movie' },
   { id: 'mov2', title: 'El Borde de la Galaxia', type: 'movie', genre: 'Ciencia Ficción', year: 2022, description: 'La tripulación de la nave estelar Errante descubre un secreto que podría cambiar el universo.', imageUrl: PlaceHolderImages.find(i => i.id === 'movie-2')?.imageUrl!, imageHint: 'sci-fi space', url: 'https://youtu.be/fb4wdTpkhBs?si=8Nc1HzpaLD5ycY5A' },
   { id: 'mov3', title: 'La Última Pista', type: 'movie', genre: 'Misterio', year: 2021, description: 'Un detective experimentado a punto de jubilarse se enfrenta a un último y desconcertante caso.', imageUrl: PlaceHolderImages.find(i => i.id === 'movie-3')?.imageUrl!, imageHint: 'mystery thriller' },
@@ -65,15 +67,17 @@ export function getContent(filters: { type?: ContentType; query?: string; id?: s
 }
 
 
-export function addContent(newContent: Omit<Content, 'id' | 'imageUrl' | 'imageHint'>) {
-    const newId = `${newContent.type}-${Math.random().toString(36).substr(2, 9)}`;
-    const placeholder = PlaceHolderImages[Math.floor(Math.random() * PlaceHolderImages.length)];
+export function addContent(newContentData: Omit<Content, 'id' | 'imageHint'>) {
+    const newId = `${newContentData.type}-${Math.random().toString(36).substr(2, 9)}`;
+    const randomPlaceholder = PlaceHolderImages[Math.floor(Math.random() * PlaceHolderImages.length)];
+    
     const content: Content = {
-        ...newContent,
+        ...newContentData,
         id: newId,
-        imageUrl: placeholder.imageUrl,
-        imageHint: placeholder.imageHint,
+        imageUrl: newContentData.imageUrl || randomPlaceholder.imageUrl,
+        imageHint: newContentData.imageUrl ? 'custom image' : randomPlaceholder.imageHint,
     };
+
     allContent.unshift(content);
     return content;
 }

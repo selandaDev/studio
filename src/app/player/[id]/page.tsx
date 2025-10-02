@@ -12,6 +12,7 @@ import {
   Volume2,
   Maximize,
   Heart,
+  PlayCircle,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Slider } from "@/components/ui/slider";
@@ -38,8 +39,9 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
         return (
             <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
                 <div className="text-center">
-                    <Play className="h-24 w-24 text-primary" />
-                    <p>Este es un reproductor simulado.</p>
+                    <PlayCircle className="h-24 w-24 text-primary mx-auto mb-4" />
+                    <p>No hay una fuente de vídeo o audio para reproducir.</p>
+                     <p className="text-sm text-muted-foreground">Añade una URL al editar este contenido.</p>
                 </div>
             </div>
         )
@@ -62,22 +64,20 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
         )
     }
 
-    // This could be a direct link to a video or audio file.
-    // In a real app you might check the file extension.
-    if(contentUrl.match(/\.(mp4|mkv|avi|mpeg|mov)$/i)) {
+    if(contentUrl.match(/\.(mp4|mkv|avi|webm|mov|flv|wmv)$/i)) {
       return (
-        <div className="aspect-video">
-          <video controls className="w-full h-full" src={contentUrl}>
+        <div className="aspect-video bg-black">
+          <video controls autoPlay className="w-full h-full" src={contentUrl}>
              Tu navegador no soporta la etiqueta de video.
           </video>
         </div>
       )
     }
 
-    if(contentUrl.match(/\.(mp3|wav|ogg|aac)$/i)) {
+    if(contentUrl.match(/\.(mp3|wav|ogg|aac|flac)$/i)) {
       return (
-        <div className="bg-black flex flex-col items-center justify-center p-4 h-48">
-          <audio controls src={contentUrl} className="w-full">
+        <div className="bg-black flex flex-col items-center justify-center p-8 h-48">
+          <audio controls autoPlay src={contentUrl} className="w-full">
             Tu navegador no soporta el elemento de audio.
           </audio>
         </div>
@@ -89,6 +89,7 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
         <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
             <div className="text-center">
                 <p>Tipo de medio o URL no soportado.</p>
+                <p className="text-sm break-all">{contentUrl}</p>
             </div>
         </div>
     );
@@ -110,14 +111,15 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
               <Player contentUrl={content.url} />
             </CardContent>
           </Card>
-          <div className="mt-4 p-4 rounded-lg bg-card border">
+           <div className="mt-4 p-4 rounded-lg bg-card border">
+            <p className="text-center text-muted-foreground">Controles de reproducción simulados</p>
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-4">
                 <Button variant="ghost" size="icon">
                   <Rewind />
                 </Button>
                 <Button variant="default" size="icon" className="h-14 w-14">
-                  <Pause className="h-8 w-8" />
+                  <Play className="h-8 w-8" />
                 </Button>
                 <Button variant="ghost" size="icon">
                   <FastForward />
