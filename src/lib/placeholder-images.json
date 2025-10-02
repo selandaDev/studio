@@ -1,3 +1,112 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "movie-1",
+      "description": "A man in a suit stands in a neon-lit city.",
+      "imageUrl": "https://images.unsplash.com/photo-1515634928627-2a4e0dae3ddf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhY3Rpb24lMjBtb3ZpZXxlbnwwfHx8fDE3NTkzMzY5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "action movie"
+    },
+    {
+      "id": "movie-2",
+      "description": "A spaceship flies through a colorful nebula.",
+      "imageUrl": "https://images.unsplash.com/photo-1671700903366-455d18bb8e59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzY2ktZmklMjBzcGFjZXxlbnwwfHx8fDE3NTkzNTk5MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sci-fi space"
+    },
+    {
+      "id": "movie-3",
+      "description": "A detective looks at clues on a board.",
+      "imageUrl": "https://images.unsplash.com/photo-1621112657062-d7a5c30b7286?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxteXN0ZXJ5JTIwdGhyaWxsZXJ8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mystery thriller"
+    },
+    {
+      "id": "movie-4",
+      "description": "A couple laughs on a picnic blanket in a park.",
+      "imageUrl": "https://images.unsplash.com/photo-1758874089358-67fe2adc9bcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyb21hbmNlJTIwY29tZWR5fGVufDB8fHx8MTc1OTMwNjQwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "romance comedy"
+    },
+    {
+      "id": "movie-5",
+      "description": "An adventurer discovers a hidden temple in a jungle.",
+      "imageUrl": "https://images.unsplash.com/photo-1495544271064-3764df937987?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YWR2ZW50dXJlJTIwanVuZ2xlfGVufDB8fHx8MTc1OTM4ODUzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "adventure jungle"
+    },
+    {
+      "id": "movie-6",
+      "description": "A scary clown in a dark forest.",
+      "imageUrl": "https://images.unsplash.com/photo-1634190969752-e269a0a9e1c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxob3Jyb3IlMjBtb3ZpZXxlbnwwfHx8fDE3NTkzMzY5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "horror movie"
+    },
+    {
+      "id": "series-1",
+      "description": "A group of friends in a New York apartment.",
+      "imageUrl": "https://images.unsplash.com/photo-1547139427-b5aa332ebfd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb21lZHklMjBzZXJpZXN8ZW58MHx8fHwxNzU5MzQzMDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "comedy series"
+    },
+    {
+      "id": "series-2",
+      "description": "A queen sits on a throne made of swords.",
+      "imageUrl": "https://images.unsplash.com/photo-1684940428813-53bd87bb7010?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZmFudGFzeSUyMHNlcmllc3xlbnwwfHx8fDE3NTkzODg1Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fantasy series"
+    },
+    {
+      "id": "series-3",
+      "description": "Doctors in a hospital hallway.",
+      "imageUrl": "https://images.unsplash.com/photo-1658370455070-d75669b43500?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWVkaWNhbCUyMGRyYW1hfGVufDB8fHx8MTc1OTM4ODUzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "medical drama"
+    },
+    {
+      "id": "series-4",
+      "description": "A silhouette of a cowboy at sunset.",
+      "imageUrl": "https://images.unsplash.com/photo-1723750599416-4f72e7bd1a63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2VzdGVybiUyMHNlcmllc3xlbnwwfHx8fDE3NTkzODg1Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "western series"
+    },
+    {
+      "id": "series-5",
+      "description": "A robot looking at a futuristic city.",
+      "imageUrl": "https://images.unsplash.com/photo-1656381620321-bddff61435c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzY2ktZmklMjBzZXJpZXN8ZW58MHx8fHwxNzU5MzEzODc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sci-fi series"
+    },
+    {
+      "id": "series-6",
+      "description": "Animated characters on an adventure.",
+      "imageUrl": "https://images.unsplash.com/photo-1753301066699-a2ef4bd08f51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjYXJ0b29uJTIwYW5pbWF0aW9ufGVufDB8fHx8MTc1OTMwNjQ2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cartoon animation"
+    },
+    {
+      "id": "music-1",
+      "description": "Abstract colorful soundwaves.",
+      "imageUrl": "https://images.unsplash.com/photo-1599423424751-54e0c1187a02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxlbGVjdHJvbmljJTIwbXVzaWN8ZW58MHx8fHwxNzU5MzQyNzk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electronic music"
+    },
+    {
+      "id": "music-2",
+      "description": "A solo acoustic guitar.",
+      "imageUrl": "https://images.unsplash.com/photo-1598901704027-18db7e0e8c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhY291c3RpYyUyMGZvbGt8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "acoustic folk"
+    },
+    {
+      "id": "music-3",
+      "description": "A person wearing headphones and nodding to the beat.",
+      "imageUrl": "https://images.unsplash.com/photo-1612321039932-c220da5938c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxoaXAtaG9wJTIwbXVzaWN8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hip-hop music"
+    },
+    {
+      "id": "music-4",
+      "description": "A rock band performing on stage with bright lights.",
+      "imageUrl": "https://images.unsplash.com/photo-1604177052603-c2b4cff228db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyb2NrJTIwY29uY2VydHxlbnwwfHx8fDE3NTkzNjAyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rock concert"
+    },
+    {
+      "id": "music-5",
+      "description": "A classical orchestra in a concert hall.",
+      "imageUrl": "https://images.unsplash.com/photo-1587834423414-9545adae44ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjbGFzc2ljYWwlMjBvcmNoZXN0cmF8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "classical orchestra"
+    },
+    {
+      "id": "music-6",
+      "description": "A vinyl record on a turntable.",
+      "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxqYXp6JTIwbXVzaWN8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "jazz music"
+    }
+  ]
 }
