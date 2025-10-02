@@ -1,24 +1,218 @@
 {
   "content": [
-    { "id": "mov7", "title": "Big Buck Bunny", "type": "movie", "genre": "Animación", "year": 2008, "description": "Un conejito grande y amigable se enfrenta a tres roedores acosadores.", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/1024px-Big_buck_bunny_poster_big.jpg", "imageHint": "animation cartoon", "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
-    { "id": "mov8", "title": "Elephants Dream", "type": "movie", "genre": "Animación", "year": 2006, "description": "Dos personas exploran un mundo surrealista y cambiante.", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Elephants_Dream_s5_proog.jpg/1280px-Elephants_Dream_s5_proog.jpg", "imageHint": "animation surreal", "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
-    { "id": "mov1", "title": "Ciudad Cibernética", "type": "movie", "genre": "Acción", "year": 2023, "description": "En un futuro bañado en neón, un operativo solitario debe descubrir una conspiración corporativa.", "imageUrl": "https://images.unsplash.com/photo-1515634928627-2a4e0dae3ddf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhY3Rpb24lMjBtb3ZpZXxlbnwwfHx8fDE3NTkzMzY5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "action movie" },
-    { "id": "mov2", "title": "El Borde de la Galaxia", "type": "movie", "genre": "Ciencia Ficción", "year": 2022, "description": "La tripulación de la nave estelar Errante descubre un secreto que podría cambiar el universo.", "imageUrl": "https://images.unsplash.com/photo-1671700903366-455d18bb8e59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzY2ktZmklMjBzcGFjZXxlbnwwfHx8fDE3NTkzNTk5MTN8MA&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "sci-fi space", "url": "https://youtu.be/fb4wdTpkhBs?si=8Nc1HzpaLD5ycY5A" },
-    { "id": "mov3", "title": "La Última Pista", "type": "movie", "genre": "Misterio", "year": 2021, "description": "Un detective experimentado a punto de jubilarse se enfrenta a un último y desconcertante caso.", "imageUrl": "https://images.unsplash.com/photo-1621112657062-d7a5c30b7286?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxteXN0ZXJ5JTIwdGhyaWxsZXJ8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "mystery thriller" },
-    { "id": "mov4", "title": "Amor de Verano", "type": "movie", "genre": "Romance", "year": 2024, "description": "Dos personas de mundos diferentes encuentran un amor inesperado durante unas vacaciones de verano.", "imageUrl": "https://images.unsplash.com/photo-1758874089358-67fe2adc9bcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyb21hbmNlJTIwY29tZWR5fGVufDB8fHx8MTc1OTMwNjQwOHww&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "romance comedy" },
-    { "id": "mov5", "title": "Templo del Sol", "type": "movie", "genre": "Aventura", "year": 2020, "description": "Un arqueólogo corre contra un rival para encontrar un legendario templo perdido.", "imageUrl": "https://images.unsplash.com/photo-1495544271064-3764df937987?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YWR2ZW50dXJlJTIwanVuZ2xlfGVufDB8fHx8MTc1OTM4ODUzOHww&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "adventure jungle" },
-    { "id": "mov6", "title": "El Bufón", "type": "movie", "genre": "Terror", "year": 2019, "description": "Una marioneta maldita aterroriza a un pequeño pueblo.", "imageUrl": "https://images.unsplash.com/photo-1634190969752-e269a0a9e1c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxob3Jyb3IlMjBtb3ZpZXxlbnwwfHx8fDE3NTkzMzY5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "horror movie" },
-    { "id": "ser1", "title": "El Apartamento", "type": "series", "genre": "Comedia", "year": 2018, "description": "Un grupo de amigos extravagantes navegan por la vida y el amor en la gran ciudad.", "imageUrl": "https://images.unsplash.com/photo-1547139427-b5aa332ebfd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb21lZHklMjBzZXJpZXN8ZW58MHx8fHwxNzU5MzQzMDk0fDA&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "comedy series" },
-    { "id": "ser2", "title": "Trono de Dragones", "type": "series", "genre": "Fantasía", "year": 2015, "description": "Casas nobles compiten por el control de un reino mítico.", "imageUrl": "https://images.unsplash.com/photo-1684940428813-53bd87bb7010?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZmFudGFzeSUyMHNlcmllc3xlbnwwfHx8fDE3NTkzODg1Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "fantasy series" },
-    { "id": "ser3", "title": "Hospital General de la Ciudad", "type": "series", "genre": "Drama", "year": 2022, "description": "Las intensas vidas de los médicos y enfermeras en un ajetreado hospital urbano.", "imageUrl": "https://images.unsplash.com/photo-1658370455070-d75669b43500?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWVkaWNhbCUyMGRyYW1hfGVufDB8fHx8MTc1OTM4ODUzOHww&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "medical drama" },
-    { "id": "ser4", "title": "Demonio del Polvo", "type": "series", "genre": "Western", "year": 2021, "description": "Un misterioso extraño lleva la justicia a un pueblo fronterizo sin ley.", "imageUrl": "https://images.unsplash.com/photo-1723750599416-4f72e7bd1a63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2VzdGVybiUyMHNlcmllc3xlbnwwfHx8fDE3NTkzODg1Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "western series" },
-    { "id": "ser5", "title": "Sueños de Androide", "type": "series", "genre": "Ciencia Ficción", "year": 2023, "description": "En el futuro, los androides luchan por sus derechos.", "imageUrl": "https://images.unsplash.com/photo-1656381620321-bddff61435c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzY2ktZmklMjBzZXJpZXN8ZW58MHx8fHwxNzU5MzEzODc2fDA&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "sci-fi series" },
-    { "id": "ser6", "title": "Mundo Loco", "type": "series", "genre": "Animación", "year": 2019, "description": "Las divertidas aventuras de un animal parlante y su amigo humano.", "imageUrl": "https://images.unsplash.com/photo-1753301066699-a2ef4bd08f51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjYXJ0b29uJTIwYW5pbWF0aW9ufGVufDB8fHx8MTc1OTMwNjQ2OXww&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "cartoon animation" },
-    { "id": "mus1", "title": "Odisea Digital", "artist": "DJ Electrón", "type": "music", "genre": "Electrónica", "year": 2023, "description": "Un álbum de ritmos pulsantes y paisajes sonoros etéreos.", "imageUrl": "https://images.unsplash.com/photo-1599423424751-54e0c1187a02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxlbGVjdHJvbmljJTIwbXVzaWN8ZW58MHx8fHwxNzU5MzQyNzk5fDA&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "electronic music" },
-    { "id": "mus2", "title": "Canciones junto al Fuego", "artist": "Los Errantes", "type": "music", "genre": "Folk", "year": 2021, "description": "Melodías acústicas sinceras, perfectas para una velada tranquila.", "imageUrl": "https://images.unsplash.com/photo-1598901704027-18db7e0e8c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhY291c3RpYyUyMGZvbGt8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "acoustic folk" },
-    { "id": "mus3", "title": "Flujo Urbano", "artist": "MC Flow", "type": "music", "genre": "Hip-Hop", "year": 2024, "description": "Genialidad lírica sobre ritmos clásicos de boom-bap.", "imageUrl": "https://images.unsplash.com/photo-1612321039932-c220da5938c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxoaXAtaG9wJTIwbXVzaWN8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "hip-hop music" },
-    { "id": "mus4", "title": "Ecos de Estadio", "artist": "Floración Estática", "type": "music", "genre": "Rock", "year": 2022, "description": "Canciones de rock de himno creadas para el gran escenario.", "imageUrl": "https://images.unsplash.com/photo-1604177052603-c2b4cff228db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyb2NrJTIwY29uY2VydHxlbnwwfHx8fDE3NTkzNjAyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "rock concert" },
-    { "id": "mus5", "title": "Las Cuatro Estaciones Reimaginadas", "artist": "Los Virtuosos Modernos", "type": "music", "genre": "Clásica", "year": 2020, "description": "Una versión moderna de las obras maestras clásicas.", "imageUrl": "https://images.unsplash.com/photo-1587834423414-9545adae44ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjbGFzc2ljYWwlMjBvcmNoZXN0cmF8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "classical orchestra" },
-    { "id": "mus6", "title": "Azul Medianoche", "artist": "The Blue Notes", "type": "music", "genre": "Jazz", "year": 2019, "description": "Jazz suave para noches tardías y días lluviosos.", "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxqYXp6JTIwbXVzaWN8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080", "imageHint": "jazz music" }
+    {
+      "id": "mov7",
+      "title": "Big Buck Bunny",
+      "type": "movie",
+      "genre": "Animación",
+      "year": 2008,
+      "description": "Un conejito grande y amigable se enfrenta a tres roedores acosadores.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/1024px-Big_buck_bunny_poster_big.jpg",
+      "imageHint": "animation cartoon",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "mov8",
+      "title": "Elephants Dream",
+      "type": "movie",
+      "genre": "Animación",
+      "year": 2006,
+      "description": "Dos personas exploran un mundo surrealista y cambiante.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ElephantsDreamPoster.jpg/960px-ElephantsDreamPoster.jpg",
+      "imageHint": "animation surreal",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "id": "mov1",
+      "title": "Sintel",
+      "type": "movie",
+      "genre": "Acción",
+      "year": 2023,
+      "description": "Sintel es un cortometraje neerlandés estrenado el 27 de septiembre de 2010 en el Netherlands Film Festival. Del género de aventura y fantasía, fue dirigido por Colin Levy y es el tercer cortometraje producido por la Fundación Blender. Sintel fue protagonizado por Halina Reijn, quien da su voz a Sintel y por Thom Hoffman quien da la suya al chamán. El corto narra la historia de Sintel, una huérfana que recorre el mundo buscando a su dragón Scales, el cual fue raptado por un gran dragón de tamaño mayor.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sintel_poster.jpg/250px-Sintel_poster.jpg",
+      "imageHint": "action movie",
+      "url": "https://download.blender.org/durian/movies/sintel_4k.mov"
+    },
+    {
+      "id": "mov2",
+      "title": "Tears of Steel",
+      "type": "movie",
+      "genre": "Ciencia Ficción",
+      "year": 2022,
+      "description": "La tripulación de la nave estelar Errante descubre un secreto que podría cambiar el universo.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/250px-Tos-poster.png",
+      "imageHint": "sci-fi",
+      "url": "https://archive.org/details/Tears-of-Steel"
+    },
+    {
+      "id": "mov3",
+      "title": "Decay",
+      "type": "movie",
+      "genre": "Terror",
+      "year": 2021,
+      "description": "Decay is a 2012 British independent horror film written and directed by Luke Thompson (of the University of Manchester), set at the Large Hadron Collider in Switzerland. The movie was created on a budget of $3,225 and was filmed over a period of two years by Thompson and his fellow physicists. The film was released online for free under the Creative Commons CC BY-NC license, shareable and remixable. Decay was premiered on 29 November 2012 and centres on the idea of the Large Hadron Collider transforming scientists into zombies.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1a/Decay_2012_Movie_Poster.jpg",
+      "imageHint": "horror",
+      "url": "https://archive.org/details/Decay2012-TheLhcZombieFilmfullFilm"
+    },
+    {
+      "id": "mov4",
+      "title": "Cosmos Laundromat",
+      "type": "movie",
+      "genre": "Fantasía",
+      "year": 2024,
+      "description": "The film focuses around a depressed and suicidal sheep named Franck who is offered ´all the lives he ever wanted´ by a mysterious salesman named Victor.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CosmosLaundromatPoster.jpg/250px-CosmosLaundromatPoster.jpg",
+      "imageHint": "fantasy",
+      "url": "https://archive.org/details/CosmosLaundromatFirstCycle"
+    },
+    {
+      "id": "mov5",
+      "title": "Spring",
+      "type": "movie",
+      "genre": "Fantasía",
+      "year": 2020,
+      "description": "The film is about a young shepherd and her dog confronting ancient spirits in order to bring about the change of seasons.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Spring2019PillarPosterBlender.jpg/250px-Spring2019PillarPosterBlender.jpg",
+      "imageHint": "fantasy",
+      "url": "https://www.youtube.com/watch?v=WhWc3b3KhnY"
+    },
+    {
+      "id": "mov6",
+      "title": "Harry Potter y El Caliz de Fuego 4",
+      "type": "movie",
+      "genre": "Fantasía",
+      "year": 2019,
+      "description": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg",
+      "imageHint": "movie",
+      "url": "/public/files/pelis/HarryPotter_4_y_el_caliz_de_fuego.mp4"
+    },
+    {
+      "id": "ser1",
+      "title": "El Apartamento",
+      "type": "series",
+      "genre": "Comedia",
+      "year": 2018,
+      "description": "Un grupo de amigos extravagantes navegan por la vida y el amor en la gran ciudad.",
+      "imageUrl": "https://images.unsplash.com/photo-1547139427-b5aa332ebfd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb21lZHklMjBzZXJpZXN8ZW58MHx8fHwxNzU5MzQzMDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "comedy series"
+    },
+    {
+      "id": "ser2",
+      "title": "Trono de Dragones",
+      "type": "series",
+      "genre": "Fantasía",
+      "year": 2015,
+      "description": "Casas nobles compiten por el control de un reino mítico.",
+      "imageUrl": "https://images.unsplash.com/photo-1684940428813-53bd87bb7010?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZmFudGFzeSUyMHNlcmllc3xlbnwwfHx8fDE3NTkzODg1Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fantasy series"
+    },
+    {
+      "id": "ser3",
+      "title": "Hospital General de la Ciudad",
+      "type": "series",
+      "genre": "Drama",
+      "year": 2022,
+      "description": "Las intensas vidas de los médicos y enfermeras en un ajetreado hospital urbano.",
+      "imageUrl": "https://images.unsplash.com/photo-1658370455070-d75669b43500?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWVkaWNhbCUyMGRyYW1hfGVufDB8fHx8MTc1OTM4ODUzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "medical drama"
+    },
+    {
+      "id": "ser4",
+      "title": "Demonio del Polvo",
+      "type": "series",
+      "genre": "Western",
+      "year": 2021,
+      "description": "Un misterioso extraño lleva la justicia a un pueblo fronterizo sin ley.",
+      "imageUrl": "https://images.unsplash.com/photo-1723750599416-4f72e7bd1a63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2VzdGVybiUyMHNlcmllc3xlbnwwfHx8fDE3NTkzODg1Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "western series"
+    },
+    {
+      "id": "ser5",
+      "title": "Sueños de Androide",
+      "type": "series",
+      "genre": "Ciencia Ficción",
+      "year": 2023,
+      "description": "En el futuro, los androides luchan por sus derechos.",
+      "imageUrl": "https://images.unsplash.com/photo-1656381620321-bddff61435c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzY2ktZmklMjBzZXJpZXN8ZW58MHx8fHwxNzU5MzEzODc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sci-fi series"
+    },
+    {
+      "id": "ser6",
+      "title": "Mundo Loco",
+      "type": "series",
+      "genre": "Animación",
+      "year": 2019,
+      "description": "Las divertidas aventuras de un animal parlante y su amigo humano.",
+      "imageUrl": "https://images.unsplash.com/photo-1753301066699-a2ef4bd08f51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjYXJ0b29uJTIwYW5pbWF0aW9ufGVufDB8fHx8MTc1OTMwNjQ2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cartoon animation"
+    },
+    {
+      "id": "mus1",
+      "title": "Odisea Digital",
+      "artist": "DJ Electrón",
+      "type": "music",
+      "genre": "Electrónica",
+      "year": 2023,
+      "description": "Un álbum de ritmos pulsantes y paisajes sonoros etéreos.",
+      "imageUrl": "https://images.unsplash.com/photo-1599423424751-54e0c1187a02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxlbGVjdHJvbmljJTIwbXVzaWN8ZW58MHx8fHwxNzU5MzQyNzk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electronic music"
+    },
+    {
+      "id": "mus2",
+      "title": "Canciones junto al Fuego",
+      "artist": "Los Errantes",
+      "type": "music",
+      "genre": "Folk",
+      "year": 2021,
+      "description": "Melodías acústicas sinceras, perfectas para una velada tranquila.",
+      "imageUrl": "https://images.unsplash.com/photo-1598901704027-18db7e0e8c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhY291c3RpYyUyMGZvbGt8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "acoustic folk"
+    },
+    {
+      "id": "mus3",
+      "title": "Flujo Urbano",
+      "artist": "MC Flow",
+      "type": "music",
+      "genre": "Hip-Hop",
+      "year": 2024,
+      "description": "Genialidad lírica sobre ritmos clásicos de boom-bap.",
+      "imageUrl": "https://images.unsplash.com/photo-1612321039932-c220da5938c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxoaXAtaG9wJTIwbXVzaWN8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hip-hop music"
+    },
+    {
+      "id": "mus4",
+      "title": "Ecos de Estadio",
+      "artist": "Floración Estática",
+      "type": "music",
+      "genre": "Rock",
+      "year": 2022,
+      "description": "Canciones de rock de himno creadas para el gran escenario.",
+      "imageUrl": "https://images.unsplash.com/photo-1604177052603-c2b4cff228db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyb2NrJTIwY29uY2VydHxlbnwwfHx8fDE3NTkzNjAyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rock concert"
+    },
+    {
+      "id": "mus5",
+      "title": "Las Cuatro Estaciones Reimaginadas",
+      "artist": "Los Virtuosos Modernos",
+      "type": "music",
+      "genre": "Clásica",
+      "year": 2020,
+      "description": "Una versión moderna de las obras maestras clásicas.",
+      "imageUrl": "https://images.unsplash.com/photo-1587834423414-9545adae44ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjbGFzc2ljYWwlMjBvcmNoZXN0cmF8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "classical orchestra"
+    },
+    {
+      "id": "mus6",
+      "title": "Azul Medianoche",
+      "artist": "The Blue Notes",
+      "type": "music",
+      "genre": "Jazz",
+      "year": 2019,
+      "description": "Jazz suave para noches tardías y días lluviosos.",
+      "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxqYXp6JTIwbXVzaWN8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "jazz music"
+    }
   ]
 }
