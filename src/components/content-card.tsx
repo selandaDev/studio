@@ -21,7 +21,7 @@ export function ContentCard({ content }: { content: Content }) {
               data-ai-hint={placeholder?.imageHint || 'media poster'}
               sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, (max-width: 1024px) 25vw, (max-width: 1280px) 20vw, 16vw"
             />
-            <div className="absolute inset-0 bg-black/50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+            <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
               <PlayCircle className="text-white h-16 w-16" />
             </div>
           </div>
