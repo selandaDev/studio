@@ -19,7 +19,7 @@ import {
 } from '@/components/ui/dropdown-menu';
 import { Logo } from '@/components/logo';
 import { cn } from '@/lib/utils';
-import { Sheet, SheetContent, SheetTrigger } from './ui/sheet';
+import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from './ui/sheet';
 
 
 function MobileSidebar() {
@@ -55,11 +55,15 @@ function MobileSidebar() {
             </Button>
           </SheetTrigger>
           <SheetContent side="left" className="flex flex-col">
+            <SheetHeader>
+                <SheetTitle className="text-left">
+                    <Link href="#" className="flex items-center gap-2 text-lg font-semibold mb-4">
+                        <Logo />
+                        <span className="">Doby</span>
+                    </Link>
+                </SheetTitle>
+            </SheetHeader>
              <nav className="grid gap-2 text-lg font-medium">
-                <Link href="#" className="flex items-center gap-2 text-lg font-semibold mb-4">
-                    <Logo />
-                    <span className="">Doby</span>
-                </Link>
                 <NavLink href="/" icon={Home}>Inicio</NavLink>
                 <NavLink href="/movies" icon={Film}>Películas</NavLink>
                 <NavLink href="/series" icon={Tv}>Series</NavLink>
