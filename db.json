@@ -89,6 +89,17 @@
       "url": "/files/pelis/HarryPotter3.mkv"
     },
     {
+      "id": "mov7",
+      "title": "Harry Potter y Las Reliquias de la Muerte parte 2 8",
+      "type": "movie",
+      "genre": "Fantasía",
+      "year": 2011,
+      "description": "La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
+      "imageHint": "movie",
+      "url": "/files/pelis/HarryPotter8.mp4"
+    },
+    {
       "id": "ser1",
       "title": "El Apartamento",
       "type": "series",
