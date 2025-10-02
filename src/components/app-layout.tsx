@@ -1,12 +1,12 @@
 
+
 "use client";
 
 import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
 import * as React from 'react';
-import { Film, Home, ListMusic, Tv, PlusSquare, Search, Menu, X } from 'lucide-react';
+import { Film, Home, ListMusic, Tv, PlusSquare, Search, Menu } from 'lucide-react';
 import {
-  SidebarProvider,
   Sidebar,
   SidebarHeader,
   SidebarContent,
@@ -14,8 +14,6 @@ import {
   SidebarMenuItem,
   SidebarMenuButton,
   SidebarFooter,
-  SidebarInset,
-  SidebarTrigger,
 } from '@/components/ui/sidebar';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -40,7 +38,7 @@ const NavItem = ({ href, icon: Icon, children }: { href: string; icon: React.Ele
       <Link href={href} passHref>
         <SidebarMenuButton asChild isActive={isActive} tooltip={children}>
           <>
-            <Icon />
+            <Icon className="fill-current" />
             <span>{children}</span>
           </>
         </SidebarMenuButton>
@@ -90,7 +88,7 @@ function MobileSidebar() {
                 isActive && "bg-muted text-primary"
               )}
             >
-              <Icon className="h-4 w-4" />
+              <Icon className="h-4 w-4 fill-current" />
               {children}
             </Link>
         )
@@ -175,12 +173,12 @@ function Header() {
 
 export function AppLayout({ children }: { children: React.ReactNode }) {
   return (
-    <div className="flex min-h-screen w-full flex-col bg-muted/40">
-        <div className='md:flex'>
-            <div className='hidden md:block border-r'>
+    <div className="min-h-screen w-full bg-muted/40">
+        <div className='flex'>
+            <div className='hidden md:block border-r sticky top-0 h-screen'>
                 <MainSidebar />
             </div>
-            <div className="flex flex-col flex-1">
+            <div className="flex flex-col flex-1 w-full">
                 <Header />
                 <main className="flex flex-1 flex-col gap-4 p-4 lg:gap-6 lg:p-6 bg-background">
                     {children}

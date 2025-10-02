@@ -1,4 +1,5 @@
 
+
 "use client";
 import { getContent } from "@/lib/data";
 import Image from "next/image";
@@ -75,7 +76,7 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
 
     if(contentUrl.match(/\.(mp3|wav|ogg|aac)$/i)) {
       return (
-        <div className="aspect-video bg-black flex flex-col items-center justify-center p-4">
+        <div className="bg-black flex flex-col items-center justify-center p-4 h-48">
           <audio controls src={contentUrl} className="w-full">
             Your browser does not support the audio element.
           </audio>
