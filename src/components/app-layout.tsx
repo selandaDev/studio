@@ -6,15 +6,7 @@ import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
 import * as React from 'react';
 import { Film, Home, ListMusic, Tv, PlusSquare, Search, Menu } from 'lucide-react';
-import {
-  Sidebar,
-  SidebarHeader,
-  SidebarContent,
-  SidebarMenu,
-  SidebarMenuItem,
-  SidebarMenuButton,
-  SidebarFooter,
-} from '@/components/ui/sidebar';
+
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
@@ -30,45 +22,6 @@ import { Logo } from '@/components/logo';
 import { cn } from '@/lib/utils';
 import { Sheet, SheetContent, SheetTrigger } from './ui/sheet';
 
-const NavItem = ({ href, icon: Icon, children }: { href: string; icon: React.ElementType; children: React.ReactNode }) => {
-  const pathname = usePathname();
-  const isActive = pathname === href;
-  return (
-    <SidebarMenuItem>
-      <Link href={href} passHref>
-        <SidebarMenuButton asChild isActive={isActive} tooltip={children}>
-          <>
-            <Icon />
-            <span className='whitespace-nowrap'>{children}</span>
-          </>
-        </SidebarMenuButton>
-      </Link>
-    </SidebarMenuItem>
-  );
-};
-
-function MainSidebar() {
-    return (
-        <Sidebar collapsible="icon">
-          <SidebarHeader>
-            <Logo />
-          </SidebarHeader>
-          <SidebarContent>
-            <SidebarMenu>
-              <NavItem href="/" icon={Home}>Inicio</NavItem>
-              <NavItem href="/movies" icon={Film}>Películas</NavItem>
-              <NavItem href="/series" icon={Tv}>Series</NavItem>
-              <NavItem href="/music" icon={ListMusic}>Música</NavItem>
-            </SidebarMenu>
-          </SidebarContent>
-          <SidebarFooter>
-             <SidebarMenu>
-                <NavItem href="/add-content" icon={PlusSquare}>Añadir Contenido</NavItem>
-             </SidebarMenu>
-          </SidebarFooter>
-        </Sidebar>
-    )
-}
 
 function MobileSidebar() {
     const [isOpen, setIsOpen] = React.useState(false);
@@ -97,7 +50,7 @@ function MobileSidebar() {
     return (
         <Sheet open={isOpen} onOpenChange={setIsOpen}>
           <SheetTrigger asChild>
-            <Button variant="outline" size="icon" className="shrink-0 md:hidden">
+            <Button variant="outline" size="icon" className="shrink-0">
               <Menu className="h-5 w-5" />
               <span className="sr-only">Alternar menú de navegación</span>
             </Button>
@@ -174,16 +127,11 @@ function Header() {
 export function AppLayout({ children }: { children: React.ReactNode }) {
   return (
     <div className="min-h-screen w-full bg-muted/40">
-        <div className='flex'>
-            <div className='hidden md:block border-r sticky top-0 h-screen'>
-                <MainSidebar />
-            </div>
-            <div className="flex flex-col flex-1 w-full">
-                <Header />
-                <main className="flex flex-1 flex-col gap-4 p-4 lg:gap-6 lg:p-6 bg-background">
-                    {children}
-                </main>
-            </div>
+        <div className="flex flex-col flex-1 w-full">
+            <Header />
+            <main className="flex flex-1 flex-col gap-4 p-4 lg:gap-6 lg:p-6 bg-background">
+                {children}
+            </main>
         </div>
     </div>
   );
