@@ -38,7 +38,7 @@ const NavItem = ({ href, icon: Icon, children }: { href: string; icon: React.Ele
       <Link href={href} passHref>
         <SidebarMenuButton asChild isActive={isActive} tooltip={children}>
           <>
-            <Icon className="fill-current" />
+            <Icon />
             <span>{children}</span>
           </>
         </SidebarMenuButton>
@@ -88,7 +88,7 @@ function MobileSidebar() {
                 isActive && "bg-muted text-primary"
               )}
             >
-              <Icon className="h-4 w-4 fill-current" />
+              <Icon className="h-4 w-4" />
               {children}
             </Link>
         )
