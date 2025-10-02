@@ -11,46 +11,46 @@ export default function AddContentPage() {
     <div className="container mx-auto py-8 px-4 md:px-6 lg:px-8">
       <Card className="max-w-2xl mx-auto">
         <CardHeader>
-          <CardTitle>Add New Content</CardTitle>
-          <CardDescription>Fill out the form to add a new movie, series, or music album to your library.</CardDescription>
+          <CardTitle>Añadir Nuevo Contenido</CardTitle>
+          <CardDescription>Completa el formulario para añadir una nueva película, serie o álbum de música a tu biblioteca.</CardDescription>
         </CardHeader>
         <CardContent className="grid gap-6">
             <div className="grid gap-3">
-                <Label htmlFor="type">Content Type</Label>
+                <Label htmlFor="type">Tipo de Contenido</Label>
                 <Select>
-                    <SelectTrigger id="type" aria-label="Select content type">
-                        <SelectValue placeholder="Select content type" />
+                    <SelectTrigger id="type" aria-label="Seleccionar tipo de contenido">
+                        <SelectValue placeholder="Seleccionar tipo de contenido" />
                     </SelectTrigger>
                     <SelectContent>
-                        <SelectItem value="movie">Movie</SelectItem>
-                        <SelectItem value="series">TV Series</SelectItem>
-                        <SelectItem value="music">Music Album</SelectItem>
+                        <SelectItem value="movie">Película</SelectItem>
+                        <SelectItem value="series">Serie de TV</SelectItem>
+                        <SelectItem value="music">Álbum de Música</SelectItem>
                     </SelectContent>
                 </Select>
             </div>
             <div className="grid gap-3">
-                <Label htmlFor="title">Title</Label>
-                <Input id="title" type="text" placeholder="e.g., The Grand Adventure" />
+                <Label htmlFor="title">Título</Label>
+                <Input id="title" type="text" placeholder="ej., La Gran Aventura" />
             </div>
             <div className="grid gap-3">
-                <Label htmlFor="description">Description</Label>
-                <Textarea id="description" placeholder="A brief summary of the content." />
+                <Label htmlFor="description">Descripción</Label>
+                <Textarea id="description" placeholder="Un breve resumen del contenido." />
             </div>
             <div className="grid grid-cols-2 gap-4">
                  <div className="grid gap-3">
-                    <Label htmlFor="genre">Genre</Label>
-                    <Input id="genre" type="text" placeholder="e.g., Sci-Fi" />
+                    <Label htmlFor="genre">Género</Label>
+                    <Input id="genre" type="text" placeholder="ej., Ciencia Ficción" />
                 </div>
                 <div className="grid gap-3">
-                    <Label htmlFor="year">Release Year</Label>
-                    <Input id="year" type="number" placeholder="e.g., 2024" />
+                    <Label htmlFor="year">Año de Lanzamiento</Label>
+                    <Input id="year" type="number" placeholder="ej., 2024" />
                 </div>
             </div>
             <div className="grid gap-3">
-                <Label htmlFor="path">File Path or Folder</Label>
-                <Input id="path" type="text" placeholder="/path/to/your/media/file_or_folder" />
+                <Label htmlFor="path">Ruta del Archivo o Carpeta</Label>
+                <Input id="path" type="text" placeholder="/ruta/a/tu/archivo/multimedia" />
                 <p className="text-sm text-muted-foreground">
-                    This is a simulation. In a real app, you would browse for a file.
+                    Esto es una simulación. En una aplicación real, buscarías un archivo.
                 </p>
             </div>
             <div className="relative">
@@ -59,20 +59,20 @@ export default function AddContentPage() {
               </div>
               <div className="relative flex justify-center text-xs uppercase">
                 <span className="bg-background px-2 text-muted-foreground">
-                  Or
+                  O
                 </span>
               </div>
             </div>
             <div className="grid gap-3">
-                <Label htmlFor="url">Content URL (Optional)</Label>
+                <Label htmlFor="url">URL del Contenido (Opcional)</Label>
                 <Input id="url" type="url" placeholder="https://www.youtube.com/watch?v=..." />
                  <p className="text-sm text-muted-foreground">
-                    e.g., YouTube, Vimeo, or a direct file link (.mp4, .mp3).
+                    ej., YouTube, Vimeo, o un enlace directo a un archivo (.mp4, .mp3).
                 </p>
             </div>
         </CardContent>
         <CardFooter>
-            <Button className="ml-auto">Add to Library</Button>
+            <Button className="ml-auto">Añadir a la Biblioteca</Button>
         </CardFooter>
       </Card>
     </div>

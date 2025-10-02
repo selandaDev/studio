@@ -39,7 +39,7 @@ const NavItem = ({ href, icon: Icon, children }: { href: string; icon: React.Ele
         <SidebarMenuButton asChild isActive={isActive} tooltip={children}>
           <>
             <Icon />
-            <span>{children}</span>
+            <span className='whitespace-nowrap'>{children}</span>
           </>
         </SidebarMenuButton>
       </Link>
@@ -55,15 +55,15 @@ function MainSidebar() {
           </SidebarHeader>
           <SidebarContent>
             <SidebarMenu>
-              <NavItem href="/" icon={Home}>Home</NavItem>
-              <NavItem href="/movies" icon={Film}>Movies</NavItem>
+              <NavItem href="/" icon={Home}>Inicio</NavItem>
+              <NavItem href="/movies" icon={Film}>Películas</NavItem>
               <NavItem href="/series" icon={Tv}>Series</NavItem>
-              <NavItem href="/music" icon={ListMusic}>Music</NavItem>
+              <NavItem href="/music" icon={ListMusic}>Música</NavItem>
             </SidebarMenu>
           </SidebarContent>
           <SidebarFooter>
              <SidebarMenu>
-                <NavItem href="/add-content" icon={PlusSquare}>Add Content</NavItem>
+                <NavItem href="/add-content" icon={PlusSquare}>Añadir Contenido</NavItem>
              </SidebarMenu>
           </SidebarFooter>
         </Sidebar>
@@ -99,7 +99,7 @@ function MobileSidebar() {
           <SheetTrigger asChild>
             <Button variant="outline" size="icon" className="shrink-0 md:hidden">
               <Menu className="h-5 w-5" />
-              <span className="sr-only">Toggle navigation menu</span>
+              <span className="sr-only">Alternar menú de navegación</span>
             </Button>
           </SheetTrigger>
           <SheetContent side="left" className="flex flex-col">
@@ -108,11 +108,11 @@ function MobileSidebar() {
                     <Logo />
                     <span className="sr-only">Doby</span>
                 </Link>
-                <NavLink href="/" icon={Home}>Home</NavLink>
-                <NavLink href="/movies" icon={Film}>Movies</NavLink>
+                <NavLink href="/" icon={Home}>Inicio</NavLink>
+                <NavLink href="/movies" icon={Film}>Películas</NavLink>
                 <NavLink href="/series" icon={Tv}>Series</NavLink>
-                <NavLink href="/music" icon={ListMusic}>Music</NavLink>
-                <NavLink href="/add-content" icon={PlusSquare}>Add Content</NavLink>
+                <NavLink href="/music" icon={ListMusic}>Música</NavLink>
+                <NavLink href="/add-content" icon={PlusSquare}>Añadir Contenido</NavLink>
             </nav>
           </SheetContent>
         </Sheet>
@@ -140,7 +140,7 @@ function Header() {
             <Search className="absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
             <Input
               type="search"
-              placeholder="Search movies, series, music..."
+              placeholder="Buscar películas, series, música..."
               className="w-full appearance-none bg-background pl-8 shadow-none md:w-2/3 lg:w-1/3"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
@@ -155,16 +155,16 @@ function Header() {
               <AvatarImage src="https://picsum.photos/seed/avatar/40/40" />
               <AvatarFallback>U</AvatarFallback>
             </Avatar>
-            <span className="sr-only">Toggle user menu</span>
+            <span className="sr-only">Alternar menú de usuario</span>
           </Button>
         </DropdownMenuTrigger>
         <DropdownMenuContent align="end">
-          <DropdownMenuLabel>My Account</DropdownMenuLabel>
+          <DropdownMenuLabel>Mi Cuenta</DropdownMenuLabel>
           <DropdownMenuSeparator />
-          <DropdownMenuItem>Settings</DropdownMenuItem>
-          <DropdownMenuItem>Support</DropdownMenuItem>
+          <DropdownMenuItem>Configuración</DropdownMenuItem>
+          <DropdownMenuItem>Soporte</DropdownMenuItem>
           <DropdownMenuSeparator />
-          <DropdownMenuItem>Logout</DropdownMenuItem>
+          <DropdownMenuItem>Cerrar Sesión</DropdownMenuItem>
         </DropdownMenuContent>
       </DropdownMenu>
     </header>

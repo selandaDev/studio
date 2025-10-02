@@ -48,13 +48,13 @@ export default function HomePage() {
   
   return (
     <div className="container mx-auto py-8 px-4 md:px-6 lg:px-8 space-y-12">
-      <ContentCarousel title="Recently Added" items={recentlyAdded} />
+      <ContentCarousel title="Añadido Recientemente" items={recentlyAdded} />
       <Separator />
-      <ContentCarousel title="Featured Movies" items={movies} />
+      <ContentCarousel title="Películas Destacadas" items={movies} />
       <Separator />
-      <ContentCarousel title="Popular Series" items={series} />
+      <ContentCarousel title="Series Populares" items={series} />
       <Separator />
-      <ContentCarousel title="New Albums" items={music} />
+      <ContentCarousel title="Nuevos Álbumes" items={music} />
     </div>
   );
 }

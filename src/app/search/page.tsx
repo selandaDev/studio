@@ -23,7 +23,7 @@ export default function SearchPage() {
       {query ? (
         <>
           <h1 className="text-3xl font-bold tracking-tight mb-8">
-            Results for &quot;{query}&quot;
+            Resultados para &quot;{query}&quot;
           </h1>
           {results.length > 0 ? (
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 md:gap-6">
@@ -33,14 +33,14 @@ export default function SearchPage() {
             </div>
           ) : (
             <div className="text-center py-16">
-              <p className="text-lg text-muted-foreground">No results found.</p>
+              <p className="text-lg text-muted-foreground">No se encontraron resultados.</p>
             </div>
           )}
         </>
       ) : (
         <div className="text-center py-16">
-            <h1 className="text-3xl font-bold tracking-tight mb-4">Search your library</h1>
-            <p className="text-lg text-muted-foreground">Enter a term in the search bar above to find movies, series, and music.</p>
+            <h1 className="text-3xl font-bold tracking-tight mb-4">Busca en tu biblioteca</h1>
+            <p className="text-lg text-muted-foreground">Introduce un término en la barra de búsqueda para encontrar películas, series y música.</p>
         </div>
       )}
     </div>

@@ -39,7 +39,7 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
             <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
                 <div className="text-center">
                     <Play className="h-24 w-24 text-primary" />
-                    <p>This is a simulated player.</p>
+                    <p>Este es un reproductor simulado.</p>
                 </div>
             </div>
         )
@@ -53,7 +53,7 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
                 <iframe
                     className="w-full h-full"
                     src={`https://www.youtube.com/embed/${youtubeVideoId}`}
-                    title="YouTube video player"
+                    title="Reproductor de video de YouTube"
                     frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
@@ -68,7 +68,7 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
       return (
         <div className="aspect-video">
           <video controls className="w-full h-full" src={contentUrl}>
-             Your browser does not support the video tag.
+             Tu navegador no soporta la etiqueta de video.
           </video>
         </div>
       )
@@ -78,7 +78,7 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
       return (
         <div className="bg-black flex flex-col items-center justify-center p-4 h-48">
           <audio controls src={contentUrl} className="w-full">
-            Your browser does not support the audio element.
+            Tu navegador no soporta el elemento de audio.
           </audio>
         </div>
       )
@@ -88,7 +88,7 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
     return (
         <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
             <div className="text-center">
-                <p>Unsupported media type or URL.</p>
+                <p>Tipo de medio o URL no soportado.</p>
             </div>
         </div>
     );
@@ -158,7 +158,7 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
           </div>
 
           <Button size="lg" className="w-full">
-            <Heart className="mr-2 h-4 w-4" /> Add to Favorites
+            <Heart className="mr-2 h-4 w-4" /> Añadir a Favoritos
           </Button>
 
           <p className="text-foreground/80 leading-relaxed">
