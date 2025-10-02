@@ -59,7 +59,7 @@ function MobileSidebar() {
                 <SheetTitle className="text-left">
                     <Link href="#" className="flex items-center gap-2 text-lg font-semibold mb-4">
                         <Logo />
-                        <span className="">Doby</span>
+                        {/* <span className="">Doby</span> */}
                     </Link>
                 </SheetTitle>
             </SheetHeader>
