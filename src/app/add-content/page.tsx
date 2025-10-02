@@ -14,6 +14,7 @@ import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "
 import { addContent } from "@/lib/data";
 import { useToast } from "@/hooks/use-toast";
 import { useRouter } from "next/navigation";
+import { useState } from "react";
 
 const FormSchema = z.object({
   type: z.enum(["movie", "series", "music"], { required_error: "Debes seleccionar un tipo." }),
@@ -22,9 +23,8 @@ const FormSchema = z.object({
   genre: z.string().min(1, "El género es obligatorio."),
   year: z.coerce.number().min(1800, "El año debe ser válido.").max(new Date().getFullYear(), "El año no puede ser en el futuro."),
   artist: z.string().optional(),
-  path: z.string().optional(),
   imageUrl: z.string().url("Debe ser una URL de imagen válida.").optional().or(z.literal('')),
-  url: z.string().url("Debe ser una URL válida.").optional().or(z.literal('')),
+  url: z.string().optional(), // Can be a web URL or a blob URL for local files
 });
 
 type FormValues = z.infer<typeof FormSchema>;
@@ -32,6 +32,8 @@ type FormValues = z.infer<typeof FormSchema>;
 export default function AddContentPage() {
   const { toast } = useToast();
   const router = useRouter();
+  const [localFile, setLocalFile] = useState<File | null>(null);
+
   const form = useForm<FormValues>({
     resolver: zodResolver(FormSchema),
     defaultValues: {
@@ -40,15 +42,27 @@ export default function AddContentPage() {
       genre: "",
       year: new Date().getFullYear(),
       artist: "",
-      path: "",
       imageUrl: "",
       url: "",
     },
   });
 
+  const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const file = event.target.files?.[0];
+    if (file) {
+      setLocalFile(file);
+    }
+  };
+
   const onSubmit: SubmitHandler<FormValues> = (data) => {
-    const { path, ...contentData } = data; // 'path' is just for simulation, not added to data
-    const newContent = addContent(contentData);
+    let contentUrl = data.url;
+    if (localFile) {
+        // Create a URL for the local file to be used by the player
+        contentUrl = URL.createObjectURL(localFile);
+    }
+    
+    const newContent = addContent({ ...data, url: contentUrl });
+
     toast({
       title: "¡Éxito!",
       description: `"${newContent.title}" ha sido añadido a tu biblioteca.`,
@@ -78,7 +92,7 @@ export default function AddContentPage() {
                       <FormControl>
                         <SelectTrigger>
                           <SelectValue placeholder="Seleccionar tipo de contenido" />
-                        </SelectTrigger>
+                        </Trigger>
                       </FormControl>
                       <SelectContent>
                         <SelectItem value="movie">Película</SelectItem>
@@ -188,22 +202,15 @@ export default function AddContentPage() {
                 </div>
               </div>
 
-              <FormField
-                  control={form.control}
-                  name="path"
-                  render={({ field }) => (
-                  <FormItem>
-                    <FormLabel>Archivo Local</FormLabel>
-                    <FormControl>
-                      <Input type="file" {...field} />
-                    </FormControl>
-                     <p className="text-sm text-muted-foreground">
-                        Busca un archivo en tu equipo. (Simulado)
-                    </p>
-                    <FormMessage />
-                  </FormItem>
-                )}
-              />
+              <FormItem>
+                <FormLabel>Archivo Local</FormLabel>
+                <FormControl>
+                  <Input type="file" onChange={handleFileChange} />
+                </FormControl>
+                <p className="text-sm text-muted-foreground">
+                  Busca un archivo en tu equipo. (mp4, mp3, etc.)
+                </p>
+              </FormItem>
               
               <FormField
                 control={form.control}
@@ -212,10 +219,10 @@ export default function AddContentPage() {
                   <FormItem>
                     <FormLabel>URL Externa (Opcional)</FormLabel>
                     <FormControl>
-                      <Input type="url" placeholder="https://www.youtube.com/watch?v=..." {...field} />
+                      <Input type="url" placeholder="https://www.youtube.com/watch?v=..." {...field} disabled={!!localFile} />
                     </FormControl>
                     <p className="text-sm text-muted-foreground">
-                        ej., YouTube, Vimeo, o un enlace directo a un archivo (.mp4, .mp3).
+                        ej., YouTube, Vimeo, o un enlace directo a un archivo (.mp4, .mp3). Se ignora si se selecciona un archivo local.
                     </p>
                     <FormMessage />
                   </FormItem>
@@ -231,3 +238,5 @@ export default function AddContentPage() {
     </div>
   );
 }
+
+    

@@ -3,7 +3,7 @@
 "use client";
 import { getContent } from "@/lib/data";
 import Image from "next/image";
-import { notFound } from "next/navigation";
+import { notFound, useSearchParams } from "next/navigation";
 import {
   Play,
   Pause,
@@ -18,6 +18,7 @@ import { Button } from "@/components/ui/button";
 import { Slider } from "@/components/ui/slider";
 import { Card, CardContent } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
+import { useEffect, useState } from "react";
 
 const getYoutubeVideoId = (url: string) => {
   let videoId = null;
@@ -47,6 +48,28 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
         )
     }
     
+    // Handle local file URLs (blob URLs)
+    if (contentUrl.startsWith('blob:')) {
+         // Heuristics to decide if it is audio or video based on common player needs
+         // A more robust solution would store the content type when adding the file.
+        if (contentUrl.includes('audio')) {
+             return (
+                <div className="bg-black flex flex-col items-center justify-center p-8 h-48">
+                <audio controls autoPlay src={contentUrl} className="w-full">
+                    Tu navegador no soporta el elemento de audio.
+                </audio>
+                </div>
+            )
+        }
+        return (
+            <div className="aspect-video bg-black">
+                <video controls autoPlay className="w-full h-full" src={contentUrl}>
+                    Tu navegador no soporta la etiqueta de video.
+                </video>
+            </div>
+        )
+    }
+
     const youtubeVideoId = getYoutubeVideoId(contentUrl);
 
     if (youtubeVideoId) {
@@ -64,7 +87,7 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
         )
     }
 
-    if(contentUrl.match(/\.(mp4|mkv|avi|webm|mov|flv|wmv)$/i)) {
+    if(contentUrl.match(/\.(mp4|mkv|avi|webm|mov|flv|wmv|mpeg)$/i)) {
       return (
         <div className="aspect-video bg-black">
           <video controls autoPlay className="w-full h-full" src={contentUrl}>
@@ -96,12 +119,33 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
 };
 
 export default function PlayerPage({ params }: { params: { id: string } }) {
-  const content = getContent({ id: params.id })[0];
+  const [content, setContent] = useState(getContent({ id: params.id })[0]);
+  const searchParams = useSearchParams();
+
+  useEffect(() => {
+    const localUrl = searchParams.get('localUrl');
+    if (localUrl && content && !content.url?.startsWith('blob:')) {
+      const updatedContent = { ...content, url: localUrl };
+      setContent(updatedContent);
+
+      // This is a temporary "patch" in the client. The data in `allContent` is not updated.
+      // If we navigate away and back, the localUrl will be lost unless we add it again.
+      // A more robust solution involves a proper state management (like Redux, Zustand) or context
+      // to keep the session's generated content state.
+    }
+
+    // Cleanup the object URL when the component is unmounted
+    return () => {
+      if (content?.url?.startsWith('blob:')) {
+        URL.revokeObjectURL(content.url);
+      }
+    };
+  }, [params.id, searchParams]);
 
   if (!content) {
     notFound();
   }
-
+  
   return (
     <div className="container mx-auto p-4 md:p-8">
       <div className="grid md:grid-cols-3 gap-8">
@@ -171,3 +215,5 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
     </div>
   );
 }
+
+    
