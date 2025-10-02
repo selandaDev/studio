@@ -1,9 +1,8 @@
 
-
 "use client";
 
 import Link from 'next/link';
-import { usePathname, useRouter } from 'next/navigation';
+import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import * as React from 'react';
 import { Film, Home, ListMusic, Tv, PlusSquare, Search, Menu } from 'lucide-react';
 
@@ -37,11 +36,11 @@ function MobileSidebar() {
             <Link
               href={href}
               className={cn(
-                "flex items-center gap-3 rounded-lg px-3 py-2 text-muted-foreground transition-all hover:text-primary",
+                "flex items-center gap-4 rounded-lg px-3 py-2 text-muted-foreground transition-all hover:text-primary whitespace-nowrap",
                 isActive && "bg-muted text-primary"
               )}
             >
-              <Icon className="h-4 w-4" />
+              <Icon className="h-5 w-5" />
               {children}
             </Link>
         )
@@ -59,7 +58,7 @@ function MobileSidebar() {
              <nav className="grid gap-2 text-lg font-medium">
                 <Link href="#" className="flex items-center gap-2 text-lg font-semibold mb-4">
                     <Logo />
-                    <span className="sr-only">Doby</span>
+                    <span className="">Doby</span>
                 </Link>
                 <NavLink href="/" icon={Home}>Inicio</NavLink>
                 <NavLink href="/movies" icon={Film}>Películas</NavLink>
@@ -75,14 +74,32 @@ function MobileSidebar() {
 
 function Header() {
   const router = useRouter();
-  const [searchQuery, setSearchQuery] = React.useState('');
+  const searchParams = useSearchParams();
+  const [searchQuery, setSearchQuery] = React.useState(searchParams.get('q') || '');
 
   const handleSearch = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     if (searchQuery.trim()) {
       router.push(`/search?q=${encodeURIComponent(searchQuery.trim())}`);
+    } else {
+      router.push('/search');
     }
   };
+  
+  React.useEffect(() => {
+    const handler = setTimeout(() => {
+      if (searchQuery.trim()) {
+        router.push(`/search?q=${encodeURIComponent(searchQuery.trim())}`);
+      } else if (searchQuery === '' && searchParams.get('q')) {
+         router.push('/search');
+      }
+    }, 300); // 300ms delay
+
+    return () => {
+      clearTimeout(handler);
+    };
+  }, [searchQuery, router, searchParams]);
+
 
   return (
     <header className="flex h-14 items-center gap-4 border-b bg-background/95 backdrop-blur-sm px-4 lg:h-[60px] lg:px-6 sticky top-0 z-30">
@@ -126,7 +143,7 @@ function Header() {
 
 export function AppLayout({ children }: { children: React.ReactNode }) {
   return (
-    <div className="min-h-screen w-full bg-muted/40">
+    <div className="min-h-screen w-full">
         <div className="flex flex-col flex-1 w-full">
             <Header />
             <main className="flex flex-1 flex-col gap-4 p-4 lg:gap-6 lg:p-6 bg-background">

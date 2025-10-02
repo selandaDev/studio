@@ -1,4 +1,6 @@
 
+'use client';
+
 import { PlaceHolderImages } from './placeholder-images';
 
 export type ContentType = 'movie' | 'series' | 'music';
@@ -16,7 +18,7 @@ export interface Content {
   url?: string;
 }
 
-const allContent: Content[] = [
+let allContent: Content[] = [
   { id: 'mov1', title: 'Ciudad Cibernética', type: 'movie', genre: 'Acción', year: 2023, description: 'En un futuro bañado en neón, un operativo solitario debe descubrir una conspiración corporativa.', imageUrl: PlaceHolderImages.find(i => i.id === 'movie-1')?.imageUrl!, imageHint: 'action movie' },
   { id: 'mov2', title: 'El Borde de la Galaxia', type: 'movie', genre: 'Ciencia Ficción', year: 2022, description: 'La tripulación de la nave estelar Errante descubre un secreto que podría cambiar el universo.', imageUrl: PlaceHolderImages.find(i => i.id === 'movie-2')?.imageUrl!, imageHint: 'sci-fi space', url: 'https://youtu.be/fb4wdTpkhBs?si=8Nc1HzpaLD5ycY5A' },
   { id: 'mov3', title: 'La Última Pista', type: 'movie', genre: 'Misterio', year: 2021, description: 'Un detective experimentado a punto de jubilarse se enfrenta a un último y desconcertante caso.', imageUrl: PlaceHolderImages.find(i => i.id === 'movie-3')?.imageUrl!, imageHint: 'mystery thriller' },
@@ -60,4 +62,18 @@ export function getContent(filters: { type?: ContentType; query?: string; id?: s
   }
 
   return content;
+}
+
+
+export function addContent(newContent: Omit<Content, 'id' | 'imageUrl' | 'imageHint'>) {
+    const newId = `${newContent.type}-${Math.random().toString(36).substr(2, 9)}`;
+    const placeholder = PlaceHolderImages[Math.floor(Math.random() * PlaceHolderImages.length)];
+    const content: Content = {
+        ...newContent,
+        id: newId,
+        imageUrl: placeholder.imageUrl,
+        imageHint: placeholder.imageHint,
+    };
+    allContent.unshift(content);
+    return content;
 }

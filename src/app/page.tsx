@@ -1,3 +1,6 @@
+
+"use client";
+
 import { ContentCard } from '@/components/content-card';
 import { getContent, Content } from '@/lib/data';
 import {
@@ -8,6 +11,7 @@ import {
   CarouselPrevious,
 } from '@/components/ui/carousel';
 import { Separator } from '@/components/ui/separator';
+import { useEffect, useState } from 'react';
 
 function ContentCarousel({ title, items }: { title: string; items: Content[] }) {
   return (
@@ -39,12 +43,23 @@ function ContentCarousel({ title, items }: { title: string; items: Content[] }) 
 
 
 export default function HomePage() {
-  const movies = getContent({ type: 'movie' });
-  const series = getContent({ type: 'series' });
-  const music = getContent({ type: 'music' });
+  const [movies, setMovies] = useState<Content[]>([]);
+  const [series, setSeries] = useState<Content[]>([]);
+  const [music, setMusic] = useState<Content[]>([]);
+  const [recentlyAdded, setRecentlyAdded] = useState<Content[]>([]);
 
-  // Get a mix of recently added content
-  const recentlyAdded = [...movies.slice(0, 4), ...series.slice(0, 4), ...music.slice(0, 4)].sort(() => 0.5 - Math.random());
+  useEffect(() => {
+    const allMovies = getContent({ type: 'movie' });
+    const allSeries = getContent({ type: 'series' });
+    const allMusic = getContent({ type: 'music' });
+    
+    setMovies(allMovies);
+    setSeries(allSeries);
+    setMusic(allMusic);
+
+    const recent = [...allMovies.slice(-2), ...allSeries.slice(-2), ...allMusic.slice(-2)].sort((a,b) => (b.year > a.year) ? 1: -1);
+    setRecentlyAdded(recent);
+  }, []);
   
   return (
     <div className="container mx-auto py-8 px-4 md:px-6 lg:px-8 space-y-12">
