@@ -14,7 +14,6 @@ import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "
 import { addContent } from "@/lib/data";
 import { useToast } from "@/hooks/use-toast";
 import { useRouter } from "next/navigation";
-import { useState } from "react";
 
 const FormSchema = z.object({
   type: z.enum(["movie", "series", "music"], { required_error: "Debes seleccionar un tipo." }),
@@ -24,7 +23,7 @@ const FormSchema = z.object({
   year: z.coerce.number().min(1800, "El año debe ser válido.").max(new Date().getFullYear(), "El año no puede ser en el futuro."),
   artist: z.string().optional(),
   imageUrl: z.string().url("Debe ser una URL de imagen válida.").optional().or(z.literal('')),
-  url: z.string().optional(), // Can be a web URL or a blob URL for local files
+  url: z.string().optional(),
 });
 
 type FormValues = z.infer<typeof FormSchema>;
@@ -32,7 +31,6 @@ type FormValues = z.infer<typeof FormSchema>;
 export default function AddContentPage() {
   const { toast } = useToast();
   const router = useRouter();
-  const [localFile, setLocalFile] = useState<File | null>(null);
 
   const form = useForm<FormValues>({
     resolver: zodResolver(FormSchema),
@@ -47,21 +45,9 @@ export default function AddContentPage() {
     },
   });
 
-  const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const file = event.target.files?.[0];
-    if (file) {
-      setLocalFile(file);
-    }
-  };
 
   const onSubmit: SubmitHandler<FormValues> = (data) => {
-    let contentUrl = data.url;
-    if (localFile) {
-        // Create a URL for the local file to be used by the player
-        contentUrl = URL.createObjectURL(localFile);
-    }
-    
-    const newContent = addContent({ ...data, url: contentUrl, imageUrl: data.imageUrl || '' });
+    const newContent = addContent({ ...data, imageUrl: data.imageUrl || '' });
 
     toast({
       title: "¡Éxito!",
@@ -202,27 +188,17 @@ export default function AddContentPage() {
                 </div>
               </div>
 
-              <FormItem>
-                <FormLabel>Archivo Local</FormLabel>
-                <FormControl>
-                  <Input type="file" onChange={handleFileChange} />
-                </FormControl>
-                <p className="text-sm text-muted-foreground">
-                  Busca un archivo en tu equipo. (mp4, mp3, etc.)
-                </p>
-              </FormItem>
-              
               <FormField
                 control={form.control}
                 name="url"
                 render={({ field }) => (
                   <FormItem>
-                    <FormLabel>URL Externa (Opcional)</FormLabel>
+                    <FormLabel>Ruta del Archivo o URL</FormLabel>
                     <FormControl>
-                      <Input type="url" placeholder="https://www.youtube.com/watch?v=..." {...field} disabled={!!localFile} />
+                      <Input type="text" placeholder="/files/pelis/mi-video.mp4" {...field} />
                     </FormControl>
                     <p className="text-sm text-muted-foreground">
-                        ej., YouTube, Vimeo, o un enlace directo a un archivo (.mp4, .mp3). Se ignora si se selecciona un archivo local.
+                        Ruta local (ej. /files/pelis/nombre.mp4) o URL externa (ej. YouTube).
                     </p>
                     <FormMessage />
                   </FormItem>
