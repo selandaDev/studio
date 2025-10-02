@@ -37,19 +37,19 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'https://www.themoviedb.org',
+        hostname: 'themoviedb.org',
         port: '',
         pathname: '/**',
       },
       {
         protocol: 'https',
-        hostname: 'https://media.themoviedb.org',
+        hostname: 'media.themoviedb.org',
         port: '',
         pathname: '/**',
       },
       {
         protocol: 'https',
-        hostname: 'https://pics.filmaffinity.com',
+        hostname: 'pics.filmaffinity.com',
         port: '',
         pathname: '/**',
       },
