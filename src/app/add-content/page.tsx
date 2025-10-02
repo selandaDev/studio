@@ -1,3 +1,4 @@
+
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
@@ -50,6 +51,23 @@ export default function AddContentPage() {
                 <Input id="path" type="text" placeholder="/path/to/your/media/file_or_folder" />
                 <p className="text-sm text-muted-foreground">
                     This is a simulation. In a real app, you would browse for a file.
+                </p>
+            </div>
+            <div className="relative">
+              <div className="absolute inset-0 flex items-center">
+                <span className="w-full border-t" />
+              </div>
+              <div className="relative flex justify-center text-xs uppercase">
+                <span className="bg-background px-2 text-muted-foreground">
+                  Or
+                </span>
+              </div>
+            </div>
+            <div className="grid gap-3">
+                <Label htmlFor="url">Content URL (Optional)</Label>
+                <Input id="url" type="url" placeholder="https://www.youtube.com/watch?v=..." />
+                 <p className="text-sm text-muted-foreground">
+                    e.g., YouTube, Vimeo, or a direct file link (.mp4, .mp3).
                 </p>
             </div>
         </CardContent>

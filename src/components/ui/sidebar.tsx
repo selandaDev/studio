@@ -1,3 +1,4 @@
+
 "use client"
 
 import * as React from "react"
@@ -48,7 +49,7 @@ function Sidebar({
         <aside
           className={cn(
             "group/sidebar relative flex shrink-0 flex-col justify-between overflow-y-auto duration-300 ease-in-out",
-            isCollapsed ? "items-center px-2 py-4" : "px-4 py-4",
+            isCollapsed ? "items-center px-2 py-4" : "w-64 px-4 py-4",
             className
           )}
           {...props}

@@ -1,3 +1,5 @@
+
+"use client";
 import { getContent } from "@/lib/data";
 import Image from "next/image";
 import { notFound } from "next/navigation";
@@ -15,6 +17,82 @@ import { Slider } from "@/components/ui/slider";
 import { Card, CardContent } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 
+const getYoutubeVideoId = (url: string) => {
+  let videoId = null;
+  try {
+    const urlObj = new URL(url);
+    if (urlObj.hostname === 'youtu.be') {
+      videoId = urlObj.pathname.slice(1);
+    } else if (urlObj.hostname === 'www.youtube.com' || urlObj.hostname === 'youtube.com') {
+      videoId = urlObj.searchParams.get('v');
+    }
+    return videoId;
+  } catch(e) {
+    return null;
+  }
+};
+
+const Player = ({contentUrl}: {contentUrl?: string}) => {
+    if(!contentUrl) {
+        return (
+            <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
+                <div className="text-center">
+                    <Play className="h-24 w-24 text-primary" />
+                    <p>This is a simulated player.</p>
+                </div>
+            </div>
+        )
+    }
+    
+    const youtubeVideoId = getYoutubeVideoId(contentUrl);
+
+    if (youtubeVideoId) {
+        return (
+            <div className="aspect-video">
+                <iframe
+                    className="w-full h-full"
+                    src={`https://www.youtube.com/embed/${youtubeVideoId}`}
+                    title="YouTube video player"
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                ></iframe>
+            </div>
+        )
+    }
+
+    // This could be a direct link to a video or audio file.
+    // In a real app you might check the file extension.
+    if(contentUrl.match(/\.(mp4|mkv|avi|mpeg|mov)$/i)) {
+      return (
+        <div className="aspect-video">
+          <video controls className="w-full h-full" src={contentUrl}>
+             Your browser does not support the video tag.
+          </video>
+        </div>
+      )
+    }
+
+    if(contentUrl.match(/\.(mp3|wav|ogg|aac)$/i)) {
+      return (
+        <div className="aspect-video bg-black flex flex-col items-center justify-center p-4">
+          <audio controls src={contentUrl} className="w-full">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      )
+    }
+
+    // Fallback for unsupported URLs or types for now
+    return (
+        <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
+            <div className="text-center">
+                <p>Unsupported media type or URL.</p>
+            </div>
+        </div>
+    );
+};
+
 export default function PlayerPage({ params }: { params: { id: string } }) {
   const content = getContent({ id: params.id })[0];
 
@@ -28,12 +106,7 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
         <div className="md:col-span-2">
           <Card className="overflow-hidden">
             <CardContent className="p-0">
-              <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
-                <div className="text-center">
-                  <Play className="h-24 w-24 text-primary" />
-                  <p>This is a simulated player.</p>
-                </div>
-              </div>
+              <Player contentUrl={content.url} />
             </CardContent>
           </Card>
           <div className="mt-4 p-4 rounded-lg bg-card border">

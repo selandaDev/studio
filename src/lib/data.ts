@@ -1,3 +1,4 @@
+
 import { PlaceHolderImages } from './placeholder-images';
 
 export type ContentType = 'movie' | 'series' | 'music';
@@ -12,11 +13,12 @@ export interface Content {
   imageUrl: string;
   imageHint: string;
   artist?: string;
+  url?: string;
 }
 
 const allContent: Content[] = [
   { id: 'mov1', title: 'Cyber City', type: 'movie', genre: 'Action', year: 2023, description: 'In a neon-soaked future, a lone operative must uncover a corporate conspiracy.', imageUrl: PlaceHolderImages.find(i => i.id === 'movie-1')?.imageUrl!, imageHint: 'action movie' },
-  { id: 'mov2', title: 'Galaxy\'s Edge', type: 'movie', genre: 'Sci-Fi', year: 2022, description: 'The crew of the starship Wanderer discovers a secret that could change the universe.', imageUrl: PlaceHolderImages.find(i => i.id === 'movie-2')?.imageUrl!, imageHint: 'sci-fi space' },
+  { id: 'mov2', title: 'Galaxy\'s Edge', type: 'movie', genre: 'Sci-Fi', year: 2022, description: 'The crew of the starship Wanderer discovers a secret that could change the universe.', imageUrl: PlaceHolderImages.find(i => i.id === 'movie-2')?.imageUrl!, imageHint: 'sci-fi space', url: 'https://youtu.be/fb4wdTpkhBs?si=8Nc1HzpaLD5ycY5A' },
   { id: 'mov3', title: 'The Last Clue', type: 'movie', genre: 'Mystery', year: 2021, description: 'A seasoned detective on the verge of retirement takes on one final, baffling case.', imageUrl: PlaceHolderImages.find(i => i.id === 'movie-3')?.imageUrl!, imageHint: 'mystery thriller' },
   { id: 'mov4', title: 'Summer Love', type: 'movie', genre: 'Romance', year: 2024, description: 'Two people from different worlds find unexpected love during a summer vacation.', imageUrl: PlaceHolderImages.find(i => i.id === 'movie-4')?.imageUrl!, imageHint: 'romance comedy' },
   { id: 'mov5', title: 'Temple of the Sun', type: 'movie', genre: 'Adventure', year: 2020, description: 'An archaeologist races against a rival to find a legendary lost temple.', imageUrl: PlaceHolderImages.find(i => i.id === 'movie-5')?.imageUrl!, imageHint: 'adventure jungle' },
