@@ -80,7 +80,7 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
     if(isVideo && !isAudio) { 
       return (
         <div className="aspect-video bg-black">
-          <video controls autoPlay muted className="w-full h-full" src={contentUrl}>
+          <video controls className="w-full h-full" src={contentUrl}>
              Tu navegador no soporta la etiqueta de video.
           </video>
         </div>
