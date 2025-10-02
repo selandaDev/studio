@@ -14,7 +14,6 @@ import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "
 import { addContent } from "@/lib/data";
 import { useToast } from "@/hooks/use-toast";
 import { useRouter } from "next/navigation";
-import { revalidatePath } from "next/cache";
 
 const FormSchema = z.object({
   type: z.enum(["movie", "series", "music"], { required_error: "Debes seleccionar un tipo." }),
