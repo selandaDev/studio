@@ -92,7 +92,7 @@ export default function AddContentPage() {
                       <FormControl>
                         <SelectTrigger>
                           <SelectValue placeholder="Seleccionar tipo de contenido" />
-                        </Trigger>
+                        </SelectTrigger>
                       </FormControl>
                       <SelectContent>
                         <SelectItem value="movie">Película</SelectItem>
