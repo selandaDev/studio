@@ -1,16 +1,9 @@
 
-"use client";
-
 import { ContentCard } from '@/components/content-card';
 import { getContent, Content } from '@/lib/data';
-import { useState, useEffect } from 'react';
 
-export default function MoviesPage() {
-  const [movies, setMovies] = useState<Content[]>([]);
-
-  useEffect(() => {
-    setMovies(getContent({ type: 'movie' }));
-  }, []);
+export default async function MoviesPage() {
+  const movies = await getContent({ type: 'movie' });
 
   return (
     <div className="container mx-auto py-8 px-4 md:px-6 lg:px-8">

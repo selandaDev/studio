@@ -1,24 +1,31 @@
 
 
 "use client";
-import { getContent } from "@/lib/data";
+import { deleteContent, getContent } from "@/lib/data";
 import Image from "next/image";
-import { notFound } from "next/navigation";
+import { notFound, useRouter } from "next/navigation";
 import {
-  Play,
-  Pause,
-  Rewind,
-  FastForward,
-  Volume2,
-  Maximize,
+  Trash2,
   Heart,
   PlayCircle,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { Slider } from "@/components/ui/slider";
 import { Card, CardContent } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import { useEffect, useState } from "react";
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+  AlertDialogTrigger,
+} from "@/components/ui/alert-dialog"
+import { useToast } from "@/hooks/use-toast";
+
 
 const getYoutubeVideoId = (url: string) => {
   let videoId = null;
@@ -65,11 +72,10 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
         )
     }
     
-    // Handle local files from /public folder or external URLs
     const isVideo = contentUrl.match(/\.(mp4|mkv|avi|webm|mov|flv|wmv|mpeg)$/i) || contentUrl.startsWith('/files/');
     const isAudio = contentUrl.match(/\.(mp3|wav|ogg|aac|flac)$/i);
 
-    if(isVideo && !isAudio) { // Check !isAudio to avoid audio files with video-like extensions if any
+    if(isVideo && !isAudio) { 
       return (
         <div className="aspect-video bg-black">
           <video controls autoPlay className="w-full h-full" src={contentUrl}>
@@ -89,7 +95,6 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
       )
     }
 
-    // Fallback for unsupported URLs or types for now
     return (
         <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
             <div className="text-center">
@@ -101,16 +106,44 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
 };
 
 export default function PlayerPage({ params }: { params: { id: string } }) {
-  const [content, setContent] = useState(() => getContent({ id: params.id })[0]);
+  const [content, setContent] = useState<Awaited<ReturnType<typeof getContent>>[0] | null>(null);
+  const router = useRouter();
+  const { toast } = useToast();
+
 
   useEffect(() => {
-    const freshContent = getContent({ id: params.id })[0];
-    setContent(freshContent);
+    getContent({ id: params.id }).then(result => {
+        if(result.length > 0){
+            setContent(result[0]);
+        } else {
+            notFound();
+        }
+    })
   }, [params.id]);
 
 
+  const handleDelete = async () => {
+    if (content) {
+      const result = await deleteContent(content.id);
+      if (result.success) {
+        toast({
+          title: "Contenido eliminado",
+          description: `"${content.title}" ha sido eliminado de tu biblioteca.`,
+        });
+        router.push('/');
+      } else {
+        toast({
+          variant: "destructive",
+          title: "Error",
+          description: "No se pudo eliminar el contenido.",
+        });
+      }
+    }
+  };
+
+
   if (!content) {
-    notFound();
+    return <div className="container mx-auto p-4 md:p-8">Cargando...</div>;
   }
   
   return (
@@ -122,29 +155,6 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
               <Player contentUrl={content.url} />
             </CardContent>
           </Card>
-           <div className="mt-4 p-4 rounded-lg bg-card border">
-            <p className="text-center text-muted-foreground">Controles de reproducción simulados</p>
-            <div className="flex items-center justify-between">
-              <div className="flex items-center gap-4">
-                <Button variant="ghost" size="icon">
-                  <Rewind />
-                </Button>
-                <Button variant="default" size="icon" className="h-14 w-14">
-                  <Play className="h-8 w-8" />
-                </Button>
-                <Button variant="ghost" size="icon">
-                  <FastForward />
-                </Button>
-              </div>
-              <div className="flex-1 mx-4">
-                <Slider defaultValue={[33]} max={100} step={1} />
-              </div>
-              <div className="flex items-center gap-2">
-                <Volume2 />
-                <Maximize />
-              </div>
-            </div>
-          </div>
         </div>
         <div className="md:col-span-1 space-y-6">
             <div className="relative aspect-[2/3] w-full max-w-sm mx-auto">
@@ -170,9 +180,32 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
             </div>
           </div>
 
-          <Button size="lg" className="w-full">
-            <Heart className="mr-2 h-4 w-4" /> Añadir a Favoritos
-          </Button>
+          <div className="flex gap-2">
+            <Button size="lg" className="w-full">
+              <Heart className="mr-2 h-4 w-4" /> Añadir a Favoritos
+            </Button>
+             <AlertDialog>
+              <AlertDialogTrigger asChild>
+                <Button size="lg" variant="destructive">
+                  <Trash2 className="h-4 w-4" />
+                </Button>
+              </AlertDialogTrigger>
+              <AlertDialogContent>
+                <AlertDialogHeader>
+                  <AlertDialogTitle>¿Estás seguro?</AlertDialogTitle>
+                  <AlertDialogDescription>
+                    Esta acción no se puede deshacer. Esto eliminará permanentemente
+                    "{content.title}" de tu biblioteca.
+                  </AlertDialogDescription>
+                </AlertDialogHeader>
+                <AlertDialogFooter>
+                  <AlertDialogCancel>Cancelar</AlertDialogCancel>
+                  <AlertDialogAction onClick={handleDelete}>Eliminar</AlertDialogAction>
+                </AlertDialogFooter>
+              </AlertDialogContent>
+            </AlertDialog>
+          </div>
+
 
           <p className="text-foreground/80 leading-relaxed">
             {content.description}

@@ -49,16 +49,19 @@ export default function HomePage() {
   const [recentlyAdded, setRecentlyAdded] = useState<Content[]>([]);
 
   useEffect(() => {
-    const allMovies = getContent({ type: 'movie' });
-    const allSeries = getContent({ type: 'series' });
-    const allMusic = getContent({ type: 'music' });
-    
-    setMovies(allMovies);
-    setSeries(allSeries);
-    setMusic(allMusic);
+    const fetchData = async () => {
+      const allMovies = await getContent({ type: 'movie' });
+      const allSeries = await getContent({ type: 'series' });
+      const allMusic = await getContent({ type: 'music' });
+      
+      setMovies(allMovies);
+      setSeries(allSeries);
+      setMusic(allMusic);
 
-    const recent = [...allMovies.slice(-2), ...allSeries.slice(-2), ...allMusic.slice(-2)].sort((a,b) => (b.year > a.year) ? 1: -1);
-    setRecentlyAdded(recent);
+      const allContent = [...allMovies, ...allSeries, ...allMusic].sort((a, b) => b.year - a.year);
+      setRecentlyAdded(allContent.slice(0, 12));
+    }
+    fetchData();
   }, []);
   
   return (

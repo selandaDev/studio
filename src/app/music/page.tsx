@@ -1,16 +1,9 @@
 
-"use client";
-
 import { ContentCard } from '@/components/content-card';
 import { getContent, Content } from '@/lib/data';
-import { useState, useEffect } from 'react';
 
-export default function MusicPage() {
-  const [music, setMusic] = useState<Content[]>([]);
-
-  useEffect(() => {
-    setMusic(getContent({ type: 'music' }));
-  }, []);
+export default async function MusicPage() {
+  const music = await getContent({ type: 'music' });
 
   return (
     <div className="container mx-auto py-8 px-4 md:px-6 lg:px-8">

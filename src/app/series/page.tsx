@@ -1,16 +1,9 @@
 
-"use client";
-
 import { ContentCard } from '@/components/content-card';
 import { getContent, Content } from '@/lib/data';
-import { useState, useEffect } from 'react';
 
-export default function SeriesPage() {
-  const [series, setSeries] = useState<Content[]>([]);
-
-  useEffect(() => {
-    setSeries(getContent({ type: 'series' }));
-  }, []);
+export default async function SeriesPage() {
+  const series = await getContent({ type: 'series' });
 
   return (
     <div className="container mx-auto py-8 px-4 md:px-6 lg:px-8">
