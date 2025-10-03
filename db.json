@@ -205,25 +205,27 @@
     },
     {
       "id": "mus1",
-      "title": "Odisea Digital",
-      "artist": "DJ Electrón",
+      "title": "SFDK 30 aniversario parte 1",
+      "artist": "SFDK",
       "type": "music",
-      "genre": "Electrónica",
-      "year": 2023,
-      "description": "Un álbum de ritmos pulsantes y paisajes sonoros etéreos.",
-      "imageUrl": "https://images.unsplash.com/photo-1599423424751-54e0c1187a02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxlbGVjdHJvbmljJTIwbXVzaWN8ZW58MHx8fHwxNzU5MzQyNzk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "electronic music"
+      "genre": "Hip Hop",
+      "year": 2024,
+      "description": "Concierto por el 30 aniversario del grupo SFDK.",
+      "imageUrl": "https://sfdkoficial.com/wp-content/uploads/2023/12/photo_2023-12-14_20-05-31.jpg",
+      "imageHint": "rap music",
+      "url": "https://youtu.be/fb4wdTpkhBs?si=3BlN5AvDtm575ji4"
     },
     {
       "id": "mus2",
-      "title": "Canciones junto al Fuego",
-      "artist": "Los Errantes",
+      "title": "SFDK 30 aniversario parte 2",
+      "artist": "SFDK",
       "type": "music",
-      "genre": "Folk",
-      "year": 2021,
-      "description": "Melodías acústicas sinceras, perfectas para una velada tranquila.",
-      "imageUrl": "https://images.unsplash.com/photo-1598901704027-18db7e0e8c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhY291c3RpYyUyMGZvbGt8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "acoustic folk"
+      "genre": "Hip Hop",
+      "year": 2024,
+      "description": "Concierto por el 30 aniversario del grupo SFDK.",
+      "imageUrl": "https://sfdkoficial.com/wp-content/uploads/2023/12/photo_2023-12-14_20-05-31.jpg",
+      "imageHint": "rap music",
+      "url": "https://youtu.be/J8RbqFVHemc?si=_-ngYa5RA8SFWNMx"
     },
     {
       "id": "mus3",
