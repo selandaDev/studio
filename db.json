@@ -144,6 +144,17 @@
       "url": "/files/pelis/HarryPotter8.mp4"
     },
     {
+      "id": "mov14",
+      "title": "Deadpool y Lobezno",
+      "type": "movie",
+      "genre": "Comedia",
+      "year": 2011,
+      "description": "Un apático Wade Wilson se afana en la vida civil tras dejar atrás sus días como Deadpool, un mercenario moralmente flexible. Pero cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe volver a vestirse a regañadientes con un Lobezno aún más reacio a ayudar.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
+      "imageHint": "movie",
+      "url": "/files/pelis/Deadpool Y Lobezno.mp4"
+    },
+    {
       "id": "ser1",
       "title": "El Apartamento",
       "type": "series",
