@@ -8,16 +8,60 @@
       "genre": "Documental",
       "year": 2014,
       "description": "Una exploración de nuestro universo y nuestro lugar en él.",
-      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6I2tHzS2OGe4hcV62s3yYJtns2L.jpg",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hpB5jvpDo2imeF5BFfdmEmXdu7I.jpg",
       "imageHint": "space documentary",
       "episodes": [
         {
-          "title": "Episodio 1: Standing Up in the Milky Way",
-          "url": "https://www.youtube.com/watch?v=k9eypcj6e0M"
+          "title": "Episodio 1: En medio de la Vía Láctea",
+          "url": "/files/series/cosmos/1x01.mp4"
         },
         {
-          "title": "Episodio 2: Some of the Things That Molecules Do",
-          "url": "https://www.youtube.com/watch?v=1s-c8Bxlhpo"
+          "title": "Episodio 2: Los rios de la vida",
+          "url": "/files/series/cosmos/1x02.mp4"
+        },
+        {
+          "title": "Episodio 3: Cuando el conocimiento conquistó el miedo",
+          "url": "/files/series/cosmos/1x03.mp4"
+        },
+        {
+          "title": "Episodio 4: Un cielo repleto de fantasmas",
+          "url": "/files/series/cosmos/1x04.mp4"
+        },
+        {
+          "title": "Episodio 5: Oculto a plena luz",
+          "url": "/files/series/cosmos/1x05.mp4"
+        },
+        {
+          "title": "Episodio 6: Lejos, aún más lejos",
+          "url": "/files/series/cosmos/1x06.mp4"
+        },
+        {
+          "title": "Episodio 7: La habitación limpia",
+          "url": "/files/series/cosmos/1x07.mp4"
+        },
+        {
+          "title": "Episodio 8: Hermanas del sol",
+          "url": "/files/series/cosmos/1x08.mp4"
+        },
+        {
+          "title": "Episodio 9: Los mundos perdidos de la tierra",
+          "url": "/files/series/cosmos/1x09.mp4"
+        },
+        {
+          "title": "Episodio 10: El niño eléctrico",
+          "url": "/files/series/cosmos/1x10.mp4"
+        },
+        {
+          "title": "Episodio 11: Los inmortales",
+          "url": "/files/series/cosmos/1x11.mp4"
+        },
+        {
+          "title": "Episodio 12: El mundo liberado",
+          "url": "/files/series/cosmos/1x12.mp4"
+        },
+        {
+          "title": "Episodio 13: Sin miedo a la oscuridad",
+          "url": "/files/series/cosmos/1x13.mp4"
         }
       ]
     },
@@ -47,6 +91,72 @@
       ]
     },
     {
+      "id": "mov1",
+      "title": "Sintel",
+      "type": "movie",
+      "genre": "Acción",
+      "year": 2010,
+      "description": "Sintel es un cortometraje neerlandés estrenado el 27 de septiembre de 2010 en el Netherlands Film Festival. Del género de aventura y fantasía, fue dirigido por Colin Levy y es el tercer cortometraje producido por la Fundación Blender. Sintel fue protagonizado por Halina Reijn, quien da su voz a Sintel y por Thom Hoffman quien da la suya al chamán. El corto narra la historia de Sintel, una huérfana que recorre el mundo buscando a su dragón Scales, el cual fue raptado por un gran dragón de tamaño mayor.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sintel_poster.jpg/250px-Sintel_poster.jpg",
+      "imageHint": "action movie",
+      "url": "https://youtu.be/eRsGyueVLvQ?si=WOIUcrrhL7Mxf9nx"
+    },
+    {
+      "id": "mov2",
+      "title": "Tears of Steel",
+      "type": "movie",
+      "genre": "Ciencia Ficción",
+      "year": 2012,
+      "description": "La tripulación de la nave estelar Errante descubre un secreto que podría cambiar el universo.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/250px-Tos-poster.png",
+      "imageHint": "sci-fi",
+      "url": "https://youtu.be/R6MlUcmOul8?si=_Qels9kavmdywKRJ"
+    },
+    {
+      "id": "mov3",
+      "title": "Decay",
+      "type": "movie",
+      "genre": "Terror",
+      "year": 2012,
+      "description": "Decay is a 2012 British independent horror film written and directed by Luke Thompson (of the University of Manchester), set at the Large Hadron Collider in Switzerland. The movie was created on a budget of $3,225 and was filmed over a period of two years by Thompson and his fellow physicists. The film was released online for free under the Creative Commons CC BY-NC license, shareable and remixable. Decay was premiered on 29 November 2012 and centres on the idea of the Large Hadron Collider transforming scientists into zombies.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1a/Decay_2012_Movie_Poster.jpg",
+      "imageHint": "horror",
+      "url": "https://youtu.be/n-NwLUPZWZc?si=cqhGW9BC9qZHZKwP"
+    },
+    {
+      "id": "mov4",
+      "title": "Cosmos Laundromat",
+      "type": "movie",
+      "genre": "Fantasía",
+      "year": 2015,
+      "description": "The film focuses around a depressed and suicidal sheep named Franck who is offered ´all the lives he ever wanted´ by a mysterious salesman named Victor.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CosmosLaundromatPoster.jpg/250px-CosmosLaundromatPoster.jpg",
+      "imageHint": "fantasy",
+      "url": "https://youtu.be/Y-rmzh0PI3c?si=UlVSUnuXLGAKBs9J"
+    },
+    {
+      "id": "mov5",
+      "title": "Spring",
+      "type": "movie",
+      "genre": "Fantasía",
+      "year": 2019,
+      "description": "The film is about a young shepherd and her dog confronting ancient spirits in order to bring about the change of seasons.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Spring2019PillarPosterBlender.jpg/250px-Spring2019PillarPosterBlender.jpg",
+      "imageHint": "fantasy",
+      "url": "https://www.youtube.com/watch?v=WhWc3b3KhnY"
+    },
+    {
+      "id": "mov6",
+      "title": "Harry Potter y El Prisionero de Azkaban 3",
+      "type": "movie",
+      "genre": "Fantasía",
+      "year": 2004,
+      "description": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg",
+      "imageHint": "movie",
+      "url": "/files/pelis/HarryPotter3.mp4"
+    },
+    {
       "id": "mov7",
       "title": "Big Buck Bunny",
       "type": "movie",
@@ -69,26 +179,70 @@
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
     },
     {
-      "id": "mov1",
-      "title": "Sintel",
-      "type": "movie",
-      "genre": "Acción",
-      "year": 2010,
-      "description": "Sintel es un cortometraje neerlandés estrenado el 27 de septiembre de 2010 en el Netherlands Film Festival. Del género de aventura y fantasía, fue dirigido por Colin Levy y es el tercer cortometraje producido por la Fundación Blender. Sintel fue protagonizado por Halina Reijn, quien da su voz a Sintel y por Thom Hoffman quien da la suya al chamán. El corto narra la historia de Sintel, una huérfana que recorre el mundo buscando a su dragón Scales, el cual fue raptado por un gran dragón de tamaño mayor.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sintel_poster.jpg/250px-Sintel_poster.jpg",
-      "imageHint": "action movie",
-      "url": "https://youtu.be/eRsGyueVLvQ?si=WOIUcrrhL7Mxf9nx"
-    },
-    {
-      "id": "mov6",
-      "title": "Harry Potter y El Prisionero de Azkaban 3",
+      "id": "mov9",
+      "title": "Harry Potter y el Cáliz de Fuego 4",
       "type": "movie",
       "genre": "Fantasía",
-      "year": 2004,
-      "description": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia.",
-      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg",
+      "year": 2005,
+      "description": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg",
       "imageHint": "movie",
-      "url": "/files/pelis/HarryPotter3.mp4"
+      "url": "/files/pelis/HarryPotter4.mp4"
+    },
+    {
+      "id": "mov10",
+      "title": "Harry Potter y la Orden del Fénix 5",
+      "type": "movie",
+      "genre": "Fantasía",
+      "year": 2007,
+      "description": "Harry Potter regresa por quinto año a Hogwarts aún sacudido por la tragedia ocurrida en el Torneo de los Tres Magos. Debido a que el Ministro de la Magia niega el regreso de Lord Voldemort, Harry se convierte en el centro de atención de la comunidad mágica. Mientras lucha con sus problemas en el colegio, incluyendo a la nueva profesora Dolores Umbridge, intentará aprender más sobre la misteriosa Orden del Fénix.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/zN5DWGV6IO30asXrHzGju9mo20P.jpg",
+      "imageHint": "movie",
+      "url": "/files/pelis/HarryPotter5.mp4"
+    },
+    {
+      "id": "mov11",
+      "title": "Harry Potter y el Misterio del Príncipe 6",
+      "type": "movie",
+      "genre": "Fantasía",
+      "year": 2009,
+      "description": "En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nSb3nNiL6pOEDK34T0U6RKTGzlJ.jpg",
+      "imageHint": "movie",
+      "url": "/files/pelis/HarryPotter6.mp4"
+    },
+    {
+      "id": "mov12",
+      "title": "Harry Potter y las Reliquias de la Muerte - Parte 1 7",
+      "type": "movie",
+      "genre": "Fantasía",
+      "year": 2010,
+      "description": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg",
+      "imageHint": "movie",
+      "url": "/files/pelis/HarryPotter7.mp4"
+    },
+    {
+      "id": "mov13",
+      "title": "Harry Potter y las Reliquias de la Muerte - Parte 2 8",
+      "type": "movie",
+      "genre": "Fantasía",
+      "year": 2011,
+      "description": "La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
+      "imageHint": "movie",
+      "url": "/files/pelis/HarryPotter8.mp4"
+    },
+    {
+      "id": "mov14",
+      "title": "Deadpool y Lobezno",
+      "type": "movie",
+      "genre": "Comedia",
+      "year": 2011,
+      "description": "Un apático Wade Wilson se afana en la vida civil tras dejar atrás sus días como Deadpool, un mercenario moralmente flexible. Pero cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe volver a vestirse a regañadientes con un Lobezno aún más reacio a ayudar.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
+      "imageHint": "movie",
+      "url": "/files/pelis/Deadpool Y Lobezno.mp4"
     }
   ]
 }
