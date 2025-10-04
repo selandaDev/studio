@@ -7,6 +7,16 @@ import path from 'path';
 
 export type ContentType = 'movie' | 'series' | 'music';
 
+export interface Episode {
+  title: string;
+  url: string;
+}
+
+export interface Track {
+  title: string;
+  url: string;
+}
+
 export interface Content {
   id: string;
   title: string;
@@ -17,7 +27,9 @@ export interface Content {
   imageUrl: string;
   imageHint: string;
   artist?: string;
-  url?: string;
+  url?: string; // For movies
+  episodes?: Episode[]; // For series
+  tracks?: Track[]; // For music
 }
 
 const dbPath = path.join(process.cwd(), 'db.json');
@@ -41,7 +53,7 @@ async function writeDb(data: { content: Content[] }): Promise<void> {
 }
 
 
-export async function getContent(filters: { type?: ContentType; query?: string; id?: string }): Promise<Content[]> {
+export async function getContent(filters: { type?: ContentType | ContentType[]; query?: string; id?: string }): Promise<Content[]> {
   const db = await readDb();
   let content = db.content;
 
@@ -50,7 +62,8 @@ export async function getContent(filters: { type?: ContentType; query?: string; 
   }
 
   if (filters.type) {
-    content = content.filter(item => item.type === filters.type);
+    const types = Array.isArray(filters.type) ? filters.type : [filters.type];
+    content = content.filter(item => types.includes(item.type));
   }
 
   if (filters.query) {
@@ -65,23 +78,114 @@ export async function getContent(filters: { type?: ContentType; query?: string; 
   return content;
 }
 
-
-export async function addContent(newContentData: Omit<Content, 'id' | 'imageHint'>) {
-    const db = await readDb();
-    const newId = `${newContentData.type}-${Math.random().toString(36).substr(2, 9)}`;
-    const randomPlaceholder = PlaceHolderImages[Math.floor(Math.random() * PlaceHolderImages.length)];
-    
-    const content: Content = {
-        ...newContentData,
-        id: newId,
-        imageUrl: newContentData.imageUrl || randomPlaceholder.imageUrl,
-        imageHint: newContentData.imageUrl ? 'custom image' : randomPlaceholder.imageHint,
-    };
-
-    db.content.unshift(content);
-    await writeDb(db);
-    return content;
+type AddMoviePayload = {
+    type: 'movie';
+    title: string;
+    description: string;
+    genre: string;
+    year: number;
+    imageUrl: string;
+    url?: string;
 }
+
+type AddSeriesEpisodePayload = {
+    type: 'series';
+    seriesId: string | 'new';
+    title: string;
+    description: string;
+    genre: string;
+    year: number;
+    imageUrl: string;
+    episodeTitle: string;
+    url: string;
+}
+
+type AddMusicTrackPayload = {
+    type: 'music';
+    albumId: string | 'new';
+    title: string;
+    artist: string;
+    description: string;
+    genre: string;
+    year: number;
+    imageUrl: string;
+    trackTitle: string;
+    url: string;
+}
+
+export type AddContentPayload = AddMoviePayload | AddSeriesEpisodePayload | AddMusicTrackPayload;
+
+
+export async function addContent(payload: AddContentPayload): Promise<Content> {
+    const db = await readDb();
+    const randomPlaceholder = PlaceHolderImages[Math.floor(Math.random() * PlaceHolderImages.length)];
+
+    if (payload.type === 'movie') {
+        const newId = `mov-${Math.random().toString(36).substr(2, 9)}`;
+        const content: Content = {
+            id: newId,
+            ...payload,
+            imageHint: payload.imageUrl ? 'custom image' : randomPlaceholder.imageHint,
+        };
+        db.content.unshift(content);
+        await writeDb(db);
+        return content;
+    }
+
+    if (payload.type === 'series') {
+        const { seriesId, episodeTitle, url, ...seriesData } = payload;
+        const newEpisode: Episode = { title: episodeTitle, url: url };
+
+        if (seriesId === 'new') {
+            const newId = `ser-${Math.random().toString(36).substr(2, 9)}`;
+            const content: Content = {
+                id: newId,
+                ...seriesData,
+                episodes: [newEpisode],
+                imageHint: payload.imageUrl ? 'custom image' : randomPlaceholder.imageHint,
+            };
+            db.content.unshift(content);
+            await writeDb(db);
+            return content;
+        } else {
+            const series = db.content.find(c => c.id === seriesId);
+            if (!series) throw new Error('Series not found');
+            if (!series.episodes) series.episodes = [];
+            series.episodes.push(newEpisode);
+            await writeDb(db);
+            return series;
+        }
+    }
+
+    if (payload.type === 'music') {
+        const { albumId, trackTitle, url, ...albumData } = payload;
+        const newTrack: Track = { title: trackTitle, url: url };
+
+        if (albumId === 'new') {
+            const newId = `mus-${Math.random().toString(36).substr(2, 9)}`;
+            const content: Content = {
+                id: newId,
+                ...albumData,
+                tracks: [newTrack],
+                imageHint: payload.imageUrl ? 'custom image' : randomPlaceholder.imageHint,
+            };
+            db.content.unshift(content);
+            await writeDb(db);
+            return content;
+        } else {
+            const album = db.content.find(c => c.id === albumId);
+            if (!album) throw new Error('Album not found');
+            if (!album.tracks) album.tracks = [];
+            album.tracks.push(newTrack);
+            await writeDb(db);
+            return album;
+        }
+    }
+    
+    // Should not be reached
+    throw new Error("Invalid content type");
+}
+
 
 export async function deleteContent(id: string): Promise<{ success: boolean }> {
   const db = await readDb();

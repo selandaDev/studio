@@ -1,7 +1,6 @@
 
-
 "use client";
-import { deleteContent, getContent } from "@/lib/data";
+import { deleteContent, getContent, Content, Episode, Track } from "@/lib/data";
 import Image from "next/image";
 import { notFound, useRouter } from "next/navigation";
 import {
@@ -9,9 +8,11 @@ import {
   Heart,
   PlayCircle,
   Music4,
+  ListVideo,
+  ListMusic as ListMusicIcon,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import { useEffect, useState }from "react";
 import {
@@ -26,10 +27,12 @@ import {
   AlertDialogTrigger,
 } from "@/components/ui/alert-dialog"
 import { useToast } from "@/hooks/use-toast";
-
+import { ScrollArea } from "@/components/ui/scroll-area";
+import { cn } from "@/lib/utils";
 
 
 const getYoutubeVideoId = (url: string) => {
+  if (!url) return null;
   let videoId = null;
   try {
     const urlObj = new URL(url);
@@ -51,7 +54,7 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
                 <div className="text-center">
                     <PlayCircle className="h-24 w-24 text-primary mx-auto mb-4" />
                     <p>No hay una fuente de vídeo o audio para reproducir.</p>
-                     <p className="text-sm text-muted-foreground">Añade una URL al editar este contenido.</p>
+                     <p className="text-sm text-muted-foreground">Selecciona un elemento de la lista.</p>
                 </div>
             </div>
         )
@@ -80,7 +83,8 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
     if(isVideo && !isAudio) { 
       return (
         <div className="aspect-video bg-black">
-          <video controls className="w-full h-full" src={contentUrl}>
+          <video key={contentUrl} controls className="w-full h-full" autoPlay>
+             <source src={contentUrl} />
              Tu navegador no soporta la etiqueta de video.
           </video>
         </div>
@@ -91,7 +95,7 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
       return (
         <div className="bg-zinc-800/50 aspect-video flex flex-col items-center justify-center p-8 text-center text-foreground">
           <Music4 className="w-24 h-24 text-primary mb-4" />
-          <audio controls autoPlay src={contentUrl} className="w-full max-w-md mt-4">
+          <audio key={contentUrl} controls autoPlay src={contentUrl} className="w-full max-w-md mt-4">
             Tu navegador no soporta el elemento de audio.
           </audio>
         </div>
@@ -109,7 +113,8 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
 };
 
 export default function PlayerPage({ params }: { params: { id: string } }) {
-  const [content, setContent] = useState<Awaited<ReturnType<typeof getContent>>[0] | null>(null);
+  const [content, setContent] = useState<Content | null>(null);
+  const [nowPlaying, setNowPlaying] = useState<string | undefined>(undefined);
   const router = useRouter();
   const { toast } = useToast();
 
@@ -117,7 +122,16 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
   useEffect(() => {
     getContent({ id: params.id }).then(result => {
         if(result.length > 0){
-            setContent(result[0]);
+            const currentContent = result[0];
+            setContent(currentContent);
+            // Set initial playing item
+            if (currentContent.type === 'movie' && currentContent.url) {
+                setNowPlaying(currentContent.url);
+            } else if (currentContent.type === 'series' && currentContent.episodes?.[0]?.url) {
+                setNowPlaying(currentContent.episodes[0].url);
+            } else if (currentContent.type === 'music' && currentContent.tracks?.[0]?.url) {
+                setNowPlaying(currentContent.tracks[0].url);
+            }
         } else {
             notFound();
         }
@@ -149,27 +163,54 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
     return <div className="container mx-auto p-4 md:p-8">Cargando...</div>;
   }
   
+  const Playlist = () => {
+    if (content.type === 'series' && content.episodes && content.episodes.length > 0) {
+      return <PlaylistItemList icon={ListVideo} title="Episodios" items={content.episodes} />
+    }
+    if (content.type === 'music' && content.tracks && content.tracks.length > 0) {
+      return <PlaylistItemList icon={ListMusicIcon} title="Canciones" items={content.tracks} />
+    }
+    return null;
+  }
+
+  const PlaylistItemList = ({icon: Icon, title, items}: {icon: React.ElementType, title: string, items: Episode[] | Track[]}) => (
+    <Card>
+        <CardHeader className="pb-2">
+            <CardTitle className="flex items-center gap-2 text-xl">
+                <Icon className="w-5 h-5"/>
+                {title}
+            </CardTitle>
+        </CardHeader>
+        <CardContent>
+            <ScrollArea className="h-48">
+                <div className="space-y-1">
+                    {items.map((item, index) => (
+                        <button 
+                            key={index} 
+                            onClick={() => setNowPlaying(item.url)}
+                            className={cn(
+                                "w-full text-left p-2 rounded-md transition-colors",
+                                nowPlaying === item.url ? "bg-primary/20 text-primary" : "hover:bg-muted"
+                            )}>
+                            <p className="font-medium truncate">{index + 1}. {item.title}</p>
+                        </button>
+                    ))}
+                </div>
+            </ScrollArea>
+        </CardContent>
+    </Card>
+  )
+
   return (
     <div className="container mx-auto p-4 md:p-8">
-      <div className="grid md:grid-cols-3 gap-8">
-        <div className="md:col-span-2">
+      <div className="grid lg:grid-cols-3 gap-8">
+        <div className="lg:col-span-2 space-y-6">
           <Card className="overflow-hidden">
             <CardContent className="p-0">
-              <Player contentUrl={content.url} />
+              <Player contentUrl={nowPlaying} />
             </CardContent>
           </Card>
-        </div>
-        <div className="md:col-span-1 space-y-6">
-            <div className="relative aspect-[2/3] w-full max-w-sm mx-auto">
-                 <Image
-                    src={content.imageUrl}
-                    alt={content.title}
-                    fill
-                    className="object-cover rounded-lg shadow-lg"
-                    sizes="(max-width: 768px) 80vw, 33vw"
-                  />
-            </div>
-          <div>
+           <div>
             <h1 className="text-4xl font-bold tracking-tight">{content.title}</h1>
             {content.artist && (
               <h2 className="text-2xl text-muted-foreground">{content.artist}</h2>
@@ -182,6 +223,20 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
               <span className="capitalize">{content.type}</span>
             </div>
           </div>
+           <p className="text-foreground/80 leading-relaxed">
+            {content.description}
+          </p>
+        </div>
+        <div className="lg:col-span-1 space-y-6">
+            <div className="relative aspect-[2/3] w-full max-w-sm mx-auto">
+                 <Image
+                    src={content.imageUrl}
+                    alt={content.title}
+                    fill
+                    className="object-cover rounded-lg shadow-lg"
+                    sizes="(max-width: 768px) 80vw, 33vw"
+                  />
+            </div>
 
           <div className="flex gap-2">
             <Button size="lg" className="w-full">
@@ -208,11 +263,7 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
               </AlertDialogContent>
             </AlertDialog>
           </div>
-
-
-          <p className="text-foreground/80 leading-relaxed">
-            {content.description}
-          </p>
+            <Playlist />
         </div>
       </div>
     </div>

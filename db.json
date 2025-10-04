@@ -1,5 +1,51 @@
+
 {
   "content": [
+    {
+      "id": "ser1",
+      "title": "Cosmos: A Spacetime Odyssey",
+      "type": "series",
+      "genre": "Documental",
+      "year": 2014,
+      "description": "Una exploración de nuestro universo y nuestro lugar en él.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6I2tHzS2OGe4hcV62s3yYJtns2L.jpg",
+      "imageHint": "space documentary",
+      "episodes": [
+        {
+          "title": "Episodio 1: Standing Up in the Milky Way",
+          "url": "https://www.youtube.com/watch?v=k9eypcj6e0M"
+        },
+        {
+          "title": "Episodio 2: Some of the Things That Molecules Do",
+          "url": "https://www.youtube.com/watch?v=1s-c8Bxlhpo"
+        }
+      ]
+    },
+    {
+      "id": "mus1",
+      "title": "In the Aeroplane Over the Sea",
+      "artist": "Neutral Milk Hotel",
+      "type": "music",
+      "genre": "Indie Rock",
+      "year": 1998,
+      "description": "Un álbum de indie rock seminal, conocido por su instrumentación única y letras surrealistas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/21/In_the_aeroplane_over_the_sea_cover.jpg",
+      "imageHint": "indie music",
+      "tracks": [
+        {
+          "title": "King of Carrot Flowers, Pt. 1",
+          "url": "https://www.youtube.com/watch?v=L6_0w-r79kU"
+        },
+        {
+          "title": "In the Aeroplane Over the Sea",
+          "url": "https://www.youtube.com/watch?v=hD6_q_p2w2M"
+        },
+        {
+          "title": "Two-Headed Boy",
+          "url": "https://www.youtube.com/watch?v=TudLjZ_4NBs"
+        }
+      ]
+    },
     {
       "id": "mov7",
       "title": "Big Buck Bunny",
@@ -34,50 +80,6 @@
       "url": "https://youtu.be/eRsGyueVLvQ?si=WOIUcrrhL7Mxf9nx"
     },
     {
-      "id": "mov2",
-      "title": "Tears of Steel",
-      "type": "movie",
-      "genre": "Ciencia Ficción",
-      "year": 2012,
-      "description": "La tripulación de la nave estelar Errante descubre un secreto que podría cambiar el universo.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/250px-Tos-poster.png",
-      "imageHint": "sci-fi",
-      "url": "https://youtu.be/R6MlUcmOul8?si=_Qels9kavmdywKRJ"
-    },
-    {
-      "id": "mov3",
-      "title": "Decay",
-      "type": "movie",
-      "genre": "Terror",
-      "year": 2012,
-      "description": "Decay is a 2012 British independent horror film written and directed by Luke Thompson (of the University of Manchester), set at the Large Hadron Collider in Switzerland. The movie was created on a budget of $3,225 and was filmed over a period of two years by Thompson and his fellow physicists. The film was released online for free under the Creative Commons CC BY-NC license, shareable and remixable. Decay was premiered on 29 November 2012 and centres on the idea of the Large Hadron Collider transforming scientists into zombies.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1a/Decay_2012_Movie_Poster.jpg",
-      "imageHint": "horror",
-      "url": "https://youtu.be/n-NwLUPZWZc?si=cqhGW9BC9qZHZKwP"
-    },
-    {
-      "id": "mov4",
-      "title": "Cosmos Laundromat",
-      "type": "movie",
-      "genre": "Fantasía",
-      "year": 2015,
-      "description": "The film focuses around a depressed and suicidal sheep named Franck who is offered ´all the lives he ever wanted´ by a mysterious salesman named Victor.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CosmosLaundromatPoster.jpg/250px-CosmosLaundromatPoster.jpg",
-      "imageHint": "fantasy",
-      "url": "https://youtu.be/Y-rmzh0PI3c?si=UlVSUnuXLGAKBs9J"
-    },
-    {
-      "id": "mov5",
-      "title": "Spring",
-      "type": "movie",
-      "genre": "Fantasía",
-      "year": 2019,
-      "description": "The film is about a young shepherd and her dog confronting ancient spirits in order to bring about the change of seasons.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Spring2019PillarPosterBlender.jpg/250px-Spring2019PillarPosterBlender.jpg",
-      "imageHint": "fantasy",
-      "url": "https://www.youtube.com/watch?v=WhWc3b3KhnY"
-    },
-    {
       "id": "mov6",
       "title": "Harry Potter y El Prisionero de Azkaban 3",
       "type": "movie",
@@ -87,211 +89,6 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg",
       "imageHint": "movie",
       "url": "/files/pelis/HarryPotter3.mp4"
-    },
-    {
-      "id": "mov9",
-      "title": "Harry Potter y el Cáliz de Fuego 4",
-      "type": "movie",
-      "genre": "Fantasía",
-      "year": 2005,
-      "description": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida.",
-      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg",
-      "imageHint": "movie",
-      "url": "/files/pelis/HarryPotter4.mp4"
-    },
-    {
-      "id": "mov10",
-      "title": "Harry Potter y la Orden del Fénix 5",
-      "type": "movie",
-      "genre": "Fantasía",
-      "year": 2007,
-      "description": "Harry Potter regresa por quinto año a Hogwarts aún sacudido por la tragedia ocurrida en el Torneo de los Tres Magos. Debido a que el Ministro de la Magia niega el regreso de Lord Voldemort, Harry se convierte en el centro de atención de la comunidad mágica. Mientras lucha con sus problemas en el colegio, incluyendo a la nueva profesora Dolores Umbridge, intentará aprender más sobre la misteriosa Orden del Fénix.",
-      "imageUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/zN5DWGV6IO30asXrHzGju9mo20P.jpg",
-      "imageHint": "movie",
-      "url": "/files/pelis/HarryPotter5.mp4"
-    },
-    {
-      "id": "mov11",
-      "title": "Harry Potter y el Misterio del Príncipe 6",
-      "type": "movie",
-      "genre": "Fantasía",
-      "year": 2009,
-      "description": "En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final.",
-      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nSb3nNiL6pOEDK34T0U6RKTGzlJ.jpg",
-      "imageHint": "movie",
-      "url": "/files/pelis/HarryPotter6.mp4"
-    },
-    {
-      "id": "mov12",
-      "title": "Harry Potter y las Reliquias de la Muerte - Parte 1 7",
-      "type": "movie",
-      "genre": "Fantasía",
-      "year": 2010,
-      "description": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura.",
-      "imageUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg",
-      "imageHint": "movie",
-      "url": "/files/pelis/HarryPotter7.mp4"
-    },
-    {
-      "id": "mov13",
-      "title": "Harry Potter y las Reliquias de la Muerte - Parte 2 8",
-      "type": "movie",
-      "genre": "Fantasía",
-      "year": 2011,
-      "description": "La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…",
-      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
-      "imageHint": "movie",
-      "url": "/files/pelis/HarryPotter8.mp4"
-    },
-    {
-      "id": "mov14",
-      "title": "Deadpool y Lobezno",
-      "type": "movie",
-      "genre": "Comedia",
-      "year": 2011,
-      "description": "Un apático Wade Wilson se afana en la vida civil tras dejar atrás sus días como Deadpool, un mercenario moralmente flexible. Pero cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe volver a vestirse a regañadientes con un Lobezno aún más reacio a ayudar.",
-      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
-      "imageHint": "movie",
-      "url": "/files/pelis/Deadpool Y Lobezno.mp4"
-    },
-    {
-      "id": "mov15",
-      "title": "Raqa",
-      "type": "movie",
-      "genre": "Suspense",
-      "year": 2024,
-      "description": "Raqa muestra la vida en una ciudad dominada por uno de los grupos terroristas más crueles. Los protagonistas tienen la misma misión, pero para distintos servicios secretos: viviendo en el filo de la navaja y sin poder cometer ningún error, la tensión y el miedo se palpan en cada acción.",
-      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3dDP4qtfs6Uvc3wyvZRuPtpGlci.jpg",
-      "imageHint": "movie",
-      "url": "/files/pelis/Raqa.mp4"
-    },
-    {
-      "id": "ser1",
-      "title": "El Apartamento",
-      "type": "series",
-      "genre": "Comedia",
-      "year": 2018,
-      "description": "Un grupo de amigos extravagantes navegan por la vida y el amor en la gran ciudad.",
-      "imageUrl": "https://images.unsplash.com/photo-1547139427-b5aa332ebfd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb21lZHklMjBzZXJpZXN8ZW58MHx8fHwxNzU5MzQzMDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "comedy series"
-    },
-    {
-      "id": "ser2",
-      "title": "Trono de Dragones",
-      "type": "series",
-      "genre": "Fantasía",
-      "year": 2015,
-      "description": "Casas nobles compiten por el control de un reino mítico.",
-      "imageUrl": "https://images.unsplash.com/photo-1684940428813-53bd87bb7010?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZmFudGFzeSUyMHNlcmllc3xlbnwwfHx8fDE3NTkzODg1Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "fantasy series"
-    },
-    {
-      "id": "ser3",
-      "title": "Hospital General de la Ciudad",
-      "type": "series",
-      "genre": "Drama",
-      "year": 2022,
-      "description": "Las intensas vidas de los médicos y enfermeras en un ajetreado hospital urbano.",
-      "imageUrl": "https://images.unsplash.com/photo-1658370455070-d75669b43500?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWVkaWNhbCUyMGRyYW1hfGVufDB8fHx8MTc1OTM4ODUzOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "medical drama"
-    },
-    {
-      "id": "ser4",
-      "title": "Demonio del Polvo",
-      "type": "series",
-      "genre": "Western",
-      "year": 2021,
-      "description": "Un misterioso extraño lleva la justicia a un pueblo fronterizo sin ley.",
-      "imageUrl": "https://images.unsplash.com/photo-1723750599416-4f72e7bd1a63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2VzdGVybiUyMHNlcmllc3xlbnwwfHx8fDE3NTkzODg1Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "western series"
-    },
-    {
-      "id": "ser5",
-      "title": "Sueños de Androide",
-      "type": "series",
-      "genre": "Ciencia Ficción",
-      "year": 2023,
-      "description": "En el futuro, los androides luchan por sus derechos.",
-      "imageUrl": "https://images.unsplash.com/photo-1656381620321-bddff61435c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzY2ktZmklMjBzZXJpZXN8ZW58MHx8fHwxNzU5MzEzODc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "sci-fi series"
-    },
-    {
-      "id": "ser6",
-      "title": "Mundo Loco",
-      "type": "series",
-      "genre": "Animación",
-      "year": 2019,
-      "description": "Las divertidas aventuras de un animal parlante y su amigo humano.",
-      "imageUrl": "https://images.unsplash.com/photo-1753301066699-a2ef4bd08f51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjYXJ0b29uJTIwYW5pbWF0aW9ufGVufDB8fHx8MTc1OTMwNjQ2OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "cartoon animation"
-    },
-    {
-      "id": "mus1",
-      "title": "SFDK 30 aniversario parte 1",
-      "artist": "SFDK",
-      "type": "music",
-      "genre": "Hip Hop",
-      "year": 2024,
-      "description": "Concierto por el 30 aniversario del grupo SFDK.",
-      "imageUrl": "https://sfdkoficial.com/wp-content/uploads/2023/12/photo_2023-12-14_20-05-31.jpg",
-      "imageHint": "rap music",
-      "url": "https://youtu.be/fb4wdTpkhBs?si=3BlN5AvDtm575ji4"
-    },
-    {
-      "id": "mus2",
-      "title": "SFDK 30 aniversario parte 2",
-      "artist": "SFDK",
-      "type": "music",
-      "genre": "Hip Hop",
-      "year": 2024,
-      "description": "Concierto por el 30 aniversario del grupo SFDK.",
-      "imageUrl": "https://sfdkoficial.com/wp-content/uploads/2023/12/photo_2023-12-14_20-05-31.jpg",
-      "imageHint": "rap music",
-      "url": "https://youtu.be/J8RbqFVHemc?si=_-ngYa5RA8SFWNMx"
-    },
-    {
-      "id": "mus3",
-      "title": "Flujo Urbano",
-      "artist": "MC Flow",
-      "type": "music",
-      "genre": "Hip-Hop",
-      "year": 2024,
-      "description": "Genialidad lírica sobre ritmos clásicos de boom-bap.",
-      "imageUrl": "https://images.unsplash.com/photo-1612321039932-c220da5938c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxoaXAtaG9wJTIwbXVzaWN8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "hip-hop music"
-    },
-    {
-      "id": "mus4",
-      "title": "Ecos de Estadio",
-      "artist": "Floración Estática",
-      "type": "music",
-      "genre": "Rock",
-      "year": 2022,
-      "description": "Canciones de rock de himno creadas para el gran escenario.",
-      "imageUrl": "https://images.unsplash.com/photo-1604177052603-c2b4cff228db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyb2NrJTIwY29uY2VydHxlbnwwfHx8fDE3NTkzNjAyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "rock concert"
-    },
-    {
-      "id": "mus5",
-      "title": "Las Cuatro Estaciones Reimaginadas",
-      "artist": "Los Virtuosos Modernos",
-      "type": "music",
-      "genre": "Clásica",
-      "year": 2020,
-      "description": "Una versión moderna de las obras maestras clásicas.",
-      "imageUrl": "https://images.unsplash.com/photo-1587834423414-9545adae44ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjbGFzc2ljYWwlMjBvcmNoZXN0cmF8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "classical orchestra"
-    },
-    {
-      "id": "mus6",
-      "title": "Azul Medianoche",
-      "artist": "The Blue Notes",
-      "type": "music",
-      "genre": "Jazz",
-      "year": 2019,
-      "description": "Jazz suave para noches tardías y días lluviosos.",
-      "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxqYXp6JTIwbXVzaWN8ZW58MHx8fHwxNzU5Mzg4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "jazz music"
     }
   ]
 }
