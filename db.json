@@ -155,6 +155,17 @@
       "url": "/files/pelis/Deadpool Y Lobezno.mp4"
     },
     {
+      "id": "mov15",
+      "title": "Raqa",
+      "type": "movie",
+      "genre": "Suspense",
+      "year": 2024,
+      "description": "Raqa muestra la vida en una ciudad dominada por uno de los grupos terroristas más crueles. Los protagonistas tienen la misma misión, pero para distintos servicios secretos: viviendo en el filo de la navaja y sin poder cometer ningún error, la tensión y el miedo se palpan en cada acción.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3dDP4qtfs6Uvc3wyvZRuPtpGlci.jpg",
+      "imageHint": "movie",
+      "url": "/files/pelis/Raqa.mp4"
+    },
+    {
       "id": "ser1",
       "title": "El Apartamento",
       "type": "series",
