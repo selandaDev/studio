@@ -66,6 +66,54 @@
       ]
     },
     {
+      "id": "ser2",
+      "title": "Pilates",
+      "type": "series",
+      "genre": "Actividad",
+      "year": 2014,
+      "description": "Clases de pilates con Move with Nicole.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Pilates_reformer.jpg",
+      "imageHint": "pilates exercise",
+      "episodes": [
+        {
+          "title": "Principiantes 1",
+          "url": "/files/series/pilates/principiantes1.mp4"
+        },
+        {
+          "title": "Principiantes 2",
+          "url": "/files/series/pilates/principiantes2.mp4"
+        },
+        {
+          "title": "Principiantes 3",
+          "url": "/files/series/pilates/principiantes3.mp4"
+        },
+        {
+          "title": "Medio 1",
+          "url": "/files/series/pilates/medio1.mp4"
+        },
+        {
+          "title": "Medio 2",
+          "url": "/files/series/pilates/medio2.mp4"
+        },
+        {
+          "title": "Medio 3",
+          "url": "/files/series/pilates/medio3.mp4"
+        },
+        {
+          "title": "Express",
+          "url": "/files/series/pilates/express.mp4"
+        },
+        {
+          "title": "Dinámico",
+          "url": "/files/series/pilates/dinamico.mp4"
+        },
+        {
+          "title": "Cardio",
+          "url": "/files/series/pilates/cardio.mp4"
+        }
+      ]
+    },
+    {
       "id": "mus1",
       "title": "In the Aeroplane Over the Sea",
       "artist": "Neutral Milk Hotel",
