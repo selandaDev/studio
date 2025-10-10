@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 import { AppLayout } from '@/components/app-layout';
 import { Toaster } from '@/components/ui/toaster';
+import Script from 'next/script';
 
 export const metadata: Metadata = {
   title: 'Doby',
@@ -24,6 +25,7 @@ export default function RootLayout({
         />
       </head>
       <body className="font-body antialiased">
+        <Script src="https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1" strategy="beforeInteractive" />
         <AppLayout>{children}</AppLayout>
         <Toaster />
       </body>

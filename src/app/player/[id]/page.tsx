@@ -15,6 +15,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import { useEffect, useState }from "react";
+import ReactPlayer from 'react-player/lazy'
 import {
   AlertDialog,
   AlertDialogAction,
@@ -30,24 +31,21 @@ import { useToast } from "@/hooks/use-toast";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { cn } from "@/lib/utils";
 
-
-const getYoutubeVideoId = (url: string) => {
-  if (!url) return null;
-  let videoId = null;
-  try {
-    const urlObj = new URL(url);
-    if (urlObj.hostname === 'youtu.be') {
-      videoId = urlObj.pathname.slice(1);
-    } else if (urlObj.hostname === 'www.youtube.com' || urlObj.hostname === 'youtube.com') {
-      videoId = urlObj.searchParams.get('v');
-    }
-    return videoId;
-  } catch(e) {
-    return null;
-  }
-};
-
 const Player = ({contentUrl}: {contentUrl?: string}) => {
+    const [isClient, setIsClient] = useState(false);
+
+    useEffect(() => {
+        setIsClient(true);
+    }, []);
+
+    if (!isClient) {
+      return (
+          <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
+              Cargando reproductor...
+          </div>
+      )
+    }
+    
     if(!contentUrl) {
         return (
             <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
@@ -60,46 +58,41 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
         )
     }
 
-    const youtubeVideoId = getYoutubeVideoId(contentUrl);
+    const isAudio = !ReactPlayer.canPlay(contentUrl) || contentUrl.match(/\.(mp3|wav|ogg|aac|flac)$/i);
+    const canPlay = ReactPlayer.canPlay(contentUrl) || contentUrl.startsWith('/files/');
 
-    if (youtubeVideoId) {
-        return (
-            <div className="aspect-video">
-                <iframe
-                    className="w-full h-full"
-                    src={`https://www.youtube.com/embed/${youtubeVideoId}`}
-                    title="Reproductor de video de YouTube"
-                    frameBorder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen
-                ></iframe>
-            </div>
-        )
+    if (canPlay && !isAudio) {
+      return (
+        <div className="aspect-video bg-black relative">
+          <ReactPlayer
+              key={contentUrl}
+              className="absolute top-0 left-0"
+              url={contentUrl}
+              playing={true}
+              controls={true}
+              width="100%"
+              height="100%"
+              config={{
+                  file: {
+                      attributes: {
+                          controlsList: 'nodownload'
+                      }
+                  }
+              }}
+          />
+        </div>
+      )
     }
     
-    const isVideo = contentUrl.match(/\.(mp4|mkv|avi|webm|mov|flv|wmv|mpeg)$/i) || contentUrl.startsWith('/files/');
-    const isAudio = contentUrl.match(/\.(mp3|wav|ogg|aac|flac)$/i);
-
-    if(isVideo && !isAudio) { 
-      return (
-        <div className="aspect-video bg-black">
-          <video key={contentUrl} controls className="w-full h-full" autoPlay>
-             <source src={contentUrl} />
-             Tu navegador no soporta la etiqueta de video.
-          </video>
-        </div>
-      )
-    }
-
-    if(isAudio) {
-      return (
-        <div className="bg-zinc-800/50 aspect-video flex flex-col items-center justify-center p-8 text-center text-foreground">
-          <Music4 className="w-24 h-24 text-primary mb-4" />
-          <audio key={contentUrl} controls autoPlay src={contentUrl} className="w-full max-w-md mt-4">
-            Tu navegador no soporta el elemento de audio.
-          </audio>
-        </div>
-      )
+    if (isAudio) {
+         return (
+            <div className="bg-zinc-800/50 aspect-video flex flex-col items-center justify-center p-8 text-center text-foreground">
+              <Music4 className="w-24 h-24 text-primary mb-4" />
+              <audio key={contentUrl} controls autoPlay src={contentUrl} className="w-full max-w-md mt-4">
+                Tu navegador no soporta el elemento de audio.
+              </audio>
+            </div>
+         )
     }
 
     return (
