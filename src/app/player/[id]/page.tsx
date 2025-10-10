@@ -1,10 +1,6 @@
 
 "use client";
-import videojs from 'video.js';
 import 'video.js/dist/video-js.css';
-
-// Import Chromecast for its side effects to register the plugin
-import '@silvermine/videojs-chromecast';
 
 // This is needed for http-streaming to work with video.js
 import '@videojs/http-streaming';
@@ -150,14 +146,10 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
   const Player = () => {
       if (nowPlayingType === 'video' && nowPlaying) {
         const videoJsOptions = {
-            autoplay: false,
+            autoplay: true,
             controls: true,
             responsive: true,
             fluid: true,
-            techOrder: ["chromecast", "html5"],
-            plugins: {
-                chromecast: {}
-            },
             sources: [{
                 src: nowPlaying,
                 type: nowPlaying.endsWith('.m3u8') ? 'application/x-mpegURL' 
