@@ -23,9 +23,10 @@ export default function RootLayout({
           href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
           rel="stylesheet"
         />
+        <link href="https://vjs.zencdn.net/8.12.0/video-js.css" rel="stylesheet" />
+        <Script src="https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1" strategy="beforeInteractive" />
       </head>
       <body className="font-body antialiased">
-        <Script src="https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1" strategy="beforeInteractive" />
         <AppLayout>{children}</AppLayout>
         <Toaster />
       </body>

@@ -6,7 +6,6 @@ import { notFound, useRouter } from "next/navigation";
 import {
   Trash2,
   Heart,
-  PlayCircle,
   Music4,
   ListVideo,
   ListMusic as ListMusicIcon,
@@ -15,7 +14,6 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import { useEffect, useState }from "react";
-import ReactPlayer from 'react-player/lazy'
 import {
   AlertDialog,
   AlertDialogAction,
@@ -30,109 +28,38 @@ import {
 import { useToast } from "@/hooks/use-toast";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { cn } from "@/lib/utils";
+import { VideoPlayer } from "@/components/video-player";
 
-const Player = ({contentUrl}: {contentUrl?: string}) => {
-    const [isClient, setIsClient] = useState(false);
+const isAudioUrl = (url: string) => {
+    return url.match(/\.(mp3|wav|ogg|aac|flac)$/i);
+}
 
-    useEffect(() => {
-        setIsClient(true);
-    }, []);
-
-    if (!isClient) {
-      return (
-          <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
-              Cargando reproductor...
-          </div>
-      )
-    }
-    
-    if(!contentUrl) {
-        return (
-            <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
-                <div className="text-center">
-                    <PlayCircle className="h-24 w-24 text-primary mx-auto mb-4" />
-                    <p>No hay una fuente de vídeo o audio para reproducir.</p>
-                     <p className="text-sm text-muted-foreground">Selecciona un elemento de la lista.</p>
-                </div>
-            </div>
-        )
-    }
-
-    const isAudio = !ReactPlayer.canPlay(contentUrl) || contentUrl.match(/\.(mp3|wav|ogg|aac|flac)$/i);
-    const canPlay = ReactPlayer.canPlay(contentUrl) || contentUrl.startsWith('/files/');
-
-    if (canPlay && !isAudio) {
-      return (
-        <div className="aspect-video bg-black relative">
-          <ReactPlayer
-              key={contentUrl}
-              className="absolute top-0 left-0"
-              url={contentUrl}
-              playing={false}
-              controls={true}
-              width="100%"
-              height="100%"
-              config={{
-                  file: {
-                      attributes: {
-                          controlsList: 'nodownload'
-                      },
-                      hlsOptions: {}, // Needed for HLS support
-                  },
-                  cast: {
-                      options: {
-                          // The default app id below is for the generic media receiver.
-                          // You can get your own app id from the Google Cast SDK Developer Console
-                          // https://cast.google.com/publish
-                          appId: 'CC1AD845',
-                      }
-                  }
-              }}
-          />
-        </div>
-      )
-    }
-    
-    if (isAudio) {
-         return (
-            <div className="bg-zinc-800/50 aspect-video flex flex-col items-center justify-center p-8 text-center text-foreground">
-              <Music4 className="w-24 h-24 text-primary mb-4" />
-              <audio key={contentUrl} controls src={contentUrl} className="w-full max-w-md mt-4">
-                Tu navegador no soporta el elemento de audio.
-              </audio>
-            </div>
-         )
-    }
-
-    return (
-        <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
-            <div className="text-center">
-                <p>Tipo de medio o URL no soportado.</p>
-                <p className="text-sm break-all">{contentUrl}</p>
-            </div>
-        </div>
-    );
-};
 
 export default function PlayerPage({ params }: { params: { id: string } }) {
   const [content, setContent] = useState<Content | null>(null);
   const [nowPlaying, setNowPlaying] = useState<string | undefined>(undefined);
+  const [nowPlayingType, setNowPlayingType] = useState<'video' | 'audio' | 'none'>('none');
+
   const router = useRouter();
   const { toast } = useToast();
-
 
   useEffect(() => {
     getContent({ id: params.id }).then(result => {
         if(result.length > 0){
             const currentContent = result[0];
             setContent(currentContent);
-            // Set initial playing item
+            
+            let initialUrl;
             if (currentContent.type === 'movie' && currentContent.url) {
-                setNowPlaying(currentContent.url);
+                initialUrl = currentContent.url;
             } else if (currentContent.type === 'series' && currentContent.episodes?.[0]?.url) {
-                setNowPlaying(currentContent.episodes[0].url);
+                initialUrl = currentContent.episodes[0].url;
             } else if (currentContent.type === 'music' && currentContent.tracks?.[0]?.url) {
-                setNowPlaying(currentContent.tracks[0].url);
+                initialUrl = currentContent.tracks[0].url;
+            }
+
+            if (initialUrl) {
+                handlePlay(initialUrl);
             }
         } else {
             notFound();
@@ -159,6 +86,15 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
       }
     }
   };
+  
+  const handlePlay = (url: string) => {
+    setNowPlaying(url);
+    if(isAudioUrl(url)) {
+        setNowPlayingType('audio');
+    } else {
+        setNowPlayingType('video');
+    }
+  }
 
 
   if (!content) {
@@ -189,7 +125,7 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
                     {items.map((item, index) => (
                         <button 
                             key={index} 
-                            onClick={() => setNowPlaying(item.url)}
+                            onClick={() => handlePlay(item.url)}
                             className={cn(
                                 "w-full text-left p-2 rounded-md transition-colors",
                                 nowPlaying === item.url ? "bg-primary/20 text-primary" : "hover:bg-muted"
@@ -203,13 +139,58 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
     </Card>
   )
 
+  const Player = () => {
+      if (nowPlayingType === 'video' && nowPlaying) {
+        const videoJsOptions = {
+            autoplay: false,
+            controls: true,
+            responsive: true,
+            fluid: true,
+            techOrder: ["chromecast", "html5"],
+            plugins: {
+                chromecast: {
+                    buttonPositionIndex: -1
+                }
+            },
+            sources: [{
+                src: nowPlaying,
+                type: nowPlaying.endsWith('.m3u8') ? 'application/x-mpegURL' 
+                    : nowPlaying.endsWith('.mpd') ? 'application/dash+xml'
+                    : `video/${nowPlaying.split('.').pop()}`
+            }]
+        };
+        return <VideoPlayer options={videoJsOptions} />;
+      }
+      if(nowPlayingType === 'audio' && nowPlaying) {
+         return (
+            <div className="bg-zinc-800/50 aspect-video flex flex-col items-center justify-center p-8 text-center text-foreground">
+              <Music4 className="w-24 h-24 text-primary mb-4" />
+              <h3 className="text-xl font-semibold mb-2">{content.title}</h3>
+              <p className="text-muted-foreground">{
+                (content.tracks?.find(t => t.url === nowPlaying))?.title
+              }</p>
+              <audio key={nowPlaying} controls src={nowPlaying} className="w-full max-w-md mt-4" autoPlay>
+                Tu navegador no soporta el elemento de audio.
+              </audio>
+            </div>
+         )
+      }
+      return (
+         <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
+            <div className="text-center">
+                <p>Selecciona un elemento para reproducir.</p>
+            </div>
+        </div>
+      )
+  }
+
   return (
     <div className="container mx-auto p-4 md:p-8">
       <div className="grid lg:grid-cols-3 gap-8">
         <div className="lg:col-span-2 space-y-6">
           <Card className="overflow-hidden">
             <CardContent className="p-0">
-              <Player contentUrl={nowPlaying} />
+              <Player />
             </CardContent>
           </Card>
            <div>
