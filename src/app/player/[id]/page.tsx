@@ -68,7 +68,7 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
               key={contentUrl}
               className="absolute top-0 left-0"
               url={contentUrl}
-              playing={true}
+              playing={false}
               controls={true}
               width="100%"
               height="100%"
@@ -76,6 +76,15 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
                   file: {
                       attributes: {
                           controlsList: 'nodownload'
+                      },
+                      hlsOptions: {}, // Needed for HLS support
+                  },
+                  cast: {
+                      options: {
+                          // The default app id below is for the generic media receiver.
+                          // You can get your own app id from the Google Cast SDK Developer Console
+                          // https://cast.google.com/publish
+                          appId: 'CC1AD845',
                       }
                   }
               }}
@@ -88,7 +97,7 @@ const Player = ({contentUrl}: {contentUrl?: string}) => {
          return (
             <div className="bg-zinc-800/50 aspect-video flex flex-col items-center justify-center p-8 text-center text-foreground">
               <Music4 className="w-24 h-24 text-primary mb-4" />
-              <audio key={contentUrl} controls autoPlay src={contentUrl} className="w-full max-w-md mt-4">
+              <audio key={contentUrl} controls src={contentUrl} className="w-full max-w-md mt-4">
                 Tu navegador no soporta el elemento de audio.
               </audio>
             </div>
