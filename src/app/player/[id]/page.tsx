@@ -148,9 +148,7 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
             fluid: true,
             techOrder: ["chromecast", "html5"],
             plugins: {
-                chromecast: {
-                    buttonPositionIndex: -1
-                }
+                chromecast: {}
             },
             sources: [{
                 src: nowPlaying,
