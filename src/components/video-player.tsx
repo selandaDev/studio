@@ -3,7 +3,7 @@
 import React, { useEffect, useRef } from 'react';
 import videojs from 'video.js';
 import 'video.js/dist/video-js.css';
-import 'videojs-chromecast';
+import '@silvermine/videojs-chromecast';
 
 // This is needed for http-streaming to work with video.js
 import '@videojs/http-streaming';
