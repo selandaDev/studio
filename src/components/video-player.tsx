@@ -3,10 +3,13 @@
 import React, { useEffect, useRef } from 'react';
 import videojs from 'video.js';
 import 'video.js/dist/video-js.css';
-import '@silvermine/videojs-chromecast';
+import Chromecast from '@silvermine/videojs-chromecast';
 
 // This is needed for http-streaming to work with video.js
 import '@videojs/http-streaming';
+
+// Manually register the Chromecast plugin
+videojs.registerPlugin('chromecast', Chromecast);
 
 export const VideoPlayer = (props: { options: any, onReady?: (player: any) => void }) => {
   const videoRef = useRef<HTMLDivElement>(null);
