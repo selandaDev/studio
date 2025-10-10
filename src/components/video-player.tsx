@@ -18,12 +18,17 @@ export const VideoPlayer = (props: { options: any, onReady?: (player: any) => vo
   useEffect(() => {
     // Make sure Video.js player is only initialized once
     if (!playerRef.current) {
-      // The Video.js player needs a video element, so create one here.
       const videoElement = document.createElement("video-js");
-      
-      // We need to add the Chromecast button to the control bar
-      videojs.options.controlBar = {
-        children: [
+      videoElement.classList.add('vjs-big-play-centered');
+      if (videoRef.current) {
+        videoRef.current.appendChild(videoElement);
+      }
+
+      // Combine the passed options with the required Chromecast plugin configuration
+      const finalOptions = {
+        ...options,
+        controlBar: {
+          children: [
             'playToggle',
             'volumePanel',
             'progressControl',
@@ -32,22 +37,22 @@ export const VideoPlayer = (props: { options: any, onReady?: (player: any) => vo
             'durationDisplay',
             'pictureInPictureToggle',
             'fullscreenToggle',
-            'chromecastButton',
-        ],
+            'chromecastButton', // Ensure button is in the control bar
+          ],
+        },
+        plugins: {
+          ...options.plugins,
+          chromecast: {}, // Explicitly enable the chromecast plugin
+        },
       };
 
-      videoElement.classList.add('vjs-big-play-centered');
-      if (videoRef.current) {
-        videoRef.current.appendChild(videoElement);
-      }
-
-      const player = playerRef.current = videojs(videoElement, options, () => {
+      const player = playerRef.current = videojs(videoElement, finalOptions, () => {
         player.log('player is ready');
         onReady && onReady(player);
       });
       
-    // You can update player in the `else` block here, for example:
     } else {
+        // If player already exists, just update the source
         const player = playerRef.current;
         player.autoplay(options.autoplay);
         player.src(options.sources);

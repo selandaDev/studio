@@ -1,5 +1,13 @@
 
 "use client";
+import videojs from 'video.js';
+import 'video.js/dist/video-js.css';
+
+// Import Chromecast for its side effects to register the plugin
+import '@silvermine/videojs-chromecast';
+
+// This is needed for http-streaming to work with video.js
+import '@videojs/http-streaming';
 import { deleteContent, getContent, Content, Episode, Track } from "@/lib/data";
 import Image from "next/image";
 import { notFound, useRouter } from "next/navigation";
@@ -181,6 +189,7 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
         </div>
       )
   }
+
 
   return (
     <div className="container mx-auto p-4 md:p-8">
