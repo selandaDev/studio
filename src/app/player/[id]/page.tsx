@@ -143,19 +143,62 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
     </Card>
   )
 
+
+  const videoJsOptions = {
+    controls: true,
+    autoplay: false,
+    preload: 'auto',
+    fluid: true,
+    sources: [{
+      src: 'https://example.com/video.mp4',
+      type: 'video/mp4'
+    }],
+    plugins: {
+      chromecast: {
+        buttonPositionIndex: 2, // posición del botón en la control bar
+        receiverAppID: 'CC1AD845', // ID por defecto de la app Chromecast
+      },
+    },
+    controlBar: {
+      children: [
+        'playToggle',
+        'progressControl',
+        'volumePanel',
+        'chromecastButton', // 👈 añadimos el botón aquí
+        'fullscreenToggle',
+      ],
+    },
+  };
+  
+
   const Player = () => {
       if (nowPlayingType === 'video' && nowPlaying) {
         const videoJsOptions = {
-            autoplay: true,
             controls: true,
-            responsive: true,
+            autoplay: false,
+            preload: 'auto',
             fluid: true,
             sources: [{
                 src: nowPlaying,
                 type: nowPlaying.endsWith('.m3u8') ? 'application/x-mpegURL' 
                     : nowPlaying.endsWith('.mpd') ? 'application/dash+xml'
                     : `video/${nowPlaying.split('.').pop()}`
-            }]
+            }],
+            plugins: {
+              chromecast: {
+                buttonPositionIndex: 2, // posición del botón en la control bar
+                receiverAppID: 'CC1AD845', // ID por defecto de la app Chromecast
+              },
+            },
+            controlBar: {
+              children: [
+                'playToggle',
+                'progressControl',
+                'volumePanel',
+                'chromecastButton', // 👈 añadimos el botón aquí
+                'fullscreenToggle',
+              ],
+            },
         };
         return <VideoPlayer options={videoJsOptions} />;
       }
