@@ -74,6 +74,9 @@ export async function getContent(filters: { type?: ContentType | ContentType[]; 
       item.genre.toLowerCase().includes(lowercasedQuery)
     );
   }
+  
+  // Ordenar alfabéticamente por título
+  content.sort((a, b) => a.title.localeCompare(b.title));
 
   return content;
 }
