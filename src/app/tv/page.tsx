@@ -137,7 +137,7 @@ export default function TvPage() {
                                         >
                                             <div className="relative h-10 w-10 flex-shrink-0">
                                                 <Image 
-                                                    src={channel.logo} 
+                                                    src={channel.logo || '/tvicon.png'} 
                                                     alt={`${channel.name} logo`}
                                                     fill
                                                     sizes="40px"
