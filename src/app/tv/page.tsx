@@ -28,10 +28,10 @@ export default function TvPage() {
     }, []);
 
     useEffect(() => {
-        const channelsFromCountry = allChannels.filter(c => c.countryCode === selectedCountry);
+        const channelsFromCountry = allChannels.filter(c => c.country === selectedCountry);
         setFilteredChannels(channelsFromCountry);
 
-        if (channelsFromCountry.length > 0 && !nowPlaying) {
+        if (channelsFromCountry.length > 0 && (!nowPlaying || nowPlaying.country !== selectedCountry)) {
             handleChannelSelect(channelsFromCountry[0]);
         } else if (channelsFromCountry.length === 0) {
             setNowPlaying(null);
@@ -42,8 +42,8 @@ export default function TvPage() {
 
     const countries = useMemo(() => {
         const countryMap = allChannels.reduce((acc, channel) => {
-            if (!acc[channel.countryCode]) {
-                acc[channel.countryCode] = channel.countryName;
+            if (channel.country && !acc[channel.country]) {
+                acc[channel.country] = channel.country; // Using country code as name for now
             }
             return acc;
         }, {} as Record<string, string>);
@@ -51,6 +51,7 @@ export default function TvPage() {
     }, [allChannels]);
 
     const handleChannelSelect = (channel: TvChannel) => {
+        if (!channel.url) return;
         setNowPlaying(channel);
         const newOptions = {
             controls: true,
@@ -106,7 +107,7 @@ export default function TvPage() {
                     </Card>
                      <div>
                         <h1 className="text-4xl font-bold tracking-tight">{nowPlaying?.name || 'Televisión en Directo'}</h1>
-                        <p className="text-lg text-muted-foreground">{nowPlaying?.countryName}</p>
+                        <p className="text-lg text-muted-foreground">{nowPlaying?.country}</p>
                     </div>
                 </div>
 

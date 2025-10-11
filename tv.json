@@ -1,45 +1,48 @@
 
-{
-  "channels": [
-    {
-      "id": "tv-1",
-      "name": "Canal 24 Horas",
-      "logo": "https://www.rtve.es/favicon.ico",
-      "url": "https://rtve-live.akamaized.net/fast/live/rtve-24h/rtve-24h-1080/master.m3u8",
-      "countryCode": "ES",
-      "countryName": "España"
-    },
-    {
-      "id": "tv-2",
-      "name": "Andalucía TV",
-      "logo": "https://www.canalsur.es/resources/img/canalsur/favicon.ico",
-      "url": "https://cdn-live.rs-adm.com/public/canalsur_atv/index.m3u8",
-      "countryCode": "ES",
-      "countryName": "España"
-    },
-    {
-      "id": "tv-3",
-      "name": "France 24",
-      "logo": "https://www.france24.com/es/favicon.ico",
-      "url": "https://ftvingest-france24-live.srgssr.ch/hls/live/2033320/french/master.m3u8",
-      "countryCode": "FR",
-      "countryName": "Francia"
-    },
-    {
-      "id": "tv-4",
-      "name": "Euronews",
-      "logo": "https://www.euronews.com/favicon.ico",
-      "url": "https://streaming-euronews.euronews.com/p/reg/live/es/euronews-es-1080p.m3u8",
-      "countryCode": "INT",
-      "countryName": "Internacional"
-    },
-    {
-      "id": "tv-5",
-      "name": "Bloomberg TV",
-      "logo": "https://www.bloomberg.com/favicon.ico",
-      "url": "https://live-streams.bloomberg.com/api/sdk/subtitles/english/live.m3u8",
-      "countryCode": "INT",
-      "countryName": "Internacional"
-    }
-  ]
-}
+[
+  {
+    "name": "Canal 24 Horas",
+    "logo": "https://www.rtve.es/favicon.ico",
+    "website": "https://www.rtve.es/play/videos/directo/canal-24h/",
+    "country": "ES",
+    "streams": [
+      "https://rtve-live-dvr-movistar-1-cdn.nedmedia.io/rtve-live-dvr-movistar/1/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Andalucía TV",
+    "logo": "https://www.canalsur.es/resources/img/canalsur/favicon.ico",
+    "website": "https://www.canalsur.es/television/directo-atv-1.html",
+    "country": "ES",
+    "streams": [
+      "https://idirecto.rtva.es/andalucia-tv/smil:live.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "France 24",
+    "logo": "https://www.france24.com/es/favicon.ico",
+    "website": "https://www.france24.com/es/en-vivo",
+    "country": "FR",
+    "streams": [
+      "https://f24hls-i.akamaihd.net/hls/live/2002911/F24_ES_HI_HLS/master.m3u8"
+    ]
+  },
+  {
+    "name": "Euronews",
+    "logo": "https://www.euronews.com/favicon.ico",
+    "website": "https://www.euronews.com/live",
+    "country": "INT",
+    "streams": [
+      "https://euronews.alteox.app/hls/euronews_es.m3u8"
+    ]
+  },
+  {
+    "name": "Bloomberg TV",
+    "logo": "https://www.bloomberg.com/favicon.ico",
+    "website": "https://www.bloomberg.com/live/europe",
+    "country": "INT",
+    "streams": [
+      "https://live-streams.cdn.vizio.com/Vizio_Live_Caster/px-225.m3u8"
+    ]
+  }
+]

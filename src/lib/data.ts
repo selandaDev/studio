@@ -32,13 +32,21 @@ export interface Content {
   tracks?: Track[]; // For music
 }
 
+interface TvChannelSource {
+    name: string;
+    logo: string;
+    website?: string;
+    country: string;
+    streams: string[] | string;
+}
+
+
 export interface TvChannel {
     id: string;
     name: string;
     logo: string;
-    url: string;
-    countryCode: string;
-    countryName: string;
+    url: string | null;
+    country: string;
 }
 
 const dbPath = path.join(process.cwd(), 'db.json');
@@ -54,13 +62,13 @@ async function readDb(): Promise<{ content: Content[] }> {
   }
 }
 
-async function readTvDb(): Promise<{ channels: TvChannel[] }> {
+async function readTvDb(): Promise<TvChannelSource[]> {
   try {
     const fileContent = await fs.readFile(tvDbPath, 'utf-8');
     return JSON.parse(fileContent);
   } catch (error) {
     console.error('Error reading tv.json:', error);
-    return { channels: [] };
+    return [];
   }
 }
 
@@ -103,11 +111,26 @@ export async function getContent(filters: { type?: ContentType | ContentType[]; 
 }
 
 export async function getTvChannels(filters: { countryCode?: string } = {}): Promise<TvChannel[]> {
-  const db = await readTvDb();
-  let channels = db.channels;
+  const rawChannels = await readTvDb();
+  let channels: TvChannel[] = rawChannels.map((channel, index) => {
+    let streamUrl: string | null = null;
+    if (Array.isArray(channel.streams) && channel.streams.length > 0) {
+        streamUrl = channel.streams[0];
+    } else if (typeof channel.streams === 'string') {
+        streamUrl = channel.streams;
+    }
+
+    return {
+        id: `tv-${index}-${channel.name.replace(/\s+/g, '')}`,
+        name: channel.name,
+        logo: channel.logo,
+        country: channel.country,
+        url: streamUrl
+    };
+  }).filter(c => c.url); // Filter out channels with no valid stream URL
 
   if (filters.countryCode) {
-    channels = channels.filter(channel => channel.countryCode === filters.countryCode);
+    channels = channels.filter(channel => channel.country === filters.countryCode);
   }
 
   channels.sort((a, b) => a.name.localeCompare(b.name));
