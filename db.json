@@ -291,6 +291,28 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
       "imageHint": "movie",
       "url": "/files/pelis/Deadpool Y Lobezno.mp4"
+    },
+    {
+      "id": "mov15",
+      "title": "Harry Potter y la Piedra Filosofal",
+      "type": "movie",
+      "genre": "Fantasía",
+      "year": 2001,
+      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/7xXJ15VEf7G9GdAuV1dO769yC73.jpg",
+      "imageHint": "movie",
+      "url": "/files/pelis/HarryPotter1.mp4"
+    },
+    {
+      "id": "mov16",
+      "title": "Harry Potter y la Cámara Secreta",
+      "type": "movie",
+      "genre": "Fantasía",
+      "year": 2002,
+      "description": "Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg",
+      "imageHint": "movie",
+      "url": "/files/pelis/HarryPotter2.mp4"
     }
   ]
 }
