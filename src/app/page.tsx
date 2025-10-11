@@ -46,7 +46,6 @@ export default function HomePage() {
   const [movies, setMovies] = useState<Content[]>([]);
   const [series, setSeries] = useState<Content[]>([]);
   const [music, setMusic] = useState<Content[]>([]);
-  const [recentlyAdded, setRecentlyAdded] = useState<Content[]>([]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -58,21 +57,17 @@ export default function HomePage() {
       setSeries(allSeries);
       setMusic(allMusic);
 
-      const allContent = [...allMovies, ...allSeries, ...allMusic].sort((a, b) => b.year - a.year);
-      setRecentlyAdded(allContent.slice(0, 12));
     }
     fetchData();
   }, []);
   
   return (
     <div className="container mx-auto py-8 px-4 md:px-6 lg:px-8 space-y-12">
-      <ContentCarousel title="Añadido Recientemente" items={recentlyAdded} />
+      <ContentCarousel title="Películas" items={movies} />
       <Separator />
-      <ContentCarousel title="Películas Destacadas" items={movies} />
+      <ContentCarousel title="Series" items={series} />
       <Separator />
-      <ContentCarousel title="Series Populares" items={series} />
-      <Separator />
-      <ContentCarousel title="Nuevos Álbumes" items={music} />
+      <ContentCarousel title="Música" items={music} />
     </div>
   );
 }
