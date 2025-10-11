@@ -4,7 +4,7 @@
 import Link from 'next/link';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import * as React from 'react';
-import { Film, Home, ListMusic, Tv, PlusSquare, Search, Menu } from 'lucide-react';
+import { Film, Home, ListMusic, Tv, PlusSquare, Search, Menu, ScreenShare } from 'lucide-react';
 
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -67,6 +67,7 @@ function MobileSidebar() {
                 <NavLink href="/" icon={Home}>Inicio</NavLink>
                 <NavLink href="/movies" icon={Film}>Películas</NavLink>
                 <NavLink href="/series" icon={Tv}>Series</NavLink>
+                <NavLink href="/tv" icon={ScreenShare}>TV</NavLink>
                 <NavLink href="/music" icon={ListMusic}>Música</NavLink>
                 <NavLink href="/add-content" icon={PlusSquare}>Añadir Contenido</NavLink>
             </nav>

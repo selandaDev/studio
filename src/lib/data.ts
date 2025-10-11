@@ -32,7 +32,17 @@ export interface Content {
   tracks?: Track[]; // For music
 }
 
+export interface TvChannel {
+    id: string;
+    name: string;
+    logo: string;
+    url: string;
+    countryCode: string;
+    countryName: string;
+}
+
 const dbPath = path.join(process.cwd(), 'db.json');
+const tvDbPath = path.join(process.cwd(), 'tv.json');
 
 async function readDb(): Promise<{ content: Content[] }> {
   try {
@@ -43,6 +53,17 @@ async function readDb(): Promise<{ content: Content[] }> {
     return { content: [] };
   }
 }
+
+async function readTvDb(): Promise<{ channels: TvChannel[] }> {
+  try {
+    const fileContent = await fs.readFile(tvDbPath, 'utf-8');
+    return JSON.parse(fileContent);
+  } catch (error) {
+    console.error('Error reading tv.json:', error);
+    return { channels: [] };
+  }
+}
+
 
 async function writeDb(data: { content: Content[] }): Promise<void> {
   try {
@@ -80,6 +101,20 @@ export async function getContent(filters: { type?: ContentType | ContentType[]; 
 
   return content;
 }
+
+export async function getTvChannels(filters: { countryCode?: string } = {}): Promise<TvChannel[]> {
+  const db = await readTvDb();
+  let channels = db.channels;
+
+  if (filters.countryCode) {
+    channels = channels.filter(channel => channel.countryCode === filters.countryCode);
+  }
+
+  channels.sort((a, b) => a.name.localeCompare(b.name));
+
+  return channels;
+}
+
 
 type AddMoviePayload = {
     type: 'movie';

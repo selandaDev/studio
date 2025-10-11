@@ -115,26 +115,22 @@
     },
     {
       "id": "mus1",
-      "title": "In the Aeroplane Over the Sea",
-      "artist": "Neutral Milk Hotel",
+      "title": "SFDK 30 Aniversario",
+      "artist": "SFDK",
       "type": "music",
-      "genre": "Indie Rock",
-      "year": 1998,
-      "description": "Un álbum de indie rock seminal, conocido por su instrumentación única y letras surrealistas.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/21/In_the_aeroplane_over_the_sea_cover.jpg",
+      "genre": "Hip Hop",
+      "year": 2024,
+      "description": "Concierto por los 30 años de SFDK que tubo lugar en el estadio de la Cartuja en 2024.",
+      "imageUrl": "https://sfdkoficial.com/wp-content/uploads/2023/03/1080x1080.jpg",
       "imageHint": "indie music",
       "tracks": [
         {
-          "title": "King of Carrot Flowers, Pt. 1",
-          "url": "https://www.youtube.com/watch?v=L6_0w-r79kU"
+          "title": "Parte 1",
+          "url": "https://youtu.be/fb4wdTpkhBs?si=dPdORhXoLm2KCG2D"
         },
         {
-          "title": "In the Aeroplane Over the Sea",
-          "url": "https://www.youtube.com/watch?v=hD6_q_p2w2M"
-        },
-        {
-          "title": "Two-Headed Boy",
-          "url": "https://www.youtube.com/watch?v=TudLjZ_4NBs"
+          "title": "Parte 2",
+          "url": "https://youtu.be/J8RbqFVHemc?si=g0P9Ilb-uLbmK7j5"
         }
       ]
     },
@@ -286,7 +282,7 @@
       "title": "Deadpool y Lobezno",
       "type": "movie",
       "genre": "Comedia",
-      "year": 2011,
+      "year": 2024,
       "description": "Un apático Wade Wilson se afana en la vida civil tras dejar atrás sus días como Deadpool, un mercenario moralmente flexible. Pero cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe volver a vestirse a regañadientes con un Lobezno aún más reacio a ayudar.",
       "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
       "imageHint": "movie",

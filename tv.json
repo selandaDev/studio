@@ -1,0 +1,45 @@
+
+{
+  "channels": [
+    {
+      "id": "tv-1",
+      "name": "Canal 24 Horas",
+      "logo": "https://www.rtve.es/favicon.ico",
+      "url": "https://rtve-live.akamaized.net/fast/live/rtve-24h/rtve-24h-1080/master.m3u8",
+      "countryCode": "ES",
+      "countryName": "España"
+    },
+    {
+      "id": "tv-2",
+      "name": "Andalucía TV",
+      "logo": "https://www.canalsur.es/resources/img/canalsur/favicon.ico",
+      "url": "https://cdn-live.rs-adm.com/public/canalsur_atv/index.m3u8",
+      "countryCode": "ES",
+      "countryName": "España"
+    },
+    {
+      "id": "tv-3",
+      "name": "France 24",
+      "logo": "https://www.france24.com/es/favicon.ico",
+      "url": "https://ftvingest-france24-live.srgssr.ch/hls/live/2033320/french/master.m3u8",
+      "countryCode": "FR",
+      "countryName": "Francia"
+    },
+    {
+      "id": "tv-4",
+      "name": "Euronews",
+      "logo": "https://www.euronews.com/favicon.ico",
+      "url": "https://streaming-euronews.euronews.com/p/reg/live/es/euronews-es-1080p.m3u8",
+      "countryCode": "INT",
+      "countryName": "Internacional"
+    },
+    {
+      "id": "tv-5",
+      "name": "Bloomberg TV",
+      "logo": "https://www.bloomberg.com/favicon.ico",
+      "url": "https://live-streams.bloomberg.com/api/sdk/subtitles/english/live.m3u8",
+      "countryCode": "INT",
+      "countryName": "Internacional"
+    }
+  ]
+}
