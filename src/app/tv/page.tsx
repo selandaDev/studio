@@ -55,7 +55,7 @@ export default function TvPage() {
         setNowPlaying(channel);
         const newOptions = {
             controls: true,
-            autoplay: true,
+            autoplay: false,
             preload: 'auto',
             fluid: true,
             sources: [{
