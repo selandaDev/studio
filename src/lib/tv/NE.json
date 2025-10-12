@@ -1,0 +1,109 @@
+﻿[
+    {
+        "name":  "Anfani TV",
+        "logo":  "https://i.imgur.com/m1MBipH.png",
+        "website":  null,
+        "country":  "NE",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/anfani/playlist.m3u8"
+    },
+    {
+        "name":  "Bonferey",
+        "logo":  "https://i.imgur.com/7JvJ9YQ.png",
+        "website":  null,
+        "country":  "NE",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/bonferey/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 3 Monde",
+        "logo":  "https://i.imgur.com/MWakZfV.png",
+        "website":  null,
+        "country":  "NE",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/canal3monde/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 3 Niger",
+        "logo":  "https://i.imgur.com/Yf35GQC.png",
+        "website":  null,
+        "country":  "NE",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/canal3niger/playlist.m3u8"
+    },
+    {
+        "name":  "Dounia TV",
+        "logo":  "https://i.imgur.com/ENBCDaQ.png",
+        "website":  null,
+        "country":  "NE",
+        "streams":  [
+                        "https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/dounia/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Esperance TV",
+        "logo":  "https://i.imgur.com/qnzuGlL.jpeg",
+        "website":  null,
+        "country":  "NE",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/esperance/playlist.m3u8"
+    },
+    {
+        "name":  "Fidelite TV",
+        "logo":  "https://i.imgur.com/GgUSm8y.png",
+        "website":  null,
+        "country":  "NE",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/fidelite/playlist.m3u8"
+    },
+    {
+        "name":  "Labari TV",
+        "logo":  "https://i.imgur.com/XarGoSg.png",
+        "website":  "https://www.labarinfo.com/",
+        "country":  "NE",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/labari/playlist.m3u8"
+    },
+    {
+        "name":  "Liptako TV",
+        "logo":  "https://i.imgur.com/JOFCHc9.png",
+        "website":  null,
+        "country":  "NE",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/liptako/playlist.m3u8"
+    },
+    {
+        "name":  "Saraounia TV",
+        "logo":  "https://i.imgur.com/O8XIcpH.png",
+        "website":  null,
+        "country":  "NE",
+        "streams":  [
+                        "https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/saraounia/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Tal TV",
+        "logo":  "https://i.imgur.com/KWMP0t1.png",
+        "website":  "https://www.ortn.ne/",
+        "country":  "NE",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/taltv/playlist.m3u8"
+    },
+    {
+        "name":  "Tambara TV",
+        "logo":  "https://i.imgur.com/zIzVsGs.png",
+        "website":  null,
+        "country":  "NE",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/tambara/playlist.m3u8"
+    },
+    {
+        "name":  "Tele Sahel",
+        "logo":  "https://i.imgur.com/vboq428.png",
+        "website":  "http://www.ortn.ne/",
+        "country":  "NE",
+        "streams":  [
+                        "http://69.64.57.208/telesahel/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/telesahel/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Tenere TV",
+        "logo":  "https://i.imgur.com/dLvj6Mh.png",
+        "website":  null,
+        "country":  "NE",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/tenere/playlist.m3u8"
+    }
+]

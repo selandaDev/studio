@@ -1,0 +1,134 @@
+﻿[
+    {
+        "name":  "National Geographic",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "website":  null,
+        "country":  "MT",
+        "streams":  [
+                        "http://62.210.211.188:2095/play/a00d",
+                        "http://78.130.250.2:8023/play/a02e/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeohd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "National Geographic Wild",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "website":  null,
+        "country":  "MT",
+        "streams":  [
+                        "http://78.130.250.2:8023/play/a02c/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeowild/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "NET",
+        "logo":  "https://i.imgur.com/K4Uve1n.png",
+        "website":  "https://netondemand.mt/",
+        "country":  "MT",
+        "streams":  "http://80.79.6.221:25461/smash/public/22"
+    },
+    {
+        "name":  "One",
+        "logo":  "https://i.imgur.com/UPlfzFx.png",
+        "website":  "https://one.com.mt/",
+        "country":  "MT",
+        "streams":  [
+                        "http://80.79.6.221:25461/smash/public/21",
+                        "https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Parliament of Malta",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png",
+        "website":  "http://www.parlament.mt/",
+        "country":  "MT",
+        "streams":  "http://80.79.6.221:25461/smash/public/23"
+    },
+    {
+        "name":  "Smash TV",
+        "logo":  "https://i.imgur.com/Yg6ZWKu.png",
+        "website":  "https://smashmalta.com/",
+        "country":  "MT",
+        "streams":  "http://80.79.6.221:25461/smash/public/1"
+    },
+    {
+        "name":  "TSN1",
+        "logo":  "https://i.imgur.com/esX2y6V.png",
+        "website":  null,
+        "country":  "MT",
+        "streams":  [
+                        "https://fl7.moveonjoy.com/TSN_1/index.m3u8",
+                        "https://tvpass.org/live/tsn1/hd",
+                        "https://tvpass.org/live/tsn1/sd"
+                    ]
+    },
+    {
+        "name":  "TSN2",
+        "logo":  "https://i.imgur.com/ixrzpl8.png",
+        "website":  null,
+        "country":  "MT",
+        "streams":  [
+                        "https://fl7.moveonjoy.com/TSN_2/index.m3u8",
+                        "https://tvpass.org/live/tsn2/hd",
+                        "https://tvpass.org/live/tsn2/sd"
+                    ]
+    },
+    {
+        "name":  "TSN3",
+        "logo":  "https://i.imgur.com/8cvOxZb.png",
+        "website":  null,
+        "country":  "MT",
+        "streams":  [
+                        "https://fl7.moveonjoy.com/TSN_3/index.m3u8",
+                        "https://tvpass.org/live/tsn3/hd",
+                        "https://tvpass.org/live/tsn3/sd"
+                    ]
+    },
+    {
+        "name":  "TSN4",
+        "logo":  "https://www.melita.com/wp-content/plugins/melita-tv-pages/img/sports/tsn-logos/TSN4-live.png",
+        "website":  null,
+        "country":  "MT",
+        "streams":  [
+                        "https://fl7.moveonjoy.com/TSN_4/index.m3u8",
+                        "https://tvpass.org/live/tsn4/hd",
+                        "https://tvpass.org/live/tsn4/sd"
+                    ]
+    },
+    {
+        "name":  "TSN5",
+        "logo":  "https://i.imgur.com/ATCCeTX.png",
+        "website":  null,
+        "country":  "MT",
+        "streams":  [
+                        "https://fl7.moveonjoy.com/TSN_5/index.m3u8",
+                        "https://tvpass.org/live/tsn5/hd",
+                        "https://tvpass.org/live/tsn5/sd"
+                    ]
+    },
+    {
+        "name":  "TVM",
+        "logo":  "https://i.postimg.cc/tTf0V69B/tvm.png",
+        "website":  "https://tvmi.mt/live/2",
+        "country":  "MT",
+        "streams":  "http://80.79.6.221:25461/smash/public/19"
+    },
+    {
+        "name":  "TVMnews+",
+        "logo":  "https://i.imgur.com/CFcst4g.png",
+        "website":  "https://tvmi.mt/live/3",
+        "country":  "MT",
+        "streams":  "http://80.79.6.221:25461/smash/public/20"
+    },
+    {
+        "name":  "UTV",
+        "logo":  "https://i.imgur.com/R82XdpB.png",
+        "website":  "https://utv.mt/",
+        "country":  "MT",
+        "streams":  [
+                        "https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8",
+                        "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8",
+                        "https://v2.tustreaming.cl/utv/index.m3u8"
+                    ]
+    }
+]

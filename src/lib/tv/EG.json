@@ -1,0 +1,365 @@
+﻿[
+    {
+        "name":  "Aghapy TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg",
+        "website":  "http://www.aghapy.tv/",
+        "country":  "EG",
+        "streams":  [
+                        "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/aghapytv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Alfath Sonnah TV",
+        "logo":  "https://i.imgur.com/7VYJStp.png",
+        "website":  "https://alfath.tv/",
+        "country":  "EG",
+        "streams":  [
+                        "https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/alfathsonnahtv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Alfath TV",
+        "logo":  "https://i.imgur.com/87bdieg.png",
+        "website":  "https://alfath.tv/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/alfathal3amh/playlist.m3u8"
+    },
+    {
+        "name":  "Al Ghad TV",
+        "logo":  "https://i.postimg.cc/kGMx1Npy/alghadtv.png",
+        "website":  "https://www.alghad.tv/",
+        "country":  "EG",
+        "streams":  [
+                        "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alghad/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "AlHadath Alyoum",
+        "logo":  "https://i.ibb.co/sd2k94pS/Final-Hadath.png",
+        "website":  "https://helyoum.com/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/alhadathalyoum/playlist.m3u8"
+    },
+    {
+        "name":  "Alhayat Drama",
+        "logo":  "https://i.imgur.com/vVM7I4a.png",
+        "website":  "https://elcinema.com/en/tvguide/1138/",
+        "country":  "EG",
+        "streams":  "http://213.57.91.138:8000/play/a06s"
+    },
+    {
+        "name":  "Alhayat TV",
+        "logo":  "https://i.imgur.com/bl9ie9u.png",
+        "website":  "https://elcinema.com/en/tvguide/1137/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayathd/playlist.m3u8"
+    },
+    {
+        "name":  "Al Kahera Wal Nas 2",
+        "logo":  "https://i.postimg.cc/DZvJnvPv/alkaherawalnas2.png",
+        "website":  "http://www.alkaherawalnas.com/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alkaherawalnas2/playlist.m3u8"
+    },
+    {
+        "name":  "Al Masriyah",
+        "logo":  "https://i.ibb.co/Kx7wmXCQ/almasriya.png",
+        "website":  "http://dotnet.ertu.org/",
+        "country":  "EG",
+        "streams":  [
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/almasriya/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8"
+                    ]
+    },
+    {
+        "name":  "Al-Nahar",
+        "logo":  "https://i.ibb.co/WN6bh6mq/alnahar.png",
+        "website":  "https://www.al-nahar.tv/",
+        "country":  "EG",
+        "streams":  "http://213.57.91.138:8000/play/a06m"
+    },
+    {
+        "name":  "Al-Nahar Drama",
+        "logo":  "https://i.ibb.co/ksnNhr5w/Al-Nahar-Drama.png",
+        "website":  "https://www.al-nahar.tv/",
+        "country":  "EG",
+        "streams":  [
+                        "http://213.57.91.138:8000/play/a06n",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alnahardrama/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Al Qahera News",
+        "logo":  "https://i.postimg.cc/gj6YPQQc/alqaheranews.png",
+        "website":  "https://alqaheranews.net/",
+        "country":  "EG",
+        "streams":  [
+                        "https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alqaheranews/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Al Shams TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/aa/al-shams-tv-eg.png",
+        "website":  null,
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alshams/playlist.m3u8"
+    },
+    {
+        "name":  "AlShoub",
+        "logo":  "https://i.postimg.cc/rFXdwNJZ/alshoub.png",
+        "website":  "https://alshoub.tv",
+        "country":  "EG",
+        "streams":  "https://play.tactivemedia.com/memfs/c5919b97-5329-4b84-91b2-613c6ed9953e.m3u8"
+    },
+    {
+        "name":  "Al Wathaeqya",
+        "logo":  "https://i.postimg.cc/d3M0DJ8Z/alwathaeqya.png",
+        "website":  null,
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alwathaeqyia/playlist.m3u8"
+    },
+    {
+        "name":  "CBC",
+        "logo":  "https://i.postimg.cc/zf2QCjXT/cbc.png",
+        "website":  "https://www.cbc-eg.com/",
+        "country":  "EG",
+        "streams":  [
+                        "http://213.57.91.138:8000/play/a06o",
+                        "https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/cbc/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "CBC Drama",
+        "logo":  "https://i.postimg.cc/MTcFdQvN/cbcdrama.png",
+        "website":  "https://www.cbc-eg.com/drama",
+        "country":  "EG",
+        "streams":  [
+                        "http://213.57.91.138:8000/play/a06q",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/cbcdrama/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "CBC Sofra",
+        "logo":  "https://i.postimg.cc/wvSbPjNv/cbcsofra.png",
+        "website":  "https://sofra.cbc-eg.com/",
+        "country":  "EG",
+        "streams":  [
+                        "http://213.57.91.138:8000/play/a06p",
+                        "https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/cbcsofra/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Cima",
+        "logo":  "https://i.ibb.co/p6SPr0Ym/Cima.png",
+        "website":  null,
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayatcinema/playlist.m3u8"
+    },
+    {
+        "name":  "Coptic TV",
+        "logo":  "https://www.ctvchannel.tv/images/CTV-logo-white.png",
+        "website":  "https://www.ctvchannel.tv/",
+        "country":  "EG",
+        "streams":  [
+                        "https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/ctv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "DMC",
+        "logo":  "https://i.postimg.cc/dDPyyzyD/dmc.png",
+        "website":  "https://dmc.com.eg/",
+        "country":  "EG",
+        "streams":  [
+                        "https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/dmc/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "DMC Drama",
+        "logo":  "https://i.postimg.cc/bYGV1knj/dmcdrama.png",
+        "website":  "https://dmc.com.eg/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/dmcdrama/playlist.m3u8"
+    },
+    {
+        "name":  "Egyptian TV",
+        "logo":  "https://i.imgur.com/rrizXzM.png",
+        "website":  "https://www.maspero.eg/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/egyptiantvhd/playlist.m3u8"
+    },
+    {
+        "name":  "El Mehwar Channel",
+        "logo":  "https://i.ibb.co/84t3yXTV/mehwar.png",
+        "website":  null,
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/elmehwar/playlist.m3u8"
+    },
+    {
+        "name":  "El Radio 9090 FM",
+        "logo":  "https://www.9090.fm/images/logo.png",
+        "website":  "https://www.9090.fm/",
+        "country":  "EG",
+        "streams":  "https://9090video.mobtada.com/hls/stream.m3u8"
+    },
+    {
+        "name":  "ERTU 1",
+        "logo":  "https://i.postimg.cc/kghfV555/ertu1.png",
+        "website":  "http://dotnet.ertu.org/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/aloula/playlist.m3u8"
+    },
+    {
+        "name":  "Extra News",
+        "logo":  "https://i.postimg.cc/NfRK9Cf2/extranews.png",
+        "website":  "https://extranews.tv/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/cbcextranews/playlist.m3u8"
+    },
+    {
+        "name":  "Huda TV",
+        "logo":  "https://i.postimg.cc/HkRbDZzS/hudatv.png",
+        "website":  "https://huda.tv/",
+        "country":  "EG",
+        "streams":  "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
+    },
+    {
+        "name":  "Koogi TV",
+        "logo":  "https://i.postimg.cc/L6RVsbzh/koogitv.png",
+        "website":  "https://www.koogi.tv/",
+        "country":  "EG",
+        "streams":  "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
+    },
+    {
+        "name":  "MBC 1 Egypt",
+        "logo":  "https://i.imgur.com/CiA3plN.png",
+        "website":  null,
+        "country":  "EG",
+        "streams":  "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8"
+    },
+    {
+        "name":  "MBC Masr",
+        "logo":  "https://i.postimg.cc/YSZCXTp3/mbcmasr.png",
+        "website":  "http://www.mbc.net/ar/mbc-maser.html",
+        "country":  "EG",
+        "streams":  "https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8"
+    },
+    {
+        "name":  "MBC Masr 2",
+        "logo":  "https://i.postimg.cc/4dcNjwyT/mbcmasr2.png",
+        "website":  "http://www.mbc.net/ar/mbc-maser.html",
+        "country":  "EG",
+        "streams":  "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8"
+    },
+    {
+        "name":  "MESat",
+        "logo":  "https://i.postimg.cc/13Z2DJPn/mesat.png",
+        "website":  "https://mesat.tv/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/mesat2/playlist.m3u8"
+    },
+    {
+        "name":  "Misr Al Zeraya",
+        "logo":  "https://i.imgur.com/hudbg2E.png",
+        "website":  "https://misrelzraea.com/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/misralzera3eya/playlist.m3u8"
+    },
+    {
+        "name":  "Mix Hollywood",
+        "logo":  "https://i.imgur.com/1ENdbZn.png",
+        "website":  null,
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/mix/playlist.m3u8"
+    },
+    {
+        "name":  "Nile Culture",
+        "logo":  "https://i.imgur.com/fcIuSiX.png",
+        "website":  "http://www.niletc.tv/Channel/culture",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/nileculture/playlist.m3u8"
+    },
+    {
+        "name":  "Nile News",
+        "logo":  "https://i.ibb.co/Kz0H3mLP/Nile-News.png",
+        "website":  "https://www.nile.eg/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/alnilenews/playlist.m3u8"
+    },
+    {
+        "name":  "NogoumFMTV",
+        "logo":  "https://i.imgur.com/krp3kgv.png",
+        "website":  "https://www.nogoumfm.net/",
+        "country":  "EG",
+        "streams":  [
+                        "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/nogoumfmtv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "On Drama",
+        "logo":  "https://i.postimg.cc/NM9TjWG9/ondrama.png",
+        "website":  "https://www.on-eg.com/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/ondrama/playlist.m3u8"
+    },
+    {
+        "name":  "On E",
+        "logo":  "https://i.imgur.com/EPln9yU.png",
+        "website":  "https://www.on-eg.com/",
+        "country":  "EG",
+        "streams":  [
+                        "https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/onehd/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "PNC Drama",
+        "logo":  "https://i.postimg.cc/wBsfSbK2/pncdrama.png",
+        "website":  null,
+        "country":  "EG",
+        "streams":  "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8"
+    },
+    {
+        "name":  "Rotana Cinema Egypt",
+        "logo":  "https://i.postimg.cc/d1QYwYqv/rotanacinemaegypt.png",
+        "website":  "http://www.cinema.rotana.net/",
+        "country":  "EG",
+        "streams":  "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8"
+    },
+    {
+        "name":  "Sada Elbalad",
+        "logo":  "https://i.imgur.com/vOKvPeK.png",
+        "website":  "https://www.elbalad.news/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbalad/playlist.m3u8"
+    },
+    {
+        "name":  "Sada Elbalad Drama",
+        "logo":  "https://i.imgur.com/3VLjZKc.png",
+        "website":  "https://www.elbalad.news/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbaladdrama/playlist.m3u8"
+    },
+    {
+        "name":  "TeN",
+        "logo":  "https://i.ibb.co/zWQjVq6s/ten-tv.png",
+        "website":  "https://www.ten.tv/",
+        "country":  "EG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/ten/playlist.m3u8"
+    },
+    {
+        "name":  "Watan TV",
+        "logo":  "https://i.postimg.cc/5y57gQw5/watantv.png",
+        "website":  "https://watanegypt.tv/",
+        "country":  "EG",
+        "streams":  "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8"
+    }
+]

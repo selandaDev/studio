@@ -1,0 +1,392 @@
+﻿[
+    {
+        "name":  "3ABN TV Uganda",
+        "logo":  "https://i.imgur.com/mml9lI2.png",
+        "website":  "https://avventomedia.org/",
+        "country":  "UG",
+        "streams":  "https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8"
+    },
+    {
+        "name":  "ACW UG TV",
+        "logo":  "https://i.imgur.com/8pzEmcJ.jpeg",
+        "website":  "https://live.acwugtv.com/",
+        "country":  "UG",
+        "streams":  "https://live.acwugtv.com/hls/stream.m3u8"
+    },
+    {
+        "name":  "Alpha Digital",
+        "logo":  "https://i.imgur.com/sLt242H.png",
+        "website":  "http://imc.ug/",
+        "country":  "UG",
+        "streams":  "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
+    },
+    {
+        "name":  "Ark TV",
+        "logo":  "https://i.imgur.com/yCHNZXD.png",
+        "website":  "https://www.holycityentebbe.org/",
+        "country":  "UG",
+        "streams":  "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8"
+    },
+    {
+        "name":  "Baba TV",
+        "logo":  "https://i.imgur.com/mRs9xhS.png",
+        "website":  "https://www.babatv.co.ug/",
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/babatv/playlist.m3u8"
+    },
+    {
+        "name":  "BBS TV",
+        "logo":  "https://i.imgur.com/Hub1AXv.png",
+        "website":  "https://www.bbstv.ug/",
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/bbstv/playlist.m3u8"
+    },
+    {
+        "name":  "BTM TV",
+        "logo":  "https://i.imgur.com/NUvA2jf.png",
+        "website":  null,
+        "country":  "UG",
+        "streams":  "https://btmug.zerocdn.org/hls/stream.m3u8"
+    },
+    {
+        "name":  "BTV",
+        "logo":  "https://i.imgur.com/rcHZ1al.png",
+        "website":  "https://imc.ug/",
+        "country":  "UG",
+        "streams":  "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
+    },
+    {
+        "name":  "Bukedde TV 1",
+        "logo":  "https://i.imgur.com/HFq5QlJ.png",
+        "website":  "https://www.bukedde.co.ug/",
+        "country":  "UG",
+        "streams":  [
+                        "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/bukkede1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Bukedde TV 2",
+        "logo":  "https://i.imgur.com/ukwPZeY.png",
+        "website":  "https://www.bukedde.co.ug/",
+        "country":  "UG",
+        "streams":  [
+                        "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/bukkede2/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "CCCO Aspire TV",
+        "logo":  "https://i.imgur.com/33FHk1A.jpg",
+        "website":  null,
+        "country":  "UG",
+        "streams":  "https://panel.freedomflixtv.org:3948/hybrid/play.m3u8"
+    },
+    {
+        "name":  "Chamuka TV",
+        "logo":  "https://i.imgur.com/EfS81Kd.png",
+        "website":  "https://chamukatv.com/",
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/chamukatv/playlist.m3u8"
+    },
+    {
+        "name":  "Channel 44 Uganda",
+        "logo":  "https://i.imgur.com/FsKCnNP.png",
+        "website":  "https://channel44tv.com/",
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/channel44/playlist.m3u8"
+    },
+    {
+        "name":  "Church of Uganda Family Television",
+        "logo":  "https://i.imgur.com/l53Eur6.png",
+        "website":  "https://coufamilytv.co.ug/live",
+        "country":  "UG",
+        "streams":  "https://stream.castr.com/66b2205a464da535308e57e1/live_2c12d7a053f511ef9a978b0191f4a826/index.fmp4.m3u8"
+    },
+    {
+        "name":  "Dream TV",
+        "logo":  "https://i.imgur.com/XRUDhqQ.png",
+        "website":  "http://www.imc.ug/",
+        "country":  "UG",
+        "streams":  "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8"
+    },
+    {
+        "name":  "Faraja Television",
+        "logo":  "https://i.imgur.com/NmnOGHI.jpg",
+        "website":  "https://farajadtv.com/",
+        "country":  "UG",
+        "streams":  "https://panel.freedomflixtv.org:3868/hybrid/play.m3u8"
+    },
+    {
+        "name":  "FORT TV",
+        "logo":  "https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png",
+        "website":  "https://fort-tv.com/",
+        "country":  "UG",
+        "streams":  "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8"
+    },
+    {
+        "name":  "Freedom Experience TV",
+        "logo":  "https://i.imgur.com/1SiJpPy.png",
+        "website":  "https://freedomflixtv.org/",
+        "country":  "UG",
+        "streams":  "https://panel.freedomflixtv.org:3934/hybrid/play.m3u8"
+    },
+    {
+        "name":  "Freedom Love Zone TV",
+        "logo":  "https://i.imgur.com/PmbLsTk.jpg",
+        "website":  "https://freedomflixtv.org/",
+        "country":  "UG",
+        "streams":  "https://panel.freedomflixtv.org:3665/hybrid/play.m3u8"
+    },
+    {
+        "name":  "Freedom Movie Sphere",
+        "logo":  "https://i.imgur.com/jEyrlPp.jpg",
+        "website":  "https://freedomflixtv.org/",
+        "country":  "UG",
+        "streams":  "https://panel.freedomflixtv.org:3311/stream/play.m3u8"
+    },
+    {
+        "name":  "Galaxy TV",
+        "logo":  "https://i.imgur.com/P5OABe5.png",
+        "website":  "https://galaxytv.ug/",
+        "country":  "UG",
+        "streams":  [
+                        "https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8",
+                        "https://stream-200573.castr.net/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/rewind-3600.m3u8"
+                    ]
+    },
+    {
+        "name":  "GMTV",
+        "logo":  "https://i.imgur.com/jGFt9yr.png",
+        "website":  "https://greenmondaytv.com/",
+        "country":  "UG",
+        "streams":  [
+                        "https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341",
+                        "https://webstreaming-11.viewmedia.tv/web_160/Stream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Ground TV",
+        "logo":  "https://i.imgur.com/BqLHvvk.png",
+        "website":  "https://groundmediaug.com/",
+        "country":  "UG",
+        "streams":  "https://panel.freedomflixtv.org:3764/hybrid/play.m3u8"
+    },
+    {
+        "name":  "GTV",
+        "logo":  "https://i.imgur.com/wm4jZtB.jpeg",
+        "website":  null,
+        "country":  "UG",
+        "streams":  [
+                        "http://91.220.221.60/gtv_hls/gtv_03.m3u8",
+                        "https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Gugudde TV",
+        "logo":  "https://i.imgur.com/XEakc6Q.png",
+        "website":  "https://www.gugudde.com/",
+        "country":  "UG",
+        "streams":  "https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8"
+    },
+    {
+        "name":  "Hope Channel Uganda",
+        "logo":  "https://i.imgur.com/Z97Oxz3.png",
+        "website":  "https://hopechannel-ug.org/",
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/hcuganda/playlist.m3u8"
+    },
+    {
+        "name":  "Host TV",
+        "logo":  "https://i.imgur.com/quKplFg.jpg",
+        "website":  "https://www.host-tv.info/",
+        "country":  "UG",
+        "streams":  "https://panel.freedomflixtv.org:3994/hybrid/play.m3u8"
+    },
+    {
+        "name":  "KBS TV",
+        "logo":  "https://i.imgur.com/yOBbuCg.png",
+        "website":  "http://www.kbstv.co.ug/",
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/kbstv/playlist.m3u8"
+    },
+    {
+        "name":  "King TV",
+        "logo":  "https://i.imgur.com/CTqUUaK.png",
+        "website":  null,
+        "country":  "UG",
+        "streams":  "https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8"
+    },
+    {
+        "name":  "KSTV Uganda",
+        "logo":  "https://i.imgur.com/jOx4Cmh.png",
+        "website":  "https://www.kstvuganda.com/home.php",
+        "country":  "UG",
+        "streams":  [
+                        "https://kstv48.fra1.cdn.digitaloceanspaces.com/hls/0/stream.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/kstv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "KTV",
+        "logo":  "https://i.imgur.com/IA8Srft.jpg",
+        "website":  "https://kingdommediaug.com/",
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/ktv/playlist.m3u8"
+    },
+    {
+        "name":  "Moon TV",
+        "logo":  "https://i.imgur.com/DUGyfas.jpg",
+        "website":  null,
+        "country":  "UG",
+        "streams":  "https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8"
+    },
+    {
+        "name":  "NBS TV",
+        "logo":  "https://i.imgur.com/DmM8jH6.png",
+        "website":  "https://nextmedia.co.ug/",
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/nbs/playlist.m3u8"
+    },
+    {
+        "name":  "NTV Uganda",
+        "logo":  "https://i.imgur.com/ej5A6RZ.png",
+        "website":  "https://www.ntv.co.ug/",
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/ntvuganda/playlist.m3u8"
+    },
+    {
+        "name":  "Praise Jesus Tower TV",
+        "logo":  "https://i.imgur.com/KT4qIve.png",
+        "website":  "https://praisejesustower.org/",
+        "country":  "UG",
+        "streams":  "https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8"
+    },
+    {
+        "name":  "Salam TV",
+        "logo":  "https://i.imgur.com/XCNoTbE.png",
+        "website":  "https://salamtv.ug/",
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/salaamtv/playlist.m3u8"
+    },
+    {
+        "name":  "Salt TV",
+        "logo":  "https://i.postimg.cc/J4Q4wP3b/salttv.png",
+        "website":  "https://www.saltmedia.ug/",
+        "country":  "UG",
+        "streams":  [
+                        "https://live.salttelevision.com/app/stream/abr.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/salttv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "SEE TV",
+        "logo":  "https://i.imgur.com/YcWNi5Q.jpeg",
+        "website":  "http://seetv.co.ug/live/",
+        "country":  "UG",
+        "streams":  "http://116.90.120.149:8000/play/a01l/index.m3u8"
+    },
+    {
+        "name":  "Spark TV",
+        "logo":  "https://i.postimg.cc/3wgFTk14/sparktv.png",
+        "website":  "https://www.ntv.co.ug/",
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/sparktv/playlist.m3u8"
+    },
+    {
+        "name":  "Spirit Of Glory TV",
+        "logo":  "https://i.imgur.com/tR3Vfco.png",
+        "website":  "https://spiritofgloryltm.org/",
+        "country":  "UG",
+        "streams":  "https://panel.freedomflixtv.org:3937/hybrid/play.m3u8"
+    },
+    {
+        "name":  "Spirit TV",
+        "logo":  "https://i.imgur.com/RGfoWmD.png",
+        "website":  "https://spirittv.co.ug/",
+        "country":  "UG",
+        "streams":  "https://tv.tuhlprintltd.com/hls/stream.m3u8"
+    },
+    {
+        "name":  "Star TV",
+        "logo":  "https://i.imgur.com/QsuShOf.png",
+        "website":  "https://ubc.go.ug/tv/star-tv/",
+        "country":  "UG",
+        "streams":  [
+                        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd",
+                        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
+                        "https://dogus-live.daioncdn.net/startv/startv.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/startv/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8"
+                    ]
+    },
+    {
+        "name":  "STV",
+        "logo":  "https://i.imgur.com/WSL4FNw.png",
+        "website":  null,
+        "country":  "UG",
+        "streams":  [
+                        "http://89.201.163.244:8080/hls/hdmi.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120429/stvcameroon/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Top TV",
+        "logo":  "https://i.imgur.com/aKbHjFO.png",
+        "website":  null,
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/toptv/playlist.m3u8"
+    },
+    {
+        "name":  "Trust TV",
+        "logo":  "https://i.imgur.com/01k6voZ.png",
+        "website":  null,
+        "country":  "UG",
+        "streams":  "https://panel.freedomflixtv.org:3900/hybrid/play.m3u8"
+    },
+    {
+        "name":  "TV West",
+        "logo":  "https://i.imgur.com/EiJzkIz.png",
+        "website":  "https://tvwest.co.ug/",
+        "country":  "UG",
+        "streams":  [
+                        "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/tvwest/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "UBC TV",
+        "logo":  "https://i.imgur.com/9C7vl2J.png",
+        "website":  "https://ubc.go.ug/tv/ubc-tv/",
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/ubc/playlist.m3u8"
+    },
+    {
+        "name":  "UCTV",
+        "logo":  "https://i.imgur.com/H9GRavC.png",
+        "website":  "https://uctvuganda.org/",
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/uctv/playlist.m3u8"
+    },
+    {
+        "name":  "Wan Luo TV",
+        "logo":  "https://i.imgur.com/4PUUp3E.png",
+        "website":  "https://www.newvision.co.ug/tv/11",
+        "country":  "UG",
+        "streams":  "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8"
+    },
+    {
+        "name":  "WBS TV",
+        "logo":  "https://i.imgur.com/ynKBHPh.png",
+        "website":  "http://wbs.ug/",
+        "country":  "UG",
+        "streams":  "http://157.245.196.186/live/livestream.m3u8"
+    },
+    {
+        "name":  "Westnile TV",
+        "logo":  "https://i.imgur.com/GC0DBtG.png",
+        "website":  "http://www.westniletv.co.ug/",
+        "country":  "UG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/westnile/playlist.m3u8"
+    }
+]

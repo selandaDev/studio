@@ -1,0 +1,196 @@
+﻿[
+    {
+        "name":  "Alfa TV",
+        "logo":  "https://i.imgur.com/jJhKWX6.png",
+        "website":  "https://alfatv.ba/",
+        "country":  "BA",
+        "streams":  "http://135.125.204.34:8081/tvstanici/4/playlist.m3u8"
+    },
+    {
+        "name":  "Al Jazeera Balkans",
+        "logo":  "https://i.imgur.com/vMzCr8O.png",
+        "website":  "http://balkans.aljazeera.net/",
+        "country":  "BA",
+        "streams":  [
+                        "https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8",
+                        "https://live-hls-web-ajb.getaj.net/AJB/index.m3u8",
+                        "https://live-hls-web-ajb-fa.thehlive.com/AJB/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Arena Sport 1",
+        "logo":  "https://i.imgur.com/RJrJGbW.png",
+        "website":  "https://www.tvarenasport.com/ba",
+        "country":  "BA",
+        "streams":  "http://91.132.74.5:8000/play/a00k"
+    },
+    {
+        "name":  "ATV",
+        "logo":  "https://i.imgur.com/5ZUk3ck.png",
+        "website":  "https://www.atvbl.rs/vijesti/bih",
+        "country":  "BA",
+        "streams":  [
+                        "http://116.202.238.88/ATV_TR/index.m3u8",
+                        "http://146.59.85.40:89/atv/index.m3u8",
+                        "http://194.76.186.33:8000/play/a01g/index.m3u8",
+                        "http://89.187.191.41/ATV-HD-TR/video.m3u8",
+                        "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+                        "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+                        "https://guineetvdirect.online:3320/live/atvguineelive.m3u8",
+                        "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8",
+                        "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8",
+                        "https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8",
+                        "https://strm.hdtvizlecanli.com/live/atv.m3u8",
+                        "https://videos.rtva.ad/live/rtva/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "BHRT",
+        "logo":  "https://i.imgur.com/01bZ5rw.png",
+        "website":  null,
+        "country":  "BA",
+        "streams":  [
+                        "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8",
+                        "https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8"
+                    ]
+    },
+    {
+        "name":  "BHT 1",
+        "logo":  "https://i.postimg.cc/1z8ShbLg/bht1.png",
+        "website":  "https://bhrt.ba/",
+        "country":  "BA",
+        "streams":  "https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8"
+    },
+    {
+        "name":  "BIR TV",
+        "logo":  "https://i.imgur.com/oQgPmqe.png",
+        "website":  "https://tv.bir.ba/",
+        "country":  "BA",
+        "streams":  "https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8"
+    },
+    {
+        "name":  "BN TV",
+        "logo":  "https://i.postimg.cc/GhfzgNJg/bntv.png",
+        "website":  "https://rtvbn.tv/",
+        "country":  "BA",
+        "streams":  "https://rtvbn.tv:8080/live/index.m3u8"
+    },
+    {
+        "name":  "City TV",
+        "logo":  "https://i.imgur.com/KJSVN1j.png",
+        "website":  null,
+        "country":  "BA",
+        "streams":  [
+                        "https://citytv.hu/media/live/stream.m3u8",
+                        "https://tv.city.bg/play/tshls/citytv/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Kanal 6",
+        "logo":  "https://i.imgur.com/GGhvR0l.png",
+        "website":  "https://kanal6.ba/",
+        "country":  "BA",
+        "streams":  "https://restreamer1.tnt.ba/hls/kanal6.m3u8"
+    },
+    {
+        "name":  "Maria+Vision Medjugorje",
+        "logo":  "https://i.imgur.com/xUOspBx.png",
+        "website":  "https://www.mariavisionmedjugorje.com/",
+        "country":  "BA",
+        "streams":  "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8"
+    },
+    {
+        "name":  "Nova TV",
+        "logo":  "https://i.imgur.com/wTZxn8F.png",
+        "website":  "https://novabh.tv/",
+        "country":  "BA",
+        "streams":  "http://91.132.74.5:8000/play/a005"
+    },
+    {
+        "name":  "NTV IC Kakanj",
+        "logo":  "https://i.imgur.com/EtaHm2P.png",
+        "website":  "http://www.ntvic.ba/",
+        "country":  "BA",
+        "streams":  "https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8"
+    },
+    {
+        "name":  "RTRS plus",
+        "logo":  "https://i.postimg.cc/B65B5rD8/rtrsplus.png",
+        "website":  "https://plus.rtrs.tv/",
+        "country":  "BA",
+        "streams":  "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8"
+    },
+    {
+        "name":  "RTRS TV",
+        "logo":  "https://i.imgur.com/2Sgs5gM.png",
+        "website":  "https://www.rtrs.tv/",
+        "country":  "BA",
+        "streams":  "https://uzivo.rtrs.tv/tv/live/index.m3u8"
+    },
+    {
+        "name":  "RTV Glas Drine",
+        "logo":  "https://i.imgur.com/9NgxOdb.png",
+        "website":  "https://rtvglasdrine.com/",
+        "country":  "BA",
+        "streams":  "http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8"
+    },
+    {
+        "name":  "RTV HB",
+        "logo":  "https://i.imgur.com/6FNL8Iv.png",
+        "website":  "https://rtv-hb.com/",
+        "country":  "BA",
+        "streams":  "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8"
+    },
+    {
+        "name":  "RTV Zenica",
+        "logo":  "https://i.imgur.com/TKUaflB.png",
+        "website":  "http://www.rtvze.ba/",
+        "country":  "BA",
+        "streams":  "https://stream.rtvze.ba/live/123/123.m3u8"
+    },
+    {
+        "name":  "Super TV",
+        "logo":  "https://i.imgur.com/XYWgd3E.png",
+        "website":  "https://www.supertelevizija.com/",
+        "country":  "BA",
+        "streams":  "https://mirtv.club/live/mirtv/index.m3u8"
+    },
+    {
+        "name":  "Televizija 5",
+        "logo":  "https://i.imgur.com/znpvJys.png",
+        "website":  "http://www.televizija5.ba/",
+        "country":  "BA",
+        "streams":  "https://balkanmedia.dynu.net/hls/tv5web.m3u8"
+    },
+    {
+        "name":  "Televizija M",
+        "logo":  "https://i.imgur.com/jT95ZEI.png",
+        "website":  "https://tv-m.net/",
+        "country":  "BA",
+        "streams":  "https://live.tv-m.net/hls/stream.m3u8"
+    },
+    {
+        "name":  "TNT Kids TV",
+        "logo":  "https://i.imgur.com/irTDbpn.png",
+        "website":  "https://tntkids.tv/",
+        "country":  "BA",
+        "streams":  "https://restreamer1.tnt.ba/hls/tntkids.m3u8"
+    },
+    {
+        "name":  "TV One",
+        "logo":  "https://i.imgur.com/aLtAPiX.png",
+        "website":  null,
+        "country":  "BA",
+        "streams":  [
+                        "http://92.114.85.72:8000/play/a070",
+                        "https://fl7.moveonjoy.com/TV_ONE/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV Slon Extra",
+        "logo":  "https://i.imgur.com/AohYgH1.png",
+        "website":  null,
+        "country":  "BA",
+        "streams":  "http://31.47.0.130:8082"
+    }
+]

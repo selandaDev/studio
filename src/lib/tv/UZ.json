@@ -1,0 +1,224 @@
+﻿[
+    {
+        "name":  "8TV",
+        "logo":  "https://i.imgur.com/3BAanLq.png",
+        "website":  "https://8tv.uz/",
+        "country":  "UZ",
+        "streams":  [
+                        "http://cdn6.163189.xyz/163189/8tv",
+                        "https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
+                    ]
+    },
+    {
+        "name":  "AGRO TV",
+        "logo":  "https://i.imgur.com/ZindL4b.png",
+        "website":  null,
+        "country":  "UZ",
+        "streams":  [
+                        "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8",
+                        "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
+                    ]
+    },
+    {
+        "name":  "Aqlvoy",
+        "logo":  "https://i.imgur.com/ekF5cAi.png",
+        "website":  "https://aqlvoy.uz/",
+        "country":  "UZ",
+        "streams":  "http://gohoski.fvds.ru:3000/mediabay/645/playlist.m3u8"
+    },
+    {
+        "name":  "BIZ Cinema",
+        "logo":  "https://biztv.uz/static/media/biz-cinema.286b83dc.png",
+        "website":  "https://biztv.uz/",
+        "country":  "UZ",
+        "streams":  "https://st.biztv.uz/hls/c_hi/index.m3u8"
+    },
+    {
+        "name":  "BIZ Music",
+        "logo":  "https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg",
+        "website":  null,
+        "country":  "UZ",
+        "streams":  "https://st.biztv.uz/hls/m_hi/index.m3u8"
+    },
+    {
+        "name":  "BIZ TV",
+        "logo":  "https://biztv.uz/static/media/logo.5f993187.png",
+        "website":  "https://biztv.uz/",
+        "country":  "UZ",
+        "streams":  "https://st.biztv.uz/hls/stream_hi/index.m3u8"
+    },
+    {
+        "name":  "Bolajon",
+        "logo":  "https://i.postimg.cc/158rFBhG/bolajon.png",
+        "website":  "https://www.mtrk.uz/uz/tv/bolajon/",
+        "country":  "UZ",
+        "streams":  [
+                        "http://gohoski.fvds.ru:3000/mediabay/148/playlist.m3u8",
+                        "https://stream8.cinerama.uz/1007/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Dasturxon TV",
+        "logo":  "https://i.imgur.com/APM2ej5.jpeg",
+        "website":  null,
+        "country":  "UZ",
+        "streams":  "https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8"
+    },
+    {
+        "name":  "Dunyo bo\u0027ylab",
+        "logo":  "https://i.imgur.com/KArB5U6.png",
+        "website":  "https://www.mtrk.uz/uz/tv/dunyo/",
+        "country":  "UZ",
+        "streams":  [
+                        "http://gohoski.fvds.ru:3000/mediabay/144/playlist.m3u8",
+                        "https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "FTV",
+        "logo":  "https://i.imgur.com/7lpISyN.jpg",
+        "website":  "https://www.uzreport.news/",
+        "country":  "UZ",
+        "streams":  "https://stream8.cinerama.uz/1018/playlist.m3u8"
+    },
+    {
+        "name":  "Kinoteatr",
+        "logo":  "https://i.postimg.cc/QdhYRM64/kinoteatr.png",
+        "website":  "https://www.mtrk.uz/uz/tv/kinoteatr/",
+        "country":  "UZ",
+        "streams":  "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8"
+    },
+    {
+        "name":  "Madaniyat va ma\u0027rifat",
+        "logo":  "https://i.postimg.cc/fTLfX0rh/madaniyatvamarifat.png",
+        "website":  "https://www.mtrk.uz/uz/tv/madaniyat/",
+        "country":  "UZ",
+        "streams":  [
+                        "http://gohoski.fvds.ru:3000/mediabay/146/playlist.m3u8",
+                        "https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Mahalla",
+        "logo":  "https://i.postimg.cc/hGqmCJpv/mahalla.png",
+        "website":  "https://www.mtrk.uz/uz/tv/mahalla/",
+        "country":  "UZ",
+        "streams":  [
+                        "http://gohoski.fvds.ru:3000/mediabay/394/playlist.m3u8",
+                        "https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Milliy",
+        "logo":  "https://i.imgur.com/v4FBm26.png",
+        "website":  null,
+        "country":  "UZ",
+        "streams":  [
+                        "http://gohoski.fvds.ru:3000/mediabay/391/playlist.m3u8",
+                        "http://milliy.tv/hls/index.m3u8",
+                        "https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "MY5",
+        "logo":  "https://i.postimg.cc/Ls5csh2N/my5.png",
+        "website":  "https://my5.media/",
+        "country":  "UZ",
+        "streams":  [
+                        "https://st.my5.media/hls/hd/index.m3u8",
+                        "https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Navo",
+        "logo":  "https://i.postimg.cc/SRgLjQyf/navo.png",
+        "website":  "https://www.mtrk.uz/uz/tv/navo/",
+        "country":  "UZ",
+        "streams":  [
+                        "http://gohoski.fvds.ru:3000/mediabay/254/playlist.m3u8",
+                        "https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "O\u0027zbekiston",
+        "logo":  "https://i.imgur.com/QUIIhTD.png",
+        "website":  "https://www.mtrk.uz/uz/tv/ozbekiston/",
+        "country":  "UZ",
+        "streams":  [
+                        "http://gohoski.fvds.ru:3000/mediabay/140/playlist.m3u8",
+                        "https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "O\u0027zbekiston 24",
+        "logo":  "https://i.imgur.com/VRFhKbw.png",
+        "website":  "http://uzbekistan24.uz/",
+        "country":  "UZ",
+        "streams":  [
+                        "http://gohoski.fvds.ru:3000/mediabay/393/playlist.m3u8",
+                        "https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "O\u0027zbekiston Tarixi",
+        "logo":  "https://i.imgur.com/iTTd3Ir.png",
+        "website":  "https://www.uztv.tv/channels/uzbekiston-tarix",
+        "country":  "UZ",
+        "streams":  "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8"
+    },
+    {
+        "name":  "Qaraqalpaqstan",
+        "logo":  "https://i.imgur.com/G3qrUJh.png",
+        "website":  "https://www.uztv.tv/channels/qaraqalpaqstan",
+        "country":  "UZ",
+        "streams":  "https://stream8.cinerama.uz/1467/playlist.m3u8"
+    },
+    {
+        "name":  "Renessans TV",
+        "logo":  "https://i.imgur.com/cVlcqCX.png",
+        "website":  null,
+        "country":  "UZ",
+        "streams":  "https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8"
+    },
+    {
+        "name":  "Sevimli TV",
+        "logo":  "https://i.imgur.com/iMwzRlr.png",
+        "website":  "https://www.sevimlitv.uz/",
+        "country":  "UZ",
+        "streams":  "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8"
+    },
+    {
+        "name":  "Toshkent",
+        "logo":  "https://i.postimg.cc/Vkf6D9Wv/toshkent.png",
+        "website":  "https://www.mtrk.uz/uz/tv/toshkent/",
+        "country":  "UZ",
+        "streams":  [
+                        "http://gohoski.fvds.ru:3000/mediabay/136/playlist.m3u8",
+                        "https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "UzReport TV",
+        "logo":  "https://i.imgur.com/Bch2RHc.jpg",
+        "website":  "https://uzreport.news/",
+        "country":  "UZ",
+        "streams":  "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8"
+    },
+    {
+        "name":  "Yoshlar",
+        "logo":  "https://i.imgur.com/s4xfUSx.png",
+        "website":  "https://www.mtrk.uz/uz/tv/yoshlar/",
+        "country":  "UZ",
+        "streams":  [
+                        "http://gohoski.fvds.ru:3000/mediabay/134/playlist.m3u8",
+                        "https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Zo\u0027r TV",
+        "logo":  "https://i.imgur.com/NuzyhVM.png",
+        "website":  "https://zortv.uz/",
+        "country":  "UZ",
+        "streams":  "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8"
+    }
+]

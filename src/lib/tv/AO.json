@@ -1,0 +1,37 @@
+﻿[
+    {
+        "name":  "KK TV",
+        "logo":  "https://i.imgur.com/jWOB0oU.png",
+        "website":  "https://kktv.co.ao/",
+        "country":  "AO",
+        "streams":  "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Muzangala TV",
+        "logo":  "https://i.imgur.com/fBeaJoS.png",
+        "website":  "https://muzangala.tv/",
+        "country":  "AO",
+        "streams":  "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8"
+    },
+    {
+        "name":  "TPA1",
+        "logo":  "https://i.imgur.com/M7aB0LN.png",
+        "website":  "https://tpaonline.ao/",
+        "country":  "AO",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120430/tpa1/playlist.m3u8"
+    },
+    {
+        "name":  "TV Zimbo",
+        "logo":  "https://i.imgur.com/SFD8CBh.png",
+        "website":  "https://www.tvzimbo.ao/",
+        "country":  "AO",
+        "streams":  "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8"
+    },
+    {
+        "name":  "VERA TV",
+        "logo":  "https://i.imgur.com/02zZCYQ.png",
+        "website":  null,
+        "country":  "AO",
+        "streams":  "http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8"
+    }
+]

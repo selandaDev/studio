@@ -1,0 +1,758 @@
+﻿[
+    {
+        "name":  "13C",
+        "logo":  "https://i.ibb.co/3fbvkZ3/13cultura.png",
+        "website":  "https://www.13.cl/c",
+        "country":  "CL",
+        "streams":  "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+    },
+    {
+        "name":  "13E",
+        "logo":  "https://i.imgur.com/utI1tJV.png",
+        "website":  "https://www.13.cl/13e",
+        "country":  "CL",
+        "streams":  "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"
+    },
+    {
+        "name":  "13 Festival",
+        "logo":  "https://i.imgur.com/hTUe0Pw.png",
+        "website":  null,
+        "country":  "CL",
+        "streams":  "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
+    },
+    {
+        "name":  "13 Humor",
+        "logo":  "https://i.imgur.com/KvMuTzN.png",
+        "website":  "https://www.13.cl/13humor",
+        "country":  "CL",
+        "streams":  "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
+    },
+    {
+        "name":  "13 Kids",
+        "logo":  "https://i.imgur.com/8WJUbSD.png",
+        "website":  "https://www.13.cl/13kids",
+        "country":  "CL",
+        "streams":  "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
+    },
+    {
+        "name":  "13P",
+        "logo":  "https://i.imgur.com/R6D228s.png",
+        "website":  "https://www.13.cl/13p",
+        "country":  "CL",
+        "streams":  "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8"
+    },
+    {
+        "name":  "13 Realities",
+        "logo":  "https://i.imgur.com/snqCYWP.png",
+        "website":  "https://www.13.cl/13realities",
+        "country":  "CL",
+        "streams":  "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
+    },
+    {
+        "name":  "13T",
+        "logo":  "https://i.imgur.com/Agtfbfi.png",
+        "website":  "https://www.13.cl/13t",
+        "country":  "CL",
+        "streams":  "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+    },
+    {
+        "name":  "24 Horas",
+        "logo":  "https://i.imgur.com/CEE9zPe.png",
+        "website":  "https://www.24horas.cl/",
+        "country":  "CL",
+        "streams":  "https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8"
+    },
+    {
+        "name":  "AE Radio TV",
+        "logo":  "https://i.imgur.com/425dj2i.jpeg",
+        "website":  "https://www.aeradio.cl/",
+        "country":  "CL",
+        "streams":  "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8"
+    },
+    {
+        "name":  "Antofagasta TV",
+        "logo":  "https://i.imgur.com/XIQr0fs.png",
+        "website":  "https://www.antofagasta.tv/",
+        "country":  "CL",
+        "streams":  "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Arica TV",
+        "logo":  "https://i.imgur.com/I67WOgT.png",
+        "website":  "https://arica.tv/",
+        "country":  "CL",
+        "streams":  "https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8"
+    },
+    {
+        "name":  "Atacama Noticias",
+        "logo":  "https://i.imgur.com/Avx4Ecf.png",
+        "website":  "https://www.atacamanoticias.cl/",
+        "country":  "CL",
+        "streams":  "https://v2.tustreaming.cl/atacamanoticias/index.m3u8"
+    },
+    {
+        "name":  "Atacama TV",
+        "logo":  "https://i.postimg.cc/rwS082hL/atacama-tv.png",
+        "website":  "http://atacamatelevision.com/",
+        "country":  "CL",
+        "streams":  "https://v2.tustreaming.cl/atacamatv/index.m3u8"
+    },
+    {
+        "name":  "Aysen TV",
+        "logo":  "https://i.imgur.com/DmdBf9S.png",
+        "website":  "https://www.aysen.tv/",
+        "country":  "CL",
+        "streams":  "https://v1.tustreaming.cl/aysentv/index.m3u8"
+    },
+    {
+        "name":  "Buin Somos Todos",
+        "logo":  "https://i.imgur.com/zzeBtux.png",
+        "website":  "https://www.buin.cl/senal-online/",
+        "country":  "CL",
+        "streams":  "https://bst.buin.cl/0.m3u8"
+    },
+    {
+        "name":  "CampusTV",
+        "logo":  "https://i.imgur.com/LvzLg33.png",
+        "website":  "http://campustv.utalca.cl/",
+        "country":  "CL",
+        "streams":  "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 13",
+        "logo":  "https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/",
+        "website":  "https://www.13.cl/",
+        "country":  "CL",
+        "streams":  "http://38.250.127.17:9800/play/a067/index.m3u8"
+    },
+    {
+        "name":  "Canal 21",
+        "logo":  "https://i.imgur.com/znmWqhW.png",
+        "website":  "http://www.canal21tv.cl/",
+        "country":  "CL",
+        "streams":  "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 2 Quellon",
+        "logo":  "https://i.imgur.com/MOwLCwT.png",
+        "website":  "https://canal2quellon.cl/",
+        "country":  "CL",
+        "streams":  "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 74 San Antonio",
+        "logo":  "https://i.imgur.com/WRYsbjX.png",
+        "website":  "https://www.canal74.cl/",
+        "country":  "CL",
+        "streams":  [
+                        "https://eu1.servers10.com:8081/8050/index.m3u8",
+                        "https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canal 8",
+        "logo":  "https://i.imgur.com/dts8BWT.png",
+        "website":  "https://canal8tv.cl/",
+        "country":  "CL",
+        "streams":  "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8"
+    },
+    {
+        "name":  "Canal 9 Bio-Bio Television",
+        "logo":  "https://i.imgur.com/J2G1WMs.png",
+        "website":  "https://www.canal9.cl/",
+        "country":  "CL",
+        "streams":  "https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Canal Claro",
+        "logo":  "https://i.imgur.com/Kgjfd3J.png",
+        "website":  "http://www.clarochile.cl/",
+        "country":  "CL",
+        "streams":  "http://181.188.216.5:18000/play/a09l/index.m3u8"
+    },
+    {
+        "name":  "Canal ISB",
+        "logo":  "https://i.imgur.com/cQ4ggTw.png",
+        "website":  "https://www.canalisb.cl/",
+        "country":  "CL",
+        "streams":  "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Canal SCN",
+        "logo":  "https://i.imgur.com/QXjdiun.png",
+        "website":  null,
+        "country":  "CL",
+        "streams":  "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8"
+    },
+    {
+        "name":  "CDTV",
+        "logo":  "https://i.imgur.com/pMnk2TH.png",
+        "website":  "https://cdtv.cl/",
+        "country":  "CL",
+        "streams":  "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
+    },
+    {
+        "name":  "Chile Channel",
+        "logo":  "https://i.imgur.com/F1it6fh.png",
+        "website":  "https://chilechanneltv.cl/",
+        "country":  "CL",
+        "streams":  "https://v2.tustreaming.cl/chilechannel/index.m3u8"
+    },
+    {
+        "name":  "ChileVision",
+        "logo":  "https://i.imgur.com/PRijvR0.png",
+        "website":  "https://www.chilevision.cl/",
+        "country":  "CL",
+        "streams":  "http://38.250.127.17:9800/play/a05h/index.m3u8"
+    },
+    {
+        "name":  "Chiloe Red 25",
+        "logo":  "https://i.imgur.com/3tqrImm.png",
+        "website":  "https://chiloered25.cl/",
+        "country":  "CL",
+        "streams":  "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    },
+    {
+        "name":  "ClickTV Chile",
+        "logo":  "https://i.imgur.com/H0XNbMS.png",
+        "website":  "https://clicktvchile.cl/",
+        "country":  "CL",
+        "streams":  "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+    },
+    {
+        "name":  "Contivision",
+        "logo":  "https://i.imgur.com/Lz2OlKf.png",
+        "website":  "http://w.contivision.cl/cvn/",
+        "country":  "CL",
+        "streams":  "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Cosmos TV",
+        "logo":  "https://i2.paste.pics/ed2fce1f9fe98a5c7dec95777c201497.png",
+        "website":  "https://globalcosmos.cl/",
+        "country":  "CL",
+        "streams":  "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
+    },
+    {
+        "name":  "CRTV",
+        "logo":  "https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png",
+        "website":  "https://crtvchile.cl/",
+        "country":  "CL",
+        "streams":  [
+                        "http://69.64.57.208/crtv/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/crtv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Dance FM",
+        "logo":  "https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png",
+        "website":  "https://www.dancefm.cl/live/",
+        "country":  "CL",
+        "streams":  "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8"
+    },
+    {
+        "name":  "Decima TV",
+        "logo":  "https://i.imgur.com/eu8hDDc.png",
+        "website":  "https://www.decimatv.cl/",
+        "country":  "CL",
+        "streams":  "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8"
+    },
+    {
+        "name":  "EGM Channel",
+        "logo":  "https://i.imgur.com/RXRKPvs.png",
+        "website":  "http://www.egmtv.online/",
+        "country":  "CL",
+        "streams":  "https://paneltv.online:1936/8186/8186/playlist.m3u8"
+    },
+    {
+        "name":  "EnerGeek",
+        "logo":  "https://cdn.energeek.cl/logos/Marca-512.png",
+        "website":  "https://energeek.cl/",
+        "country":  "CL",
+        "streams":  "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
+    },
+    {
+        "name":  "EnerGeek FAN",
+        "logo":  "https://cdn.energeek.cl/logos/Fanpop-512.png",
+        "website":  "https://energeek.cl/",
+        "country":  "CL",
+        "streams":  "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
+    },
+    {
+        "name":  "EnerGeek Radio",
+        "logo":  "https://i.imgur.com/euaoN1A.png",
+        "website":  "https://energeek.cl/",
+        "country":  "CL",
+        "streams":  "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH"
+    },
+    {
+        "name":  "Fox Sports 1",
+        "logo":  "https://i.postimg.cc/kMpQFHmj/foxsports1.png",
+        "website":  "http://foxsportspremium.cl/",
+        "country":  "CL",
+        "streams":  "https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8"
+    },
+    {
+        "name":  "FX",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png",
+        "website":  "http://www.canalfx.tv/",
+        "country":  "CL",
+        "streams":  "https://saran-live.ercdn.net/fx/index.m3u8"
+    },
+    {
+        "name":  "Girovisual",
+        "logo":  "https://i.imgur.com/BYBMuhf.png",
+        "website":  "https://girovisualtv.com/",
+        "country":  "CL",
+        "streams":  "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Hiperconectados TV",
+        "logo":  "https://i.imgur.com/CBbbrkI.png",
+        "website":  "https://www.hiperconectados.com/",
+        "country":  "CL",
+        "streams":  "https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8"
+    },
+    {
+        "name":  "History",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",
+        "website":  "https://www.historyplay.tv/",
+        "country":  "CL",
+        "streams":  "https://fl7.moveonjoy.com/history_channel/index.m3u8"
+    },
+    {
+        "name":  "Holvoet TV",
+        "logo":  "https://i.imgur.com/9JKRO3R.png",
+        "website":  "https://holvoet.cl/",
+        "country":  "CL",
+        "streams":  "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Huasco Television",
+        "logo":  "https://i.imgur.com/Fo2DV70.png",
+        "website":  "http://www.huascotelevisionstreaming.cl/",
+        "country":  "CL",
+        "streams":  [
+                        "https://paneltv.online:1936/8024/8024/playlist.m3u8",
+                        "https://paneltv.online:1936/huasco/huasco/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "ITV Patagonia",
+        "logo":  "https://i.postimg.cc/tJ8F8XJL/339934625-6637234786303842-283053087769760685-n-removebg-preview.png",
+        "website":  "https://www.itvpatagonia.com/",
+        "country":  "CL",
+        "streams":  [
+                        "https://unlimited1-cl.dps.live/itv/itv.smil/playlist.m3u8",
+                        "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Juntos TV",
+        "logo":  "https://i.imgur.com/U62q2eM.png",
+        "website":  "https://www.juntostvchile.cl/",
+        "country":  "CL",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119960/juntos/playlist.m3u8"
+    },
+    {
+        "name":  "Kanade",
+        "logo":  "https://static.kanade.cl/assets/img/profilepic_512px.png",
+        "website":  "https://kanade.cl",
+        "country":  "CL",
+        "streams":  "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH"
+    },
+    {
+        "name":  "La Popular TV",
+        "logo":  "https://i.imgur.com/AWdgMCC.png",
+        "website":  "https://www.populartv.cl/",
+        "country":  "CL",
+        "streams":  "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8"
+    },
+    {
+        "name":  "La Red",
+        "logo":  "https://i.imgur.com/nJOVM6e.png",
+        "website":  "https://www.lared.cl/",
+        "country":  "CL",
+        "streams":  "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8"
+    },
+    {
+        "name":  "LTV",
+        "logo":  "https://i.imgur.com/XHs06BX.png",
+        "website":  "https://www.ltvcanal.cl/",
+        "country":  "CL",
+        "streams":  [
+                        "https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8",
+                        "https://p-ltv.akamaized.net/ltv/ltv.m3u8"
+                    ]
+    },
+    {
+        "name":  "Mega",
+        "logo":  "https://i.imgur.com/RlZfR84.png",
+        "website":  "https://www.mega.cl/",
+        "country":  "CL",
+        "streams":  "http://176.65.146.237:8401/play/a0a5/index.m3u8"
+    },
+    {
+        "name":  "MTNA TV",
+        "logo":  "https://i.imgur.com/v7SA92F.png",
+        "website":  "https://www.mtna.tv/",
+        "country":  "CL",
+        "streams":  "https://live.mtna.tv/hls/mtna/mtna.m3u8"
+    },
+    {
+        "name":  "Nativa TV",
+        "logo":  "https://i.imgur.com/0SFE2Fr.png",
+        "website":  "https://nativatv.cl/",
+        "country":  "CL",
+        "streams":  "https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8"
+    },
+    {
+        "name":  "NCTV",
+        "logo":  "https://i.imgur.com/oo5vDBv.png",
+        "website":  "https://nctv.cl/",
+        "country":  "CL",
+        "streams":  "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8"
+    },
+    {
+        "name":  "NTV",
+        "logo":  "https://i.imgur.com/NnkSyta.png",
+        "website":  "https://www.tvn.cl/ntv",
+        "country":  "CL",
+        "streams":  "https://panel.miplay.cl:8082/ntv/index.m3u8"
+    },
+    {
+        "name":  "Nublevision",
+        "logo":  "https://i.imgur.com/nkQyR1X.png",
+        "website":  "https://nublevision.cl/",
+        "country":  "CL",
+        "streams":  "https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8"
+    },
+    {
+        "name":  "Pichilemu TV",
+        "logo":  "https://i.imgur.com/eaJVCwM.png",
+        "website":  "https://pichilemutv.org/",
+        "country":  "CL",
+        "streams":  "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8"
+    },
+    {
+        "name":  "PRIDEtv LATAM",
+        "logo":  "https://neotv.cl/img/pridetv-512.png",
+        "website":  "https://pridetvlatam.com",
+        "country":  "CL",
+        "streams":  [
+                        "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
+                        "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Pucon TV",
+        "logo":  "https://i.imgur.com/nO4cV3E.png",
+        "website":  "https://www.pucontv.com/",
+        "country":  "CL",
+        "streams":  "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Puranoticia TV",
+        "logo":  "https://i.imgur.com/NklUi6Y.png",
+        "website":  "https://puranoticia.pnt.cl/",
+        "country":  "CL",
+        "streams":  "https://pnt.janusmedia.tv/hls/pnt.m3u8"
+    },
+    {
+        "name":  "Radio Ritmo FM",
+        "logo":  "https://i.imgur.com/qU3E0kX.png",
+        "website":  "https://www.radioritmo.cl/",
+        "country":  "CL",
+        "streams":  "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Suyai TV",
+        "logo":  null,
+        "website":  "https://radio.suyaitv.cl",
+        "country":  "CL",
+        "streams":  "https://signal.suyaitv.cl/live/26/playlist.m3u8?password=9PcdCnFxUe\u0026username=ZZDemoIPTVGH"
+    },
+    {
+        "name":  "Radio Zeta TV",
+        "logo":  "https://i.imgur.com/iVn0icQ.png",
+        "website":  "https://radiozeta.cl/",
+        "country":  "CL",
+        "streams":  "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8"
+    },
+    {
+        "name":  "Santa Maria Television",
+        "logo":  "https://i.imgur.com/SnbGpoK.png",
+        "website":  "https://santamariatv.cl/",
+        "country":  "CL",
+        "streams":  "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Sextavision",
+        "logo":  "https://i.imgur.com/mwUZBU9.png",
+        "website":  "https://sextavision.cl/",
+        "country":  "CL",
+        "streams":  "https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8"
+    },
+    {
+        "name":  "Solo Bailalo",
+        "logo":  "https://i.imgur.com/SImJE7c.png",
+        "website":  "https://www.solobailalo.cl/",
+        "country":  "CL",
+        "streams":  [
+                        "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+                        "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Star Channel",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png",
+        "website":  "https://www.star-latam.com/",
+        "country":  "CL",
+        "streams":  "http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8"
+    },
+    {
+        "name":  "Stgo.TV",
+        "logo":  "https://i.imgur.com/VrqjFUf.png",
+        "website":  "https://www.santiagotelevision.cl/",
+        "country":  "CL",
+        "streams":  "https://panel.miplay.cl:8082/stgotv/index.m3u8"
+    },
+    {
+        "name":  "SUR TV",
+        "logo":  "https://i.imgur.com/wDCqoor.png",
+        "website":  "https://www.surtv.cl/",
+        "country":  "CL",
+        "streams":  "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Suyai TV",
+        "logo":  "https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png",
+        "website":  "https://suyaitv.cl",
+        "country":  "CL",
+        "streams":  "https://signal.suyaitv.cl/live/35/playlist.m3u8?password=9PcdCnFxUe\u0026username=ZZDemoIPTVGH"
+    },
+    {
+        "name":  "T13",
+        "logo":  "https://i.imgur.com/PktzDCH.png",
+        "website":  "https://www.t13.cl/",
+        "country":  "CL",
+        "streams":  "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Telecanal",
+        "logo":  "https://i.imgur.com/3g6SbSt.png",
+        "website":  "https://www.telecanal.cl/",
+        "country":  "CL",
+        "streams":  "http://45.232.210.1:8029/play/a00s/index.m3u8"
+    },
+    {
+        "name":  "Teletrak TV",
+        "logo":  "https://i.imgur.com/NoJvlig.png",
+        "website":  "https://www.teletrak.cl/",
+        "country":  "CL",
+        "streams":  "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Televida",
+        "logo":  "https://i.imgur.com/bmNA8hq.png",
+        "website":  "https://www.televida.cl/",
+        "country":  "CL",
+        "streams":  "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8"
+    },
+    {
+        "name":  "Tevex",
+        "logo":  "https://i.imgur.com/FnInQRd.png",
+        "website":  "https://tevex.cl/",
+        "country":  "CL",
+        "streams":  "https://v4.tustreaming.cl/tevexinter/index.m3u8"
+    },
+    {
+        "name":  "Thema Television",
+        "logo":  "https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png",
+        "website":  "https://www.thematelevision.cl/",
+        "country":  "CL",
+        "streams":  [
+                        "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
+                        "https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TNE",
+        "logo":  "https://i.imgur.com/8QbvXva.png",
+        "website":  "https://www.tnetv.cl/",
+        "country":  "CL",
+        "streams":  "https://v2.tustreaming.cl/tnetv/index.m3u8"
+    },
+    {
+        "name":  "Turf Movil",
+        "logo":  "https://i.imgur.com/TwIe4lK.png",
+        "website":  "https://tvturf.cl/",
+        "country":  "CL",
+        "streams":  "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w\u0026id="
+    },
+    {
+        "name":  "TV Chile",
+        "logo":  "https://i.postimg.cc/XvfXLVrK/tvchile.png",
+        "website":  "http://www.tvchile.cl/",
+        "country":  "CL",
+        "streams":  "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
+    },
+    {
+        "name":  "T-Vinet",
+        "logo":  "https://i.imgur.com/KisHIpA.png",
+        "website":  "http://www.tvinet.cl/",
+        "country":  "CL",
+        "streams":  "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8"
+    },
+    {
+        "name":  "TVM",
+        "logo":  "https://i.imgur.com/9dwZoxz.png",
+        "website":  "https://canaltvm.cl/",
+        "country":  "CL",
+        "streams":  [
+                        "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
+                        "http://80.79.6.221:25461/smash/public/19",
+                        "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/tvm/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/tvmmadagascar/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TVN",
+        "logo":  "https://i.imgur.com/3FKZHL4.png",
+        "website":  "https://www.tvn.cl/",
+        "country":  "CL",
+        "streams":  [
+                        "https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8",
+                        "https://s4.telset.ee/tvn/index.m3u8?filter.tracks=v1a1\u0026token=tvn_token"
+                    ]
+    },
+    {
+        "name":  "TVN3",
+        "logo":  "https://i.imgur.com/9LEiQPJ.png",
+        "website":  "https://www.tvn.cl/tvn3",
+        "country":  "CL",
+        "streams":  "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8"
+    },
+    {
+        "name":  "TVO San Vicente",
+        "logo":  "https://i.imgur.com/PCVWtHd.png",
+        "website":  "http://www.tvosanvicente.cl/",
+        "country":  "CL",
+        "streams":  "https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8"
+    },
+    {
+        "name":  "TV+ 2",
+        "logo":  "https://i.ibb.co/b25bhDc/TV-MAS-2.png",
+        "website":  "https://www.tvmas.tv/",
+        "country":  "CL",
+        "streams":  "https://panel.miplay.cl:8082/tvmas2/index.m3u8"
+    },
+    {
+        "name":  "TVR",
+        "logo":  "https://i.postimg.cc/prDRDZw3/TVR-Logo.png",
+        "website":  "https://www.tvr.cl/",
+        "country":  "CL",
+        "streams":  [
+                        "https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8",
+                        "https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV Senado",
+        "logo":  "https://i.imgur.com/CNUZ6ig.png",
+        "website":  "https://www.senado.cl/",
+        "country":  "CL",
+        "streams":  "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8"
+    },
+    {
+        "name":  "TVU",
+        "logo":  "https://i.ibb.co/5vFMTxt/Logo-tvu.png",
+        "website":  "https://tvu.cl/",
+        "country":  "CL",
+        "streams":  "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8"
+    },
+    {
+        "name":  "TV UCT",
+        "logo":  "https://i.imgur.com/tpI0WQH.png",
+        "website":  "https://www.tvuct.cl/",
+        "country":  "CL",
+        "streams":  "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8"
+    },
+    {
+        "name":  "UATV",
+        "logo":  "https://i.imgur.com/BdZGS66.png",
+        "website":  "https://uatv.cl/",
+        "country":  "CL",
+        "streams":  [
+                        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+                        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "UCV TV",
+        "logo":  "https://i.postimg.cc/jjGpZf4T/UCV-Logo.png",
+        "website":  "https://ucvtv.cl/home.php",
+        "country":  "CL",
+        "streams":  "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+    },
+    {
+        "name":  "UESTV",
+        "logo":  "https://i.imgur.com/tAyiNZV.png",
+        "website":  "https://www.uestv.cl/en-vivo/",
+        "country":  "CL",
+        "streams":  "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8"
+    },
+    {
+        "name":  "U Los Lagos TV",
+        "logo":  "https://i.imgur.com/HxUZseV.png",
+        "website":  "http://medios.ulagos.cl/",
+        "country":  "CL",
+        "streams":  "http://tv.ulagos.cl/web/live.m3u8"
+    },
+    {
+        "name":  "UTV",
+        "logo":  "https://i.imgur.com/ZJNSpfZ.png",
+        "website":  "https://www.utv.cl/",
+        "country":  "CL",
+        "streams":  "https://v2.tustreaming.cl/utv/index.m3u8"
+    },
+    {
+        "name":  "V Classic TV",
+        "logo":  "https://i.imgur.com/WIACJSy.png",
+        "website":  "https://www.radiocoquimbo.cl/",
+        "country":  "CL",
+        "streams":  "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8"
+    },
+    {
+        "name":  "VC Online",
+        "logo":  "https://i.imgur.com/VlKl2VB.png",
+        "website":  "https://vencio.wixsite.com/vcmedios",
+        "country":  "CL",
+        "streams":  "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
+    },
+    {
+        "name":  "Vision Plus TV",
+        "logo":  "https://i.imgur.com/mpNcG5F.png",
+        "website":  "https://www.visionplustv.cl/",
+        "country":  "CL",
+        "streams":  "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8"
+    },
+    {
+        "name":  "Vivo TV",
+        "logo":  "https://i.imgur.com/kBRbCUb.png",
+        "website":  "http://www.vivotv.cl/",
+        "country":  "CL",
+        "streams":  "https://stream.vivotv.uy/hls/stream.m3u8"
+    },
+    {
+        "name":  "VTV Valle de Aconcagua",
+        "logo":  "https://i.imgur.com/0bFVvKj.png",
+        "website":  "https://www.canalvtv.cl/",
+        "country":  "CL",
+        "streams":  [
+                        "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8",
+                        "https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8"
+                    ]
+    }
+]

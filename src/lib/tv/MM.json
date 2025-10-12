@@ -1,0 +1,61 @@
+﻿[
+    {
+        "name":  "Channel 7",
+        "logo":  "https://i.imgur.com/7xHSikv.png",
+        "website":  "https://www.pyoneplay.com/livetv/3",
+        "country":  "MM",
+        "streams":  "https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8"
+    },
+    {
+        "name":  "Channel 9",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",
+        "website":  null,
+        "country":  "MM",
+        "streams":  "http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad"
+    },
+    {
+        "name":  "Channel K",
+        "logo":  "https://i.imgur.com/6PqxuhF.png",
+        "website":  "https://www.channelkmyanmar.com/",
+        "country":  "MM",
+        "streams":  "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8"
+    },
+    {
+        "name":  "Fortune TV",
+        "logo":  "https://i.imgur.com/MM5evnD.png",
+        "website":  null,
+        "country":  "MM",
+        "streams":  "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8"
+    },
+    {
+        "name":  "Mahar TV",
+        "logo":  "https://i.imgur.com/ig0QECf.png",
+        "website":  "http://www.mahartv.com/",
+        "country":  "MM",
+        "streams":  "https://tv.mahar.live/mahar/website.stream/playlist.m3u8"
+    },
+    {
+        "name":  "MN TV",
+        "logo":  "https://i.imgur.com/nssm7QK.png",
+        "website":  null,
+        "country":  "MM",
+        "streams":  "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
+    },
+    {
+        "name":  "MRTV 4",
+        "logo":  "https://i.imgur.com/J4i1VBb.png",
+        "website":  "https://mrtv.gov.mm/",
+        "country":  "MM",
+        "streams":  [
+                        "https://mrtv4live.pyoneplay.com/hls/mrtv4liveProd897.m3u8",
+                        "https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8"
+                    ]
+    },
+    {
+        "name":  "YTV",
+        "logo":  "https://i.imgur.com/uqrXcWB.png",
+        "website":  "https://ytvmm.com/",
+        "country":  "MM",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/ytvbotswana/playlist.m3u8"
+    }
+]

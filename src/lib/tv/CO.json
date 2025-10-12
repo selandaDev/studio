@@ -1,0 +1,577 @@
+﻿[
+    {
+        "name":  "ATV",
+        "logo":  "https://i.imgur.com/giPOGyi.png",
+        "website":  "http://atvcolombia.com/",
+        "country":  "CO",
+        "streams":  [
+                        "http://116.202.238.88/ATV_TR/index.m3u8",
+                        "http://146.59.85.40:89/atv/index.m3u8",
+                        "http://194.76.186.33:8000/play/a01g/index.m3u8",
+                        "http://89.187.191.41/ATV-HD-TR/video.m3u8",
+                        "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+                        "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+                        "https://guineetvdirect.online:3320/live/atvguineelive.m3u8",
+                        "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8",
+                        "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8",
+                        "https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8",
+                        "https://strm.hdtvizlecanli.com/live/atv.m3u8",
+                        "https://videos.rtva.ad/live/rtva/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Avivamiento TV",
+        "logo":  "https://i.imgur.com/MsQLaQG.png",
+        "website":  "https://avivamiento.com/",
+        "country":  "CO",
+        "streams":  "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
+    },
+    {
+        "name":  "Cablenoticias",
+        "logo":  "https://i.imgur.com/FfhOGR9.png",
+        "website":  "http://www.cablenoticias.tv/",
+        "country":  "CO",
+        "streams":  "https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8"
+    },
+    {
+        "name":  "CaliTV",
+        "logo":  "https://i.imgur.com/2312Luq.png",
+        "website":  "https://www.canalcalitv.com/",
+        "country":  "CO",
+        "streams":  "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 1",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",
+        "website":  "https://canal1.com.co/",
+        "country":  "CO",
+        "streams":  "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8"
+    },
+    {
+        "name":  "Canal 10 SOL TV",
+        "logo":  "https://i.imgur.com/kAbrHqt.jpeg",
+        "website":  "https://solcablevision.com/",
+        "country":  "CO",
+        "streams":  "http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 12",
+        "logo":  "https://i.imgur.com/2xqMZrE.png",
+        "website":  "http://www.canal12valledupar.com/",
+        "country":  "CO",
+        "streams":  "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8"
+    },
+    {
+        "name":  "Canal 14 Codazzi",
+        "logo":  "https://i.imgur.com/wNSUMhJ.png",
+        "website":  "http://www.canal14codazzi.co/",
+        "country":  "CO",
+        "streams":  "https://eu1.servers10.com:8081/8056/index.m3u8"
+    },
+    {
+        "name":  "Canal 2",
+        "logo":  "https://i.imgur.com/BCrsZTQ.png",
+        "website":  "https://www.canal2.co/",
+        "country":  "CO",
+        "streams":  [
+                        "https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8",
+                        "https://cootv.cootel.com.ni:8095/Canal02_CooTel/playlist.m3u8",
+                        "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canal 2 Alpavision Neiva",
+        "logo":  "https://i.imgur.com/Yv8XIGW.png",
+        "website":  "https://alpavision.com.co/canal-2-senal-en-vivo/",
+        "country":  "CO",
+        "streams":  "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 55 Telemorisco TV",
+        "logo":  "https://i.imgur.com/9BwZyhM.jpg",
+        "website":  "https://55telemoriscotv.com/",
+        "country":  "CO",
+        "streams":  "http://canal.mediaserver.com.co/live/telemorisco.m3u8"
+    },
+    {
+        "name":  "Canal 8 TV+",
+        "logo":  "https://i.imgur.com/peOIG1F.png",
+        "website":  "https://canalocho.com.co/",
+        "country":  "CO",
+        "streams":  [
+                        "https://movil.ejeserver.com/live/canal8tv.m3u8",
+                        "https://video.ejeserver.com/live/canal8tv.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canal 9",
+        "logo":  "https://i.imgur.com/w5e1d8k.png",
+        "website":  "http://www.cosespu.com/",
+        "country":  "CO",
+        "streams":  "http://201.201.149.86:8080/livestream/stream.m3u8"
+    },
+    {
+        "name":  "Canal Dos",
+        "logo":  "https://i.imgur.com/BYsyNHZ.jpg",
+        "website":  null,
+        "country":  "CO",
+        "streams":  "http://131.221.41.94/hls/canal2.m3u8"
+    },
+    {
+        "name":  "Canal Mas Television",
+        "logo":  "https://i.imgur.com/ODMa27W.jpg",
+        "website":  "http://www.canalmastelevision.com.co/",
+        "country":  "CO",
+        "streams":  [
+                        "https://movil.ejeserver.com/live/teledoradahd.m3u8",
+                        "https://video.ejeserver.com/live/teledoradahd.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canal Nets",
+        "logo":  "https://i.imgur.com/edaAexc.png",
+        "website":  "https://canalnets.com/",
+        "country":  "CO",
+        "streams":  [
+                        "https://movil.ejeserver.com/live/nets.m3u8",
+                        "https://video.ejeserver.com/live/nets.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canal Oracion Con Son",
+        "logo":  "https://i.imgur.com/rfnFqU3.png",
+        "website":  "https://mediaserver.com.co/canal-oracion-con-son/",
+        "country":  "CO",
+        "streams":  "https://canal.mediaserver.com.co/live/oracionconson.m3u8"
+    },
+    {
+        "name":  "Canal RCN",
+        "logo":  "https://i.imgur.com/5PhTaHp.png",
+        "website":  "https://www.canalrcn.com/",
+        "country":  "CO",
+        "streams":  "http://38.183.182.166:8000/play/a10i/index.m3u8"
+    },
+    {
+        "name":  "Canal Telefamilia",
+        "logo":  "https://i.imgur.com/D1s1Q3k.png",
+        "website":  "https://canaltelefamilia.com/",
+        "country":  "CO",
+        "streams":  "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8"
+    },
+    {
+        "name":  "Canal TRO",
+        "logo":  "https://i.imgur.com/bdBduvj.png",
+        "website":  "https://www.canaltro.com/",
+        "country":  "CO",
+        "streams":  "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Canal TRO +",
+        "logo":  "https://i.imgur.com/4lNPj9m.png",
+        "website":  "https://www.canaltro.com/",
+        "country":  "CO",
+        "streams":  "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Canal Vision Dorada",
+        "logo":  "https://i.imgur.com/TerY4iM.png",
+        "website":  "http://canalvisiondorada.com.co/",
+        "country":  "CO",
+        "streams":  [
+                        "https://movil.ejeserver.com/live/visiondorada.m3u8",
+                        "https://video.ejeserver.com/live/visiondorada.m3u8"
+                    ]
+    },
+    {
+        "name":  "Caracol TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png",
+        "website":  "https://www.caracoltv.com/",
+        "country":  "CO",
+        "streams":  "http://170.244.209.135:8000/play/a0cz/index.m3u8"
+    },
+    {
+        "name":  "Champion TV",
+        "logo":  "https://i.imgur.com/A144MfR.png",
+        "website":  "https://mediaserver.com.co/champion-tv/",
+        "country":  "CO",
+        "streams":  "https://canal.mediaserver.com.co/live/ChampionTv.m3u8"
+    },
+    {
+        "name":  "CMB Television",
+        "logo":  "https://i.imgur.com/akGKPsk.png",
+        "website":  "https://www.cmbcolombia.tv/",
+        "country":  "CO",
+        "streams":  "https://catv.cmbcolombia.tv/bethesda/bethesda/chunklist.m3u8"
+    },
+    {
+        "name":  "CNC HD Online",
+        "logo":  "https://i.imgur.com/EOEtETt.png",
+        "website":  "http://www.cncpasto.com/cnc-hd-online/",
+        "country":  "CO",
+        "streams":  "https://hvtraficonew.ddns.net/pastocnc6/cnc6/playlist.m3u8"
+    },
+    {
+        "name":  "CNC Pasto",
+        "logo":  "https://i.imgur.com/sFl4XOp.png",
+        "website":  "https://www.cncpasto.com/canal-cnc/",
+        "country":  "CO",
+        "streams":  "https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8"
+    },
+    {
+        "name":  "CNC Santander de Quilichao",
+        "logo":  "https://i.imgur.com/LNl2o9q.jpg",
+        "website":  "https://canalcnccali.com.co/",
+        "country":  "CO",
+        "streams":  [
+                        "https://movil.ejeserver.com/live/cncsantander.m3u8",
+                        "https://video.ejeserver.com/live/cncsantander.m3u8"
+                    ]
+    },
+    {
+        "name":  "Cosmovision",
+        "logo":  "https://i.imgur.com/QlvYfEJ.png",
+        "website":  "https://www.cosmovision.tv",
+        "country":  "CO",
+        "streams":  [
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119960/cosmovision/playlist.m3u8",
+                        "https://videohls2.cosmovision.tv/hls/sd.m3u8"
+                    ]
+    },
+    {
+        "name":  "Cristovision",
+        "logo":  "https://i.imgur.com/XIhCUY9.png",
+        "website":  "https://cristovision.tv/",
+        "country":  "CO",
+        "streams":  "https://liveingesta118.cdnmedia.tv/cristovisiontvlive/smil:rtmp01.smil/playlist.m3u8"
+    },
+    {
+        "name":  "CTV",
+        "logo":  "https://i.imgur.com/w35ICn7.png",
+        "website":  "https://ctvbarranquilla.com/",
+        "country":  "CO",
+        "streams":  "https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8"
+    },
+    {
+        "name":  "Eduvision",
+        "logo":  "https://i.imgur.com/ppBdqel.png",
+        "website":  "https://eduvision.com.co/",
+        "country":  "CO",
+        "streams":  "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
+    },
+    {
+        "name":  "Enlace Television",
+        "logo":  "https://cdn.colombia.com/canales/enlace-television-3301.jpg",
+        "website":  "https://www.enlace.org/bogota/",
+        "country":  "CO",
+        "streams":  "https://edge.teveo.net/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmg0131AIAByAAAA/playlist.m3u8"
+    },
+    {
+        "name":  "Eureka",
+        "logo":  "https://i.imgur.com/WgnZPol.png",
+        "website":  "https://conexioncapital.co/eureka-tu-canal/",
+        "country":  "CO",
+        "streams":  "https://cdns.livewave.co:19360/eurekatv/eurekatv.m3u8"
+    },
+    {
+        "name":  "Frecuencia F TV",
+        "logo":  "https://i.imgur.com/Cw5k96N.png",
+        "website":  "https://www.frecuenciaf.com/canal",
+        "country":  "CO",
+        "streams":  "https://tv.frecuenciaf.com/live/envivo.m3u8"
+    },
+    {
+        "name":  "La Hermandad Salsera",
+        "logo":  "https://i.imgur.com/7Wlt6bc.png",
+        "website":  "https://lahermandadsalsera.com/",
+        "country":  "CO",
+        "streams":  "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8"
+    },
+    {
+        "name":  "Luna Estereo 106.4 FM",
+        "logo":  "https://i.imgur.com/cESeD6R.png",
+        "website":  "https://www.lunaestereo.com/",
+        "country":  "CO",
+        "streams":  "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
+    },
+    {
+        "name":  "MasMusica FM",
+        "logo":  "https://i.imgur.com/tCg7owd.png",
+        "website":  "https://masmusica.fm/",
+        "country":  "CO",
+        "streams":  [
+                        "https://movil.ejeserver.com/live/masmusica.m3u8",
+                        "https://video.ejeserver.com/live/masmusica.m3u8"
+                    ]
+    },
+    {
+        "name":  "MaxTV",
+        "logo":  "https://gia.tv/streams/pstream/209851.png",
+        "website":  "https://gia.tv/watchssh101.php?psid=639",
+        "country":  "CO",
+        "streams":  "https://inliveserver.com:1936/8078/8078/playlist.m3u8"
+    },
+    {
+        "name":  "MCI Television",
+        "logo":  "https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",
+        "website":  "https://canalmci.com.co/",
+        "country":  "CO",
+        "streams":  "https://video.ejeserver.com/live/mcitelevision.m3u8"
+    },
+    {
+        "name":  "Mi Canal",
+        "logo":  "https://i.imgur.com/hsWwZi9.png",
+        "website":  "https://micanalcolombia.com",
+        "country":  "CO",
+        "streams":  "http://ms.android-iptv.com/live/V7rA1feOk3/FkGkEh8Spe/6671.m3u8"
+    },
+    {
+        "name":  "Mundo Mas",
+        "logo":  "https://i.imgur.com/CREs19T.png",
+        "website":  "https://www.mundomas.com.co/",
+        "country":  "CO",
+        "streams":  "https://edge.teveo.net/live/AeAAAgA_AALTA1IAyADIUDAAAAGAAAAAAmg03eFAIAByAAAA/playlist.m3u8"
+    },
+    {
+        "name":  "Noticiero 90 Minutos",
+        "logo":  "https://i.imgur.com/ThaRRCN.png",
+        "website":  "https://90minutos.co/",
+        "country":  "CO",
+        "streams":  "https://cdns.livewave.co:8081/90minutoslive/index.m3u8"
+    },
+    {
+        "name":  "NSTV",
+        "logo":  "https://i.imgur.com/ES6xFAv.png",
+        "website":  null,
+        "country":  "CO",
+        "streams":  [
+                        "http://138.186.23.7:22281/nstv/nstv/playlist.m3u8",
+                        "https://stmv4.voxtvhd.com.br/nstv/nstv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "NTN24",
+        "logo":  "https://i.imgur.com/UoKmSAP.png",
+        "website":  "https://www.ntn24.com/",
+        "country":  "CO",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119960/rcnnoticias/playlist.m3u8"
+    },
+    {
+        "name":  "Oasis TV",
+        "logo":  "https://i.imgur.com/VKYzFpZ.png",
+        "website":  "http://canaloasis.com/",
+        "country":  "CO",
+        "streams":  "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8"
+    },
+    {
+        "name":  "Ondambiental TV",
+        "logo":  "https://i.imgur.com/u5804Au.jpg",
+        "website":  "https://www.ondambientalstereo.com/TELEVISION/",
+        "country":  "CO",
+        "streams":  "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8"
+    },
+    {
+        "name":  "RCN Mas",
+        "logo":  "https://i.imgur.com/MJzuRAN.png",
+        "website":  "https://www.canela.tv/linear/rcn-mas",
+        "country":  "CO",
+        "streams":  [
+                        "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+                        "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119960/rcnmas/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Red+",
+        "logo":  "https://i.imgur.com/kuqkTMC.png",
+        "website":  "https://redmas.com.co/",
+        "country":  "CO",
+        "streams":  "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
+    },
+    {
+        "name":  "Reyali",
+        "logo":  "https://i.imgur.com/YmFjnsF.png",
+        "website":  "https://www.reyali.com/",
+        "country":  "CO",
+        "streams":  "https://eu1.servers10.com:8081/8090/index.m3u8"
+    },
+    {
+        "name":  "Salsa Gorda Television",
+        "logo":  "https://i.imgur.com/3IhYd7G.jpg",
+        "website":  "https://salsagordatelevision.blogspot.com/",
+        "country":  "CO",
+        "streams":  [
+                        "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
+                        "https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8"
+                    ]
+    },
+    {
+        "name":  "San Pedro TV",
+        "logo":  "https://i.imgur.com/WdHcsLD.png",
+        "website":  "https://sanpedrotv-4.webnode.es/",
+        "country":  "CO",
+        "streams":  "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8"
+    },
+    {
+        "name":  "Star Channel",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png",
+        "website":  "https://www.star-latam.com/",
+        "country":  "CO",
+        "streams":  "http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8"
+    },
+    {
+        "name":  "Suram TV",
+        "logo":  "https://i.imgur.com/2N9LCES.png",
+        "website":  "https://www.suram.com.co/",
+        "country":  "CO",
+        "streams":  [
+                        "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
+                        "https://us.streaminghd.cl/suramtv/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Sur Tv",
+        "logo":  "https://i.imgur.com/8LOwRcU.png",
+        "website":  "http://surtvcanaldelsurdebolivar.com/",
+        "country":  "CO",
+        "streams":  "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Tele Amiga",
+        "logo":  "https://i.imgur.com/gBZFZNv.png",
+        "website":  "https://teleamiga.tv/",
+        "country":  "CO",
+        "streams":  "https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Teleantioquia",
+        "logo":  "https://i.imgur.com/qCVZdar.png",
+        "website":  "https://www.teleantioquia.co/",
+        "country":  "CO",
+        "streams":  "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Teleantioquia 2",
+        "logo":  "https://i.imgur.com/weLuMcS.png",
+        "website":  "https://www.teleantioquia.co/",
+        "country":  "CO",
+        "streams":  "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:live.smil/playlist.m3u8?DVR="
+    },
+    {
+        "name":  "Telecafe",
+        "logo":  "https://i.imgur.com/z18LRqM.png",
+        "website":  "https://telecafe.gov.co/",
+        "country":  "CO",
+        "streams":  "https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Telecanal",
+        "logo":  "https://i.imgur.com/IRtMY32.png",
+        "website":  "https://www.telecanal.co/",
+        "country":  "CO",
+        "streams":  "http://45.232.210.1:8029/play/a00s/index.m3u8"
+    },
+    {
+        "name":  "Telecaribe",
+        "logo":  "https://i.imgur.com/yuKjGKo.png",
+        "website":  null,
+        "country":  "CO",
+        "streams":  "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Telecaribe Plus",
+        "logo":  "https://i.imgur.com/mxUso93.png",
+        "website":  "https://www.telecaribe.co/",
+        "country":  "CO",
+        "streams":  "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Teleislas",
+        "logo":  "https://i.imgur.com/aKHGRyk.png",
+        "website":  "https://teleislas.gov.co/",
+        "country":  "CO",
+        "streams":  "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8"
+    },
+    {
+        "name":  "Telepacifico",
+        "logo":  "https://i.imgur.com/39hy97J.png",
+        "website":  "https://telepacifico.com/",
+        "country":  "CO",
+        "streams":  "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8"
+    },
+    {
+        "name":  "Telepetroleo",
+        "logo":  "https://i.imgur.com/lvlzOCs.png",
+        "website":  "https://telepetroleo.com/",
+        "country":  "CO",
+        "streams":  "https://edge.teveo.net/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmg0285AIAByAAAA/playlist.m3u8"
+    },
+    {
+        "name":  "Tele San Jacinto",
+        "logo":  "https://i.imgur.com/t8aT4eT.png",
+        "website":  "https://www.telesanjacinto.com/",
+        "country":  "CO",
+        "streams":  [
+                        "https://movil.ejeserver.com/live/telesanjacinto.m3u8",
+                        "https://video.ejeserver.com/live/telesanjacinto.m3u8"
+                    ]
+    },
+    {
+        "name":  "Tele Vid",
+        "logo":  "https://i.imgur.com/kVHJU5V.png",
+        "website":  "https://televid.tv/",
+        "country":  "CO",
+        "streams":  "https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8?DVR="
+    },
+    {
+        "name":  "Trece",
+        "logo":  "https://i.imgur.com/nEBsIlf.png",
+        "website":  "https://canaltrece.com.co/",
+        "country":  "CO",
+        "streams":  "https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Trece+",
+        "logo":  "https://i.imgur.com/jySvMsw.png",
+        "website":  "https://canaltrece.com.co/",
+        "country":  "CO",
+        "streams":  [
+                        "http://190.2.212.209:8050/play/a0nf",
+                        "https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Tu Universo TV",
+        "logo":  "https://i.imgur.com/e6esjLZ.jpg",
+        "website":  "https://tuuniversotv.net/",
+        "country":  "CO",
+        "streams":  "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8"
+    },
+    {
+        "name":  "TV Penol",
+        "logo":  "https://i.imgur.com/Zm4934Z.png",
+        "website":  "https://tvpenol.wixsite.com/canaltvpenol",
+        "country":  "CO",
+        "streams":  "https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8"
+    },
+    {
+        "name":  "TV San Jorge",
+        "logo":  "https://i.imgur.com/vLU4Tcu.png",
+        "website":  "https://tvsanjorge.tv/",
+        "country":  "CO",
+        "streams":  "https://asucap.com/livestream/asucap_envivo.m3u8"
+    },
+    {
+        "name":  "Vive TV",
+        "logo":  "https://i.imgur.com/25CFHpB.png",
+        "website":  "https://www.vivetvcolombia.com/",
+        "country":  "CO",
+        "streams":  "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8"
+    },
+    {
+        "name":  "Zoom",
+        "logo":  "https://i.imgur.com/euy5zp6.png",
+        "website":  "https://www.zoomcanal.com.co/",
+        "country":  "CO",
+        "streams":  "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8"
+    }
+]

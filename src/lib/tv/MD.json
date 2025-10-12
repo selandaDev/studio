@@ -1,0 +1,264 @@
+﻿[
+    {
+        "name":  "Acasa TV",
+        "logo":  "https://i.imgur.com/k8qpvHb.png",
+        "website":  "https://acasatv.md/",
+        "country":  "MD",
+        "streams":  "http://hls.protv.md/acasatv/acasatv.m3u8"
+    },
+    {
+        "name":  "ATV",
+        "logo":  "https://i.imgur.com/FnM8SdO.png",
+        "website":  "https://atv.md/",
+        "country":  "MD",
+        "streams":  [
+                        "http://116.202.238.88/ATV_TR/index.m3u8",
+                        "http://146.59.85.40:89/atv/index.m3u8",
+                        "http://194.76.186.33:8000/play/a01g/index.m3u8",
+                        "http://89.187.191.41/ATV-HD-TR/video.m3u8",
+                        "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+                        "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+                        "https://guineetvdirect.online:3320/live/atvguineelive.m3u8",
+                        "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8",
+                        "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8",
+                        "https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8",
+                        "https://strm.hdtvizlecanli.com/live/atv.m3u8",
+                        "https://videos.rtva.ad/live/rtva/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Balti TV",
+        "logo":  "https://i.imgur.com/S1vEqZp.png",
+        "website":  null,
+        "country":  "MD",
+        "streams":  "http://77.89.199.174:8000/play/1024/index.m3u8"
+    },
+    {
+        "name":  "Busuioc TV",
+        "logo":  "https://i.postimg.cc/jqpXY1FD/busuioctv.png",
+        "website":  "https://busuioctv.md/",
+        "country":  "MD",
+        "streams":  "https://busuioctv.iforward.eu/hls/busuioc.m3u8"
+    },
+    {
+        "name":  "Canal 2",
+        "logo":  "https://i.imgur.com/67NyxhK.png",
+        "website":  "http://www.canal2.md/",
+        "country":  "MD",
+        "streams":  [
+                        "https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8",
+                        "https://cootv.cootel.com.ni:8095/Canal02_CooTel/playlist.m3u8",
+                        "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canal 3",
+        "logo":  "https://i.imgur.com/IjBSTjR.png",
+        "website":  "https://www.canal3.md/",
+        "country":  "MD",
+        "streams":  [
+                        "https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/canal3/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canal 5",
+        "logo":  "https://i.imgur.com/srQOxwo.png",
+        "website":  "https://canal5.md/ru/",
+        "country":  "MD",
+        "streams":  "http://104.238.205.28:8989/278329_.m3u8"
+    },
+    {
+        "name":  "Drochia TV",
+        "logo":  "https://i.imgur.com/O6YZ0D5.png",
+        "website":  "https://drochia.tv/",
+        "country":  "MD",
+        "streams":  "https://hls.drochia.tv/tv/web.m3u8"
+    },
+    {
+        "name":  "GRT",
+        "logo":  "https://i.postimg.cc/CKbSM5G3/grt.png",
+        "website":  "http://grt.md/",
+        "country":  "MD",
+        "streams":  "https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8"
+    },
+    {
+        "name":  "Media TV",
+        "logo":  "https://i.imgur.com/OZyIXwz.png",
+        "website":  "https://mediatv.md/",
+        "country":  "MD",
+        "streams":  [
+                        "http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8",
+                        "http://live.sloode.com:1935/mediatv/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Mega TV",
+        "logo":  "https://i.imgur.com/WOKIcm0.png",
+        "website":  "https://megatv.md/",
+        "country":  "MD",
+        "streams":  [
+                        "https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
+                        "https://vdo1.streamgato.us:3711/live/megatvlive.m3u8"
+                    ]
+    },
+    {
+        "name":  "Moldova 1",
+        "logo":  "https://i.postimg.cc/MHSV9MGD/moldova1.png",
+        "website":  "https://trm.md/ro/moldova-1",
+        "country":  "MD",
+        "streams":  "https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8"
+    },
+    {
+        "name":  "Moldova 2",
+        "logo":  "https://i.postimg.cc/D0PsHvJK/moldova2.png",
+        "website":  "https://trm.md/ro/moldova-2",
+        "country":  "MD",
+        "streams":  "https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8"
+    },
+    {
+        "name":  "Moldova TV",
+        "logo":  "https://i.postimg.cc/SQ6WJrZt/moldovatv.png",
+        "website":  "https://moldovatv.ro/",
+        "country":  "MD",
+        "streams":  [
+                        "http://89.38.8.130:39435",
+                        "https://moldovatv.ro/live-tv/live.m3u8"
+                    ]
+    },
+    {
+        "name":  "N4",
+        "logo":  "https://i.imgur.com/W9UwCv7.png",
+        "website":  "https://n4.md/",
+        "country":  "MD",
+        "streams":  "https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8"
+    },
+    {
+        "name":  "Next TV",
+        "logo":  "https://i.imgur.com/64pv0lW.png",
+        "website":  null,
+        "country":  "MD",
+        "streams":  "http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8"
+    },
+    {
+        "name":  "Noroc TV",
+        "logo":  "https://i.imgur.com/XvYqpqG.png",
+        "website":  "https://www.radionoroc.md/tv-noroc/",
+        "country":  "MD",
+        "streams":  "https://live.noroc.tv/noroc/noroc.m3u8"
+    },
+    {
+        "name":  "ONE TV",
+        "logo":  "https://i.imgur.com/gY7ii1W.jpg",
+        "website":  "https://info1.md/",
+        "country":  "MD",
+        "streams":  [
+                        "http://137.59.86.218:1935/live/onetv/playlist.m3u8",
+                        "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/onetv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Privesc.Eu TV",
+        "logo":  "https://i.imgur.com/ukBacSn.png",
+        "website":  "https://www.privesc.eu/tv",
+        "country":  "MD",
+        "streams":  "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8"
+    },
+    {
+        "name":  "PRO TV Chisinau",
+        "logo":  "https://i.imgur.com/X5PYRxF.png",
+        "website":  "https://protv.md/",
+        "country":  "MD",
+        "streams":  "http://stream.protv.md/live/sursa-2/index.m3u8"
+    },
+    {
+        "name":  "Publika TV",
+        "logo":  "https://i.imgur.com/Vyx6wo5.png",
+        "website":  "http://www.publika.md/",
+        "country":  "MD",
+        "streams":  "https://livebeta.publika.press/LIVE/P/6810.m3u8"
+    },
+    {
+        "name":  "Realitatea TV",
+        "logo":  "https://i.imgur.com/Ul4IIfX.png",
+        "website":  "https://realitatea.md/",
+        "country":  "MD",
+        "streams":  "https://realitatealive.md/tv/rlive.m3u8"
+    },
+    {
+        "name":  "Sor TV",
+        "logo":  "https://i.imgur.com/BcfZgD8.png",
+        "website":  "https://news.sortv.md",
+        "country":  "MD",
+        "streams":  "http://188.237.212.16:8888/live/cameraFeed.m3u8"
+    },
+    {
+        "name":  "Star TV",
+        "logo":  "https://i.imgur.com/6BBnG6f.png",
+        "website":  "https://tvstar.md/",
+        "country":  "MD",
+        "streams":  [
+                        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd",
+                        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
+                        "https://dogus-live.daioncdn.net/startv/startv.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/startv/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8"
+                    ]
+    },
+    {
+        "name":  "Tele M",
+        "logo":  "https://i.imgur.com/AUWuwbM.png",
+        "website":  null,
+        "country":  "MD",
+        "streams":  "https://tv.streambox.ro/hls/telem/index.m3u8"
+    },
+    {
+        "name":  "Tezaur TV",
+        "logo":  "https://i.imgur.com/eAagwLW.png",
+        "website":  "https://tezaurtv.md",
+        "country":  "MD",
+        "streams":  "https://tezaurtv.md/wp-content/uploads/live/index.m3u8"
+    },
+    {
+        "name":  "TV6",
+        "logo":  "https://i.imgur.com/fNn4lMw.png",
+        "website":  "https://tv6.live/",
+        "country":  "MD",
+        "streams":  [
+                        "http://185.236.229.62:9981/play/a03y",
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6"
+                    ]
+    },
+    {
+        "name":  "TV8",
+        "logo":  "https://i.imgur.com/Rsn4oUh.png",
+        "website":  "https://tv8.md/live",
+        "country":  "MD",
+        "streams":  [
+                        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/tv8/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV-Nord",
+        "logo":  "https://i.imgur.com/86JYRVH.png",
+        "website":  "https://tvn.md/",
+        "country":  "MD",
+        "streams":  "https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8"
+    },
+    {
+        "name":  "TVR Moldova",
+        "logo":  "https://i.postimg.cc/4x7qcyYd/tvrmoldova.png",
+        "website":  "http://www.tvr.ro/",
+        "country":  "MD",
+        "streams":  "https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8"
+    },
+    {
+        "name":  "Vocea Basarabiei TV",
+        "logo":  "https://i.imgur.com/irP8QLs.png",
+        "website":  "https://voceabasarabiei.md/vb-tv",
+        "country":  "MD",
+        "streams":  "https://storage.voceabasarabiei.md/vocea/vocea.m3u8"
+    }
+]

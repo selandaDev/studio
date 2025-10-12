@@ -1,0 +1,233 @@
+﻿[
+    {
+        "name":  "1TV",
+        "logo":  "https://i.postimg.cc/Xvxk6z6C/1tv.png",
+        "website":  "https://1tv.ge/",
+        "country":  "GE",
+        "streams":  "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8"
+    },
+    {
+        "name":  "2 TV",
+        "logo":  "https://i.imgur.com/FJBL6zI.png",
+        "website":  "https://rustavi2.ge/en/contact",
+        "country":  "GE",
+        "streams":  "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8"
+    },
+    {
+        "name":  "Adjarasport 1",
+        "logo":  "https://i.imgur.com/SVV5xHC.png",
+        "website":  "https://adjarasport.tv/",
+        "country":  "GE",
+        "streams":  "https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8"
+    },
+    {
+        "name":  "Agro TV",
+        "logo":  "https://i.imgur.com/QZvayCZ.png",
+        "website":  null,
+        "country":  "GE",
+        "streams":  [
+                        "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8",
+                        "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
+                    ]
+    },
+    {
+        "name":  "Channel Five",
+        "logo":  "https://i.imgur.com/L2XfQG0.png",
+        "website":  "http://www.tv5.ge/",
+        "country":  "GE",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/channel5/playlist.m3u8"
+    },
+    {
+        "name":  "Comedy TV",
+        "logo":  "https://i.imgur.com/i1TANKv.png",
+        "website":  null,
+        "country":  "GE",
+        "streams":  [
+                        "http://31.146.5.178:8087/play/a00b/index.m3u8",
+                        "http://dvrfl05.bozztv.com/gin-comedyarxi/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Ertsulovneba",
+        "logo":  "https://i.imgur.com/KuuODMM.png",
+        "website":  "https://www.televizia.org/ertsulovneba/",
+        "country":  "GE",
+        "streams":  "https://stream.sstv.ge/live/sstv/playlist.m3u8"
+    },
+    {
+        "name":  "Euronews Georgia",
+        "logo":  "https://i.imgur.com/VNJ4soR.png",
+        "website":  "https://euronewsgeorgia.com/",
+        "country":  "GE",
+        "streams":  "http://dvrfl05.bozztv.com/gin-euronewsgeorgia/index.m3u8"
+    },
+    {
+        "name":  "Formula",
+        "logo":  "https://i.postimg.cc/bwb9v94m/formula.png",
+        "website":  "https://formula.ge/",
+        "country":  "GE",
+        "streams":  [
+                        "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
+                        "https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "GDS TV",
+        "logo":  "https://i.imgur.com/gv61tFf.png",
+        "website":  null,
+        "country":  "GE",
+        "streams":  "http://31.146.5.178:8087/play/a00a/index.m3u8"
+    },
+    {
+        "name":  "Imedi TV",
+        "logo":  "https://i.imgur.com/94hNyxZ.png",
+        "website":  "https://www.imedi.ge/",
+        "country":  "GE",
+        "streams":  "https://tv.cdn.xsg.ge/imedihd/index.m3u8"
+    },
+    {
+        "name":  "Kartuli TV",
+        "logo":  "https://i.imgur.com/k6kCnBZ.jpeg",
+        "website":  "https://civilizebuli.ge/",
+        "country":  "GE",
+        "streams":  "http://dvrfl05.bozztv.com/gin-qartulitv/index.m3u8"
+    },
+    {
+        "name":  "Kavkasia TV",
+        "logo":  "https://i.imgur.com/Z5b7w7K.png",
+        "website":  "http://www.kavkasiatv.ge/",
+        "country":  "GE",
+        "streams":  "http://dvrfl05.bozztv.com/gin-kavkasia/index.m3u8"
+    },
+    {
+        "name":  "L-TV",
+        "logo":  "https://i.imgur.com/Dv99X0K.png",
+        "website":  null,
+        "country":  "GE",
+        "streams":  "https://live2.telvi.de/hls/l-tv_s1.m3u8"
+    },
+    {
+        "name":  "Marao TV",
+        "logo":  "https://i.imgur.com/Nurmw1G.png",
+        "website":  "http://www.rustavi2.ge/",
+        "country":  "GE",
+        "streams":  "http://dvrfl05.bozztv.com/gin-marao/index.m3u8"
+    },
+    {
+        "name":  "Mega TV",
+        "logo":  "https://i.imgur.com/6CxGZRa.png",
+        "website":  "https://megatv.ge/",
+        "country":  "GE",
+        "streams":  [
+                        "https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
+                        "https://vdo1.streamgato.us:3711/live/megatvlive.m3u8"
+                    ]
+    },
+    {
+        "name":  "Mtavari Arkhi",
+        "logo":  "https://i.imgur.com/tLtGnJW.png",
+        "website":  "https://mtavari.tv/",
+        "country":  "GE",
+        "streams":  [
+                        "https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8",
+                        "https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Obieqtivi TV",
+        "logo":  "https://i.imgur.com/Kqc8H8X.png",
+        "website":  "http://www.obieqtivi.net/",
+        "country":  "GE",
+        "streams":  "https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8"
+    },
+    {
+        "name":  "Palitra News",
+        "logo":  "https://i.postimg.cc/wvvV9yJ2/palitranews.png",
+        "website":  "https://palitranews.ge/",
+        "country":  "GE",
+        "streams":  [
+                        "https://live.palitranews.ge/hls/palitratv/index.m3u8",
+                        "https://livestream.palitra.ge/hls/palitratv/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Pos TV",
+        "logo":  "https://i.postimg.cc/qvcgjpqx/postv.png",
+        "website":  "https://postv.media/",
+        "country":  "GE",
+        "streams":  [
+                        "http://dvrfl05.bozztv.com/gin-postv/index.m3u8",
+                        "https://live.postv.media/stream/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Prime TV",
+        "logo":  "https://i.imgur.com/dSIzZGQ.png",
+        "website":  null,
+        "country":  "GE",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/primetv/playlist.m3u8"
+    },
+    {
+        "name":  "Rioni TV",
+        "logo":  "https://i.imgur.com/ogMqmth.png",
+        "website":  null,
+        "country":  "GE",
+        "streams":  "http://video.rionitv.com:9090/hls/live/rioni.m3u8"
+    },
+    {
+        "name":  "Rustavi 2",
+        "logo":  "https://i.postimg.cc/bJGspkYq/rustavi2.png",
+        "website":  "http://www.rustavi2.ge/",
+        "country":  "GE",
+        "streams":  [
+                        "http://31.146.5.178:8087/play/a008/index.m3u8",
+                        "http://dvrfl05.bozztv.com/gin-rustavi2/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Silk Universal",
+        "logo":  "https://i.imgur.com/z0XHsPE.png",
+        "website":  "https://www.silknet.com/",
+        "country":  "GE",
+        "streams":  "http://dvrfl05.bozztv.com/gin-silkuniversal/index.m3u8"
+    },
+    {
+        "name":  "TV 25",
+        "logo":  "https://www.magticom.ge/images/channels/MjAxOC8wOS8xMC9lNWU0YmY2OC1iNjgzLTQ1NWMtYTQzZi00YmZmYWFiYTcyYTguanBn.jpg",
+        "website":  "https://www.tv25.ge/",
+        "country":  "GE",
+        "streams":  "http://dvrfl05.bozztv.com/gin-tv25/index.m3u8"
+    },
+    {
+        "name":  "TV 4",
+        "logo":  "https://www.lyngsat.com/logo/tv/tt/tv-4-ge.png",
+        "website":  "https://tv4.ge/",
+        "country":  "GE",
+        "streams":  "https://cdn4.skygo.mn/live/disk1/TV4/HLSv3-FTA/TV4.m3u8"
+    },
+    {
+        "name":  "TV9",
+        "logo":  "https://i.imgur.com/nXPcSKR.png",
+        "website":  "https://tv9news.ge/",
+        "country":  "GE",
+        "streams":  [
+                        "http://43.252.18.195:5080/live/streams/CTV9__khmer_etv.playlist.m3u8.m3u8",
+                        "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8",
+                        "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
+                    ]
+    },
+    {
+        "name":  "TVC",
+        "logo":  "https://sul.ge/images/televizia/tvc.png",
+        "website":  "https://tvc.ge/",
+        "country":  "GE",
+        "streams":  "http://31.146.5.178:8087/play/a009/index.m3u8"
+    },
+    {
+        "name":  "TV Pirveli",
+        "logo":  "https://i.postimg.cc/4yRNDqjv/tvpirveli.png",
+        "website":  "http://www.tvpirveli.ge/",
+        "country":  "GE",
+        "streams":  "http://dvrfl05.bozztv.com/gin-tvpirveli/index.m3u8"
+    }
+]

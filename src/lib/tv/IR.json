@@ -1,0 +1,1100 @@
+﻿[
+    {
+        "name":  "247 Box TV",
+        "logo":  "https://i.postimg.cc/N0ymZfDW/247boxtv.png",
+        "website":  "https://247box.live/",
+        "country":  "IR",
+        "streams":  "https://hls.247box.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Abadan TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png",
+        "website":  "http://abadan.irib.ir/tv",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8",
+                        "https://ncdn.telewebion.com/abadan/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Abalfadhl TV",
+        "logo":  "https://i.ibb.co/cCmjqtQ/logo-2.png",
+        "website":  "https://abalfadhl.tv/",
+        "country":  "IR",
+        "streams":  "https://t.northtelecom.org/ABALFADHLTV.m3u8"
+    },
+    {
+        "name":  "Aflak TV",
+        "logo":  "https://i.imgur.com/LkLCHpf.png",
+        "website":  "http://www.lorestan.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://lenz.splus.ir/PLTV/88888888/224/3221226675/index.m3u8"
+    },
+    {
+        "name":  "AFN TV",
+        "logo":  "https://i.imgur.com/LctanF8.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
+    },
+    {
+        "name":  "Afra Film",
+        "logo":  "https://i.postimg.cc/vZWdM86g/afra-film.jpg",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://afrafhls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Afra Series",
+        "logo":  "https://i.postimg.cc/g0mb09vM/afra-series.jpg",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://afrashls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Aftab TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/274px-Arak_AFTAB.svg.png",
+        "website":  "http://markazi.irib.ir/tv",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226899/index.m3u8",
+                        "https://ncdn.telewebion.com/aftab/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Al Alam",
+        "logo":  "https://i.imgur.com/Zdi31dy.png",
+        "website":  "https://www.alalam.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8",
+                        "https://live2.alalam.ir/alalam.m3u8"
+                    ]
+    },
+    {
+        "name":  "Alborz TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/310px-Alborz_TV_logo.svg.png",
+        "website":  "http://alborz.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/alborz/live/playlist.m3u8"
+    },
+    {
+        "name":  "Al-Kawthar TV",
+        "logo":  "https://i.imgur.com/x4zUmY1.png",
+        "website":  "https://www.alkawthartv.ir/",
+        "country":  "IR",
+        "streams":  "https://lenz.splus.ir/PLTV/88888888/224/3221226158/index.m3u8"
+    },
+    {
+        "name":  "Al Wilayah",
+        "logo":  "https://i.imgur.com/OI1HQv5.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8"
+    },
+    {
+        "name":  "Amouzesh TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/201px-Amouzesh_TV_logo_%282023%29.svg.png",
+        "website":  "https://tv7.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226151/index.m3u8",
+                        "https://ncdn.telewebion.com/amouzesh/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Ara TV",
+        "logo":  "https://i.ibb.co/dwSHt2SG/Ara.png",
+        "website":  "https://www.aratv.ir/",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/ara/live/playlist.m3u8"
+    },
+    {
+        "name":  "Arax TV",
+        "logo":  "https://i.postimg.cc/0QqcjgXX/araxtv.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://araxhls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Arko TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/aa/arko-tv.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://arkhls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Arvan TV",
+        "logo":  "https://i.postimg.cc/9z3M5pQ9/arvan.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  [
+                        "https://arvhls.wns.live/hls/stream.m3u8",
+                        "https://me2hls.wns.live/hls/stream.m3u8"
+                    ]
+    },
+    {
+        "name":  "Asil TV",
+        "logo":  "https://i.postimg.cc/WbG7N3Mr/asiltv.png",
+        "website":  "http://webtv.islamasil.net/",
+        "country":  "IR",
+        "streams":  "https://live.asil.tv/asiltv/index.m3u8"
+    },
+    {
+        "name":  "Assirat TV",
+        "logo":  "https://i.postimg.cc/s2NY6ZrF/assirattv.png",
+        "website":  "https://www.assirat.net/",
+        "country":  "IR",
+        "streams":  "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8"
+    },
+    {
+        "name":  "Atrak TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/2/28/Bojnourd_ATRAK_TV.svg/292px-Bojnourd_ATRAK_TV.svg.png",
+        "website":  "http://en.atrak-group.ir/",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/atrak/live/playlist.m3u8"
+    },
+    {
+        "name":  "Atrina TV",
+        "logo":  "https://i.postimg.cc/fLj50H6z/Atrina.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://atrihls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "AVA Family",
+        "logo":  "https://www.lyngsat.com/logo/tv/aa/ava-family-iq.png",
+        "website":  "https://avafamily.avatv.live/",
+        "country":  "IR",
+        "streams":  "https://familyhls.avatv.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "AVA Series",
+        "logo":  "https://i.postimg.cc/vH0ctwyk/avaseries.png",
+        "website":  "http://avaseries.wns.live/",
+        "country":  "IR",
+        "streams":  "https://avaserieshls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Ayeneh TV",
+        "logo":  "https://i.imgur.com/aHdixeT.png",
+        "website":  "https://ayenehmedia.org/",
+        "country":  "IR",
+        "streams":  "https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Baran TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/283px-TV_Baran.svg.png",
+        "website":  "https://sepehrtv.ir/live/baran",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226902/index.m3u8",
+                        "https://ncdn.telewebion.com/baran/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Boushehr TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/200px-Bushehr_TV.svg.png",
+        "website":  "http://boushehr.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/bushehr/live/playlist.m3u8"
+    },
+    {
+        "name":  "Bravo Farsi TV",
+        "logo":  "https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://bravoohls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Cafe Film",
+        "logo":  "https://i.postimg.cc/bJV7Ls4M/cafe-film.jpg",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://cafefhls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Cafe Trade TV",
+        "logo":  "https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",
+        "website":  "https://cafetrade.tv/",
+        "country":  "IR",
+        "streams":  "https://cafetradehls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Classic TV",
+        "logo":  "https://i.postimg.cc/0NnRMtn9/classic-tv.jpg",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://clshls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Datis TV",
+        "logo":  "https://i.postimg.cc/GtXQX4L6/datistv.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  [
+                        "https://dathls.wns.live/hls/stream.m3u8",
+                        "https://ronhls.wns.live/hls/stream.m3u8"
+                    ]
+    },
+    {
+        "name":  "Dena TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/274px-Yasuj_DENA.svg.png",
+        "website":  "http://yasouj.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/dena/live/playlist.m3u8"
+    },
+    {
+        "name":  "Ekran Movies",
+        "logo":  "https://i.ibb.co/WNyssx28/Screenshot-2025-05-18-211143.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8"
+    },
+    {
+        "name":  "Energy",
+        "logo":  "https://static.telewebion.com/channelsLogo/9c150d8a-c4ab-4f72-9fb6-4e3fb65fc5ee/default",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/baenergy/live/playlist.m3u8"
+    },
+    {
+        "name":  "EPlanet TV",
+        "logo":  "https://i.postimg.cc/1RBJmjGM/EPlanet-TV.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://eplhls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Eshragh Network",
+        "logo":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwo\u0026usqp=CAU",
+        "website":  "https://telewebion.com/live/eshragh",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/eshragh/live/playlist.m3u8"
+    },
+    {
+        "name":  "Fars TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png",
+        "website":  "http://fars.irib.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226701/index.m3u8",
+                        "https://ncdn.telewebion.com/fars/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "FX 1",
+        "logo":  "https://www.lyngsat.com/logo/tv/ff/fx-1.png",
+        "website":  "https://fxtv.wns.live/",
+        "country":  "IR",
+        "streams":  "https://fxtvhls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "FX 2",
+        "logo":  "https://www.lyngsat.com/logo/tv/ff/fx-two-fr.png",
+        "website":  "https://fxtv2.wns.live/",
+        "country":  "IR",
+        "streams":  "https://toonixhls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Gold Star",
+        "logo":  "https://i.postimg.cc/KvsfL3sM/goldstar.jpg",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://moviethls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Golkhane Tv",
+        "logo":  "https://static.telewebion.com/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/golkhane/live/playlist.m3u8"
+    },
+    {
+        "name":  "Habib TV",
+        "logo":  "https://i.ibb.co/spZRy7mg/habib.png",
+        "website":  "https://telewebion.com/live/habib",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/habib/live/playlist.m3u8"
+    },
+    {
+        "name":  "Hamedan TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IRIB_Hamadan_tv.svg/296px-IRIB_Hamadan_tv.svg.png",
+        "website":  "http://hamedan.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/sina/live/playlist.m3u8"
+    },
+    {
+        "name":  "Hamoon TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/b/bc/Zahedan_Hamoon.png",
+        "website":  "http://zahedan.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/hamoon/live/playlist.m3u8"
+    },
+    {
+        "name":  "Hispan TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg",
+        "website":  "https://www.hispantv.com/",
+        "country":  "IR",
+        "streams":  "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8"
+    },
+    {
+        "name":  "HomePlus",
+        "logo":  "https://www.lyngsat.com/logo/tv/hh/homeplus.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://homeplushls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "iFilm 2",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png",
+        "website":  "https://fa2.ifilmtv.ir/",
+        "country":  "IR",
+        "streams":  "https://live.presstv.ir/hls/ifilm2.m3u8"
+    },
+    {
+        "name":  "iFilm Arabic",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+        "website":  "http://www.ifilmtv.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://live.presstv.ir/hls/ifilmar.m3u8",
+                        "https://ncdn.telewebion.com/ifilmar/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "iFilm English",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+        "website":  "http://www.ifilmtv.ir/",
+        "country":  "IR",
+        "streams":  "https://live.presstv.ir/hls/ifilmen.m3u8"
+    },
+    {
+        "name":  "iFilm Persian",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+        "website":  "http://www.ifilmtv.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226842/index.m3u8",
+                        "https://live.presstv.ir/hls/ifilmfa.m3u8",
+                        "https://ncdn.telewebion.com/ifilm/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Ilam TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/240px-Ilam_TV.png",
+        "website":  "http://ilam.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/ilam/live/playlist.m3u8"
+    },
+    {
+        "name":  "Iraneman",
+        "logo":  "https://static.telewebion.com/channelsLogo/9ee212fa-ad8b-45eb-a5fa-d737b4b6ef05/default",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/iraneman/live/playlist.m3u8"
+    },
+    {
+        "name":  "Iran Jewish TV",
+        "logo":  "https://i.ibb.co/JWXs7csN/en.png",
+        "website":  "http://iran620.com/",
+        "country":  "IR",
+        "streams":  "http://iran620.com:1935/live/IranJewishTv/playlist.m3u8"
+    },
+    {
+        "name":  "Iran Press",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg/240px-%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg",
+        "website":  "https://iranpress.com/",
+        "country":  "IR",
+        "streams":  "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
+    },
+    {
+        "name":  "IRIB 1",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",
+        "website":  "https://tv1.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8",
+                        "https://ncdn.telewebion.com/tv1/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "IRIB 2",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8",
+                        "https://ncdn.telewebion.com/tv2/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "IRIB 3",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",
+        "website":  "https://tv3.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8",
+                        "https://ncdn.telewebion.com/tv3/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "IRIB 4",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/240px-IRIB_TV4_logo.svg.png",
+        "website":  "https://tv4.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8",
+                        "https://ncdn.telewebion.com/tv4/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "IRIB Mostanad",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png",
+        "website":  "https://www.doctv.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226901/index.m3u8",
+                        "https://ncdn.telewebion.com/mostanad/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "IRIB Omid",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/512px-IRIB_Omid.svg.png",
+        "website":  "http://www.omidtv.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8",
+                        "https://ncdn.telewebion.com/omid/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "IRIB UHD",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/320px-IRIB_FARATAR_UHD.png",
+        "website":  "https://www.irib.ir/",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/faratar/live/playlist.m3u8"
+    },
+    {
+        "name":  "IRINN",
+        "logo":  "https://i.postimg.cc/4dmdfs3V/irinn.png",
+        "website":  "https://www.irinn.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8",
+                        "https://ncdn.telewebion.com/irinn/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "IRINN 2",
+        "logo":  "https://i.postimg.cc/3RVwWVy6/irinn2.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8",
+                        "https://ncdn.telewebion.com/irinn2/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Isfahan TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/242px-IsfahanTV.svg.png",
+        "website":  "http://isfahan.irib.ir/tv",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226652/index.m3u8",
+                        "https://ncdn.telewebion.com/esfahan/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "ITV Life",
+        "logo":  "https://i.ibb.co/pvLQmQK7/itv.png",
+        "website":  "https://www.iradios.ca/itv",
+        "country":  "IR",
+        "streams":  "https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name":  "ITV Persian Music",
+        "logo":  "https://i.ibb.co/pvLQmQK7/itv.png",
+        "website":  "https://www.iradios.ca/itv",
+        "country":  "IR",
+        "streams":  "https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name":  "Jahanbin TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/320px-Shahrekord_Jahanbin.svg.png",
+        "website":  "http://chb.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/jahanbin/live/playlist.m3u8"
+    },
+    {
+        "name":  "Jam TV",
+        "logo":  "https://i.ibb.co/WpjKp2z4/jam.png",
+        "website":  "https://telewebion.com/live/jam",
+        "country":  "IR",
+        "streams":  "https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1113.telewebion.com/ek/jam/live/1080p/index.m3u8"
+    },
+    {
+        "name":  "Karoon TV",
+        "logo":  "https://static.telewebion.com/channelsLogo/448a8dca-ab58-4533-8d71-ad74b8812c79/default",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/karoon/live/playlist.m3u8"
+    },
+    {
+        "name":  "Kerman TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/240px-Kerman_irib_logo_%28blue_version%29.png",
+        "website":  "http://kerman.irib.ir/tv",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226856/index.m3u8",
+                        "https://ncdn.telewebion.com/kerman/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Ketabnama",
+        "logo":  "https://static.telewebion.com/channelsLogo/cd0ff86a-5976-402b-b953-96ede1f79caa/default",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "http://ncdn.telewebion.com/ketabnama/live/playlist.m3u8"
+    },
+    {
+        "name":  "Khalij-e Fars TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/290px-Bandar_KHALI_J_e_FARS_TV.svg.png",
+        "website":  "http://khalijefars.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/khalijefars/live/playlist.m3u8"
+    },
+    {
+        "name":  "Khavaran TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png",
+        "website":  "https://telewebion.com/live/khavaran",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/khavaran/live/playlist.m3u8"
+    },
+    {
+        "name":  "Khorasan Razavi TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/b/bd/%D9%84%D9%88%DA%AF%D9%88_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86_%D8%B1%D8%B6%D9%88%DB%8C.png",
+        "website":  "http://mashhad.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/khorasanrazavi/live/playlist.m3u8"
+    },
+    {
+        "name":  "Khozestan TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/320px-Ahwaz_TV.svg.png",
+        "website":  "http://ahwaz.irib.ir/tv",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226415/index.m3u8",
+                        "https://ncdn.telewebion.com/khoozestan/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Kish TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/320px-Kish_tv.svg.png",
+        "website":  "https://sepehrtv.ir/live/kish",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/kish/live/playlist.m3u8"
+    },
+    {
+        "name":  "Kordestan TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/240px-Sanandaj_KORDESTAN.svg.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226647/index.m3u8",
+                        "https://ncdn.telewebion.com/kordestan/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "LabbaykTV",
+        "logo":  "https://static.telewebion.com/channelsLogo/ZDVlODRiYjI3NWUyOTFmOGJmYjIwOTQyMDAyMzRkMmUzYjVmOGUyMTBhNTE0MGI5ZDAyOTMzZDdmZDQyNDM5OA/default",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/labbayk/live/playlist.m3u8"
+    },
+    {
+        "name":  "Lenz Animation",
+        "logo":  "https://i.postimg.cc/V652Dq1P/lenzanimation.png",
+        "website":  "https://web.splus.ir/",
+        "country":  "IR",
+        "streams":  "https://lenz.splus.ir/PLTV/88888888/224/3221227043/index.m3u8"
+    },
+    {
+        "name":  "Lenz Film",
+        "logo":  "https://i.postimg.cc/jjMGH8ph/lenzfilm.png",
+        "website":  "https://web.splus.ir/",
+        "country":  "IR",
+        "streams":  "https://lenz.splus.ir/PLTV/88888888/224/3221227021/index.m3u8"
+    },
+    {
+        "name":  "Mahabad TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png",
+        "website":  "http://mahabad.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/mahabad/live/playlist.m3u8"
+    },
+    {
+        "name":  "Meta Film TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",
+        "website":  "https://metafilm.wns.live/",
+        "country":  "IR",
+        "streams":  "https://metafilmhls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Mihan TV",
+        "logo":  "https://i.imgur.com/XEMsM7w.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://iptv.mihantv.com/mihantv/playlist.m3u8"
+    },
+    {
+        "name":  "Mohabat TV",
+        "logo":  "https://i.imgur.com/Ig0SPev.png",
+        "website":  "https://www.mohabat.tv/",
+        "country":  "IR",
+        "streams":  [
+                        "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+                        "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Namaquran TV",
+        "logo":  "https://static.telewebion.com/channelsLogo/32904008-39bd-48a6-b4c7-2ea26f4a4eb8/default",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/namaquran/live/playlist.m3u8"
+    },
+    {
+        "name":  "Nama TV",
+        "logo":  "https://i.ibb.co/WvrqnrZ5/nama.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/nama/live/playlist.m3u8"
+    },
+    {
+        "name":  "Namayesh TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/300px-Namayesh_TV_logo.svg.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226148/index.m3u8",
+                        "https://ncdn.telewebion.com/namayesh/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Nasim",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/320px-Nasim_TV_logo.svg.png",
+        "website":  "https://tvnasim.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226653/index.m3u8",
+                        "https://ncdn.telewebion.com/nasim/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Negah TV",
+        "logo":  "https://i.imgur.com/NFsBd4D.png",
+        "website":  "https://negahtv.com/",
+        "country":  "IR",
+        "streams":  "https://iptv.negahtv.com/negahtv/playlist.m3u8"
+    },
+    {
+        "name":  "NewFlix",
+        "logo":  "https://i.postimg.cc/3w2FPSrX/newflix.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://newfhls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Noor TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/c/ce/Qum_Noor_TV.svg/288px-Qum_Noor_TV.svg.png",
+        "website":  "http://qom.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/noor/live/playlist.m3u8"
+    },
+    {
+        "name":  "Ofogh TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/320px-Ofogh_TV_logo.svg.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226143/index.m3u8",
+                        "https://ncdn.telewebion.com/ofogh/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "OXIR TV",
+        "logo":  "https://i.postimg.cc/sxMw4Qgx/oxirtv.png",
+        "website":  "https://oxir.live/",
+        "country":  "IR",
+        "streams":  "https://hls.oxir.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Palestinetv",
+        "logo":  "https://i.ibb.co/svrZNZTX/Palestine.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/palestine/live/playlist.m3u8"
+    },
+    {
+        "name":  "Payvand TV",
+        "logo":  "https://i.imgur.com/o2Ww77N.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8"
+    },
+    {
+        "name":  "Persian Film",
+        "logo":  "https://i.imgur.com/AB0BaaA.png",
+        "website":  "http://pfilm.wns.live/",
+        "country":  "IR",
+        "streams":  "https://pfilmhls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "PLTV",
+        "logo":  "https://i.imgur.com/heWo9rY.png",
+        "website":  "https://www.parsilandtv.com/",
+        "country":  "IR",
+        "streams":  "https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8"
+    },
+    {
+        "name":  "Pooya TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
+        "website":  "http://www.pooyatv.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8",
+                        "https://ncdn.telewebion.com/pooya/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Pooya TV Plus",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/javaneh/live/playlist.m3u8"
+    },
+    {
+        "name":  "Press TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png",
+        "website":  "https://www.presstv.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8",
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226156/index.m3u8",
+                        "https://live.presstv.ir/hls/presstv.m3u8"
+                    ]
+    },
+    {
+        "name":  "Press TV French",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png",
+        "website":  "https://french.presstv.ir/",
+        "country":  "IR",
+        "streams":  "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Qazvin TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/320px-QazvinTV.svg.png",
+        "website":  "http://qazvin.irib.ir/tv",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226888/index.m3u8",
+                        "https://ncdn.telewebion.com/qazvin/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Quran TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png",
+        "website":  "https://qurantv.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8",
+                        "https://ncdn.telewebion.com/quran/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "RasoulallahTv",
+        "logo":  "https://i.imgur.com/Jh5ADee.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8"
+    },
+    {
+        "name":  "Razavi TV",
+        "logo":  "https://static.telewebion.com/channelsLogo/85f466a7-7d17-4ce8-bee6-13da4ff5deb1/default",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/razavi/live/playlist.m3u8"
+    },
+    {
+        "name":  "Roya TV",
+        "logo":  "https://static.telewebion.com/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/iribu/live/playlist.m3u8"
+    },
+    {
+        "name":  "Sabalan TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png",
+        "website":  "http://ardabil.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/sabalan/live/playlist.m3u8"
+    },
+    {
+        "name":  "Sabz TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Golestan.png/240px-Logo_Golestan.png",
+        "website":  "http://golestan.irib.ir/",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/sabz/live/playlist.m3u8"
+    },
+    {
+        "name":  "Sahand TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/320px-Tabriz_Sahand.svg.png",
+        "website":  "http://tabriz.irib.ir/tv",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226423/index.m3u8",
+                        "https://ncdn.telewebion.com/sahand/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Sahar Afghanistan",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/9/92/Sahar-New.png",
+        "website":  "https://af.sahartv.ir/livehttps://af.sahartv.ir/live",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/saharafghan/live/playlist.m3u8"
+    },
+    {
+        "name":  "Salamat TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png",
+        "website":  "https://salamattv.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226152/index.m3u8",
+                        "https://ncdn.telewebion.com/salamat/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Salam TV",
+        "logo":  "https://i.imgur.com/IE26GHy.png",
+        "website":  "https://www.salaamtv.org/",
+        "country":  "IR",
+        "streams":  [
+                        "https://salamtv.siar.us/live/salamtv.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/salaamtv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Sarbedaran TV",
+        "logo":  "https://static.telewebion.com/channelsLogo/ad6e035d-4215-4d88-a25e-da6ff8e0526f/default",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/sarbedaran/live/playlist.m3u8"
+    },
+    {
+        "name":  "Semnan TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/3/35/Semnan_TV.png",
+        "website":  "http://semnan.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/semnan/live/playlist.m3u8"
+    },
+    {
+        "name":  "Sepehr TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sepehrtv.png/258px-Sepehrtv.png",
+        "website":  "https://sepehr.irib.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226161/index.m3u8",
+                        "https://ncdn.telewebion.com/sepehr/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "SL 1",
+        "logo":  "https://i.imgur.com/n9cuM2W.jpg",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://slonehls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "SL 2",
+        "logo":  "https://i.imgur.com/BVuUx5R.jpg",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://sltwohls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "SNN TV",
+        "logo":  "https://i.imgur.com/V8DYqMJ.png",
+        "website":  "https://snn.ir/",
+        "country":  "IR",
+        "streams":  "https://live2.snn.ir/hls/snn2_hd720/index.m3u8"
+    },
+    {
+        "name":  "T2 Movies",
+        "logo":  "https://i.postimg.cc/gJ0pG0jK/t2movies.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8"
+    },
+    {
+        "name":  "T2 TV",
+        "logo":  "https://i.imgur.com/Wu8MBb7.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://t2hls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Tabarestan TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/240px-IRIB_Mazandaran_Last_Orange_Logo.png",
+        "website":  "http://mazandaran.irib.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226786/index.m3u8",
+                        "https://ncdn.telewebion.com/tabarestan/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Tamasha",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/240px-IRIB_tamashaTV.svg.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8",
+                        "https://ncdn.telewebion.com/hdtest/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TBN Nejat TV",
+        "logo":  "https://i.imgur.com/e4WffQA.png",
+        "website":  "https://nejattv.org/",
+        "country":  "IR",
+        "streams":  "https://hls.nejat.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Tehran TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/208px-IRIBTV5.svg.png",
+        "website":  "https://tv5.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8",
+                        "https://ncdn.telewebion.com/tehran/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Tekyemadahi",
+        "logo":  "https://static.telewebion.com/channelsLogo/d602596d-7b8d-48ef-8f51-9344b4ac0eb6/default",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/tekyemadahi/live/playlist.m3u8"
+    },
+    {
+        "name":  "Tekyesokhanrani TV",
+        "logo":  "https://static.telewebion.com/channelsLogo/9a33a2de-40df-479c-9d29-c4a55122faab/default",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/tekyesokhanrani/live/playlist.m3u8"
+    },
+    {
+        "name":  "Telewebion Sport",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png/240px-%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8"
+    },
+    {
+        "name":  "Telewebion Sport 2",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png/240px-%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8"
+    },
+    {
+        "name":  "Telewebion Sport 3",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png/240px-%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8"
+    },
+    {
+        "name":  "TVA Nava",
+        "logo":  "https://i.imgur.com/JRxrsrw.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/nava/live/playlist.m3u8"
+    },
+    {
+        "name":  "TV ITN",
+        "logo":  "https://i.imgur.com/U4sKHWy.png",
+        "website":  "https://tvitn.com/",
+        "country":  "IR",
+        "streams":  [
+                        "https://ca-rt.onetv.app:8443/ITN/index-0.m3u8",
+                        "https://itnhls.wns.live/hls/stream.m3u8"
+                    ]
+    },
+    {
+        "name":  "Varzesh TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/240px-Iribvarzesh2022.png",
+        "website":  "https://varzeshtv.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8",
+                        "https://ncdn.telewebion.com/varzesh/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Velayat TV",
+        "logo":  "https://static.telewebion.com/channelsLogo/ae05de5b-9fe4-4012-900a-4d0763d6fafc/default",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/velayat/live/playlist.m3u8"
+    },
+    {
+        "name":  "VOX1",
+        "logo":  "https://i.postimg.cc/bw1XMdp5/vox1.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://hls.vox1.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "West Azerbaijan TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/250px-Urmia_TV.svg.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8",
+                        "https://ncdn.telewebion.com/azarbayjangharbi/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "WiseHumanTv",
+        "logo":  "https://i.imgur.com/BT7EtfB.png",
+        "website":  null,
+        "country":  "IR",
+        "streams":  "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8"
+    },
+    {
+        "name":  "Yazd TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/382px-Yazd_taban.svg.png",
+        "website":  "http://yazd.irib.ir/",
+        "country":  "IR",
+        "streams":  [
+                        "https://lenz.splus.ir/PLTV/88888888/224/3221227023/index.m3u8",
+                        "https://ncdn.telewebion.com/taban/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "YourTime TV",
+        "logo":  "https://i.imgur.com/X38vWJ1.png",
+        "website":  "https://www.yourtime.tv/",
+        "country":  "IR",
+        "streams":  "https://hls.yourtime.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Zagros TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/240px-Kermanshah_Zaghros.svg.png",
+        "website":  "http://kermanshah.irib.ir/tv",
+        "country":  "IR",
+        "streams":  "https://ncdn.telewebion.com/zagros/live/playlist.m3u8"
+    }
+]

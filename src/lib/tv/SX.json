@@ -1,0 +1,58 @@
+﻿[
+    {
+        "name":  "98.1 Pearl FM",
+        "logo":  "https://i.imgur.com/GY750xh.jpg",
+        "website":  "http://pearlfmradio.sx/",
+        "country":  "SX",
+        "streams":  "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8"
+    },
+    {
+        "name":  "SXM TV Broadcast",
+        "logo":  "https://i.postimg.cc/JzhjFTDF/sxmtvbroadcast.png",
+        "website":  "https://stmaartenmediacenter.com/",
+        "country":  "SX",
+        "streams":  "https://5dcabf026b188.streamlock.net/Theodore/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "TV15",
+        "logo":  "https://i.imgur.com/2taY722.png",
+        "website":  null,
+        "country":  "SX",
+        "streams":  "http://198.255.80.170/FTX9_SXM-TV/index.m3u8"
+    },
+    {
+        "name":  "TVCARiB",
+        "logo":  "https://i.postimg.cc/nzXB0TrJ/tvcarib.png",
+        "website":  "https://tvcarib.com/",
+        "country":  "SX",
+        "streams":  "https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8"
+    },
+    {
+        "name":  "TVCARiB Cinema",
+        "logo":  "https://i.imgur.com/fvGlwKo.png",
+        "website":  "https://tvcarib.com/",
+        "country":  "SX",
+        "streams":  "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8"
+    },
+    {
+        "name":  "TVCARiB Gospel",
+        "logo":  "https://i.postimg.cc/63FRSR4G/tvcaribgospel.png",
+        "website":  "https://tvcarib.com/",
+        "country":  "SX",
+        "streams":  "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8"
+    },
+    {
+        "name":  "TVCARiB Kids \u0026 Teens",
+        "logo":  "https://i.imgur.com/fvGlwKo.png",
+        "website":  "https://tvcarib.com/",
+        "country":  "SX",
+        "streams":  "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8"
+    },
+    {
+        "name":  "TVCARiB Latino",
+        "logo":  "https://i.postimg.cc/cCYYNHfk/tvcariblatino.png",
+        "website":  "https://tvcarib.com/",
+        "country":  "SX",
+        "streams":  "https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8"
+    }
+]

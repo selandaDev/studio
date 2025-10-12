@@ -1,0 +1,459 @@
+﻿[
+    {
+        "name":  "ABNsat",
+        "logo":  "https://i.imgur.com/WhPlJzh.jpeg",
+        "website":  "https://www.abnturkey.com/",
+        "country":  "IQ",
+        "streams":  "https://mediaserver.abnvideos.com/streams/abnsat.m3u8"
+    },
+    {
+        "name":  "Afaq TV",
+        "logo":  "https://i.postimg.cc/j2BGQj8t/afaqtv.png",
+        "website":  "https://www.afaq.tv/",
+        "country":  "IQ",
+        "streams":  "http://63b03f7689049.streamlock.net:1935/live/1/playlist.m3u8"
+    },
+    {
+        "name":  "Afarin Baxcha",
+        "logo":  "https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png",
+        "website":  "https://afarin.tv/",
+        "country":  "IQ",
+        "streams":  "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Afarin TV",
+        "logo":  "https://i.postimg.cc/QCRGLPBS/Afarin-Kids-200.png",
+        "website":  "https://afarin.tv/",
+        "country":  "IQ",
+        "streams":  "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Alahad TV",
+        "logo":  "https://i.imgur.com/uWibV0i.png",
+        "website":  "https://alahad.iq/",
+        "country":  "IQ",
+        "streams":  "http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8"
+    },
+    {
+        "name":  "Al-Aimma TV",
+        "logo":  "https://alaimma.tv/alaimma-logo.png",
+        "website":  "https://alaimma.tv/",
+        "country":  "IQ",
+        "streams":  "http://stream.alaimma.tv/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8"
+    },
+    {
+        "name":  "Alawla TV",
+        "logo":  "https://i.postimg.cc/TYCk61jw/alawlatv.png",
+        "website":  "https://alawla.tv/live.html",
+        "country":  "IQ",
+        "streams":  "https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8"
+    },
+    {
+        "name":  "Al Ayyam TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/aa/al-ayam-tv.png",
+        "website":  null,
+        "country":  "IQ",
+        "streams":  "http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8"
+    },
+    {
+        "name":  "Al Eshraq TV",
+        "logo":  "https://i.postimg.cc/8kb4Rc0H/aleshraqtv.png",
+        "website":  "https://aleshraqtv.iq/",
+        "country":  "IQ",
+        "streams":  "http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8"
+    },
+    {
+        "name":  "Al-Etejah",
+        "logo":  "https://i.postimg.cc/Qxxb0sLr/aletejah.png",
+        "website":  "http://www.aletejahtv.iq/",
+        "country":  "IQ",
+        "streams":  "http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8"
+    },
+    {
+        "name":  "Al Forat TV",
+        "logo":  "https://i.imgur.com/f6PQzKd.png",
+        "website":  "https://alforatnews.iq/",
+        "country":  "IQ",
+        "streams":  "http://95.216.180.111:1935/live/10/playlist.m3u8"
+    },
+    {
+        "name":  "Al Iraqia",
+        "logo":  "https://i.imgur.com/8qQouTW.jpg",
+        "website":  "http://imn.iq/",
+        "country":  "IQ",
+        "streams":  "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"
+    },
+    {
+        "name":  "Al Iraqia News",
+        "logo":  "https://i.imgur.com/feQTXeZ.jpg",
+        "website":  "http://imn.iq/",
+        "country":  "IQ",
+        "streams":  "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"
+    },
+    {
+        "name":  "Al Janoub TV",
+        "logo":  "https://i.postimg.cc/bNsnZvcd/aljanoubtv.png",
+        "website":  "https://aljanoub.tv/",
+        "country":  "IQ",
+        "streams":  "http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8"
+    },
+    {
+        "name":  "Al-Jawadain TV",
+        "logo":  "https://i.imgur.com/Eo3UYCK.png",
+        "website":  null,
+        "country":  "IQ",
+        "streams":  "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
+    },
+    {
+        "name":  "Al-Naeem TV",
+        "logo":  "https://i.postimg.cc/wjYB9x9C/alnaeemtv.png",
+        "website":  "https://www.alnaeem-tv.iq/",
+        "country":  "IQ",
+        "streams":  "https://nl2.livekadeh.com/hls2/alnaeem.m3u8"
+    },
+    {
+        "name":  "Al-Nujaba TV",
+        "logo":  "https://i.postimg.cc/g0Ncyv3p/alnujabatv.png",
+        "website":  "http://www.alnujaba-news.com/",
+        "country":  "IQ",
+        "streams":  "http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8"
+    },
+    {
+        "name":  "Alquran",
+        "logo":  "https://i.imgur.com/lqVwrAF.png",
+        "website":  "https://www.karbala-tv.iq/quran/",
+        "country":  "IQ",
+        "streams":  "https://ktvlive.online/stream/hls/ch1.m3u8"
+    },
+    {
+        "name":  "Al Rabiaa TV",
+        "logo":  "https://i.postimg.cc/4NV96SyT/alrabiaatv.png",
+        "website":  "https://www.alrabiaa.tv/",
+        "country":  "IQ",
+        "streams":  "https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8"
+    },
+    {
+        "name":  "Al Rasheed TV",
+        "logo":  "https://i.imgur.com/ltyRjPK.png",
+        "website":  "https://www.alrasheedmedia.com/",
+        "country":  "IQ",
+        "streams":  "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8"
+    },
+    {
+        "name":  "Al Sharqiya",
+        "logo":  "https://i.postimg.cc/J7BD82bB/alsharqiya.png",
+        "website":  "http://www.alsharqiya.com/",
+        "country":  "IQ",
+        "streams":  "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8"
+    },
+    {
+        "name":  "Al Sharqiya News",
+        "logo":  "https://i.imgur.com/PeAcXB9.png",
+        "website":  "http://www.alsharqiya.com/",
+        "country":  "IQ",
+        "streams":  "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8"
+    },
+    {
+        "name":  "Anwar TV2",
+        "logo":  "https://i.imgur.com/yHZXPcn.png",
+        "website":  "https://anwartv2.com/",
+        "country":  "IQ",
+        "streams":  [
+                        "http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8",
+                        "https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Avar TV",
+        "logo":  "https://i.imgur.com/JazFBkW.jpeg",
+        "website":  "https://avartv.net/",
+        "country":  "IQ",
+        "streams":  "https://avr.host247.net/live/AvarTv/playlist.m3u8"
+    },
+    {
+        "name":  "Bayyinat TV",
+        "logo":  "https://i.imgur.com/PVQKsjE.png",
+        "website":  "http://www.bayyinat.tv/",
+        "country":  "IQ",
+        "streams":  "https://nl2.livekadeh.com/hls2/Bayyinat.m3u8"
+    },
+    {
+        "name":  "BeitolAbbas TV Channel",
+        "logo":  "https://i.imgur.com/s8PfUQy.png",
+        "website":  "http://beitolabbas.tv/",
+        "country":  "IQ",
+        "streams":  "https://live.beitolabbas.tv/live/beitolabbastv.m3u8"
+    },
+    {
+        "name":  "Channel8",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png",
+        "website":  "https://channel8.com/english/",
+        "country":  "IQ",
+        "streams":  "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8"
+    },
+    {
+        "name":  "Dijlah Tarab",
+        "logo":  "https://i.imgur.com/UJqDWVB.png",
+        "website":  "https://www.dijlah.tv/",
+        "country":  "IQ",
+        "streams":  "https://ghaasiflu.online/tarab/index.m3u8"
+    },
+    {
+        "name":  "Dijlah TV",
+        "logo":  "https://i.postimg.cc/x1BWb5sh/dijlahtv.png",
+        "website":  "http://www.dijlah.tv/",
+        "country":  "IQ",
+        "streams":  "https://ghaasiflu.online/Dijlah/index.m3u8"
+    },
+    {
+        "name":  "EmanTv",
+        "logo":  "https://i.imgur.com/QmgaPSi.png",
+        "website":  null,
+        "country":  "IQ",
+        "streams":  "https://avr.host247.net/live/emantv/playlist.m3u8"
+    },
+    {
+        "name":  "FarmodaTV",
+        "logo":  "https://i.imgur.com/x4KCQlH.png",
+        "website":  null,
+        "country":  "IQ",
+        "streams":  "https://avr.host247.net/live/FarmodaTV/playlist.m3u8"
+    },
+    {
+        "name":  "Hadi TV 1",
+        "logo":  "https://i.imgur.com/TXzEtF8.png",
+        "website":  "https://en.haditv.co.uk/",
+        "country":  "IQ",
+        "streams":  "https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8"
+    },
+    {
+        "name":  "Hadi TV 3",
+        "logo":  "https://i.imgur.com/TXzEtF8.png",
+        "website":  "https://az.haditv.co.uk/",
+        "country":  "IQ",
+        "streams":  "https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8"
+    },
+    {
+        "name":  "Hadi TV 4",
+        "logo":  "https://i.postimg.cc/Qt0LVTHy/haditv4.png",
+        "website":  "https://fa.haditv.co.uk/",
+        "country":  "IQ",
+        "streams":  "https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8"
+    },
+    {
+        "name":  "Hadi TV 5",
+        "logo":  "https://i.imgur.com/TXzEtF8.png",
+        "website":  "https://ha.haditv.co.uk/",
+        "country":  "IQ",
+        "streams":  "https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8"
+    },
+    {
+        "name":  "Hadi TV 6",
+        "logo":  "https://i.imgur.com/TXzEtF8.png",
+        "website":  "https://en.haditv.co.uk/",
+        "country":  "IQ",
+        "streams":  "https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8"
+    },
+    {
+        "name":  "Imam Asr TV",
+        "logo":  "https://i.imgur.com/SLoSBTh.png",
+        "website":  "http://www.imamasrtv.com/",
+        "country":  "IQ",
+        "streams":  "https://iptv.imamasrtv.com/asrfa/playlist.m3u8"
+    },
+    {
+        "name":  "Imam Hussein TV 1",
+        "logo":  "https://i.imgur.com/pDdUvz7.png",
+        "website":  "https://imamhussein1.tv/",
+        "country":  "IQ",
+        "streams":  "https://live.imamhossaintv.com/live/ih1.m3u8"
+    },
+    {
+        "name":  "Imam Hussein TV 2",
+        "logo":  "https://i.imgur.com/IXVSPdJ.png",
+        "website":  "https://imamhussein2.tv/",
+        "country":  "IQ",
+        "streams":  "https://live.imamhossaintv.com/live/ih2.m3u8"
+    },
+    {
+        "name":  "Imam Hussein TV 3",
+        "logo":  "https://i.imgur.com/emQRHQZ.png",
+        "website":  "https://imamhussein3.tv/",
+        "country":  "IQ",
+        "streams":  "https://live.imamhossaintv.com/live/ih3.m3u8"
+    },
+    {
+        "name":  "Imam Hussein TV 4",
+        "logo":  "https://i.imgur.com/0UYcylY.png",
+        "website":  "https://imamhussein4.tv/",
+        "country":  "IQ",
+        "streams":  "https://live.imamhossaintv.com/live/ih4.m3u8"
+    },
+    {
+        "name":  "I News",
+        "logo":  "https://i.postimg.cc/sfHXNBwm/inews.png",
+        "website":  null,
+        "country":  "IQ",
+        "streams":  "https://live.i-news.tv/hls/stream.m3u8"
+    },
+    {
+        "name":  "Iraq Future",
+        "logo":  "https://i.postimg.cc/DwT8q9C3/iraqfuture.png",
+        "website":  null,
+        "country":  "IQ",
+        "streams":  "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Kurdistan 24",
+        "logo":  "https://i.postimg.cc/50VXmZ9C/kurdistan24.png",
+        "website":  "https://www.kurdistan24.net/",
+        "country":  "IQ",
+        "streams":  "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8"
+    },
+    {
+        "name":  "Kurdistan TV",
+        "logo":  "https://i.postimg.cc/MTmv3dXr/kurdistantv.png",
+        "website":  "https://kurdistantv.net/",
+        "country":  "IQ",
+        "streams":  "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
+    },
+    {
+        "name":  "KurdMax Music",
+        "logo":  "https://i.imgur.com/otnIdEu.png",
+        "website":  "https://www.kurdmax.tv/",
+        "country":  "IQ",
+        "streams":  "https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "KurdMax Show",
+        "logo":  "https://i.imgur.com/XTmyGmL.png",
+        "website":  "https://www.kurdmax.tv/",
+        "country":  "IQ",
+        "streams":  "https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8"
+    },
+    {
+        "name":  "KurdMax Sorani",
+        "logo":  "https://i.imgur.com/JkK8HG8.png",
+        "website":  "https://www.kurdmax.tv/",
+        "country":  "IQ",
+        "streams":  "https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8"
+    },
+    {
+        "name":  "Kurdsat",
+        "logo":  "https://i.postimg.cc/cC16pwn1/kurdsat.png",
+        "website":  "https://www.kurdsat.tv/",
+        "country":  "IQ",
+        "streams":  [
+                        "http://trn03.bozztv.com/gin-kurdsat/index.m3u8",
+                        "https://iko-live.akamaized.net/KurdsatTV/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Kurdsat News",
+        "logo":  "https://i.postimg.cc/Kj94xjPP/kurdsatnews.png",
+        "website":  "https://www.kurdsatnews.com/",
+        "country":  "IQ",
+        "streams":  "https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8"
+    },
+    {
+        "name":  "Marjaeyat TV Arabic",
+        "logo":  "https://i.imgur.com/LsYYkUI.png",
+        "website":  "https://marjaeyattv.com/",
+        "country":  "IQ",
+        "streams":  "https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8"
+    },
+    {
+        "name":  "Marjaeyat TV English",
+        "logo":  "https://i.imgur.com/Dvf61Jp.png",
+        "website":  "https://marjaeyattv.com/",
+        "country":  "IQ",
+        "streams":  "https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8"
+    },
+    {
+        "name":  "Marjaeyat TV Persian",
+        "logo":  "https://i.imgur.com/fCj05f0.png",
+        "website":  "https://marjaeyat.tv/",
+        "country":  "IQ",
+        "streams":  "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8"
+    },
+    {
+        "name":  "MBC Iraq",
+        "logo":  "https://i.postimg.cc/P56xDP90/mbciraq.png",
+        "website":  "https://www.mbc.net/channels/mbc-iraq",
+        "country":  "IQ",
+        "streams":  "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8"
+    },
+    {
+        "name":  "Mixkurdy",
+        "logo":  "https://i.imgur.com/WHeH5i7.png",
+        "website":  null,
+        "country":  "IQ",
+        "streams":  "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8"
+    },
+    {
+        "name":  "Net TV",
+        "logo":  "https://i.imgur.com/1cksqTP.png",
+        "website":  "https://www.netkurd.tv/",
+        "country":  "IQ",
+        "streams":  [
+                        "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+                        "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "NRT TV",
+        "logo":  "https://i.imgur.com/uGKGtbW.png",
+        "website":  "https://www.nrttv.com/nrt2/",
+        "country":  "IQ",
+        "streams":  "https://media.streambrothers.com:1936/8226/8226/playlist.m3u8"
+    },
+    {
+        "name":  "NUBAR Plus +",
+        "logo":  "https://i.ibb.co/XpgWb6B/IMG-20230628-140407.jpg",
+        "website":  "http://www.nubar.tv/",
+        "country":  "IQ",
+        "streams":  "http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8"
+    },
+    {
+        "name":  "Payam TV",
+        "logo":  "https://i.postimg.cc/DZLrc9VV/payamtv.png",
+        "website":  "https://www.peyam.net/",
+        "country":  "IQ",
+        "streams":  "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8"
+    },
+    {
+        "name":  "Rudaw TV",
+        "logo":  "https://i.imgur.com/Zo3IWOn.png",
+        "website":  "https://rudaw.net/",
+        "country":  "IQ",
+        "streams":  "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Shams TV",
+        "logo":  "https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg",
+        "website":  "https://shams.tv",
+        "country":  "IQ",
+        "streams":  "https://stream.shams.tv/hls/stream.m3u8"
+    },
+    {
+        "name":  "UTV",
+        "logo":  "https://i.imgur.com/9qFHjnu.png",
+        "website":  null,
+        "country":  "IQ",
+        "streams":  "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8"
+    },
+    {
+        "name":  "Waar TV",
+        "logo":  "https://i.imgur.com/rK0y02d.png",
+        "website":  "https://waarmedia.com/tv/",
+        "country":  "IQ",
+        "streams":  "https://ca-rt.onetv.app/Waar/index-0.m3u8"
+    },
+    {
+        "name":  "Zagros TV",
+        "logo":  "https://i.imgur.com/9Mspf32.png",
+        "website":  "https://www.zagrosnews.net/",
+        "country":  "IQ",
+        "streams":  "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
+    }
+]

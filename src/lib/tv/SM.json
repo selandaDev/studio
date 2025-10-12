@@ -1,0 +1,16 @@
+﻿[
+    {
+        "name":  "San Marino RTV",
+        "logo":  "https://i.postimg.cc/HLFT0KHC/sanmarinortv.png",
+        "website":  "https://www.sanmarinortv.sm/",
+        "country":  "SM",
+        "streams":  "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8"
+    },
+    {
+        "name":  "San Marino RTV Sport",
+        "logo":  "https://i.imgur.com/PGm944g.png",
+        "website":  null,
+        "country":  "SM",
+        "streams":  "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8"
+    }
+]

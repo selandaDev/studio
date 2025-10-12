@@ -1,0 +1,30 @@
+﻿[
+    {
+        "name":  "FUSION TV",
+        "logo":  "https://i.imgur.com/WMrYEgH.png",
+        "website":  "https://fusiontv.fr/",
+        "country":  "MQ",
+        "streams":  "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8"
+    },
+    {
+        "name":  "Identite Tele Caraibes",
+        "logo":  "https://i.imgur.com/Atsf6Cd.png",
+        "website":  "https://identiteradio.com/tv/",
+        "country":  "MQ",
+        "streams":  "https://vdo2.pro-fhi.net:3769/stream/play.m3u8"
+    },
+    {
+        "name":  "TV Famille",
+        "logo":  "https://i.imgur.com/Kbfihk5.png",
+        "website":  "https://tvfamille.org/",
+        "country":  "MQ",
+        "streams":  "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
+    },
+    {
+        "name":  "ViaATV",
+        "logo":  "https://i.imgur.com/Ua6rOXo.png",
+        "website":  "https://viaatv.tv/",
+        "country":  "MQ",
+        "streams":  "https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8"
+    }
+]

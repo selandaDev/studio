@@ -1,0 +1,265 @@
+﻿[
+    {
+        "name":  "Arbol de Vida TV",
+        "logo":  "https://i.imgur.com/4sGDc4X.jpg",
+        "website":  "https://www.iglesiaarboldevida.org/",
+        "country":  "SV",
+        "streams":  "https://www.yupi.live:1936/livearbol/livearbol/playlist.m3u8"
+    },
+    {
+        "name":  "Awapa Sports TV",
+        "logo":  "https://i.imgur.com/MNw5cJH.jpg",
+        "website":  "https://megavision.univtec.com/",
+        "country":  "SV",
+        "streams":  "https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8"
+    },
+    {
+        "name":  "Canal 10",
+        "logo":  "https://i.imgur.com/y2ppMnY.png",
+        "website":  "https://noticiero.sv/",
+        "country":  "SV",
+        "streams":  [
+                        "http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8",
+                        "https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8",
+                        "https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canal 11 TuTV",
+        "logo":  "https://i.imgur.com/itqQEux.png",
+        "website":  "http://www.canal11.com.sv/",
+        "country":  "SV",
+        "streams":  "https://stream.giostreaming.net:19360/canal11/canal11.m3u8"
+    },
+    {
+        "name":  "Canal 12",
+        "logo":  "https://i.imgur.com/UGDbp3O.png",
+        "website":  "https://www.canal12.com.sv/",
+        "country":  "SV",
+        "streams":  "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8"
+    },
+    {
+        "name":  "Canal 2",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png",
+        "website":  "https://www.tcsgo.com/",
+        "country":  "SV",
+        "streams":  "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8"
+    },
+    {
+        "name":  "Canal 3 Impresionante",
+        "logo":  "https://i.imgur.com/mdfiWG9.png",
+        "website":  "https://canal3impresionante.com/",
+        "country":  "SV",
+        "streams":  "https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 4",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png",
+        "website":  "https://www.tcsgo.com/",
+        "country":  "SV",
+        "streams":  "http://tmp-sv3.teleon.live:8080/play/a011/index.m3u8"
+    },
+    {
+        "name":  "Canal 6",
+        "logo":  "https://i.imgur.com/M4muPLK.png",
+        "website":  "https://www.tcsgo.com/",
+        "country":  "SV",
+        "streams":  "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8"
+    },
+    {
+        "name":  "Canal 65",
+        "logo":  "https://i.imgur.com/P15QovY.png",
+        "website":  "https://www.misioncristianaelohim.com/",
+        "country":  "SV",
+        "streams":  "https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8"
+    },
+    {
+        "name":  "Canal TRV",
+        "logo":  "https://i.imgur.com/g5QKQ2E.png",
+        "website":  "https://www.diariotrv.com/",
+        "country":  "SV",
+        "streams":  "https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8"
+    },
+    {
+        "name":  "El 15 TV",
+        "logo":  "https://i.imgur.com/LsrCVy3.jpg",
+        "website":  "https://el15tv.com/",
+        "country":  "SV",
+        "streams":  "https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8"
+    },
+    {
+        "name":  "El Camino TV",
+        "logo":  "https://i.imgur.com/ZSktjGB.png",
+        "website":  "http://www.iglesiadelcamino.org/tv/",
+        "country":  "SV",
+        "streams":  "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
+    },
+    {
+        "name":  "Elim TV",
+        "logo":  "https://i.imgur.com/payIg0N.png",
+        "website":  "https://www.elim.org.sv/elimtv/",
+        "country":  "SV",
+        "streams":  "https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8"
+    },
+    {
+        "name":  "FTV Television Familiar",
+        "logo":  "https://i.imgur.com/OD4dTTU.png",
+        "website":  "https://www.televisionfamiliar.com/",
+        "country":  "SV",
+        "streams":  "https://www.yupi.live:1936/tvftv/tvftv/playlist.m3u8"
+    },
+    {
+        "name":  "GSG TV",
+        "logo":  "https://i.imgur.com/8fZnNu0.png",
+        "website":  "https://graciasobregracia.org/",
+        "country":  "SV",
+        "streams":  "https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8"
+    },
+    {
+        "name":  "Josue TV",
+        "logo":  "https://i.imgur.com/LNWGe1D.jpg",
+        "website":  "https://iglesiajosue.org/es/",
+        "country":  "SV",
+        "streams":  "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8"
+    },
+    {
+        "name":  "Legislative Assembly of El Salvador",
+        "logo":  "https://i.imgur.com/OBuiCyb.png",
+        "website":  "https://www.asamblea.gob.sv/",
+        "country":  "SV",
+        "streams":  "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
+    },
+    {
+        "name":  "Megavision Canal 19",
+        "logo":  "https://i.imgur.com/voyVP6X.png",
+        "website":  "https://megavision.com.sv/",
+        "country":  "SV",
+        "streams":  "https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8"
+    },
+    {
+        "name":  "Megavision Canal 21",
+        "logo":  "https://i.imgur.com/HbdYU9k.png",
+        "website":  "https://megavision.com.sv/",
+        "country":  "SV",
+        "streams":  "https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8"
+    },
+    {
+        "name":  "Orbita FM",
+        "logo":  "https://i.imgur.com/KTgTjQi.png",
+        "website":  "https://orbitafm.com.sv/",
+        "country":  "SV",
+        "streams":  "https://fl1003.bozztv.com/ssh101/OrbitaFM953/index.m3u8"
+    },
+    {
+        "name":  "Orbita TV",
+        "logo":  "https://i.imgur.com/tFqDOpV.png",
+        "website":  "https://orbitatv.com.sv/",
+        "country":  "SV",
+        "streams":  "https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8"
+    },
+    {
+        "name":  "RTV Canal 57",
+        "logo":  "https://i.imgur.com/tnOGWqL.png",
+        "website":  "https://rtvcanal57.com/",
+        "country":  "SV",
+        "streams":  "https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8"
+    },
+    {
+        "name":  "RTV Catolica",
+        "logo":  "https://i.imgur.com/MIlw7GI.png",
+        "website":  "https://www.radioytelevisioncatolica.com/",
+        "country":  "SV",
+        "streams":  "https://streaming.grupocsanetwork.com:19360/canal40/canal40.m3u8"
+    },
+    {
+        "name":  "SolTV",
+        "logo":  "https://i.imgur.com/jaBxxpt.png",
+        "website":  "https://radiomorazan.net/",
+        "country":  "SV",
+        "streams":  "http://rtmp.info:1935/soltv/envivo/playlist.m3u8"
+    },
+    {
+        "name":  "TaberTV",
+        "logo":  "https://i.imgur.com/ikq2iSf.png",
+        "website":  "https://tabernaculo.net/",
+        "country":  "SV",
+        "streams":  "https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8"
+    },
+    {
+        "name":  "TCS+",
+        "logo":  "https://i.imgur.com/iYFWG06.png",
+        "website":  "https://www.tcsgo.com/",
+        "country":  "SV",
+        "streams":  "https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8"
+    },
+    {
+        "name":  "Tigo Sports",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png",
+        "website":  "http://www.tigosports.com.sv/",
+        "country":  "SV",
+        "streams":  "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8"
+    },
+    {
+        "name":  "Tribuna TV",
+        "logo":  "https://i.imgur.com/C5vHpd0.png",
+        "website":  "https://www.tribunatv.us/",
+        "country":  "SV",
+        "streams":  "https://cloudflare.streamgato.us:3204/live/tribunatvlive.m3u8"
+    },
+    {
+        "name":  "TVCa",
+        "logo":  "https://i.imgur.com/uPWWtCA.png",
+        "website":  "https://tvcaelsalvador.org/",
+        "country":  "SV",
+        "streams":  "https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8"
+    },
+    {
+        "name":  "TVC Network",
+        "logo":  "https://i.imgur.com/S1xiWB3.png",
+        "website":  "https://www.tvcnetwork.net/",
+        "country":  "SV",
+        "streams":  "https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8"
+    },
+    {
+        "name":  "TV CRET",
+        "logo":  "https://i.imgur.com/ChonoKb.png",
+        "website":  "https://radiocret.net/",
+        "country":  "SV",
+        "streams":  "https://radiocret.net:8082/hls/tvcret.m3u8"
+    },
+    {
+        "name":  "TV Getsemani",
+        "logo":  "https://i.imgur.com/C9SJCcE.jpg",
+        "website":  "https://www.radiogetsemani.net/",
+        "country":  "SV",
+        "streams":  "https://serversv.com:8080/hls/tvgetsemani.m3u8"
+    },
+    {
+        "name":  "TV Leon de Juda",
+        "logo":  "https://i.imgur.com/ZUCppwi.png",
+        "website":  "https://tvleondejuda.com/",
+        "country":  "SV",
+        "streams":  "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8"
+    },
+    {
+        "name":  "TVM El Salvador",
+        "logo":  "https://i.imgur.com/fyCC8R6.png",
+        "website":  "https://tvm.com.sv/",
+        "country":  "SV",
+        "streams":  "http://201.247.102.189/tmp_hls/stream/index.m3u8"
+    },
+    {
+        "name":  "TVX",
+        "logo":  "https://i.imgur.com/JbxpB6M.png",
+        "website":  "https://tvx.com.sv",
+        "country":  "SV",
+        "streams":  "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8"
+    },
+    {
+        "name":  "WOW TV",
+        "logo":  "https://i.imgur.com/yk46NxC.png",
+        "website":  "https://wowelsalvador.com/",
+        "country":  "SV",
+        "streams":  "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"
+    }
+]

@@ -1,0 +1,392 @@
+﻿[
+    {
+        "name":  "1KZN TV",
+        "logo":  "https://i.postimg.cc/cCPc5tyk/1kzntv.png",
+        "website":  "http://www.1kzntv.co.za/",
+        "country":  "ZA",
+        "streams":  [
+                        "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/1kzntv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Afriwood Blockbuster",
+        "logo":  "https://i.postimg.cc/3J5hvLzp/afriwoodblockbuster.png",
+        "website":  "https://www.africaxp.com/",
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"
+    },
+    {
+        "name":  "Afriwood Series",
+        "logo":  "https://i.imgur.com/9NFg3xp.png",
+        "website":  "https://www.africaxp.com/",
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8"
+    },
+    {
+        "name":  "Anytime TV",
+        "logo":  "https://i.imgur.com/LloHzi4.png",
+        "website":  "https://www.anytimemedia.co.za",
+        "country":  "ZA",
+        "streams":  "https://tv.anytimemedia.co.za:3673/hybrid/play.m3u8"
+    },
+    {
+        "name":  "BOKTV",
+        "logo":  "https://i.postimg.cc/ryn9zbby/boktv.png",
+        "website":  "https://www.bokradio.co.za/",
+        "country":  "ZA",
+        "streams":  "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8"
+    },
+    {
+        "name":  "Bongo TV",
+        "logo":  "https://i.imgur.com/3b4XUNB.png",
+        "website":  "https://www.africaxp.com/",
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"
+    },
+    {
+        "name":  "Cape Town TV",
+        "logo":  "https://i.postimg.cc/JzLC0PGn/capetowntv.png",
+        "website":  "http://www.capetowntv.org/",
+        "country":  "ZA",
+        "streams":  [
+                        "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/capetowntv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Cinema Hausa",
+        "logo":  "https://i.imgur.com/uV5cHDW.png",
+        "website":  "https://video.premiumfree.tv/linear/cinema-hausa",
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8"
+    },
+    {
+        "name":  "CNBC Africa",
+        "logo":  "https://i.postimg.cc/d0FCWPDY/cnbcafrica.png",
+        "website":  "https://www.cnbcafrica.com/",
+        "country":  "ZA",
+        "streams":  "https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Crime and Evidence",
+        "logo":  "https://i.imgur.com/xwGquEb.png",
+        "website":  "https://video.premiumfree.tv/",
+        "country":  "ZA",
+        "streams":  "https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8"
+    },
+    {
+        "name":  "Diva",
+        "logo":  "https://i.imgur.com/U9wMnQ0.png",
+        "website":  "https://video.premiumfree.tv/?section=lifestylesection",
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8"
+    },
+    {
+        "name":  "eNews Channel Africa",
+        "logo":  "https://i.imgur.com/iE7bNr0.png",
+        "website":  "https://www.enca.com/",
+        "country":  "ZA",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/enca/playlist.m3u8"
+    },
+    {
+        "name":  "e.tv News \u0026 Sport",
+        "logo":  "https://i.imgur.com/lXMzsNM.png",
+        "website":  "https://www.openview.co.za/channel/open-news",
+        "country":  "ZA",
+        "streams":  "https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8"
+    },
+    {
+        "name":  "Ezekiel TV",
+        "logo":  "https://i.imgur.com/gYsawCe.png",
+        "website":  "https://ezekieltvchannel.com/",
+        "country":  "ZA",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/ezekieltv/playlist.m3u8"
+    },
+    {
+        "name":  "Faith TV",
+        "logo":  "https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg",
+        "website":  "https://myfaith.tv/",
+        "country":  "ZA",
+        "streams":  "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Fano TV",
+        "logo":  "https://i.imgur.com/NqjJk7m.png",
+        "website":  "https://fanoministries.co.za/",
+        "country":  "ZA",
+        "streams":  "https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8"
+    },
+    {
+        "name":  "Fight Night",
+        "logo":  "https://i.imgur.com/hFmxfzT.png",
+        "website":  "https://video.premiumfree.tv/?section=sportssection",
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/fightnight/playlist.m3u8"
+    },
+    {
+        "name":  "Fresh",
+        "logo":  "https://i.imgur.com/2ig8jUH.png",
+        "website":  "https://www.africaxp.com/",
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8"
+    },
+    {
+        "name":  "GNF TV",
+        "logo":  "https://i.postimg.cc/MpTnG7Hh/gnftv.png",
+        "website":  "https://www.gnftv.com/",
+        "country":  "ZA",
+        "streams":  "https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "GOD TV Africa",
+        "logo":  "https://i.imgur.com/hW4g2oe.png",
+        "website":  "https://www.god.tv/",
+        "country":  "ZA",
+        "streams":  "https://webstreaming.viewmedia.tv/web_006/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Hilaal TV",
+        "logo":  "https://i.postimg.cc/NFHWDPdW/hilaaltv.png",
+        "website":  "https://hilaal.tv/",
+        "country":  "ZA",
+        "streams":  "https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Homebase TV",
+        "logo":  "https://i.postimg.cc/FHsTsBjN/homebasetv.png",
+        "website":  "http://www.homebasetv.org/",
+        "country":  "ZA",
+        "streams":  [
+                        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8",
+                        "https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Hope Channel Africa",
+        "logo":  "https://i.imgur.com/SFacyYO.png",
+        "website":  "https://www.hopeafrica.tv/",
+        "country":  "ZA",
+        "streams":  "https://jstre.am/live/jsl:i1onRBELcGV.m3u8"
+    },
+    {
+        "name":  "Kiddiwinks",
+        "logo":  "https://i.imgur.com/tStBWnn.png",
+        "website":  "https://www.africaxp.com/",
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8"
+    },
+    {
+        "name":  "Life TV",
+        "logo":  "https://i.imgur.com/C5YxD5m.png",
+        "website":  "https://video.premiumfree.tv/?section=documentarysection",
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/lifetv/playlist.m3u8"
+    },
+    {
+        "name":  "Limelight",
+        "logo":  "https://i.postimg.cc/26LfV6Nd/limelight.png",
+        "website":  "https://www.africaxp.com/",
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8"
+    },
+    {
+        "name":  "LN24SA",
+        "logo":  "https://i.postimg.cc/nhd827HY/ln24sa.png",
+        "website":  "https://ln24sa.com/",
+        "country":  "ZA",
+        "streams":  [
+                        "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/l24international/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "LOL Africa",
+        "logo":  "https://i.imgur.com/mgUk4qB.png",
+        "website":  null,
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/lol/playlist.m3u8"
+    },
+    {
+        "name":  "Maisha Magic Bongo",
+        "logo":  "https://i.postimg.cc/wBcmn6GV/maishamagicbongo.png",
+        "website":  "https://maishamagicbongo.dstv.com/",
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"
+    },
+    {
+        "name":  "NACTV",
+        "logo":  "https://i.imgur.com/d5vP8eV.png",
+        "website":  "https://web.nacsa.africa/",
+        "country":  "ZA",
+        "streams":  "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
+    },
+    {
+        "name":  "NuView TV",
+        "logo":  "https://i.imgur.com/dYRJ7F0.png",
+        "website":  "https://nuviewtv.co.za/",
+        "country":  "ZA",
+        "streams":  "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Parliament TV",
+        "logo":  "https://i.imgur.com/gzVrSn8.png",
+        "website":  "https://www.parliament.gov.za/",
+        "country":  "ZA",
+        "streams":  [
+                        "http://80.79.6.221:25461/smash/public/23",
+                        "https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8",
+                        "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/parliamenttv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Pulse",
+        "logo":  "https://i.postimg.cc/HkJ1kzDc/pulse.png",
+        "website":  "https://video.premiumfree.tv/?section=lifestylesection",
+        "country":  "ZA",
+        "streams":  [
+                        "https://origin3.afxp.telemedia.co.za/PremiumFree/pulse/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/pulsemusictv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Redemption Television Ministry",
+        "logo":  "https://i.imgur.com/63SmAby.png",
+        "website":  "http://www.redemptiontm.tv/",
+        "country":  "ZA",
+        "streams":  "https://live.nixsat.com/play/rtm/index.m3u8"
+    },
+    {
+        "name":  "RLW TV",
+        "logo":  "https://i.imgur.com/VcwqoEF.png",
+        "website":  "https://rlw.org.za/",
+        "country":  "ZA",
+        "streams":  "https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "ROV TV",
+        "logo":  "https://i.postimg.cc/QMb26ycz/rovtv.png",
+        "website":  "http://www.rockofvictoryministries.org/",
+        "country":  "ZA",
+        "streams":  "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "RPM",
+        "logo":  "https://i.imgur.com/gWJ1lN8.png",
+        "website":  "https://video.premiumfree.tv/?section=sportssection",
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8"
+    },
+    {
+        "name":  "SABC 1",
+        "logo":  "https://i.imgur.com/G8OXWe4.png",
+        "website":  "https://www.sabc1.co.za/",
+        "country":  "ZA",
+        "streams":  "https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8"
+    },
+    {
+        "name":  "SABC 2",
+        "logo":  "https://i.imgur.com/rj6i9sn.png",
+        "website":  "http://www.sabc2.co.za/",
+        "country":  "ZA",
+        "streams":  "https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8"
+    },
+    {
+        "name":  "SABC 3",
+        "logo":  "https://i.imgur.com/eEhLk1D.png",
+        "website":  "http://www.sabc3.co.za/",
+        "country":  "ZA",
+        "streams":  "https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8"
+    },
+    {
+        "name":  "SABC Lehae",
+        "logo":  "https://i.postimg.cc/CxF5dWMP/sabclehae.png",
+        "website":  "https://sabc-plus.com/",
+        "country":  "ZA",
+        "streams":  "https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8"
+    },
+    {
+        "name":  "SABC News",
+        "logo":  "https://i.postimg.cc/13JtFJf9/sabcnews.png",
+        "website":  "http://www.sabc.co.za/",
+        "country":  "ZA",
+        "streams":  [
+                        "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120431/sabcnews/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Seraphim TV",
+        "logo":  "https://i.imgur.com/MfeKk07.png",
+        "website":  "https://seraphimtv.org/",
+        "country":  "ZA",
+        "streams":  "https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8"
+    },
+    {
+        "name":  "Soweto TV",
+        "logo":  "https://i.postimg.cc/5NR3qdj0/sowetotv.png",
+        "website":  "https://www.sowetotv.co.za/",
+        "country":  "ZA",
+        "streams":  [
+                        "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/sowetotv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Sports Connect",
+        "logo":  "https://i.imgur.com/0sNWg54.png",
+        "website":  "https://www.africaxp.com/",
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8"
+    },
+    {
+        "name":  "TBN Africa",
+        "logo":  "https://i.postimg.cc/JhZ0YJqg/tbnafrica.png",
+        "website":  "https://www.tbnafrica.org/",
+        "country":  "ZA",
+        "streams":  "https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8"
+    },
+    {
+        "name":  "Trigger",
+        "logo":  "https://i.imgur.com/TrlrcWf.png",
+        "website":  "https://www.africaxp.com/",
+        "country":  "ZA",
+        "streams":  "https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8"
+    },
+    {
+        "name":  "True African",
+        "logo":  "https://i.imgur.com/nDi2br7.png",
+        "website":  null,
+        "country":  "ZA",
+        "streams":  "https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8"
+    },
+    {
+        "name":  "Tshwane TV",
+        "logo":  "https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png",
+        "website":  "http://www.tshwane.tv/",
+        "country":  "ZA",
+        "streams":  "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
+    },
+    {
+        "name":  "TV BRICS Africa",
+        "logo":  "https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg",
+        "website":  null,
+        "country":  "ZA",
+        "streams":  "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Zee Bollymovies",
+        "logo":  "https://i.imgur.com/rbWA6ph.png",
+        "website":  "http://www.zeebollymovies.zeeafrica.tv/",
+        "country":  "ZA",
+        "streams":  "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name":  "Zee One Africa",
+        "logo":  "https://i.imgur.com/m0PYBQz.png",
+        "website":  "http://zeeone.zeeafrica.tv/",
+        "country":  "ZA",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/zeeoneuk/playlist.m3u8"
+    }
+]

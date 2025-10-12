@@ -1,0 +1,100 @@
+﻿[
+    {
+        "name":  "312 Kino",
+        "logo":  "https://i.ibb.co/3m9LrLj/k7gIibH.png",
+        "website":  "http://312tv.kg",
+        "country":  "KG",
+        "streams":  "http://176.126.166.43:1935/live/312kino/playlist.m3u8"
+    },
+    {
+        "name":  "312 TV",
+        "logo":  "https://i.ibb.co/S6sZvqk/iLSGi6c.png",
+        "website":  "http://312tv.kg",
+        "country":  "KG",
+        "streams":  "http://176.126.166.43:1935/live/312musik/playlist.m3u8"
+    },
+    {
+        "name":  "Ala-Too 24",
+        "logo":  "https://i.postimg.cc/v87q03c5/alatoo24.png",
+        "website":  "https://www.utrk.kg/kg/live/tv?channel=42",
+        "country":  "KG",
+        "streams":  "https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8"
+    },
+    {
+        "name":  "Balastan",
+        "logo":  "https://i.imgur.com/D5ylCiX.png",
+        "website":  "https://www.utrk.kg/kg/live/tv?channel=49",
+        "country":  "KG",
+        "streams":  "https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8"
+    },
+    {
+        "name":  "Bilim Ilim",
+        "logo":  "https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png",
+        "website":  "https://eltr.kg/eltr-bilim-ilim/",
+        "country":  "KG",
+        "streams":  "http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8"
+    },
+    {
+        "name":  "ElTR",
+        "logo":  "https://i.ibb.co/r6czQwQ/365049798-774721644658455-5702658175909463406-n-2.png",
+        "website":  "https://eltr.kg",
+        "country":  "KG",
+        "streams":  "http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8"
+    },
+    {
+        "name":  "Manas TV",
+        "logo":  "https://i.ibb.co/2Kvcj5Q/manas.jpg",
+        "website":  "http://mediamanas.kg/",
+        "country":  "KG",
+        "streams":  "http://212.42.111.152:8080/hls/manas.m3u8"
+    },
+    {
+        "name":  "Music",
+        "logo":  "https://www.utrk.kg/img/stream/45.png",
+        "website":  "https://www.utrk.kg/kg/live/tv?channel=45",
+        "country":  "KG",
+        "streams":  "https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8"
+    },
+    {
+        "name":  "Next TV",
+        "logo":  "https://i.imgur.com/9MiwdgD.png",
+        "website":  null,
+        "country":  "KG",
+        "streams":  "http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8"
+    },
+    {
+        "name":  "Osh Pirim",
+        "logo":  "https://i.ibb.co/9VBnyQ1/cropped-white.png",
+        "website":  "https://oshpirim.kg",
+        "country":  "KG",
+        "streams":  "http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8"
+    },
+    {
+        "name":  "Sport",
+        "logo":  "https://i.imgur.com/ORCu0w0.png",
+        "website":  "https://www.utrk.kg/kg/live/tv?channel=51",
+        "country":  "KG",
+        "streams":  "https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8"
+    },
+    {
+        "name":  "TV15",
+        "logo":  "https://i.ibb.co/1byxRtp/tv15.png",
+        "website":  "https://pyramida.kg",
+        "country":  "KG",
+        "streams":  "http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8"
+    },
+    {
+        "name":  "TV1.KG",
+        "logo":  "https://i.imgur.com/Mti9t9C.png",
+        "website":  "http://tv1.kg/",
+        "country":  "KG",
+        "streams":  "http://212.2.225.30:1935/live/site.stream/playlist.m3u8"
+    },
+    {
+        "name":  "UTRK",
+        "logo":  "https://i.ibb.co/VJ7cPRH/Xp5clCA.png",
+        "website":  "https://www.utrk.kg",
+        "country":  "KG",
+        "streams":  "https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8"
+    }
+]

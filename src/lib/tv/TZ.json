@@ -1,0 +1,183 @@
+﻿[
+    {
+        "name":  "Africa TV2",
+        "logo":  "https://i.imgur.com/GXa37c7.png",
+        "website":  "http://www.africatv2.tv/",
+        "country":  "TZ",
+        "streams":  "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8"
+    },
+    {
+        "name":  "Arise \u0026 Shine TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/aa/arise-and-shine-tv-tz.png",
+        "website":  null,
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/ariseandshine/playlist.m3u8"
+    },
+    {
+        "name":  "Capital TV",
+        "logo":  "https://i.imgur.com/GdplEjy.png",
+        "website":  "https://www.ippmedia.com/",
+        "country":  "TZ",
+        "streams":  "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8"
+    },
+    {
+        "name":  "Channel Ten",
+        "logo":  "https://i.imgur.com/xe5Gnuq.png",
+        "website":  "http://channelten.co.tz/",
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/channelten/playlist.m3u8"
+    },
+    {
+        "name":  "Channel Ten +",
+        "logo":  "https://i.imgur.com/8XIjw6i.png",
+        "website":  "http://channelten.co.tz/",
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/channeltenpluscband/playlist.m3u8"
+    },
+    {
+        "name":  "Crown TV",
+        "logo":  "https://i.imgur.com/G1xO5lR.jpeg",
+        "website":  "https://crownmedia.co.tz/",
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/crowntv/playlist.m3u8"
+    },
+    {
+        "name":  "Dodoma TV",
+        "logo":  "https://i.imgur.com/bLq9eFa.png",
+        "website":  "https://dodomafm.co.tz/dodomatv.html",
+        "country":  "TZ",
+        "streams":  "https://goliveafrica.media:9998/live/625965017ed69/index.m3u8"
+    },
+    {
+        "name":  "Efatha TV",
+        "logo":  "https://i.imgur.com/DXYI9oJ.png",
+        "website":  "https://efathachurch.org/",
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/efathatv/playlist.m3u8"
+    },
+    {
+        "name":  "Furaha TV",
+        "logo":  "https://i.imgur.com/s4UQlLo.jpeg",
+        "website":  null,
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/furahatv/playlist.m3u8"
+    },
+    {
+        "name":  "Hope Channel Tanzania",
+        "logo":  "https://i.imgur.com/U5Q2Bl8.png",
+        "website":  "http://hopetv.or.tz/",
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/hctanzania/playlist.m3u8"
+    },
+    {
+        "name":  "IBN TV",
+        "logo":  "https://i.imgur.com/hkV51ij.png",
+        "website":  "https://www.ibn-tv.co.tz/",
+        "country":  "TZ",
+        "streams":  "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8"
+    },
+    {
+        "name":  "IBN TV Africa",
+        "logo":  "https://i.imgur.com/eKy2ocd.png",
+        "website":  "http://www.ibn-tv.co.tz/",
+        "country":  "TZ",
+        "streams":  "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8"
+    },
+    {
+        "name":  "ITV",
+        "logo":  "https://i.imgur.com/yIsA98f.png",
+        "website":  "https://www.itv.co.tz/",
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/itv/playlist.m3u8"
+    },
+    {
+        "name":  "Mambo TV Swahili",
+        "logo":  "https://i.imgur.com/2CSuNDL.png",
+        "website":  "http://www.mambotvswahili.com/",
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/mambotv/playlist.m3u8"
+    },
+    {
+        "name":  "Plus TV",
+        "logo":  "https://i.imgur.com/FiAwHaF.png",
+        "website":  "https://plustv.tv/",
+        "country":  "TZ",
+        "streams":  [
+                        "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+                        "https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Star TV",
+        "logo":  "https://i.imgur.com/pLfcg0r.png",
+        "website":  "https://startv.co.tz/",
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/startv/playlist.m3u8"
+    },
+    {
+        "name":  "Tanzania Safari Channel",
+        "logo":  "https://i.imgur.com/fcLFYhn.png",
+        "website":  "https://tanzaniasafarichannel.go.tz/",
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/safaritv/playlist.m3u8"
+    },
+    {
+        "name":  "TBC1",
+        "logo":  "https://i.postimg.cc/2SP3xT4h/tbc1.png",
+        "website":  "http://tbc.go.tz/",
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/tbc1/playlist.m3u8"
+    },
+    {
+        "name":  "TV1",
+        "logo":  "https://i.imgur.com/ntOvcTv.png",
+        "website":  null,
+        "country":  "TZ",
+        "streams":  [
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+                        "https://frn.rtsp.me/jDzHciIUzTOuXiUaI-Vg1w/1738881610/hls/BtBbfbnK.m3u8",
+                        "https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047\u0026token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047",
+                        "https://live.tv1.rw/live/tv1rwanda_480/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV3",
+        "logo":  "https://i.imgur.com/W7Xuudj.png",
+        "website":  "http://www.tv3.co.tz/",
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/tv3-sd/playlist.m3u8"
+    },
+    {
+        "name":  "UTV",
+        "logo":  "https://i.imgur.com/nupId22.png",
+        "website":  "https://azamtv.co.tz/",
+        "country":  "TZ",
+        "streams":  [
+                        "https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8",
+                        "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8",
+                        "https://v2.tustreaming.cl/utv/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Wasafi TV",
+        "logo":  "https://i.postimg.cc/QMVzDt3s/wasafitv.png",
+        "website":  "https://wasafimedia.co.tz/",
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/wasafitv/playlist.m3u8"
+    },
+    {
+        "name":  "WRM TV",
+        "logo":  "https://i.imgur.com/2gwc4RW.png",
+        "website":  "https://wrm.or.tz/",
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/wrm/playlist.m3u8"
+    },
+    {
+        "name":  "ZBC TV",
+        "logo":  "https://i.imgur.com/hFH5F8Z.jpg",
+        "website":  "https://zbc.go.tz/",
+        "country":  "TZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/zbctv/playlist.m3u8"
+    }
+]

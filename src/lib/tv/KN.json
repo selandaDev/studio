@@ -1,0 +1,16 @@
+﻿[
+    {
+        "name":  "Television Caribbean",
+        "logo":  "https://i.imgur.com/Ogw0COv.png",
+        "website":  "https://www.tvcplus.live/",
+        "country":  "KN",
+        "streams":  "https://live.kingdom-tv.com:3545/stream/play.m3u8"
+    },
+    {
+        "name":  "ZIZ TV",
+        "logo":  "https://i.imgur.com/fB09i6X.png",
+        "website":  "https://zizonline.com/",
+        "country":  "KN",
+        "streams":  "https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8"
+    }
+]

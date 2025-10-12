@@ -1,0 +1,89 @@
+﻿[
+    {
+        "name":  "Capital TV HD",
+        "logo":  "https://i.imgur.com/hb4bq1t.png",
+        "website":  "https://www.capitaltvhd.com/",
+        "country":  "NP",
+        "streams":  "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8"
+    },
+    {
+        "name":  "Divya Darshan TV",
+        "logo":  "https://i.imgur.com/EwDQ12F.png",
+        "website":  "https://divyadarshantv.com/",
+        "country":  "NP",
+        "streams":  "http://live.divyadarshantv.com/hls/stream.m3u8"
+    },
+    {
+        "name":  "Global TV",
+        "logo":  "https://i.imgur.com/C5KodvC.jpg",
+        "website":  "https://globaltvnepal.com/",
+        "country":  "NP",
+        "streams":  [
+                        "http://181.188.216.5:18000/play/a0m5/index.m3u8",
+                        "https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8",
+                        "https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Indigenous Television",
+        "logo":  "https://i.ibb.co/2MByL1X/indigenous-television.png",
+        "website":  "https://www.indigenoustelevision.com/",
+        "country":  "NP",
+        "streams":  "https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8"
+    },
+    {
+        "name":  "Kalika TV",
+        "logo":  "https://i.imgur.com/5IzASS7.jpg",
+        "website":  "https://www.kalikanews.com/",
+        "country":  "NP",
+        "streams":  "http://185.105.4.244:1935/livesp/kalika/playlist.m3u8"
+    },
+    {
+        "name":  "Kantipur Max",
+        "logo":  "https://i.imgur.com/EZUyzhG.jpg",
+        "website":  "https://kantipurtv.com/",
+        "country":  "NP",
+        "streams":  "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8"
+    },
+    {
+        "name":  "Kantipur TV",
+        "logo":  "https://i.imgur.com/HEVo2Gc.png",
+        "website":  "https://kantipurtv.com/",
+        "country":  "NP",
+        "streams":  "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8"
+    },
+    {
+        "name":  "Mega TV",
+        "logo":  "https://i.imgur.com/KWZZTfT.png",
+        "website":  "https://megatv.com.np/",
+        "country":  "NP",
+        "streams":  [
+                        "https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
+                        "https://vdo1.streamgato.us:3711/live/megatvlive.m3u8"
+                    ]
+    },
+    {
+        "name":  "Mithila Nepal TV",
+        "logo":  "https://i.ibb.co/CWn3fH9/1689333550464.jpg",
+        "website":  "http://mtvnepal.tv/",
+        "country":  "NP",
+        "streams":  "http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR="
+    },
+    {
+        "name":  "News 24",
+        "logo":  "https://i.imgur.com/7PgAPMU.png",
+        "website":  "https://www.news24nepal.tv/",
+        "country":  "NP",
+        "streams":  [
+                        "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
+                        "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Paryawaran TV",
+        "logo":  "https://i.imgur.com/H10qamt.png",
+        "website":  "https://paryawarantv.com/",
+        "country":  "NP",
+        "streams":  "https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8"
+    }
+]

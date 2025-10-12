@@ -1,0 +1,123 @@
+﻿[
+    {
+        "name":  "2TV",
+        "logo":  "https://i.imgur.com/sZUIhGc.png",
+        "website":  "https://lnk.lt/tiesiogiai#2tv",
+        "country":  "LT",
+        "streams":  "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8"
+    },
+    {
+        "name":  "BTV",
+        "logo":  "https://i.postimg.cc/Y2hnHY2s/btv.png",
+        "website":  "https://lnk.lt/tv-programa#btv",
+        "country":  "LT",
+        "streams":  [
+                        "https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8",
+                        "https://fs3.kabelko.sk/9011/index.m3u8?token=btv",
+                        "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
+                    ]
+    },
+    {
+        "name":  "Delfi TV",
+        "logo":  "https://i.imgur.com/IFoHP5M.png",
+        "website":  "https://www.delfi.lt/video/puslapis/tv",
+        "country":  "LT",
+        "streams":  "https://s1.dcdn.lt/live/televizija/playlist.m3u8"
+    },
+    {
+        "name":  "Just TV",
+        "logo":  "https://i.postimg.cc/dtS539nC/justtv.png",
+        "website":  "https://just-tv.lt/",
+        "country":  "LT",
+        "streams":  "https://fenixstream2.online/memfs/0ac46a4f-71ea-4bf7-bb62-312df327b6c8.m3u8"
+    },
+    {
+        "name":  "LRT Klasika",
+        "logo":  "https://i.imgur.com/Fa8Vhu0.png",
+        "website":  "https://www.lrt.lt/",
+        "country":  "LT",
+        "streams":  "https://radijas.lrt.lt/klasika/master.m3u8"
+    },
+    {
+        "name":  "LRT Opus",
+        "logo":  "https://i.imgur.com/oLuZTMH.png",
+        "website":  "https://www.lrt.lt/",
+        "country":  "LT",
+        "streams":  "https://radijas.lrt.lt/opus/master.m3u8"
+    },
+    {
+        "name":  "LRT Radijas",
+        "logo":  "https://i.imgur.com/gYoaqju.png",
+        "website":  "https://www.lrt.lt/",
+        "country":  "LT",
+        "streams":  "https://radijas.lrt.lt/radijas/master.m3u8"
+    },
+    {
+        "name":  "M-1",
+        "logo":  "https://i.ibb.co/gb4NmNHT/M1-2025.png",
+        "website":  "https://www.m-1.fm/",
+        "country":  "LT",
+        "streams":  "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Power Hit Radio",
+        "logo":  "https://i.postimg.cc/HxnxY526/powerhitradio.png",
+        "website":  "https://powerhitradio.tv3.lt/",
+        "country":  "LT",
+        "streams":  "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g"
+    },
+    {
+        "name":  "TV1",
+        "logo":  "https://i.imgur.com/KLWDcFy.png",
+        "website":  "https://lnk.lt/tv-programa#tv1",
+        "country":  "LT",
+        "streams":  [
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+                        "https://frn.rtsp.me/jDzHciIUzTOuXiUaI-Vg1w/1738881610/hls/BtBbfbnK.m3u8",
+                        "https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047\u0026token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047",
+                        "https://live.tv1.rw/live/tv1rwanda_480/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV3",
+        "logo":  "https://i.imgur.com/7nipq0y.png",
+        "website":  "https://www.tv3.lt/",
+        "country":  "LT",
+        "streams":  [
+                        "https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8",
+                        "https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8",
+                        "https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8",
+                        "https://live.mediageneral.digital/live/livestream.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/tv3-sd/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/tv3/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV6",
+        "logo":  "https://i.imgur.com/oC0jiFW.png",
+        "website":  "http://tv6.tv3.lt/",
+        "country":  "LT",
+        "streams":  [
+                        "http://185.236.229.62:9981/play/a03y",
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6"
+                    ]
+    },
+    {
+        "name":  "TV8",
+        "logo":  "https://i.imgur.com/9g3wknl.png",
+        "website":  "http://tv8.tv3.lt/",
+        "country":  "LT",
+        "streams":  [
+                        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/tv8/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "ZTV",
+        "logo":  "https://i.imgur.com/zsrsEfz.png",
+        "website":  "http://www.ztelevizija.lt/",
+        "country":  "LT",
+        "streams":  "https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8"
+    }
+]

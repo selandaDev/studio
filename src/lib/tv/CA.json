@@ -1,0 +1,1434 @@
+﻿[
+    {
+        "name":  "5AAB TV",
+        "logo":  "https://i.imgur.com/jrGrfof.png",
+        "website":  "http://www.5aabtv.ca/",
+        "country":  "CA",
+        "streams":  "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8"
+    },
+    {
+        "name":  "Afghan Nobel Movies",
+        "logo":  "https://i.ibb.co/zfdbVSm/logo-1.png",
+        "website":  "https://www.afghannobel.com/",
+        "country":  "CA",
+        "streams":  "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8"
+    },
+    {
+        "name":  "Afghan Nobel TV",
+        "logo":  "https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg",
+        "website":  "https://www.afghannobel.com",
+        "country":  "CA",
+        "streams":  "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8"
+    },
+    {
+        "name":  "Amazing Discoveries TV",
+        "logo":  "https://i.imgur.com/I0oPFTj.png",
+        "website":  "https://adtv.watch/",
+        "country":  "CA",
+        "streams":  "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
+    },
+    {
+        "name":  "AMG TV",
+        "logo":  "https://i.ibb.co/6bQJNLs/download-6.png",
+        "website":  "https://amgtv.ca/",
+        "country":  "CA",
+        "streams":  "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
+    },
+    {
+        "name":  "Apna Punjab TV",
+        "logo":  "https://i.imgur.com/IM4D8Wz.png",
+        "website":  "https://www.apnapunjab.tv/",
+        "country":  "CA",
+        "streams":  "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
+    },
+    {
+        "name":  "Az Star TV",
+        "logo":  "https://i.postimg.cc/SNPmKSkS/azstartv.png",
+        "website":  "https://www.azstartv.com/",
+        "country":  "CA",
+        "streams":  [
+                        "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
+                        "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "BNN Bloomberg",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/512px-BNN_Bloomberg.svg.png",
+        "website":  "https://www.bnnbloomberg.ca/",
+        "country":  "CA",
+        "streams":  "https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd"
+    },
+    {
+        "name":  "Cable 14 Hamilton",
+        "logo":  "https://i.imgur.com/bJ7ygTq.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120\u0026iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=\u0026iimae0UC2astarttime=1665181720"
+    },
+    {
+        "name":  "Canada One",
+        "logo":  null,
+        "website":  null,
+        "country":  "CA",
+        "streams":  "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8"
+    },
+    {
+        "name":  "Canada Star TV",
+        "logo":  "https://i.imgur.com/57iXCDh.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8"
+    },
+    {
+        "name":  "Canal de l\u0027Assemblee",
+        "logo":  "https://i.imgur.com/jAtq0U8.png",
+        "website":  "http://www.assnat.qc.ca/",
+        "country":  "CA",
+        "streams":  "https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8"
+    },
+    {
+        "name":  "CBAFT-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ICI_Acadie_logo_2018.svg/512px-ICI_Acadie_logo_2018.svg.png",
+        "website":  "http://ici.radio-canada.ca/acadie/",
+        "country":  "CA",
+        "streams":  "https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8"
+    },
+    {
+        "name":  "CBAT-DT",
+        "logo":  "https://i.imgur.com/xflShTG.png",
+        "website":  "http://www.cbc.ca/news/canada/new-brunswick",
+        "country":  "CA",
+        "streams":  "https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8"
+    },
+    {
+        "name":  "CBC News Network",
+        "logo":  "https://i.imgur.com/SjTdhvJ.png",
+        "website":  "http://www.cbc.ca/programguide/daily/today/cbc_news_network/",
+        "country":  "CA",
+        "streams":  [
+                        "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8",
+                        "https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8",
+                        "https://livetv-fa.tubi.video/cbc2/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "CBCT-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CBCT-DT_2017.svg/512px-CBCT-DT_2017.svg.png",
+        "website":  "http://www.cbc.ca/news/canada/prince-edward-island",
+        "country":  "CA",
+        "streams":  "https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8"
+    },
+    {
+        "name":  "CBET-DT",
+        "logo":  "https://i.imgur.com/NFts1uU.png",
+        "website":  "https://www.cbc.ca/news/canada/windsor",
+        "country":  "CA",
+        "streams":  "https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8"
+    },
+    {
+        "name":  "CBFT-DT",
+        "logo":  "https://i.imgur.com/pFCJGj4.png",
+        "website":  "http://ici.radio-canada.ca/grandmontreal",
+        "country":  "CA",
+        "streams":  "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
+    },
+    {
+        "name":  "CBHT-DT",
+        "logo":  "https://i.imgur.com/jdlYY4t.png",
+        "website":  "http://www.cbc.ca/news/canada/nova-scotia",
+        "country":  "CA",
+        "streams":  "https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8"
+    },
+    {
+        "name":  "CBKFT-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ICI_Saskatchewan_logo_2018.svg/512px-ICI_Saskatchewan_logo_2018.svg.png",
+        "website":  "http://ici.radio-canada.ca/saskatchewan/",
+        "country":  "CA",
+        "streams":  "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
+    },
+    {
+        "name":  "CBKT-DT",
+        "logo":  "https://i.imgur.com/PWGVjsg.png",
+        "website":  "http://www.cbc.ca/news/canada/saskatchewan",
+        "country":  "CA",
+        "streams":  "https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8"
+    },
+    {
+        "name":  "CBLFT-DT",
+        "logo":  "https://i.imgur.com/1f798e8.png",
+        "website":  "https://ici.radio-canada.ca/ontario/toronto",
+        "country":  "CA",
+        "streams":  "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
+    },
+    {
+        "name":  "CBLT-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png",
+        "website":  "http://www.cbc.ca/news/canada/toronto",
+        "country":  "CA",
+        "streams":  "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8"
+    },
+    {
+        "name":  "CBMT-DT",
+        "logo":  "https://i.imgur.com/OiiM6Mz.png",
+        "website":  "http://www.cbc.ca/news/canada/montreal",
+        "country":  "CA",
+        "streams":  "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8"
+    },
+    {
+        "name":  "CBNT-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CBNT-DT_2017.svg/512px-CBNT-DT_2017.svg.png",
+        "website":  "http://www.cbc.ca/news/canada/newfoundland-labrador",
+        "country":  "CA",
+        "streams":  "https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8"
+    },
+    {
+        "name":  "CBOFT-DT",
+        "logo":  "https://i.imgur.com/373Y8Py.png",
+        "website":  "http://ici.radio-canada.ca/ottawa-gatineau/",
+        "country":  "CA",
+        "streams":  "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
+    },
+    {
+        "name":  "CBOT-DT",
+        "logo":  "https://i.imgur.com/v3DJUa8.png",
+        "website":  "http://www.cbc.ca/news/canada/ottawa",
+        "country":  "CA",
+        "streams":  "https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8"
+    },
+    {
+        "name":  "CBRT-DT",
+        "logo":  "https://i.imgur.com/ocq1x2B.png",
+        "website":  "http://www.cbc.ca/news/canada/calgary",
+        "country":  "CA",
+        "streams":  "https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8"
+    },
+    {
+        "name":  "CBUFT-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/512px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+        "website":  "https://ici.radio-canada.ca/colombie-britannique-et-yukon/",
+        "country":  "CA",
+        "streams":  "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
+    },
+    {
+        "name":  "CBUT-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/1/1a/CBUT_Logo_%28cleaned_up_ver%29.png",
+        "website":  "http://www.cbc.ca/news/canada/british-columbia",
+        "country":  "CA",
+        "streams":  "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8"
+    },
+    {
+        "name":  "CBVT-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/512px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+        "website":  "https://ici.radio-canada.ca/quebec/",
+        "country":  "CA",
+        "streams":  "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
+    },
+    {
+        "name":  "CBWFT-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ICI_Manitoba_logo_2018.svg/512px-ICI_Manitoba_logo_2018.svg.png",
+        "website":  "http://ici.radio-canada.ca/manitoba/",
+        "country":  "CA",
+        "streams":  "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
+    },
+    {
+        "name":  "CBWT-DT",
+        "logo":  "https://i.imgur.com/aWNHg5z.png",
+        "website":  "http://www.cbc.ca/news/canada/manitoba",
+        "country":  "CA",
+        "streams":  "https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8"
+    },
+    {
+        "name":  "CBXFT-DT",
+        "logo":  "https://i.imgur.com/xN4Valg.png",
+        "website":  "https://ici.radio-canada.ca/alberta/",
+        "country":  "CA",
+        "streams":  "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
+    },
+    {
+        "name":  "CBXT-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png",
+        "website":  "http://www.cbc.ca/news/canada/edmonton",
+        "country":  "CA",
+        "streams":  "https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8"
+    },
+    {
+        "name":  "CFHD-DT",
+        "logo":  "https://i.imgur.com/x0vLIWr.png",
+        "website":  "http://icitelevision.ca/",
+        "country":  "CA",
+        "streams":  "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
+    },
+    {
+        "name":  "CFTM-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png",
+        "website":  "https://www.qub.ca/tvaplus/tva",
+        "country":  "CA",
+        "streams":  "https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8"
+    },
+    {
+        "name":  "CFTU-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png",
+        "website":  "https://savoir.tv/",
+        "country":  "CA",
+        "streams":  "https://hls.savoir.media/live/stream.m3u8"
+    },
+    {
+        "name":  "CFYK-DT",
+        "logo":  "https://i.imgur.com/EHGOQhj.png",
+        "website":  "https://www.cbc.ca/news/canada/north",
+        "country":  "CA",
+        "streams":  "https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8"
+    },
+    {
+        "name":  "Channel Y",
+        "logo":  "https://i.imgur.com/OqSl2Qf.png",
+        "website":  "http://southasiandaily.com/",
+        "country":  "CA",
+        "streams":  "http://cdn19.live247stream.com/channely/tv/playlist.m3u8"
+    },
+    {
+        "name":  "CHBL-TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/512px-Global_Television_Network_Logo.svg.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://fl7.moveonjoy.com/CA_GLOBAL/index.m3u8"
+    },
+    {
+        "name":  "CHCO-TV",
+        "logo":  "https://i.imgur.com/EpMawIy.png",
+        "website":  "http://www.chco.tv/",
+        "country":  "CA",
+        "streams":  "https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8"
+    },
+    {
+        "name":  "CityNews Calgary",
+        "logo":  "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+        "website":  "https://calgary.citynews.ca/video/",
+        "country":  "CA",
+        "streams":  "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8"
+    },
+    {
+        "name":  "CityNews Edmonton",
+        "logo":  "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+        "website":  "https://edmonton.citynews.ca/video/",
+        "country":  "CA",
+        "streams":  "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8"
+    },
+    {
+        "name":  "CityNews Toronto",
+        "logo":  "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+        "website":  "https://toronto.citynews.ca/video/",
+        "country":  "CA",
+        "streams":  "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8"
+    },
+    {
+        "name":  "CityNews Vancouver",
+        "logo":  "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+        "website":  "https://vancouver.citynews.ca/video/",
+        "country":  "CA",
+        "streams":  "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8"
+    },
+    {
+        "name":  "CIVM-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",
+        "website":  "https://www.telequebec.tv/",
+        "country":  "CA",
+        "streams":  "https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8"
+    },
+    {
+        "name":  "CJBR-DT",
+        "logo":  "https://i.imgur.com/1B3d8Jc.png",
+        "website":  "https://ici.radio-canada.ca/bas-saint-laurent/",
+        "country":  "CA",
+        "streams":  "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
+    },
+    {
+        "name":  "CJON-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",
+        "website":  "https://ntv.ca/",
+        "country":  "CA",
+        "streams":  "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8"
+    },
+    {
+        "name":  "CKNO-FM",
+        "logo":  "https://i.imgur.com/sF2g7KE.png",
+        "website":  "https://www.1023nowradio.com/now-tv/",
+        "country":  "CA",
+        "streams":  "https://videostream.jpbgdigital.com/NOWTV.m3u8"
+    },
+    {
+        "name":  "CKSH-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",
+        "website":  "https://ici.radio-canada.ca/estrie/",
+        "country":  "CA",
+        "streams":  "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
+    },
+    {
+        "name":  "CKTM-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",
+        "website":  "https://ici.radio-canada.ca/mauricie/",
+        "country":  "CA",
+        "streams":  "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
+    },
+    {
+        "name":  "CKTV-DT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",
+        "website":  "https://ici.radio-canada.ca/saguenay-lac-saint-jean/",
+        "country":  "CA",
+        "streams":  "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8"
+    },
+    {
+        "name":  "Classique TV",
+        "logo":  "https://i.imgur.com/k8zuTtt.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://stmv1.srvif.com/classique/classique/playlist.m3u8"
+    },
+    {
+        "name":  "C Malayalam TV",
+        "logo":  "https://i.imgur.com/rpg0bQA.png",
+        "website":  "https://www.canadianmalayalamtv.com/",
+        "country":  "CA",
+        "streams":  "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
+    },
+    {
+        "name":  "CPAC English",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png",
+        "website":  "https://www.cpac.ca/",
+        "country":  "CA",
+        "streams":  "https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8"
+    },
+    {
+        "name":  "Crave 1",
+        "logo":  "https://i.imgur.com/ZkRQ0r1.png",
+        "website":  "https://www.crave.ca/",
+        "country":  "CA",
+        "streams":  "https://fl7.moveonjoy.com/CRAVE_1/index.m3u8"
+    },
+    {
+        "name":  "Crave 2",
+        "logo":  "https://i.imgur.com/e1qJ5Bp.png",
+        "website":  "https://www.crave.ca/",
+        "country":  "CA",
+        "streams":  "https://fl7.moveonjoy.com/CRAVE_2/index.m3u8"
+    },
+    {
+        "name":  "Crave 3",
+        "logo":  "https://i.imgur.com/kOi0Adn.png",
+        "website":  "https://www.crave.ca/",
+        "country":  "CA",
+        "streams":  "https://fl7.moveonjoy.com/CRAVE_3/index.m3u8"
+    },
+    {
+        "name":  "Crave 4",
+        "logo":  "https://i.imgur.com/MyH3Q2p.png",
+        "website":  "https://www.crave.ca/",
+        "country":  "CA",
+        "streams":  "https://fl7.moveonjoy.com/CRAVE_4/index.m3u8"
+    },
+    {
+        "name":  "Crime + Investigation",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
+        "website":  "https://www.crimeandinvestigation.ca/",
+        "country":  "CA",
+        "streams":  [
+                        "https://fl7.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8",
+                        "https://tvpass.org/live/CrimePlusInvestigation/hd",
+                        "https://tvpass.org/live/CrimePlusInvestigation/sd"
+                    ]
+    },
+    {
+        "name":  "CTB TV",
+        "logo":  "https://i.imgur.com/G3g62Td.png",
+        "website":  "https://ctbtv.ca/",
+        "country":  "CA",
+        "streams":  "https://fl001.elpcinc.com/CTB-TV/index.m3u8"
+    },
+    {
+        "name":  "CTV News Channel",
+        "logo":  "https://i.imgur.com/pRscvrp.png",
+        "website":  "http://www.ctvnews.ca/ctv-news-channel",
+        "country":  "CA",
+        "streams":  "https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8"
+    },
+    {
+        "name":  "Deshi TV",
+        "logo":  "https://i.imgur.com/PzqzgMm.png",
+        "website":  "https://www.deshitv.com/",
+        "country":  "CA",
+        "streams":  "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+    },
+    {
+        "name":  "Disney Channel",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png",
+        "website":  "http://www.disneychannel.ca/",
+        "country":  "CA",
+        "streams":  [
+                        "http://116.90.120.149:8000/play/a0bx/index.m3u8",
+                        "http://84.54.128.52:9090/play/3006/index.m3u8",
+                        "https://e3.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8",
+                        "https://e5.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8?",
+                        "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8"
+                    ]
+    },
+    {
+        "name":  "Disney Junior",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
+        "website":  "http://disneyjunior.ca/",
+        "country":  "CA",
+        "streams":  "http://116.90.120.149:8000/play/a0b3/index.m3u8"
+    },
+    {
+        "name":  "Disney XD",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
+        "website":  "http://www.disneyxd.ca/",
+        "country":  "CA",
+        "streams":  [
+                        "http://185.236.229.62:9981/play/a07c",
+                        "http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Dukh Nivaran",
+        "logo":  "https://i.imgur.com/Zh60l1x.png",
+        "website":  "https://dukhnivaran.ca/",
+        "country":  "CA",
+        "streams":  "http://cdn12.henico.net:8080/live/dncal/index.m3u8"
+    },
+    {
+        "name":  "Eawaz TV",
+        "logo":  "https://i.imgur.com/vB4yzen.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8"
+    },
+    {
+        "name":  "EET TV",
+        "logo":  "https://i.imgur.com/rntSEDZ.png",
+        "website":  "https://tethd.tv/",
+        "country":  "CA",
+        "streams":  "https://eu.streamjo.com/eetlive/eettv.m3u8"
+    },
+    {
+        "name":  "Erfan Halgheh TV",
+        "logo":  "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://hls.erfanhalgheh.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "ERT World",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png",
+        "website":  "http://odysseytv.ca/",
+        "country":  "CA",
+        "streams":  [
+                        "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8",
+                        "https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8"
+                    ]
+    },
+    {
+        "name":  "FEVA TV",
+        "logo":  "https://i.imgur.com/QSi0YTS.png",
+        "website":  "https://www.fevatv.com/",
+        "country":  "CA",
+        "streams":  "https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8"
+    },
+    {
+        "name":  "Fight Network",
+        "logo":  "https://i.postimg.cc/br9j8npr/fightnetwork.png",
+        "website":  "https://www.fightnetwork.com/",
+        "country":  "CA",
+        "streams":  "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"
+    },
+    {
+        "name":  "FX",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png",
+        "website":  "http://www.fxnowcanada.ca/",
+        "country":  "CA",
+        "streams":  "https://saran-live.ercdn.net/fx/index.m3u8"
+    },
+    {
+        "name":  "Game+",
+        "logo":  "https://i.imgur.com/Lj69WbR.png",
+        "website":  "https://www.gameplusnetwork.com/",
+        "country":  "CA",
+        "streams":  "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+    },
+    {
+        "name":  "Gaunda Punjab TV",
+        "logo":  "https://i.imgur.com/ArRZRM3.png",
+        "website":  "https://gaundapunjablive.com/",
+        "country":  "CA",
+        "streams":  "http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8"
+    },
+    {
+        "name":  "GH Canada TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/gg/gh-canada-tv-ca.png",
+        "website":  "http://ghcanada.tv/",
+        "country":  "CA",
+        "streams":  "https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8"
+    },
+    {
+        "name":  "Global News",
+        "logo":  "https://i.imgur.com/xk1QOhW.png",
+        "website":  "https://globalnews.ca/",
+        "country":  "CA",
+        "streams":  "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8"
+    },
+    {
+        "name":  "GTN Canada",
+        "logo":  "https://i.imgur.com/7bQPJOd.png",
+        "website":  "https://guyanatvnetwork.com/",
+        "country":  "CA",
+        "streams":  "https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8"
+    },
+    {
+        "name":  "GurSikh Sabha TV",
+        "logo":  "https://i.imgur.com/2EKCtQm.png",
+        "website":  "https://www.gsabha.com/",
+        "country":  "CA",
+        "streams":  "http://cdn12.henico.net:8080/live/gsctv/index.m3u8"
+    },
+    {
+        "name":  "Gusto TV",
+        "logo":  "https://i.postimg.cc/vHjsWf3R/gustotv.png",
+        "website":  "https://gustotv.com/",
+        "country":  "CA",
+        "streams":  [
+                        "https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8",
+                        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
+                        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
+                        "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
+                        "https://gusto-xumo.amagi.tv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Hamdard TV",
+        "logo":  "https://i.ibb.co/JcD2xck/logo-hamda.png",
+        "website":  "https://www.hamdardtv.com/",
+        "country":  "CA",
+        "streams":  "https://tv.hamdardtv.com/hamdard/index.m3u8"
+    },
+    {
+        "name":  "Hard Knocks",
+        "logo":  "https://i.imgur.com/nt9B6jx.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  [
+                        "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8",
+                        "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8",
+                        "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8"
+                    ]
+    },
+    {
+        "name":  "History",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",
+        "website":  "https://www.history.ca/",
+        "country":  "CA",
+        "streams":  "https://fl7.moveonjoy.com/history_channel/index.m3u8"
+    },
+    {
+        "name":  "Hulchul TV Canada",
+        "logo":  "https://i.imgur.com/LvkdhRw.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "http://cdn12.henico.net:8080/live/jbani/index.m3u8"
+    },
+    {
+        "name":  "Hyder TV",
+        "logo":  "https://i.imgur.com/reHjjRZ.png",
+        "website":  "http://www.hyder.tv/",
+        "country":  "CA",
+        "streams":  "https://cdn.live247stream.com/hyder/tv/playlist.m3u8"
+    },
+    {
+        "name":  "Ici RDI",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png",
+        "website":  "http://ici.radio-canada.ca/rdi",
+        "country":  "CA",
+        "streams":  "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"
+    },
+    {
+        "name":  "ICnet 1",
+        "logo":  "https://i.imgur.com/aeS4Sjv.png",
+        "website":  "https://icnet.tv/",
+        "country":  "CA",
+        "streams":  "https://icnet1hls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "ICnet 2",
+        "logo":  "https://i.imgur.com/Ke5xn4E.png",
+        "website":  "https://icnet.tv/",
+        "country":  "CA",
+        "streams":  "https://icnet2hls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "icnet 3",
+        "logo":  "https://i.postimg.cc/RVqQMVVV/icnet3.png",
+        "website":  "https://icnet.tv/",
+        "country":  "CA",
+        "streams":  "https://ic3hls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "IIPC TV",
+        "logo":  "https://i.imgur.com/mIih39Y.png",
+        "website":  "https://www.iipccanada.com/contacts/",
+        "country":  "CA",
+        "streams":  [
+                        "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8",
+                        "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Investigation",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Investigation.svg/512px-Investigation.svg.png",
+        "website":  "http://www.investigationtele.com/",
+        "country":  "CA",
+        "streams":  "https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name":  "iTV Afrobeats Music",
+        "logo":  "https://i.ibb.co/pvLQmQK7/itv.png",
+        "website":  "https://www.iradios.ca/itv",
+        "country":  "CA",
+        "streams":  "https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name":  "iTV Arabic Music",
+        "logo":  "https://i.ibb.co/pvLQmQK7/itv.png",
+        "website":  "https://www.iradios.ca/itv",
+        "country":  "CA",
+        "streams":  "https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name":  "iTV Indian Music",
+        "logo":  "https://i.ibb.co/pvLQmQK7/itv.png",
+        "website":  "https://www.iradios.ca/itv",
+        "country":  "CA",
+        "streams":  "https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name":  "iTV Latin Music",
+        "logo":  "https://i.ibb.co/pvLQmQK7/itv.png",
+        "website":  "https://www.iradios.ca/itv",
+        "country":  "CA",
+        "streams":  "https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name":  "iTV Turkish Music",
+        "logo":  "https://i.ibb.co/pvLQmQK7/itv.png",
+        "website":  "https://www.iradios.ca/itv",
+        "country":  "CA",
+        "streams":  "https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name":  "iTV Urban Music",
+        "logo":  "https://i.ibb.co/pvLQmQK7/itv.png",
+        "website":  "https://www.iradios.ca/itv",
+        "country":  "CA",
+        "streams":  "https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name":  "LCN",
+        "logo":  "https://i.imgur.com/iKDLgOG.png",
+        "website":  "https://www.tvanouvelles.ca/",
+        "country":  "CA",
+        "streams":  "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8"
+    },
+    {
+        "name":  "Legislative Assembly of British Columbia",
+        "logo":  "https://i.imgur.com/5QGxHhh.png",
+        "website":  "https://www.leg.bc.ca/",
+        "country":  "CA",
+        "streams":  "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Legislative Assembly of British Columbia Committee A",
+        "logo":  "https://www.lyngsat.com/logo/tv/ll/legislative-assembly-of-british-columbia-ca.png",
+        "website":  "https://video.leg.bc.ca/live/play.aspx?Video=dougfir\u0026Title=Committee%20A\u0026Description=Legislative%20Assembly%20of%20British%20Columbia\u0026Mode=live\u0026Popout=Yes\u0026Mute=False",
+        "country":  "CA",
+        "streams":  "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Legislative Assembly of Ontario",
+        "logo":  "https://i.imgur.com/n24MrsX.png",
+        "website":  "https://www.ola.org/",
+        "country":  "CA",
+        "streams":  "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+    },
+    {
+        "name":  "Legislative Assembly TV Nunavut",
+        "logo":  "https://i.imgur.com/wY9WhYS.png",
+        "website":  "https://www.assembly.nu.ca/",
+        "country":  "CA",
+        "streams":  "http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
+    },
+    {
+        "name":  "Love Nature",
+        "logo":  "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
+        "website":  "https://tv.lovenature.com/",
+        "country":  "CA",
+        "streams":  [
+                        "http://78.130.250.2:8023/play/a02m/index.m3u8",
+                        "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
+                        "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8",
+                        "https://bamus-klowdtv.amagi.tv/playlist.m3u8",
+                        "https://fl7.moveonjoy.com/LOVE_NATURE/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Mediaset Italia",
+        "logo":  "https://i.postimg.cc/PJ4hk7k0/mediasetitalia.png",
+        "website":  "http://mediasetitalia.ca/",
+        "country":  "CA",
+        "streams":  "https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8"
+    },
+    {
+        "name":  "MHZ",
+        "logo":  "https://i.imgur.com/a5fw83n.jpg",
+        "website":  "https://mhznetworks.com/",
+        "country":  "CA",
+        "streams":  "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "name":  "Miracle Channel",
+        "logo":  "https://i.postimg.cc/BQfMzbzR/miraclechannel.png",
+        "website":  "https://miraclechannel.ca/",
+        "country":  "CA",
+        "streams":  "https://miracle.stream.boxigy.com/hls/miracle1.m3u8"
+    },
+    {
+        "name":  "Montreal Greek TV",
+        "logo":  "https://i.imgur.com/Y5YnUit.png",
+        "website":  "http://greektimes.ca/greektv/",
+        "country":  "CA",
+        "streams":  "http://live.greektv.ca/hls1/greektv.m3u8"
+    },
+    {
+        "name":  "MTV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
+        "website":  "https://www.mtv.ca/",
+        "country":  "CA",
+        "streams":  [
+                        "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8"
+                    ]
+    },
+    {
+        "name":  "MTV2",
+        "logo":  "https://i.postimg.cc/W48BNrBD/mtv2.png",
+        "website":  "http://www.mtv.ca/mtv2/",
+        "country":  "CA",
+        "streams":  "https://fl7.moveonjoy.com/MTV_2/index.m3u8"
+    },
+    {
+        "name":  "Much",
+        "logo":  "https://i.imgur.com/JjYki5V.png",
+        "website":  "http://www.ctv.ca/much",
+        "country":  "CA",
+        "streams":  "https://fl7.moveonjoy.com/MUCH/index.m3u8"
+    },
+    {
+        "name":  "NACTV",
+        "logo":  "https://i.imgur.com/FzM95rH.png",
+        "website":  "https://nactv.tv/",
+        "country":  "CA",
+        "streams":  "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
+    },
+    {
+        "name":  "National Geographic",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/langfr-512px-Natgeologo.svg.png",
+        "website":  "http://natgeotv.com/ca",
+        "country":  "CA",
+        "streams":  [
+                        "http://62.210.211.188:2095/play/a00d",
+                        "http://78.130.250.2:8023/play/a02e/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeohd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "National Geographic Wild",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "website":  "http://www.natgeotv.com/ca/wild",
+        "country":  "CA",
+        "streams":  [
+                        "http://78.130.250.2:8023/play/a02c/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeowild/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "NBA TV Canada",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png",
+        "website":  "https://www.nba.com/raptors/nbatvcanada/schedule",
+        "country":  "CA",
+        "streams":  "http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8"
+    },
+    {
+        "name":  "NETV Toronto",
+        "logo":  "https://i.imgur.com/WXRBuOW.png",
+        "website":  "https://www.netvtoronto.com/",
+        "country":  "CA",
+        "streams":  "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8"
+    },
+    {
+        "name":  "Nickelodeon",
+        "logo":  "https://i.postimg.cc/VkdqdrkH/nickelodeon.png",
+        "website":  "http://nickcanada.com/",
+        "country":  "CA",
+        "streams":  [
+                        "http://185.236.229.62:9981/play/a067",
+                        "http://195.64.140.147:10121/121",
+                        "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+                        "http://46.8.46.14/Nickelodeon/index.m3u8",
+                        "http://87.246.60.6:11004/?token=fas-tv.com",
+                        "http://92.114.85.72:8000/play/a02o",
+                        "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php"
+                    ]
+    },
+    {
+        "name":  "Nicktoons",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
+        "website":  null,
+        "country":  "CA",
+        "streams":  [
+                        "http://143.244.60.30/NICKTOONS/index.m3u8",
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=359ee837-a829-4fe0-9d99-8dc36018ced2"
+                    ]
+    },
+    {
+        "name":  "NRB TV",
+        "logo":  "https://i.imgur.com/oGNhnV3.png",
+        "website":  "https://thenrb.tv/",
+        "country":  "CA",
+        "streams":  "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "NTV",
+        "logo":  "https://i.imgur.com/KQtQg5y.png",
+        "website":  "https://ntv.ca/",
+        "country":  "CA",
+        "streams":  [
+                        "http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8",
+                        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd",
+                        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8",
+                        "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
+                        "https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8",
+                        "https://panel.miplay.cl:8082/ntv/index.m3u8",
+                        "https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "NTV+",
+        "logo":  "https://i.imgur.com/YEUhPBv.png",
+        "website":  "https://ntvplus.ca/",
+        "country":  "CA",
+        "streams":  "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8"
+    },
+    {
+        "name":  "One",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/a/af/ONE_TV_2021_logo.png",
+        "website":  "https://www.onetv.ca/",
+        "country":  "CA",
+        "streams":  [
+                        "http://80.79.6.221:25461/smash/public/21",
+                        "https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Ontario Parliamentary Network",
+        "logo":  "https://i.imgur.com/xKXs6ER.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  [
+                        "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+                        "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Pamir TV",
+        "logo":  "https://i.imgur.com/sCBbBOj.png",
+        "website":  "http://www.pamirtv.com/",
+        "country":  "CA",
+        "streams":  "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
+    },
+    {
+        "name":  "Pardesi TV",
+        "logo":  "https://i.imgur.com/CwAdPpZ.jpg",
+        "website":  null,
+        "country":  "CA",
+        "streams":  [
+                        "http://stream.pardesitv.online/pardesi/index.m3u8",
+                        "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
+                    ]
+    },
+    {
+        "name":  "Parnian TV",
+        "logo":  "https://i.imgur.com/J8ejADF.png",
+        "website":  "https://parnian.tv/",
+        "country":  "CA",
+        "streams":  [
+                        "https://live2.parnian.tv/hls/.m3u8",
+                        "https://live2.parnian.tv/hls/live/play.m3u8"
+                    ]
+    },
+    {
+        "name":  "Plymouth Rock TV",
+        "logo":  "https://i.imgur.com/KO3cVav.png",
+        "website":  "https://plymouthrocktv.com/",
+        "country":  "CA",
+        "streams":  [
+                        "https://d30au7974f7qoa.cloudfront.net/scheduler/scheduleMaster/419.m3u8",
+                        "https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8",
+                        "https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Prime Asia TV",
+        "logo":  null,
+        "website":  "http://primeasiatv.com/",
+        "country":  "CA",
+        "streams":  "http://primeasia.selfip.net/Samsung/index.m3u8"
+    },
+    {
+        "name":  "Prime Canada TV",
+        "logo":  "https://i.imgur.com/Vji81jB.png",
+        "website":  "http://www.primecanada.tv/",
+        "country":  "CA",
+        "streams":  "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8"
+    },
+    {
+        "name":  "Probashi TV News",
+        "logo":  "https://i.imgur.com/7oTsfQ4.png",
+        "website":  "https://probashinews24.tv/",
+        "country":  "CA",
+        "streams":  [
+                        "http://158.69.24.53:8080/probashi_tv/index.m3u8",
+                        "http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Qello Concerts by Stingray",
+        "logo":  "https://i.imgur.com/IRyFTWq.png",
+        "website":  "https://qello.com/en/",
+        "country":  "CA",
+        "streams":  [
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d3d466225000827412b/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=2c7bb439-35fc-11ef-a031-2b5d494037a2\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=6ba3de05-22ef-4ab2-8d11-c4a6c21d39ba",
+                        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052",
+                        "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Quo Vadis TV",
+        "logo":  "https://i.imgur.com/pEqDDHl.png",
+        "website":  "https://quovadisministry.org/",
+        "country":  "CA",
+        "streams":  [
+                        "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
+                        "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Radio Tele Evangile Sans Limite",
+        "logo":  "https://i.imgur.com/CL32kFA.png",
+        "website":  "https://radiotelevangilesanslimite.com/",
+        "country":  "CA",
+        "streams":  "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8"
+    },
+    {
+        "name":  "Sardari TV",
+        "logo":  null,
+        "website":  null,
+        "country":  "CA",
+        "streams":  "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8"
+    },
+    {
+        "name":  "Sikh Spiritual Centre Rexdale",
+        "logo":  "https://i.imgur.com/YKXoIsr.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://cdn12.henico.net:8443/live/ssct/index.m3u8"
+    },
+    {
+        "name":  "Sohail TV",
+        "logo":  "https://i.ibb.co/dtzjKfT/Sohail-TV.png",
+        "website":  "https://sohailtv.com/",
+        "country":  "CA",
+        "streams":  "https://iptv.sohailtv.com/sohail/playlist/index.m3u8"
+    },
+    {
+        "name":  "Sooriyan TV",
+        "logo":  "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
+        "website":  "http://www.sooriyantv.ca/",
+        "country":  "CA",
+        "streams":  "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
+    },
+    {
+        "name":  "Stingray Classica",
+        "logo":  "https://i.postimg.cc/FFZmKGzG/stingrayclassica.png",
+        "website":  "https://classica.stingray.com/",
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Classic Rock",
+        "logo":  "https://i.postimg.cc/Nfjt2Trt/stingrayclassicrock.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray CMusic",
+        "logo":  "https://i.postimg.cc/FsC4yRjL/stingraycmusic.png",
+        "website":  "https://cmusic.stingray.com/",
+        "country":  "CA",
+        "streams":  [
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d00dbdaaa00085bc5e2/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=2c799158-35fc-11ef-a031-2b5d494037a2\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=591a5510-6f0c-4769-9f52-fb2ec0e8a3ea",
+                        "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Stingray DJAZZ",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png",
+        "website":  "https://djazz.stingray.com/",
+        "country":  "CA",
+        "streams":  [
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=959d0b22-4af5-4741-8264-1da92550e8c1",
+                        "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Stingray Easy Listening",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Everything \u002780s",
+        "logo":  "https://i.imgur.com/6E3wYrb.png",
+        "website":  "https://music.stingray.com/en/BS/channels/128/everything-80s",
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Flashback 70\u0027s",
+        "logo":  "https://i.imgur.com/jf5C9QF.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Greatest Hits",
+        "logo":  null,
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053"
+    },
+    {
+        "name":  "Stingray Hit List",
+        "logo":  "https://i.imgur.com/lgpIwId.png",
+        "website":  "https://music.stingray.com/en/CA/channels/007/hit-list",
+        "country":  "CA",
+        "streams":  [
+                        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054",
+                        "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Stingray Holiday Hits",
+        "logo":  "https://i.imgur.com/4xVVKH8.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Hot Country",
+        "logo":  "https://i.postimg.cc/br6K9C2h/stingrayhotcountry.png",
+        "website":  "https://music.stingray.com/en/channels/008/hot-country",
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Karaoke",
+        "logo":  "https://i.imgur.com/9TLTLS3.png",
+        "website":  "https://karaoke.stingray.com/en/",
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Naturescape",
+        "logo":  "https://i.postimg.cc/jdFpW1b6/stingraynaturescape.png",
+        "website":  "https://www.stingray.com/stingray-naturescape",
+        "country":  "CA",
+        "streams":  [
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=6c2a29f9-30d3-11ef-9cf5-e9ddff8ff496\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=2ac7255b-3bb1-4cd4-80c9-afb0bcb127dd",
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240b7e283aa40008f79f84/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=2c7b3f05-35fc-11ef-a031-2b5d494037a2\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=a5760903-3730-493d-a240-f38538ed67ca",
+                        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
+                        "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Stingray Nothin\u0027 But 90s",
+        "logo":  "https://i.imgur.com/Tq3I0po.png",
+        "website":  "https://music.stingray.com/en/channels/042/nothin-but-90s",
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Pop Adult",
+        "logo":  "https://i.imgur.com/H2ugC9L.png",
+        "website":  "https://music.stingray.com/en/CA/channels/004/pop-adult",
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Remember the 80s",
+        "logo":  "https://i.imgur.com/duwc8E8.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071"
+    },
+    {
+        "name":  "Stingray Rock Alternative",
+        "logo":  "https://i.imgur.com/mt8ulVX.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Romance Latino",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Smooth Jazz",
+        "logo":  "https://i.imgur.com/h1DsOzH.png",
+        "website":  "https://music.stingray.com/en/channels/040/smooth-jazz",
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Soul Storm",
+        "logo":  "https://i.imgur.com/dU1KC3f.png",
+        "website":  "https://music.stingray.com/en/channels/134/soul-storm",
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray The Spa",
+        "logo":  "https://i.postimg.cc/XJLhnHLC/stingraythespa.png",
+        "website":  "https://music.stingray.com/en/channels/022/the-spa",
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Today\u0027s K-Pop",
+        "logo":  "https://i.imgur.com/mMbntB5.png",
+        "website":  "https://music.stingray.com/en/channels/317/todays-k-pop",
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Today\u0027s Latin Pop",
+        "logo":  "https://i.imgur.com/Os3kRRP.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "Stingray Urban Beat",
+        "logo":  "https://i.imgur.com/Os3kRRP.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "name":  "TAG TV",
+        "logo":  "https://i.imgur.com/4PA2adF.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "http://cdn11.live247stream.com/tag/tv/playlist.m3u8"
+    },
+    {
+        "name":  "TamilVision-TV",
+        "logo":  "https://i.imgur.com/DodsLuW.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  [
+                        "http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8",
+                        "http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TCFTV",
+        "logo":  "https://i.imgur.com/lHsS6Lj.png",
+        "website":  "https://tcftv.ca/",
+        "country":  "CA",
+        "streams":  "http://66.11.33.44:8081/live/TCF/playlist.m3u8"
+    },
+    {
+        "name":  "The Weather Network",
+        "logo":  "https://i.imgur.com/V6ZUwUY.png",
+        "website":  "https://www.theweathernetwork.com/",
+        "country":  "CA",
+        "streams":  "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75"
+    },
+    {
+        "name":  "Toronto 360 TV",
+        "logo":  "https://i.imgur.com/YJYdHKO.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8"
+    },
+    {
+        "name":  "TSC",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/512px-TSC_logo.svg.png",
+        "website":  "https://www.tsc.ca/",
+        "country":  "CA",
+        "streams":  [
+                        "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+                        "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "TSN1",
+        "logo":  "https://i.imgur.com/eRFE0jZ.png",
+        "website":  "https://www.tsn.ca/",
+        "country":  "CA",
+        "streams":  [
+                        "https://fl7.moveonjoy.com/TSN_1/index.m3u8",
+                        "https://tvpass.org/live/tsn1/hd",
+                        "https://tvpass.org/live/tsn1/sd"
+                    ]
+    },
+    {
+        "name":  "TSN2",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png",
+        "website":  "https://www.tsn.ca/",
+        "country":  "CA",
+        "streams":  [
+                        "https://fl7.moveonjoy.com/TSN_2/index.m3u8",
+                        "https://tvpass.org/live/tsn2/hd",
+                        "https://tvpass.org/live/tsn2/sd"
+                    ]
+    },
+    {
+        "name":  "TSN3",
+        "logo":  "https://i.imgur.com/AYza8KO.png",
+        "website":  "https://www.tsn.ca/",
+        "country":  "CA",
+        "streams":  [
+                        "https://fl7.moveonjoy.com/TSN_3/index.m3u8",
+                        "https://tvpass.org/live/tsn3/hd",
+                        "https://tvpass.org/live/tsn3/sd"
+                    ]
+    },
+    {
+        "name":  "TSN4",
+        "logo":  "https://i.imgur.com/qJyAWU8.png",
+        "website":  "https://www.tsn.ca/",
+        "country":  "CA",
+        "streams":  [
+                        "https://fl7.moveonjoy.com/TSN_4/index.m3u8",
+                        "https://tvpass.org/live/tsn4/hd",
+                        "https://tvpass.org/live/tsn4/sd"
+                    ]
+    },
+    {
+        "name":  "TSN5",
+        "logo":  "https://i.imgur.com/HEzHpzz.png",
+        "website":  "https://www.tsn.ca/",
+        "country":  "CA",
+        "streams":  [
+                        "https://fl7.moveonjoy.com/TSN_5/index.m3u8",
+                        "https://tvpass.org/live/tsn5/hd",
+                        "https://tvpass.org/live/tsn5/sd"
+                    ]
+    },
+    {
+        "name":  "TSN The Ocho",
+        "logo":  "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
+        "website":  "https://www.samsung.com/ca/tvs/tvplus/",
+        "country":  "CA",
+        "streams":  "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8"
+    },
+    {
+        "name":  "TV 16 Toronto",
+        "logo":  "https://i.imgur.com/c4lLchb.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8"
+    },
+    {
+        "name":  "tvcTK",
+        "logo":  "https://i.imgur.com/rq1YhVH.png",
+        "website":  "https://tvctk.com/",
+        "country":  "CA",
+        "streams":  "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8"
+    },
+    {
+        "name":  "TVOKids",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/512px-Tvokids-logo.svg.png",
+        "website":  null,
+        "country":  "CA",
+        "streams":  "https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8"
+    },
+    {
+        "name":  "TV Punjab",
+        "logo":  "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
+        "website":  "https://tvpunjab.com/",
+        "country":  "CA",
+        "streams":  "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Uvagut TV",
+        "logo":  "https://i.imgur.com/RR7ATr2.png",
+        "website":  "http://uvagut.tv/",
+        "country":  "CA",
+        "streams":  "https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8"
+    },
+    {
+        "name":  "Watan-e-Maa TV",
+        "logo":  "https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png",
+        "website":  "https://www.watanemaatv.com/",
+        "country":  "CA",
+        "streams":  "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8"
+    },
+    {
+        "name":  "WCGtv",
+        "logo":  "https://i.imgur.com/q7UPbEG.png",
+        "website":  "https://www.wcgtv.ca/",
+        "country":  "CA",
+        "streams":  "https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8"
+    },
+    {
+        "name":  "WeatherSpy",
+        "logo":  "https://i.imgur.com/KIEKOt1.png",
+        "website":  "https://www.weatherspy.tv/",
+        "country":  "CA",
+        "streams":  "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "name":  "Wild TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png",
+        "website":  "https://wildtv.ca/",
+        "country":  "CA",
+        "streams":  "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8"
+    },
+    {
+        "name":  "W Network",
+        "logo":  "https://i.imgur.com/t7XdBh8.png",
+        "website":  "http://www.wnetwork.com/",
+        "country":  "CA",
+        "streams":  "https://fl7.moveonjoy.com/W_NETWORK/index.m3u8"
+    },
+    {
+        "name":  "YTV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png",
+        "website":  "http://www.ytv.com/",
+        "country":  "CA",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/ytvbotswana/playlist.m3u8"
+    }
+]

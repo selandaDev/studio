@@ -1,0 +1,10 @@
+﻿{
+    "name":  "Tele Tchad",
+    "logo":  "https://i.postimg.cc/QMJFfh4r/teletchad.png",
+    "website":  "https://onama.td/",
+    "country":  "TD",
+    "streams":  [
+                    "https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8",
+                    "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/teletchad/playlist.m3u8"
+                ]
+}

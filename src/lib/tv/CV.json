@@ -1,0 +1,40 @@
+﻿[
+    {
+        "name":  "ANTV",
+        "logo":  "https://i.imgur.com/f3UxmGY.png",
+        "website":  "https://portais.parlamento.cv/canalwebtv/",
+        "country":  "CV",
+        "streams":  "https://ott1.nethubtv.vn/live/antv/playlist.m3u8"
+    },
+    {
+        "name":  "Radio TV Sal One",
+        "logo":  "https://i.imgur.com/pCz7ifY.jpg",
+        "website":  "https://www.radiotvsalone.tv/",
+        "country":  "CV",
+        "streams":  "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8"
+    },
+    {
+        "name":  "TIVER",
+        "logo":  "https://i.imgur.com/IYXu5oN.png",
+        "website":  "https://tiver.cv/",
+        "country":  "CV",
+        "streams":  "https://cdn.live.br1.jmvstream.com/w/AVJ-13550/playlist/playlist.m3u8"
+    },
+    {
+        "name":  "TVA",
+        "logo":  "https://i.imgur.com/KwSxDjm.png",
+        "website":  "https://tva.cv/",
+        "country":  "CV",
+        "streams":  [
+                        "https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8",
+                        "https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV Cidade",
+        "logo":  "https://i.imgur.com/gmSu21X.jpg",
+        "website":  "https://www.cidadefm.cv/",
+        "country":  "CV",
+        "streams":  "https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8"
+    }
+]

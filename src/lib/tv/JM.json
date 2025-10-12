@@ -1,0 +1,72 @@
+﻿[
+    {
+        "name":  "Caribbean Gospel TV",
+        "logo":  "https://i.imgur.com/mVQ8J4k.png",
+        "website":  "https://caribbeangospel.tv/",
+        "country":  "JM",
+        "streams":  "https://5a1178b42cc03.streamlock.net/CGTV2024/CGTV2024/playlist.m3u8"
+    },
+    {
+        "name":  "CVM TV",
+        "logo":  "https://i.imgur.com/14wfq26.png",
+        "website":  "https://www.cvmtv.com/",
+        "country":  "JM",
+        "streams":  "https://fl7.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8"
+    },
+    {
+        "name":  "Fame95 FM",
+        "logo":  "https://i.imgur.com/n3PUxes.png",
+        "website":  "https://www.fame95fm.com/",
+        "country":  "JM",
+        "streams":  "https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8"
+    },
+    {
+        "name":  "Jamaica Online TV",
+        "logo":  "https://i.imgur.com/Aw9u4Ax.png",
+        "website":  "https://jamaicaonlinetv.com/",
+        "country":  "JM",
+        "streams":  "https://tvsw7-hls.secdn.net/tvsw7-chorigin/play/prod-bb11dd0e11ca45229a3f58aeff5213d8/playlist.m3u8"
+    },
+    {
+        "name":  "Jamaica Travel Channel",
+        "logo":  "https://i.imgur.com/ewdPTh8.png",
+        "website":  "https://www.visitjamaica.com/travel-channel/",
+        "country":  "JM",
+        "streams":  "https://stream.castr.com/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.fmp4.m3u8"
+    },
+    {
+        "name":  "JUICE TV",
+        "logo":  "https://i.imgur.com/vgY07ke.jpg",
+        "website":  null,
+        "country":  "JM",
+        "streams":  "https://juicex.nz/hls/mystream.m3u8"
+    },
+    {
+        "name":  "Love TV",
+        "logo":  "https://i.imgur.com/oIjfVAq.png",
+        "website":  "https://love101.org/",
+        "country":  "JM",
+        "streams":  "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8"
+    },
+    {
+        "name":  "Mercy and Truth Ministries Television",
+        "logo":  "https://i.imgur.com/krcVhrx.png",
+        "website":  "https://www.mercyandtruth.tv/",
+        "country":  "JM",
+        "streams":  "https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8"
+    },
+    {
+        "name":  "TVJ",
+        "logo":  "https://i.imgur.com/R4PoC3L.png",
+        "website":  "https://www.televisionjamaica.com/",
+        "country":  "JM",
+        "streams":  "https://fl7.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8"
+    },
+    {
+        "name":  "World Vybz TV",
+        "logo":  "https://i.imgur.com/x6xdqxx.jpg",
+        "website":  "https://worlvybzradio.weebly.com/",
+        "country":  "JM",
+        "streams":  "https://tv.wowzahosting.com:3292/stream/play.m3u8"
+    }
+]

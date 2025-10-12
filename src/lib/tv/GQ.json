@@ -1,0 +1,23 @@
+﻿[
+    {
+        "name":  "Canal Sol",
+        "logo":  "https://i.imgur.com/HMbigXX.png",
+        "website":  "https://www.canalsol.com/",
+        "country":  "GQ",
+        "streams":  "https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8"
+    },
+    {
+        "name":  "SolTV",
+        "logo":  "https://i.imgur.com/TJHk6Va.png",
+        "website":  "https://tv.solmediaeg.com/soltv/",
+        "country":  "GQ",
+        "streams":  "https://stream.solmediaeg.com/soltv/soltv.m3u8"
+    },
+    {
+        "name":  "TVGE",
+        "logo":  "https://i.imgur.com/iOdHgPd.png",
+        "website":  "https://tvgelive.gq/",
+        "country":  "GQ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120430/tvge/playlist.m3u8"
+    }
+]

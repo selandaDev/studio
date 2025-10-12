@@ -1,0 +1,76 @@
+﻿[
+    {
+        "name":  "Brian TV",
+        "logo":  "https://i.imgur.com/zG1WNgU.jpg",
+        "website":  null,
+        "country":  "LA",
+        "streams":  "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Dao Lane Xang TV",
+        "logo":  "https://i.imgur.com/yE7nZ6w.png",
+        "website":  null,
+        "country":  "LA",
+        "streams":  "https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "ISTV",
+        "logo":  "https://i.imgur.com/TGAKFcV.jpg",
+        "website":  null,
+        "country":  "LA",
+        "streams":  "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Lao Net TV",
+        "logo":  "https://i.imgur.com/ohbRT05.png",
+        "website":  null,
+        "country":  "LA",
+        "streams":  "https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Look Thoong TV",
+        "logo":  "https://i.imgur.com/eT7iE34.png",
+        "website":  null,
+        "country":  "LA",
+        "streams":  "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "LS TV",
+        "logo":  "https://i.imgur.com/fs3dQ6J.png",
+        "website":  null,
+        "country":  "LA",
+        "streams":  "https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "MV Lao TV",
+        "logo":  "https://i.imgur.com/oVlQUKM.png",
+        "website":  "https://www.mvtv.co.th/channel/mvlao-tv",
+        "country":  "LA",
+        "streams":  [
+                        "https://edge2a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8",
+                        "https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8",
+                        "https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Ning TV",
+        "logo":  "https://i.imgur.com/ANnEPnK.png",
+        "website":  null,
+        "country":  "LA",
+        "streams":  "https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Oh Muang Lao TV",
+        "logo":  "https://i.imgur.com/SdB3Vyr.jpg",
+        "website":  null,
+        "country":  "LA",
+        "streams":  "https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8"
+    },
+    {
+        "name":  "Vati Lao",
+        "logo":  "https://i.imgur.com/NwxXABV.png",
+        "website":  null,
+        "country":  "LA",
+        "streams":  "https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8"
+    }
+]

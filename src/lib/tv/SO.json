@@ -1,0 +1,65 @@
+﻿[
+    {
+        "name":  "Arlaadi TV",
+        "logo":  "https://i.imgur.com/2tlFMXF.png",
+        "website":  "https://arlaadimedia.com/",
+        "country":  "SO",
+        "streams":  "https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8"
+    },
+    {
+        "name":  "Bulsho TV",
+        "logo":  "https://i.imgur.com/7qo4rb7.png",
+        "website":  "https://bulshotv.net/",
+        "country":  "SO",
+        "streams":  "https://cdn.mediavisionuk.com:9000/bulshotv/index.m3u8"
+    },
+    {
+        "name":  "Hirshabelle TV",
+        "logo":  "https://i.imgur.com/Kk0A2o7.png",
+        "website":  null,
+        "country":  "SO",
+        "streams":  "http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8"
+    },
+    {
+        "name":  "Puntland TV",
+        "logo":  "https://i.imgur.com/C8EvQUo.png",
+        "website":  "https://www.puntlandtvradio.net/",
+        "country":  "SO",
+        "streams":  "http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8"
+    },
+    {
+        "name":  "Saab TV",
+        "logo":  "https://i.imgur.com/JEC1J89.png",
+        "website":  "http://www.saabtv.com/",
+        "country":  "SO",
+        "streams":  "https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8"
+    },
+    {
+        "name":  "SBC TV",
+        "logo":  "https://i.imgur.com/VLhgTIA.png",
+        "website":  "https://allsbc.com/",
+        "country":  "SO",
+        "streams":  "http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8"
+    },
+    {
+        "name":  "SNTV Daljir",
+        "logo":  "https://i.imgur.com/zmVKI26.jpg",
+        "website":  "https://sntv.so/",
+        "country":  "SO",
+        "streams":  "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8"
+    },
+    {
+        "name":  "Somaliland National TV",
+        "logo":  "https://i.postimg.cc/qv4PKjXb/somalilandnationaltv.png",
+        "website":  "http://www.slntv.tv/",
+        "country":  "SO",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/slntv/playlist.m3u8"
+    },
+    {
+        "name":  "Somali National TV",
+        "logo":  "https://i.imgur.com/2y8gv7V.png",
+        "website":  "https://sntv.so/",
+        "country":  "SO",
+        "streams":  "https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8"
+    }
+]

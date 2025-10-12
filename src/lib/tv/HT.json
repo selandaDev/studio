@@ -1,0 +1,142 @@
+﻿[
+    {
+        "name":  "Canal+ Haiti",
+        "logo":  "https://i.imgur.com/Gad5qrd.png",
+        "website":  "https://www.canalplus-haiti.com/contacts",
+        "country":  "HT",
+        "streams":  "https://vdo.pro-fhi.net:3605/live/dgenlcpmlive.m3u8"
+    },
+    {
+        "name":  "Haiti News Channel",
+        "logo":  "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
+        "website":  "https://haitinewstv.com/",
+        "country":  "HT",
+        "streams":  "https://haititivi.com/website/haitinews/index.m3u8"
+    },
+    {
+        "name":  "Metropole",
+        "logo":  "https://i.imgur.com/Ei1Su4V.png",
+        "website":  "https://metropole.ht/",
+        "country":  "HT",
+        "streams":  "https://dvrfl03.bozztv.com/hdirect/hdirect-telemetrolple2/index.m3u8"
+    },
+    {
+        "name":  "Netalkole TV",
+        "logo":  "https://i.imgur.com/SdVrpzY.png",
+        "website":  "https://www.haititelevision.com/netalkoletv.php",
+        "country":  "HT",
+        "streams":  "https://watch.haitilive.net/naktvhd/index.m3u8"
+    },
+    {
+        "name":  "Radio Tele 4VEH",
+        "logo":  "https://i.imgur.com/AnOjqaS.png",
+        "website":  null,
+        "country":  "HT",
+        "streams":  "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Tele Amen FM",
+        "logo":  "https://i.imgur.com/MTaFdHE.png",
+        "website":  null,
+        "country":  "HT",
+        "streams":  "http://184.173.179.163:1935/daniel/daniel/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Tele Ginen",
+        "logo":  "https://i.imgur.com/ESlt16G.png",
+        "website":  "https://www.rtghaiti.com/",
+        "country":  "HT",
+        "streams":  "https://dvrfl03.bozztv.com/hdirect/hdirect-teleginen/index.m3u8"
+    },
+    {
+        "name":  "Radio Tele Hit",
+        "logo":  "https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png",
+        "website":  "http://www.hitfmhaiti.com/tele-hit/",
+        "country":  "HT",
+        "streams":  "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Tele Planet Compas",
+        "logo":  "https://i.imgur.com/ddb4lsa.png",
+        "website":  "https://planetcompas.com/",
+        "country":  "HT",
+        "streams":  "https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Tele Stanne Charitab",
+        "logo":  "https://i.ibb.co/wB0brbD/unnamed.png",
+        "website":  null,
+        "country":  "HT",
+        "streams":  "https://59d39900ebfb8.streamlock.net/radiotelestannecharitab/radiotelestannecharitab/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Tele SuperStar",
+        "logo":  "https://i.imgur.com/GoaeyVV.png",
+        "website":  "https://www.superstarhaiti.com/",
+        "country":  "HT",
+        "streams":  "https://dvrfl03.bozztv.com/hdirect/hdirect-telecaraibes/index.m3u8"
+    },
+    {
+        "name":  "Radio Television Hirondelle",
+        "logo":  "https://i.imgur.com/37CauvG.png",
+        "website":  "https://radiotelehirondelle.com/",
+        "country":  "HT",
+        "streams":  "https://acwstream.com/acw/hbrtvh/index.fmp4.m3u8"
+    },
+    {
+        "name":  "Radio Television Shilo",
+        "logo":  "https://cdn.onlineradiobox.com/img/l/0/98960.v3.png",
+        "website":  "https://www.radioteleshilo.com/",
+        "country":  "HT",
+        "streams":  "https://watch.haitilive.net/freehb/rtvs/index.m3u8"
+    },
+    {
+        "name":  "Radio Tele Yaguana",
+        "logo":  "https://i.imgur.com/pHMnNoT.jpg",
+        "website":  "http://www.radioyaguana.com/",
+        "country":  "HT",
+        "streams":  "https://lakay.online/relay/teleyaguana/index.m3u8"
+    },
+    {
+        "name":  "Tele Haiti",
+        "logo":  "https://i.imgur.com/Hso9j58.png",
+        "website":  "https://telehaiti.ht/",
+        "country":  "HT",
+        "streams":  "http://66.175.238.147:1935/live/myStream/playlist.m3u8"
+    },
+    {
+        "name":  "Tele La Brise",
+        "logo":  "https://i.imgur.com/MBTj9Nq.png",
+        "website":  "http://www.telelabrise.com/",
+        "country":  "HT",
+        "streams":  "http://lakay.online/public/telelabrise/index.m3u8"
+    },
+    {
+        "name":  "Tele Louange",
+        "logo":  "https://i.imgur.com/DjnMUuL.png",
+        "website":  "https://telelouange.com/",
+        "country":  "HT",
+        "streams":  "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8"
+    },
+    {
+        "name":  "Tele Pacific",
+        "logo":  "https://i.imgur.com/jgnOSU1.png",
+        "website":  "https://www.radiotelepacific.com/",
+        "country":  "HT",
+        "streams":  "https://pacific.zekletech.com:2002/live/acw_01/index.m3u8"
+    },
+    {
+        "name":  "TNH",
+        "logo":  "https://i.imgur.com/8nvCXzt.png",
+        "website":  "http://www.rtnh.ht/",
+        "country":  "HT",
+        "streams":  "https://dvrfl03.bozztv.com/hdirect/hdirect-tnhtv2/index.m3u8"
+    },
+    {
+        "name":  "TV Panou",
+        "logo":  "https://i.imgur.com/zee6sWn.png",
+        "website":  null,
+        "country":  "HT",
+        "streams":  "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8"
+    }
+]

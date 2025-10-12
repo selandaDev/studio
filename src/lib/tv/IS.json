@@ -1,0 +1,44 @@
+﻿[
+    {
+        "name":  "Althingi",
+        "logo":  "https://i.postimg.cc/bvJrBCyr/althingi.png",
+        "website":  "https://www.althingi.is/",
+        "country":  "IS",
+        "streams":  "https://althingi-live.secure.footprint.net/althingi/live/index.m3u8"
+    },
+    {
+        "name":  "N4",
+        "logo":  "https://i.postimg.cc/nV4Ppqqn/n4.png",
+        "website":  null,
+        "country":  "IS",
+        "streams":  "https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8"
+    },
+    {
+        "name":  "Omega",
+        "logo":  "https://i.imgur.com/doybFbZ.png",
+        "website":  "https://omega.is/",
+        "country":  "IS",
+        "streams":  "https://196914.global.ssl.fastly.net/63fe5f3a8f037f47ac36fb2a/live_1d411f00b7a411eda9b5d3bb4704377e/index.m3u8"
+    },
+    {
+        "name":  "RUV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/512px-R%C3%9AV_ohf_2019_logo.svg.png",
+        "website":  "https://www.ruv.is/ruv/",
+        "country":  "IS",
+        "streams":  "https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8"
+    },
+    {
+        "name":  "RUV 2",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/R%C3%9AV_2_2019_logo.svg/512px-R%C3%9AV_2_2019_logo.svg.png",
+        "website":  "https://www.ruv.is/ruv2/",
+        "country":  "IS",
+        "streams":  "https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8"
+    },
+    {
+        "name":  "Visir",
+        "logo":  "https://i.imgur.com/07Vlt6i.jpg",
+        "website":  "https://www.visir.is/",
+        "country":  "IS",
+        "streams":  "https://live.visir.is/hls-live/visir.smil/playlist.m3u8"
+    }
+]

@@ -1,0 +1,10 @@
+﻿{
+    "name":  "LTV",
+    "logo":  "https://i.imgur.com/AgzfwgN.png",
+    "website":  "https://lnbs.gov.ls/tv-lesotho",
+    "country":  "LS",
+    "streams":  [
+                    "https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8",
+                    "https://p-ltv.akamaized.net/ltv/ltv.m3u8"
+                ]
+}

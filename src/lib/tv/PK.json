@@ -1,0 +1,416 @@
+﻿[
+    {
+        "name":  "92 News HD",
+        "logo":  "https://i.imgur.com/gp1Ao4s.jpeg",
+        "website":  "https://92newshd.tv/live-tv",
+        "country":  "PK",
+        "streams":  "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8"
+    },
+    {
+        "name":  "A1 TV",
+        "logo":  "https://i.postimg.cc/L851Z6cn/a1tv.png",
+        "website":  "https://www.bellsentertainment.com.pk/media/",
+        "country":  "PK",
+        "streams":  [
+                        "https://stream.a1mediagroep.nl/hls/a1tv.m3u8",
+                        "https://www.a1mediagroep.nl/hls/a1tv.m3u8"
+                    ]
+    },
+    {
+        "name":  "ABN News",
+        "logo":  "https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png",
+        "website":  "https://abnnews.pk/abn-live/",
+        "country":  "PK",
+        "streams":  "http://116.90.120.149:8000/play/a01r/index.m3u8"
+    },
+    {
+        "name":  "Aik News",
+        "logo":  "https://i.imgur.com/svPXoAP.png",
+        "website":  "https://www.aiknewshd.tv/",
+        "country":  "PK",
+        "streams":  "https://video.primexsports.com/pnn/live/playlist.m3u8"
+    },
+    {
+        "name":  "ARY Digital",
+        "logo":  "https://i.postimg.cc/VLnKJ4cJ/arydigital.png",
+        "website":  "https://arydigital.tv/",
+        "country":  "PK",
+        "streams":  "https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "ARY Musik",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png",
+        "website":  "https://arymusik.tv/",
+        "country":  "PK",
+        "streams":  "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8"
+    },
+    {
+        "name":  "ATV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG",
+        "website":  "http://atv.com.pk/",
+        "country":  "PK",
+        "streams":  [
+                        "http://116.202.238.88/ATV_TR/index.m3u8",
+                        "http://146.59.85.40:89/atv/index.m3u8",
+                        "http://194.76.186.33:8000/play/a01g/index.m3u8",
+                        "http://89.187.191.41/ATV-HD-TR/video.m3u8",
+                        "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+                        "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+                        "https://guineetvdirect.online:3320/live/atvguineelive.m3u8",
+                        "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8",
+                        "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8",
+                        "https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8",
+                        "https://strm.hdtvizlecanli.com/live/atv.m3u8",
+                        "https://videos.rtva.ad/live/rtva/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "aurLife HD",
+        "logo":  "https://i.imgur.com/GfWLn3O.jpg",
+        "website":  "https://aurlife.tv/",
+        "country":  "PK",
+        "streams":  "http://124.109.47.101/hls/stream1.m3u8"
+    },
+    {
+        "name":  "AVT Khyber",
+        "logo":  "https://i.imgur.com/FqkABWT.png",
+        "website":  "https://www.avtchannels.com/",
+        "country":  "PK",
+        "streams":  "https://trn03.tulix.tv/gf-khybertv/index.m3u8"
+    },
+    {
+        "name":  "Best TV",
+        "logo":  "https://i.imgur.com/tpFR9hw.png",
+        "website":  null,
+        "country":  "PK",
+        "streams":  "http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8"
+    },
+    {
+        "name":  "Capital TV",
+        "logo":  "https://i.imgur.com/UxAE5O4.png",
+        "website":  "http://capitaldigital.pk/",
+        "country":  "PK",
+        "streams":  "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8"
+    },
+    {
+        "name":  "Channel Five",
+        "logo":  "https://i.imgur.com/3jCpsq2.png",
+        "website":  "https://channelfivepakistan.tv/",
+        "country":  "PK",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/channel5/playlist.m3u8"
+    },
+    {
+        "name":  "City News HD",
+        "logo":  "https://i.imgur.com/GtYG9lG.png",
+        "website":  "http://citynewshd.tv/",
+        "country":  "PK",
+        "streams":  "http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8"
+    },
+    {
+        "name":  "Discover Pakistan",
+        "logo":  "https://i.imgur.com/IJH47fJ.png",
+        "website":  "https://www.discoverpakistan.tv/",
+        "country":  "PK",
+        "streams":  [
+                        "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/discoverpakistan/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Dunya News",
+        "logo":  "https://i.postimg.cc/htHtP9VP/dunyanews.png",
+        "website":  "https://dunyanews.tv/live/",
+        "country":  "PK",
+        "streams":  [
+                        "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+                        "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Express Entertainment",
+        "logo":  "https://i.imgur.com/rgHbb8W.png",
+        "website":  "https://www.expressentertainment.tv/",
+        "country":  "PK",
+        "streams":  "https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Fazal TV",
+        "logo":  "https://i.imgur.com/c0fvKia.png",
+        "website":  "https://www.fazal.tv/",
+        "country":  "PK",
+        "streams":  "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8"
+    },
+    {
+        "name":  "Gawahi TV",
+        "logo":  "https://i.imgur.com/0W6zzHS.png",
+        "website":  "https://gawahi.tv/",
+        "country":  "PK",
+        "streams":  "https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8"
+    },
+    {
+        "name":  "Geo Kahani",
+        "logo":  "https://i.postimg.cc/7ZmSsPJy/geokahani.png",
+        "website":  "http://geokahani.tv/",
+        "country":  "PK",
+        "streams":  "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Geo News",
+        "logo":  "https://i.postimg.cc/CK5kWybn/geonews.png",
+        "website":  "https://www.geo.tv/",
+        "country":  "PK",
+        "streams":  "https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Geo Super",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png",
+        "website":  "https://www.geosuper.tv/",
+        "country":  "PK",
+        "streams":  "http://116.90.120.149:8000/play/a021/index.m3u8"
+    },
+    {
+        "name":  "Geo Tez",
+        "logo":  "https://geotez.tv/assets/front/images/tez_logo.png",
+        "website":  "http://www.geotez.tv/",
+        "country":  "PK",
+        "streams":  "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Grace Network",
+        "logo":  "https://i.imgur.com/QSaZPJ4.png",
+        "website":  "https://gracenetwork.global/",
+        "country":  "PK",
+        "streams":  "https://livecdn.live247stream.com/grace/tv/playlist.m3u8"
+    },
+    {
+        "name":  "HK TV",
+        "logo":  "https://i.imgur.com/brAY4XF.png",
+        "website":  "https://hktv.pk/",
+        "country":  "PK",
+        "streams":  "https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8"
+    },
+    {
+        "name":  "Hum TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",
+        "website":  "https://www.hum.tv/",
+        "country":  "PK",
+        "streams":  "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8"
+    },
+    {
+        "name":  "Isaac TV",
+        "logo":  "https://i.imgur.com/RHDbsiO.png",
+        "website":  "https://isaactelevision.tv/Isaac%20Tv%20Pakistan/",
+        "country":  "PK",
+        "streams":  "https://livecdn.live247stream.com/isaac/tv/playlist.m3u8"
+    },
+    {
+        "name":  "JooMusic",
+        "logo":  "https://i.imgur.com/KHuKQQL.png",
+        "website":  "https://www.joomusic.info/",
+        "country":  "PK",
+        "streams":  "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
+    },
+    {
+        "name":  "Joshua TV",
+        "logo":  "https://i.imgur.com/x9xPR2h.png",
+        "website":  "http://www.joshuatv.org/",
+        "country":  "PK",
+        "streams":  "https://livecdn.live247stream.com/joshua/tv/playlist.m3u8"
+    },
+    {
+        "name":  "Khyber News",
+        "logo":  "https://i.imgur.com/7SyLba4.png",
+        "website":  "https://khybernews.tv/",
+        "country":  "PK",
+        "streams":  "https://trn03.tulix.tv/gf-khybernews/index.m3u8"
+    },
+    {
+        "name":  "King TV",
+        "logo":  "https://i.imgur.com/dujrwRE.png",
+        "website":  "http://www.kingtelevision.tv/",
+        "country":  "PK",
+        "streams":  "https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8"
+    },
+    {
+        "name":  "KTN",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/8/8e/Sindhi_TV_KTN.jpg",
+        "website":  "https://www.ktntv.tv/",
+        "country":  "PK",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/ktnhome/playlist.m3u8"
+    },
+    {
+        "name":  "Lahore News",
+        "logo":  "https://i.imgur.com/bQfQeEA.jpeg",
+        "website":  "https://lahorenews.tv/",
+        "country":  "PK",
+        "streams":  "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8"
+    },
+    {
+        "name":  "Madani Channel English",
+        "logo":  "https://i.imgur.com/Abi9j0A.png",
+        "website":  "https://www.madanichannel.tv/",
+        "country":  "PK",
+        "streams":  "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8"
+    },
+    {
+        "name":  "Madani Channel Urdu",
+        "logo":  "https://i.imgur.com/MitLeCJ.png",
+        "website":  "https://www.madanichannel.tv/",
+        "country":  "PK",
+        "streams":  "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
+    },
+    {
+        "name":  "Minimax",
+        "logo":  "https://i.postimg.cc/cJkFkmqc/minimax.png",
+        "website":  "https://www.bellsentertainment.com.pk/media/",
+        "country":  "PK",
+        "streams":  "http://116.90.120.149:8000/play/a01c/index.m3u8"
+    },
+    {
+        "name":  "Nickelodeon",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png",
+        "website":  "http://www.nickpakistan.tv/",
+        "country":  "PK",
+        "streams":  [
+                        "http://185.236.229.62:9981/play/a067",
+                        "http://195.64.140.147:10121/121",
+                        "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+                        "http://46.8.46.14/Nickelodeon/index.m3u8",
+                        "http://87.246.60.6:11004/?token=fas-tv.com",
+                        "http://92.114.85.72:8000/play/a02o",
+                        "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php"
+                    ]
+    },
+    {
+        "name":  "One Golf",
+        "logo":  "https://i.imgur.com/7JhaEW5.png",
+        "website":  null,
+        "country":  "PK",
+        "streams":  "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8"
+    },
+    {
+        "name":  "PMI TV",
+        "logo":  "https://i.imgur.com/SfyCwXj.png",
+        "website":  "http://www.pmitv.org/",
+        "country":  "PK",
+        "streams":  "https://cdn.live247stream.com/pmi/tv/playlist.m3u8"
+    },
+    {
+        "name":  "PNN News",
+        "logo":  "https://i.imgur.com/edKutxd.png",
+        "website":  "https://pnntv.pk/",
+        "country":  "PK",
+        "streams":  "https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Praise TV",
+        "logo":  "https://i.imgur.com/T9fIdLs.png",
+        "website":  "https://praisetvpakistan.tv/",
+        "country":  "PK",
+        "streams":  [
+                        "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
+                        "https://pixelsmedia.live/livepraisetv/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "PTV Sports",
+        "logo":  "https://i.imgur.com/CPm6GHA.png",
+        "website":  null,
+        "country":  "PK",
+        "streams":  "https://tvsen5.aynaott.com/Ptvsports/index.m3u8"
+    },
+    {
+        "name":  "Raavi TV",
+        "logo":  "https://i.imgur.com/Sdvg5h2.png",
+        "website":  null,
+        "country":  "PK",
+        "streams":  "http://116.90.120.149:8000/play/a01f/index.m3u8"
+    },
+    {
+        "name":  "SAB TV",
+        "logo":  "https://i.imgur.com/hC7Sidr.png",
+        "website":  "https://sabtv.pk/",
+        "country":  "PK",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/sabtv/playlist.m3u8"
+    },
+    {
+        "name":  "Samaa TV",
+        "logo":  "https://i.imgur.com/r3U4A1P.png",
+        "website":  "https://www.samaa.tv/",
+        "country":  "PK",
+        "streams":  "http://116.90.120.149:8000/play/a01g/index.m3u8"
+    },
+    {
+        "name":  "See TV",
+        "logo":  "https://i.postimg.cc/T3NR0zPN/seetv.png",
+        "website":  "http://seetv.pk/",
+        "country":  "PK",
+        "streams":  "http://116.90.120.149:8000/play/a01l/index.m3u8"
+    },
+    {
+        "name":  "Shine Star TV",
+        "logo":  "https://i.imgur.com/I3lTIeN.png",
+        "website":  "https://shinestar.tv/",
+        "country":  "PK",
+        "streams":  "https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8"
+    },
+    {
+        "name":  "Sindh TV",
+        "logo":  "https://i.imgur.com/izpeOsx.png",
+        "website":  "https://sindhtv.tv/",
+        "country":  "PK",
+        "streams":  [
+                        "https://stream717.duckdns.org/hls/stream1.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/sindhtv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Sindh TV News",
+        "logo":  "https://i.imgur.com/Ap9K1lj.png",
+        "website":  "https://sindhtvnews.net/",
+        "country":  "PK",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/sindhnews/playlist.m3u8"
+    },
+    {
+        "name":  "Smile TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/ss/smile-tv-pk.png",
+        "website":  null,
+        "country":  "PK",
+        "streams":  "https://s1.cystream.net/live/smile/playlist.m3u8"
+    },
+    {
+        "name":  "Such TV",
+        "logo":  "https://i.imgur.com/yYMh3JJ.png",
+        "website":  null,
+        "country":  "PK",
+        "streams":  "https://video.primexsports.com/suchnews/live/playlist.m3u8"
+    },
+    {
+        "name":  "Suno News HD",
+        "logo":  "https://i.imgur.com/FeSntVO.jpg",
+        "website":  "https://www.sunonews.tv/",
+        "country":  "PK",
+        "streams":  "https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8"
+    },
+    {
+        "name":  "Ten Sports Pakistan",
+        "logo":  "https://i.imgur.com/nnqpYNm.png",
+        "website":  null,
+        "country":  "PK",
+        "streams":  "http://121.91.61.106:8000/play/a04h/index.m3u8"
+    },
+    {
+        "name":  "Voice News",
+        "logo":  "https://i.imgur.com/rlYzN6J.png",
+        "website":  "https://voicenewspk.com/",
+        "country":  "PK",
+        "streams":  "https://cdn.bmstudiopk.com/vop/live/playlist.m3u8"
+    },
+    {
+        "name":  "Zindagi TV",
+        "logo":  "https://i.imgur.com/XBHvR5J.png",
+        "website":  "http://www.zindagitv.com/",
+        "country":  "PK",
+        "streams":  "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8"
+    }
+]

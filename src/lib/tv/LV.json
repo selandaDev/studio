@@ -1,0 +1,141 @@
+﻿[
+    {
+        "name":  "8TV",
+        "logo":  "https://i.imgur.com/F8P8GY3.png",
+        "website":  "https://www.tet.lv/",
+        "country":  "LV",
+        "streams":  [
+                        "http://cdn6.163189.xyz/163189/8tv",
+                        "https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
+                    ]
+    },
+    {
+        "name":  "ATV",
+        "logo":  "https://i.imgur.com/polekI2.png",
+        "website":  "https://aliseplus.lv/ru/TV",
+        "country":  "LV",
+        "streams":  [
+                        "http://116.202.238.88/ATV_TR/index.m3u8",
+                        "http://146.59.85.40:89/atv/index.m3u8",
+                        "http://194.76.186.33:8000/play/a01g/index.m3u8",
+                        "http://89.187.191.41/ATV-HD-TR/video.m3u8",
+                        "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+                        "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+                        "https://guineetvdirect.online:3320/live/atvguineelive.m3u8",
+                        "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8",
+                        "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8",
+                        "https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8",
+                        "https://strm.hdtvizlecanli.com/live/atv.m3u8",
+                        "https://videos.rtva.ad/live/rtva/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Gribu visu zinat",
+        "logo":  null,
+        "website":  "https://movify.tv/",
+        "country":  "LV",
+        "streams":  "https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8"
+    },
+    {
+        "name":  "Movify Kino",
+        "logo":  "https://i.imgur.com/XIk5EJN.png",
+        "website":  "https://movify.tv/",
+        "country":  "LV",
+        "streams":  "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8"
+    },
+    {
+        "name":  "Multimania",
+        "logo":  "https://i.imgur.com/J9Lwc0T.png",
+        "website":  "https://movify.tv/",
+        "country":  "LV",
+        "streams":  "https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8"
+    },
+    {
+        "name":  "Pingviins",
+        "logo":  "https://i.imgur.com/hfXoJIY.png",
+        "website":  "http://www.lolotv.lv/",
+        "country":  "LV",
+        "streams":  [
+                        "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
+                        "https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8"
+                    ]
+    },
+    {
+        "name":  "Radio SWH TV",
+        "logo":  "https://i.imgur.com/cFrNsXn.png",
+        "website":  "https://play.radioswh.lv/",
+        "country":  "LV",
+        "streams":  "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Re TV",
+        "logo":  "https://i.postimg.cc/ZYFdwPQd/retv.png",
+        "website":  "https://www.retv.lv/",
+        "country":  "LV",
+        "streams":  "https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8"
+    },
+    {
+        "name":  "TV3",
+        "logo":  "https://i.imgur.com/7nipq0y.png",
+        "website":  "https://www.tv3.lv/tv3/",
+        "country":  "LV",
+        "streams":  [
+                        "https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8",
+                        "https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8",
+                        "https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8",
+                        "https://live.mediageneral.digital/live/livestream.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/tv3-sd/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/tv3/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV4",
+        "logo":  "https://i.ibb.co/kDRWrtw/tv4-logo-cetri-lv.png",
+        "website":  "https://www.cetri.lv/",
+        "country":  "LV",
+        "streams":  [
+                        "http://194.76.186.33:8000/play/a02z/index.m3u8",
+                        "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8",
+                        "https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd",
+                        "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV6",
+        "logo":  "https://i.imgur.com/oC0jiFW.png",
+        "website":  "https://www.tv3.lv/tv6/",
+        "country":  "LV",
+        "streams":  [
+                        "http://185.236.229.62:9981/play/a03y",
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6"
+                    ]
+    },
+    {
+        "name":  "TV Jurmala",
+        "logo":  "https://i.imgur.com/tQHkHD0.png",
+        "website":  "https://jurmala.tv/tiesraide/",
+        "country":  "LV",
+        "streams":  "https://air.star.lv/TV_Jurmala_multistream/index.m3u8"
+    },
+    {
+        "name":  "TVNET",
+        "logo":  "https://i.imgur.com/jzv1ssE.png",
+        "website":  null,
+        "country":  "LV",
+        "streams":  "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8"
+    },
+    {
+        "name":  "TV XXI",
+        "logo":  "https://i.imgur.com/Fja4bWt.png",
+        "website":  "http://www.tv21.lv/",
+        "country":  "LV",
+        "streams":  "http://31.148.48.15/TV_XXI/index.m3u8"
+    },
+    {
+        "name":  "Vidusdaugavas Televizija",
+        "logo":  "https://i.imgur.com/L5U3PQR.png",
+        "website":  "https://www.vdtv.lv",
+        "country":  "LV",
+        "streams":  "https://straume.vdtv.lv/vdtv2/index.m3u8"
+    }
+]

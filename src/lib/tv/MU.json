@@ -1,0 +1,60 @@
+﻿[
+    {
+        "name":  "BTV",
+        "logo":  "https://i.imgur.com/ZGLIdoI.png",
+        "website":  "https://mbcradio.tv/b-tv",
+        "country":  "MU",
+        "streams":  [
+                        "https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8",
+                        "https://fs3.kabelko.sk/9011/index.m3u8?token=btv",
+                        "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
+                    ]
+    },
+    {
+        "name":  "MBC 1",
+        "logo":  "https://i.postimg.cc/DzZSpq12/mbc1.png",
+        "website":  "https://mbcradio.tv/",
+        "country":  "MU",
+        "streams":  "https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel1/index.m3u8"
+    },
+    {
+        "name":  "MBC 2",
+        "logo":  "https://i.imgur.com/u0feOvX.png",
+        "website":  "https://mbcradio.tv/mbc-2",
+        "country":  "MU",
+        "streams":  "https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8"
+    },
+    {
+        "name":  "MBC 3",
+        "logo":  "https://i.imgur.com/apouTRP.png",
+        "website":  "https://mbcradio.tv/mbc-3",
+        "country":  "MU",
+        "streams":  "https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel3/index.m3u8"
+    },
+    {
+        "name":  "MBC 4",
+        "logo":  "https://i.imgur.com/lWJsrhk.png",
+        "website":  "https://mbcradio.tv/mbc-4",
+        "country":  "MU",
+        "streams":  "https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel4/index.m3u8"
+    },
+    {
+        "name":  "MBC 5",
+        "logo":  "https://i.imgur.com/WGjYmUv.png",
+        "website":  "https://mbcradio.tv/mbc-5",
+        "country":  "MU",
+        "streams":  "https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel5/index.m3u8"
+    },
+    {
+        "name":  "Parliament TV",
+        "logo":  "https://i.imgur.com/l7o3CKo.png",
+        "website":  "https://mauritiusassembly.govmu.org/mauritiusassembly/",
+        "country":  "MU",
+        "streams":  [
+                        "http://80.79.6.221:25461/smash/public/23",
+                        "https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8",
+                        "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/parliamenttv/playlist.m3u8"
+                    ]
+    }
+]

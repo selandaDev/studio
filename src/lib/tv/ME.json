@@ -1,0 +1,73 @@
+﻿[
+    {
+        "name":  "Arena Sport 1",
+        "logo":  "https://i.imgur.com/RJrJGbW.png",
+        "website":  "https://www.tvarenasport.com/me",
+        "country":  "ME",
+        "streams":  "http://91.132.74.5:8000/play/a00k"
+    },
+    {
+        "name":  "Nova TV",
+        "logo":  "https://i.imgur.com/VOISNZc.png",
+        "website":  "https://novam.tv/",
+        "country":  "ME",
+        "streams":  "http://91.132.74.5:8000/play/a005"
+    },
+    {
+        "name":  "Radio televizija Rozaje",
+        "logo":  "https://i.imgur.com/vTZjEC5.png",
+        "website":  "https://www.radiorozaje.me/",
+        "country":  "ME",
+        "streams":  "https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8"
+    },
+    {
+        "name":  "Televizija TV7",
+        "logo":  "https://i.imgur.com/BzA57wA.png",
+        "website":  null,
+        "country":  "ME",
+        "streams":  [
+                        "http://uk4.streamingpulse.com:1935/tehnikatv777/tehnikatv777/playlist.m3u8",
+                        "https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TVCG 1",
+        "logo":  "https://i.postimg.cc/XNQGt7QQ/tvcg1.png",
+        "website":  "http://www.rtcg.me/",
+        "country":  "ME",
+        "streams":  "http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8"
+    },
+    {
+        "name":  "TVCG 2",
+        "logo":  "https://i.postimg.cc/8PcJGQYD/tvcg2.png",
+        "website":  "http://www.rtcg.me/",
+        "country":  "ME",
+        "streams":  "http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8"
+    },
+    {
+        "name":  "TVCG 3",
+        "logo":  "https://i.postimg.cc/xTZkTprm/tvcg3.png",
+        "website":  "https://rtcg.me/tv/gledaj-tvcg3.html",
+        "country":  "ME",
+        "streams":  "https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8"
+    },
+    {
+        "name":  "TVCG MNE",
+        "logo":  "https://i.postimg.cc/Gms4BPr5/tvcgmne.png",
+        "website":  "http://www.rtcg.me/",
+        "country":  "ME",
+        "streams":  [
+                        "http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8",
+                        "http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-dash/rtcg.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV Teuta",
+        "logo":  "https://i.imgur.com/sWVqBuW.png",
+        "website":  "http://tvteuta.com/",
+        "country":  "ME",
+        "streams":  "https://teutastream.com/tvteuta/tracks-v1a1/mono.m3u8"
+    }
+]

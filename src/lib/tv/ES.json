@@ -1,0 +1,2110 @@
+﻿[
+    {
+        "name":  "101tv Antequera",
+        "logo":  "https://i.imgur.com/GzI3RC4.png",
+        "website":  "https://www.101tv.es/antequera/",
+        "country":  "ES",
+        "streams":  "https://www.streaming101tv.es:19360/antequera/antequera.m3u8"
+    },
+    {
+        "name":  "101tv Axarquia",
+        "logo":  "https://i.imgur.com/GzI3RC4.png",
+        "website":  "https://www.101tv.es/",
+        "country":  "ES",
+        "streams":  "https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8"
+    },
+    {
+        "name":  "101tv Cadiz",
+        "logo":  "https://i.imgur.com/GzI3RC4.png",
+        "website":  "https://www.101tv.es/",
+        "country":  "ES",
+        "streams":  "https://streaming101tv.es:19360/cadiz/cadiz.m3u8"
+    },
+    {
+        "name":  "101tv Malaga",
+        "logo":  "https://i.imgur.com/GzI3RC4.png",
+        "website":  "https://www.101tv.es/endirecto101tv/",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8"
+    },
+    {
+        "name":  "101tv Ronda",
+        "logo":  "https://i.imgur.com/GzI3RC4.png",
+        "website":  "https://www.101tv.es/ronda/",
+        "country":  "ES",
+        "streams":  "https://streaming101tv.es/hls/webronda.m3u8"
+    },
+    {
+        "name":  "101tv Sevilla",
+        "logo":  "https://i.imgur.com/GzI3RC4.png",
+        "website":  "https://www.101tv.es/",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8"
+    },
+    {
+        "name":  "12tv",
+        "logo":  "https://i.imgur.com/VSTgXsh.png",
+        "website":  "https://www.12tv.es/",
+        "country":  "ES",
+        "streams":  [
+                        "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
+                        "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
+                    ]
+    },
+    {
+        "name":  "24 Horas",
+        "logo":  "https://i.imgur.com/IUVRm5L.png",
+        "website":  "http://www.rtve.es/alacarta/tve/24-horas/",
+        "country":  "ES",
+        "streams":  [
+                        "https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8",
+                        "https://ztnr.rtve.es/ztnr/1694255.m3u8"
+                    ]
+    },
+    {
+        "name":  "24 Horas Canarias",
+        "logo":  "https://i.imgur.com/IUVRm5L.png",
+        "website":  "https://www.rtve.es/play/videos/directo/tve-canarias/24-h-can/",
+        "country":  "ES",
+        "streams":  "https://ztnr.rtve.es/ztnr/5473142.m3u8"
+    },
+    {
+        "name":  "24 Horas Catalunya",
+        "logo":  "https://i.imgur.com/IUVRm5L.png",
+        "website":  "https://www.rtve.es/play/videos/directo/tve-catalunya/24h-cat/",
+        "country":  "ES",
+        "streams":  "https://ztnr.rtve.es/ztnr/4952053.m3u8"
+    },
+    {
+        "name":  "24 Horas Internacional",
+        "logo":  "https://i.imgur.com/IUVRm5L.png",
+        "website":  "https://www.rtve.es/television/tve-internacional",
+        "country":  "ES",
+        "streams":  "https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8"
+    },
+    {
+        "name":  "28 kanala",
+        "logo":  "https://i.imgur.com/DyvK28q.png",
+        "website":  "https://28kanala.eus/",
+        "country":  "ES",
+        "streams":  "https://streaming.28kanala.eus/hls/z.m3u8"
+    },
+    {
+        "name":  "8 La Marina TV",
+        "logo":  "https://i.imgur.com/BTJvvBK.png",
+        "website":  "https://8lamarinatv.com/",
+        "country":  "ES",
+        "streams":  "https://streaming005.gestec-video.com/hls/canal24.m3u8"
+    },
+    {
+        "name":  "9 la Loma TV",
+        "logo":  "https://i.imgur.com/WQP3el2.png",
+        "website":  "https://9laloma.tv/",
+        "country":  "ES",
+        "streams":  "https://9laloma.tv/live.m3u8"
+    },
+    {
+        "name":  "Activa TV",
+        "logo":  "https://i.imgur.com/VCUZKiw.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://streamtv.mediasector.es/hls/activatv/index.m3u8"
+    },
+    {
+        "name":  "Ahora TV",
+        "logo":  "https://i.imgur.com/pJjzVb2.png",
+        "website":  "https://www.ahoratelevision.es/",
+        "country":  "ES",
+        "streams":  "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8"
+    },
+    {
+        "name":  "Alacanti TV",
+        "logo":  "https://i.imgur.com/pcWU6e1.png",
+        "website":  "https://alacantitv.com/",
+        "country":  "ES",
+        "streams":  "https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8"
+    },
+    {
+        "name":  "Alcarria TV",
+        "logo":  "https://i.imgur.com/pzJAYan.png",
+        "website":  "https://www.alcarria.tv/",
+        "country":  "ES",
+        "streams":  [
+                        "http://217.182.77.27/live/alcarriatv-livestream.m3u8",
+                        "https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Andalucia Television",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg",
+        "website":  "https://www.canalsur.es/tv_directo-1193.html",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a09g/index.m3u8"
+    },
+    {
+        "name":  "Animax",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png",
+        "website":  "https://web.archive.org/web/20131231102033/http://www.animax.es/",
+        "country":  "ES",
+        "streams":  "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8"
+    },
+    {
+        "name":  "Anime Vision",
+        "logo":  "https://i.imgur.com/Q3fguYh.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8"
+    },
+    {
+        "name":  "Anime Vision Classics",
+        "logo":  "https://i.imgur.com/mTaiEE1.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8"
+    },
+    {
+        "name":  "Antena 3",
+        "logo":  "https://i.postimg.cc/sfcFMV9F/antena3.png",
+        "website":  "https://www.antena3.com/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a0ae/index.m3u8"
+    },
+    {
+        "name":  "Antena 3 Internacional",
+        "logo":  "https://i.postimg.cc/pXXw8gqm/antena3internacional.png",
+        "website":  "https://www.antena3internacional.com/",
+        "country":  "ES",
+        "streams":  "http://38.180.133.31:8000/play/a0ki/index.m3u8"
+    },
+    {
+        "name":  "A Punt",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/512px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png",
+        "website":  "https://www.apuntmedia.es/",
+        "country":  "ES",
+        "streams":  "https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8"
+    },
+    {
+        "name":  "Arabi TV",
+        "logo":  "https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png",
+        "website":  "https://www.arabitv.es/",
+        "country":  "ES",
+        "streams":  "https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8"
+    },
+    {
+        "name":  "Aragon TV",
+        "logo":  "https://i.postimg.cc/6p41fwRp/aragontv.png",
+        "website":  "http://www.aragontelevision.es/",
+        "country":  "ES",
+        "streams":  "https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8"
+    },
+    {
+        "name":  "Aragon TV Internacional",
+        "logo":  "https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512",
+        "website":  "http://www.aragontelevision.es/",
+        "country":  "ES",
+        "streams":  "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8"
+    },
+    {
+        "name":  "Atreseries",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png",
+        "website":  "http://atreseries.atresmedia.com/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a0ai/index.m3u8"
+    },
+    {
+        "name":  "Atreseries Internacional",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png",
+        "website":  "https://www.atresseries.com/",
+        "country":  "ES",
+        "streams":  "http://38.180.133.31:8000/play/a0ko/index.m3u8"
+    },
+    {
+        "name":  "Bailen TV",
+        "logo":  "https://i.imgur.com/a64hwzq.png",
+        "website":  "https://bailen.tv/",
+        "country":  "ES",
+        "streams":  "http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8"
+    },
+    {
+        "name":  "Barca TV",
+        "logo":  "https://i.postimg.cc/7Z1tW9BF/barcatv.png",
+        "website":  "http://barcatv.fcbarcelona.cat/",
+        "country":  "ES",
+        "streams":  "https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8"
+    },
+    {
+        "name":  "BCN Gospel TV",
+        "logo":  "https://i.imgur.com/ZKAnehs.png",
+        "website":  "https://live1.ovalcast.com/broadcaster/bcngospeltv/hybrid/player",
+        "country":  "ES",
+        "streams":  "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8"
+    },
+    {
+        "name":  "BDN",
+        "logo":  "https://i.imgur.com/ktasO33.png",
+        "website":  "https://www.bdncom.cat/",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Be Mad",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png",
+        "website":  "https://www.bemad.es/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a0aj/index.m3u8"
+    },
+    {
+        "name":  "Beteve",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotip_betev%C3%A9.svg/512px-Logotip_betev%C3%A9.svg.png",
+        "website":  "http://beteve.cat/",
+        "country":  "ES",
+        "streams":  [
+                        "https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0",
+                        "https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0"
+                    ]
+    },
+    {
+        "name":  "Biosfera TV",
+        "logo":  "https://i.imgur.com/khytcgd.png",
+        "website":  "https://www.biosferadigital.com/estaticas/biosferatvdirecto/",
+        "country":  "ES",
+        "streams":  "https://tvdatta.com:3021/live/biosferatvlive.m3u8"
+    },
+    {
+        "name":  "Bom Cine",
+        "logo":  "https://i.imgur.com/65OX8Gj.png",
+        "website":  "https://www.bomcine.com/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a09d/index.m3u8"
+    },
+    {
+        "name":  "Bon Dia TV",
+        "logo":  "https://i.postimg.cc/XJ29GGs1/bondiatv.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8"
+    },
+    {
+        "name":  "BurrianaTeVe",
+        "logo":  "https://i.imgur.com/G3nIGHh.png",
+        "website":  "https://www.burrianateve.com/",
+        "country":  "ES",
+        "streams":  "https://www.burrianateve.com/hls/btv.m3u8"
+    },
+    {
+        "name":  "Cadena Elite",
+        "logo":  "https://i.imgur.com/3yeGDTP.png",
+        "website":  "https://www.cadenaelite.es/",
+        "country":  "ES",
+        "streams":  "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
+    },
+    {
+        "name":  "Canal 10 Emporda",
+        "logo":  "https://i.imgur.com/ojQ6wzX.png",
+        "website":  "https://www.canal10.cat/",
+        "country":  "ES",
+        "streams":  "http://ventdelnord.tv:8080/escala/directe.m3u8"
+    },
+    {
+        "name":  "Canal 1 Mar Menor Torre Pacheco",
+        "logo":  "https://i.imgur.com/MQOwCdZ.png",
+        "website":  "https://www.tuwebtv.es/",
+        "country":  "ES",
+        "streams":  "https://directo.tuwebtv.es/canal1.m3u8"
+    },
+    {
+        "name":  "Canal 2000",
+        "logo":  "https://i.imgur.com/9RoBASf.png",
+        "website":  "http://www.canal2000.com/",
+        "country":  "ES",
+        "streams":  "http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8"
+    },
+    {
+        "name":  "Canal 33 Madrid",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_33_Madrid_2025.jpg/512px-Logo_Canal_33_Madrid_2025.jpg",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 3 TV Biar",
+        "logo":  "https://i.imgur.com/cnKCZkK.png",
+        "website":  "http://canal3biar.es/",
+        "country":  "ES",
+        "streams":  "https://avantstreaming.es/hls/canal3.m3u8"
+    },
+    {
+        "name":  "Canal 45",
+        "logo":  "https://i.imgur.com/yEfSnGt.png",
+        "website":  "https://www.canal45tv.com/",
+        "country":  "ES",
+        "streams":  "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8"
+    },
+    {
+        "name":  "Canal 4 Catalunya",
+        "logo":  "https://i.imgur.com/tQh8C3s.png",
+        "website":  "https://www.grup4.com/?page_id=14675\u0026lang=ca",
+        "country":  "ES",
+        "streams":  "https://limited35.todostreaming.es/live/mitjans-livestream.m3u8"
+    },
+    {
+        "name":  "Canal 4 Mallorca",
+        "logo":  "https://i.imgur.com/tQh8C3s.png",
+        "website":  "https://www.grup4.com/?page_id=14505",
+        "country":  "ES",
+        "streams":  "https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8"
+    },
+    {
+        "name":  "Canal 4 Mancha Centro",
+        "logo":  "https://i.imgur.com/t3O3O9M.png",
+        "website":  "https://villarrobledonoticias.com/canal-4-mancha/",
+        "country":  "ES",
+        "streams":  "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 56",
+        "logo":  "https://i.imgur.com/pwRVbCz.png",
+        "website":  "https://canal56.com/",
+        "country":  "ES",
+        "streams":  "https://videos.canal56.com/directe/stream/index.m3u8"
+    },
+    {
+        "name":  "Canal 6",
+        "logo":  "https://i.imgur.com/js031sK.png",
+        "website":  "http://www.totanaweb.es/",
+        "country":  "ES",
+        "streams":  [
+                        "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8",
+                        "https://envivo.canal6.com.hn/hls/0/stream.m3u8",
+                        "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canal 7 TeleValencia",
+        "logo":  "https://i.imgur.com/ILfXDRs.png",
+        "website":  "https://7televalencia.com/",
+        "country":  "ES",
+        "streams":  "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 9",
+        "logo":  "https://i.imgur.com/dfqBBBZ.png",
+        "website":  "https://canal9soria.com/",
+        "country":  "ES",
+        "streams":  "http://201.201.149.86:8080/livestream/stream.m3u8"
+    },
+    {
+        "name":  "Canal Coin TV",
+        "logo":  "https://i.imgur.com/3QPJIpa.png",
+        "website":  "https://canalcoin.com/tv-directo/",
+        "country":  "ES",
+        "streams":  "https://canalcoin.garjim.es/hls/directo.m3u8"
+    },
+    {
+        "name":  "CanalCosta",
+        "logo":  "https://i.imgur.com/ap4FmYb.png",
+        "website":  "https://www.canalcostatv.es/",
+        "country":  "ES",
+        "streams":  "https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8"
+    },
+    {
+        "name":  "Canal Diocesano",
+        "logo":  "https://i.imgur.com/uWhVKL3.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8"
+    },
+    {
+        "name":  "Canal Donana",
+        "logo":  "https://i.imgur.com/0WrKIxm.png",
+        "website":  "http://www.canaldonana.com/",
+        "country":  "ES",
+        "streams":  "https://secure5.todostreaming.es/live/division-alm.m3u8"
+    },
+    {
+        "name":  "Canal Extremadura",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png",
+        "website":  "http://www.canalextremadura.es/",
+        "country":  "ES",
+        "streams":  "https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR="
+    },
+    {
+        "name":  "Canal Extremadura Satelite",
+        "logo":  "https://i.imgur.com/3eWFu7N.png",
+        "website":  "https://www.canalextremadura.es/",
+        "country":  "ES",
+        "streams":  "https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8"
+    },
+    {
+        "name":  "Canal Luz Television",
+        "logo":  "https://i.imgur.com/H3JzQ1G.jpg",
+        "website":  "https://canalluztelevision.es/",
+        "country":  "ES",
+        "streams":  "https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8"
+    },
+    {
+        "name":  "Canal Malaga RTV",
+        "logo":  "https://i.imgur.com/QSUOxtM.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8"
+    },
+    {
+        "name":  "Canal Parlamento",
+        "logo":  "https://i.postimg.cc/Dyz2FC4K/canalparlamento.png",
+        "website":  "https://www.congreso.es/web/guest/actualidad/canal-parlamento",
+        "country":  "ES",
+        "streams":  "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8"
+    },
+    {
+        "name":  "Canal Reus TV",
+        "logo":  "https://i.imgur.com/HYRc9sJ.png",
+        "website":  "https://www.canalreustv.cat/",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Canal San Roque",
+        "logo":  null,
+        "website":  "https://multimediasanroque.com/",
+        "country":  "ES",
+        "streams":  "https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Canal Sierra de Cadiz",
+        "logo":  "https://i.imgur.com/94rn7pb.png",
+        "website":  "https://www.canalsierradecadiz.com/",
+        "country":  "ES",
+        "streams":  "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8"
+    },
+    {
+        "name":  "Canal Sur",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/512px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png",
+        "website":  "http://canalsur.es/television",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a09c/index.m3u8"
+    },
+    {
+        "name":  "Canal Sur 2",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/500px-Canal_Sur_2_-_2017_logo.png",
+        "website":  "http://canalsur.es/television",
+        "country":  "ES",
+        "streams":  "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Canal Sur Andalucia",
+        "logo":  "https://i.postimg.cc/jqBb0sTy/canalsurandalucia.png",
+        "website":  "http://www.canalsur.es/television-544.html",
+        "country":  "ES",
+        "streams":  [
+                        "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
+                        "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canal Sur Noticias",
+        "logo":  "https://i.imgur.com/BuQPiJb.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Canal Taronja Comarques Centrals",
+        "logo":  "https://i.imgur.com/RP8VcqZ.png",
+        "website":  "https://www.canaltaronja.cat/central/",
+        "country":  "ES",
+        "streams":  "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8"
+    },
+    {
+        "name":  "Canal Taronja Osona i Moianes",
+        "logo":  "https://i.imgur.com/RP8VcqZ.png",
+        "website":  "http://www.canaltaronja.cat/osona/http://www.canaltaronja.cat/osona/",
+        "country":  "ES",
+        "streams":  "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8"
+    },
+    {
+        "name":  "Canal Terrassa",
+        "logo":  "https://i.imgur.com/5fc5ZyI.png",
+        "website":  "https://terrassadigital.cat/televisio/",
+        "country":  "ES",
+        "streams":  "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8"
+    },
+    {
+        "name":  "Canal Terres de l\u0027Ebre",
+        "logo":  "https://i.ibb.co/3ynghbW/logox2.png",
+        "website":  "https://canalte.cat/",
+        "country":  "ES",
+        "streams":  "https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8"
+    },
+    {
+        "name":  "Cancionero TV",
+        "logo":  "https://i.imgur.com/tbboALa.png",
+        "website":  "http://89.140.229.4/cancionerotv/index.html",
+        "country":  "ES",
+        "streams":  "http://89.140.229.5/hls1/cancionero.m3u8"
+    },
+    {
+        "name":  "CCMA Exclusiu 1",
+        "logo":  "https://i.imgur.com/YQvLPT1.png",
+        "website":  "https://www.ccma.cat/tv3/directe-avancat/exclusiu/oca1/",
+        "country":  "ES",
+        "streams":  [
+                        "https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8",
+                        "https://directes-tv-es.3catdirectes.cat/live-origin/oca1-hls/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "CCMA Exclusiu 2",
+        "logo":  "https://i.imgur.com/YQvLPT1.png",
+        "website":  "https://www.ccma.cat/tv3/directe-avancat/exclusiu/oca2/",
+        "country":  "ES",
+        "streams":  [
+                        "https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8",
+                        "https://directes-tv-es.3catdirectes.cat/live-origin/oca2-hls/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "CCMA Exclusiu 3",
+        "logo":  "https://i.imgur.com/YQvLPT1.png",
+        "website":  "https://www.ccma.cat/tv3/directe/roda-de-premsa-del-consell-executiu-de-la-generalitat/oca3/",
+        "country":  "ES",
+        "streams":  [
+                        "https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8",
+                        "https://directes-tv-es.3catdirectes.cat/live-origin/oca3-hls/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Cetelmon TV",
+        "logo":  "https://i.imgur.com/GGn7itj.png",
+        "website":  "https://www.cetelmon.tv/",
+        "country":  "ES",
+        "streams":  "http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8"
+    },
+    {
+        "name":  "Cine Western",
+        "logo":  "https://i.imgur.com/2UROzSc.png",
+        "website":  "http://www.cinewestern.es/",
+        "country":  "ES",
+        "streams":  "https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8"
+    },
+    {
+        "name":  "Ciudades del Ocio TV",
+        "logo":  "https://i.imgur.com/CTQgqsM.png",
+        "website":  "http://www.ciudadesdelocio.tv/",
+        "country":  "ES",
+        "streams":  "https://cloudvideo.servers10.com:8081/8024/index.m3u8"
+    },
+    {
+        "name":  "Clan",
+        "logo":  "https://i.imgur.com/03jFV68.png",
+        "website":  "http://www.rtve.es/infantil/",
+        "country":  "ES",
+        "streams":  [
+                        "https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8",
+                        "https://ztnr.rtve.es/ztnr/5466990.m3u8"
+                    ]
+    },
+    {
+        "name":  "Clan Internacional",
+        "logo":  "https://i.imgur.com/03jFV68.png",
+        "website":  "http://www.rtve.es/infantil/",
+        "country":  "ES",
+        "streams":  "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8"
+    },
+    {
+        "name":  "Comedy Central",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png",
+        "website":  "http://www.comedycentral.es/",
+        "country":  "ES",
+        "streams":  "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=bc03faa5-401f-4a68-9972-153b1f336cac"
+    },
+    {
+        "name":  "Condavision",
+        "logo":  "https://i.imgur.com/dlrazec.png",
+        "website":  "https://www.condavision.es/",
+        "country":  "ES",
+        "streams":  "https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8"
+    },
+    {
+        "name":  "Congreso de los Diputados 1",
+        "logo":  "https://i.imgur.com/3Qxpe72.png",
+        "website":  "https://www.congreso.es/en/home",
+        "country":  "ES",
+        "streams":  "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8"
+    },
+    {
+        "name":  "Congreso de los Diputados 2",
+        "logo":  "https://i.imgur.com/ffN2LE3.png",
+        "website":  "https://www.congreso.es/en/home",
+        "country":  "ES",
+        "streams":  "https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8"
+    },
+    {
+        "name":  "Congreso de los Diputados 3",
+        "logo":  "https://i.imgur.com/2LAzcH8.jpg",
+        "website":  "https://www.congreso.es/en/home",
+        "country":  "ES",
+        "streams":  "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8"
+    },
+    {
+        "name":  "Congreso de los Diputados 4",
+        "logo":  "https://i.imgur.com/2LAzcH8.jpg",
+        "website":  "https://www.congreso.es/en/home",
+        "country":  "ES",
+        "streams":  "https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8"
+    },
+    {
+        "name":  "Congreso de los Diputados 5",
+        "logo":  "https://i.imgur.com/2LAzcH8.jpg",
+        "website":  "https://www.congreso.es/en/home",
+        "country":  "ES",
+        "streams":  "https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8"
+    },
+    {
+        "name":  "Cordoba TV",
+        "logo":  "https://i.imgur.com/qVe0hET.png",
+        "website":  "https://www.cordoba-tv.com/",
+        "country":  "ES",
+        "streams":  "https://cloudvideo.servers10.com:8081/8020/index.m3u8"
+    },
+    {
+        "name":  "Corts Valencianes",
+        "logo":  "https://i.imgur.com/bVkRBg5.png",
+        "website":  "https://mediateca.cortsvalencianes.es/library/lives/",
+        "country":  "ES",
+        "streams":  "https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8"
+    },
+    {
+        "name":  "Costa Noroeste TV",
+        "logo":  "https://i.imgur.com/iM9AN6Z.png",
+        "website":  "https://costanoroestetv.net/",
+        "country":  "ES",
+        "streams":  "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8"
+    },
+    {
+        "name":  "Cristiana TV",
+        "logo":  "https://i.imgur.com/FpkNIIG.jpg",
+        "website":  "http://www.radiocristiana.es/",
+        "country":  "ES",
+        "streams":  "https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8"
+    },
+    {
+        "name":  "Cuatro",
+        "logo":  "https://i.postimg.cc/Sx1sMB8d/cuatro.png",
+        "website":  "https://www.cuatro.com/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a09s/index.m3u8"
+    },
+    {
+        "name":  "Cugat TV",
+        "logo":  "https://i.imgur.com/0WQC25N.png",
+        "website":  "https://www.cugat.cat/",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/cugatcatlive/smil:rtmp01.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Diez TV Las Villas",
+        "logo":  "https://i.imgur.com/QTA40lP.png",
+        "website":  "https://dieztv.es/",
+        "country":  "ES",
+        "streams":  "https://streaming.cloud.innovasur.es/mmj2/index.m3u8"
+    },
+    {
+        "name":  "Diez TV Ubeda",
+        "logo":  "https://i.imgur.com/o2a7s4W.png",
+        "website":  "https://www.dieztv.es/",
+        "country":  "ES",
+        "streams":  "https://streaming.cloud.innovasur.es/mmj/index.m3u8"
+    },
+    {
+        "name":  "Disney Channel",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+        "website":  "http://www.disney.es/",
+        "country":  "ES",
+        "streams":  [
+                        "http://116.90.120.149:8000/play/a0bx/index.m3u8",
+                        "http://84.54.128.52:9090/play/3006/index.m3u8",
+                        "https://e3.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8",
+                        "https://e5.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8?",
+                        "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8"
+                    ]
+    },
+    {
+        "name":  "Disney Junior",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
+        "website":  "https://tv.disney.es/",
+        "country":  "ES",
+        "streams":  "http://116.90.120.149:8000/play/a0b3/index.m3u8"
+    },
+    {
+        "name":  "Distrito TV",
+        "logo":  "https://i.imgur.com/AqGIoIt.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8"
+    },
+    {
+        "name":  "Divinity",
+        "logo":  "https://i.postimg.cc/nz32qcFr/divinity.png",
+        "website":  "http://www.divinity.es/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a09q/index.m3u8"
+    },
+    {
+        "name":  "Durangaldeko Telebista",
+        "logo":  "https://i.imgur.com/qdlW6cg.png",
+        "website":  "https://dotb.eus/",
+        "country":  "ES",
+        "streams":  "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8"
+    },
+    {
+        "name":  "El 33/SX3",
+        "logo":  "https://i.imgur.com/a3uR3vu.png",
+        "website":  "https://www.ccma.cat/tv3/directe/33/",
+        "country":  "ES",
+        "streams":  [
+                        "https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8",
+                        "https://directes-tv-es.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "El 9 TV",
+        "logo":  "https://i.imgur.com/QyW5VyW.png",
+        "website":  "https://el9nou.cat/el9tv/",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR="
+    },
+    {
+        "name":  "Elche 7 TV",
+        "logo":  "https://i.imgur.com/tjI0dLx.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://elche7tv.gestec-video.com/hls/canal2.m3u8"
+    },
+    {
+        "name":  "El Confidencial TV",
+        "logo":  "https://i.imgur.com/W2Qqz2F.png",
+        "website":  "https://www.elconfidencial.com/television/",
+        "country":  "ES",
+        "streams":  "https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8"
+    },
+    {
+        "name":  "El Pais TV",
+        "logo":  "https://i.imgur.com/JzAzsft.png",
+        "website":  "https://elpais.com/",
+        "country":  "ES",
+        "streams":  "https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8"
+    },
+    {
+        "name":  "El Toro TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png",
+        "website":  "https://eltorotv.com/",
+        "country":  "ES",
+        "streams":  "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8"
+    },
+    {
+        "name":  "Emporda TV",
+        "logo":  "https://i.imgur.com/jc0lUbX.png",
+        "website":  "https://www.empordadigital.cat/",
+        "country":  "ES",
+        "streams":  "https://video3.lhdserver.es/empordatv2/live.m3u8"
+    },
+    {
+        "name":  "Energy",
+        "logo":  "https://i.postimg.cc/259RSYsd/energy.png",
+        "website":  "http://www.telecinco.es/energy/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a0ac/index.m3u8"
+    },
+    {
+        "name":  "Esport3",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/330px-Esport3.svg.png",
+        "website":  "http://www.ccma.cat/esport3/",
+        "country":  "ES",
+        "streams":  [
+                        "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
+                        "https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Este Canal TV",
+        "logo":  "https://i.imgur.com/jDT5XFs.jpg",
+        "website":  "http://www.estecanaltv.com/",
+        "country":  "ES",
+        "streams":  "http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8"
+    },
+    {
+        "name":  "Estepona Television",
+        "logo":  "https://i.imgur.com/rMAB720.png",
+        "website":  "https://television.estepona.es/tvendirecto/",
+        "country":  "ES",
+        "streams":  "https://cloudvideo.servers10.com:8081/8022/index.m3u8"
+    },
+    {
+        "name":  "EsTuTele",
+        "logo":  "https://i.imgur.com/bsAbcmC.png",
+        "website":  "https://estutele.com/",
+        "country":  "ES",
+        "streams":  "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8"
+    },
+    {
+        "name":  "ETB 1",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png",
+        "website":  "https://www.eitb.eus/es/television/",
+        "country":  "ES",
+        "streams":  "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8"
+    },
+    {
+        "name":  "ETB 2",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png",
+        "website":  "https://www.eitb.eus/es/television/",
+        "country":  "ES",
+        "streams":  "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8"
+    },
+    {
+        "name":  "ETB Basque",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png",
+        "website":  "https://www.eitb.eus/es/television/",
+        "country":  "ES",
+        "streams":  "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8"
+    },
+    {
+        "name":  "etv",
+        "logo":  "https://i.imgur.com/Waf1SOq.png",
+        "website":  "http://www.etv.cat/",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Factoria de Ficcion",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png",
+        "website":  "https://www.factoriadeficcion.com/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a09p/index.m3u8"
+    },
+    {
+        "name":  "Famypanc TV",
+        "logo":  null,
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://panel.host-live.com:19360/8042/8042.m3u8"
+    },
+    {
+        "name":  "Fibwi",
+        "logo":  "https://i.imgur.com/4vcGzcC.png",
+        "website":  "https://fibwi.live/",
+        "country":  "ES",
+        "streams":  "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8"
+    },
+    {
+        "name":  "Fitel TV",
+        "logo":  "https://i.imgur.com/3lAoTq3.png",
+        "website":  "https://www.fitelnetwork.com/fitel-tv/",
+        "country":  "ES",
+        "streams":  "https://tv.mywifisocial.es/live.m3u8"
+    },
+    {
+        "name":  "Fuerteventura TV",
+        "logo":  "https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png",
+        "website":  "https://www.fuerteventuratv.net/",
+        "country":  "ES",
+        "streams":  "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8"
+    },
+    {
+        "name":  "Galicia TV Europa",
+        "logo":  "https://i.imgur.com/dvkzH8n.png",
+        "website":  "http://www.crtvg.es/tvg",
+        "country":  "ES",
+        "streams":  "https://crtvg-europa.flumotion.cloud/playlist.m3u8"
+    },
+    {
+        "name":  "Goiena Eus",
+        "logo":  "https://i.imgur.com/eaLIJzK.png",
+        "website":  "https://goiena.eus/",
+        "country":  "ES",
+        "streams":  "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8"
+    },
+    {
+        "name":  "Guada TV",
+        "logo":  "https://i.imgur.com/YaDNsYN.png",
+        "website":  "http://www.guadatv.tv/",
+        "country":  "ES",
+        "streams":  "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8"
+    },
+    {
+        "name":  "Hamaika Telebista",
+        "logo":  "https://i.imgur.com/HR3G3Ie.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8"
+    },
+    {
+        "name":  "HIT TV",
+        "logo":  "https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236\u0026ssl=1",
+        "website":  "http://www.hittv.es/",
+        "country":  "ES",
+        "streams":  "http://185.189.225.149/HitTV/index.m3u8"
+    },
+    {
+        "name":  "HOLA! Play",
+        "logo":  "https://m.media-amazon.com/images/I/5194tl8duqL.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
+    },
+    {
+        "name":  "Huelva TV",
+        "logo":  "https://i.imgur.com/hEnpvKj.png",
+        "website":  "http://huelvatv.com/directo/",
+        "country":  "ES",
+        "streams":  "https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8"
+    },
+    {
+        "name":  "Iberoamerica TV",
+        "logo":  "https://i.imgur.com/N3K6PAG.png",
+        "website":  "https://iberoamericatelevision.com/",
+        "country":  "ES",
+        "streams":  "https://limited39.todostreaming.es/live/salome-livestream.m3u8"
+    },
+    {
+        "name":  "Imas TV",
+        "logo":  "https://i.imgur.com/a9hgTmM.png",
+        "website":  "http://imastv.es/ver-imastv-en-directo",
+        "country":  "ES",
+        "streams":  "https://secure3.todostreaming.es/live/imastv-livestream.m3u8"
+    },
+    {
+        "name":  "Interalmeria TV",
+        "logo":  "https://i.imgur.com/ulSkAjZ.png",
+        "website":  "https://www.interalmeria.tv/directo/",
+        "country":  "ES",
+        "streams":  "https://interalmeria.tv/directo/live.m3u8"
+    },
+    {
+        "name":  "Intercomarcal TV",
+        "logo":  "https://i.imgur.com/KLPSnAT.png",
+        "website":  "https://www.intercomarcal.com/",
+        "country":  "ES",
+        "streams":  "https://streamingtvi.gestec-video.com/hls/tvixa.m3u8"
+    },
+    {
+        "name":  "La 1",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/512px-Logo_La_1_UHD_2024.svg.png",
+        "website":  "http://www.rtve.es/television/",
+        "country":  "ES",
+        "streams":  [
+                        "http://176.65.146.237:8401/play/a09u/index.m3u8",
+                        "https://ztnr.rtve.es/ztnr/1688877.m3u8"
+                    ]
+    },
+    {
+        "name":  "La 1 Canarias",
+        "logo":  "https://i.imgur.com/RqUJ4oj.png",
+        "website":  "http://www.rtve.es/television/tve-canarias/",
+        "country":  "ES",
+        "streams":  "https://ztnr.rtve.es/ztnr/5190066.m3u8"
+    },
+    {
+        "name":  "La 1 Catalunya",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png",
+        "website":  "https://www.rtve.es/television/catalunya/",
+        "country":  "ES",
+        "streams":  "https://ztnr.rtve.es/ztnr/3293681.m3u8"
+    },
+    {
+        "name":  "La 2",
+        "logo":  "https://i.imgur.com/3NwzqoB.png",
+        "website":  "https://www.rtve.es/television/",
+        "country":  "ES",
+        "streams":  [
+                        "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
+                        "https://ztnr.rtve.es/ztnr/1688885.m3u8"
+                    ]
+    },
+    {
+        "name":  "La 2 Canarias",
+        "logo":  "https://i.imgur.com/iwDi3ND.png",
+        "website":  "http://www.rtve.es/television/tve-canarias/",
+        "country":  "ES",
+        "streams":  "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+    },
+    {
+        "name":  "La 2 Catalunya",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png",
+        "website":  "https://www.rtve.es/television/catalunya/",
+        "country":  "ES",
+        "streams":  "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+    },
+    {
+        "name":  "Lancelot TV",
+        "logo":  "https://i.imgur.com/RlzVIJP.png",
+        "website":  "https://www.lancelot.tv/",
+        "country":  "ES",
+        "streams":  "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8"
+    },
+    {
+        "name":  "LaOtra",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png",
+        "website":  "https://www.telemadrid.es/",
+        "country":  "ES",
+        "streams":  "https://laotra-1-23-secure2.akamaized.net/master.m3u8"
+    },
+    {
+        "name":  "La Sexta",
+        "logo":  "https://i.postimg.cc/JnYWhkFz/lasexta.png",
+        "website":  "https://www.lasexta.com/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a0af/index.m3u8"
+    },
+    {
+        "name":  "La Urban TV",
+        "logo":  "https://i.imgur.com/hythjEn.png",
+        "website":  "https://www.urbanrevolution.es/emision-en-directo-de-la-urban-tv/",
+        "country":  "ES",
+        "streams":  "https://urbanrevolution.es:8443/live/TV/playlist.m3u8"
+    },
+    {
+        "name":  "LiraTV",
+        "logo":  "https://i.imgur.com/hBswXYZ.png",
+        "website":  "https://liratv.es/",
+        "country":  "ES",
+        "streams":  "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8"
+    },
+    {
+        "name":  "Lleida Televisio",
+        "logo":  "https://i.imgur.com/xWY2568.png",
+        "website":  "https://lleidatv.alacarta.cat/endirecte",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR="
+    },
+    {
+        "name":  "Logos TV",
+        "logo":  "https://i.postimg.cc/C1qWwQbm/logostv.png",
+        "website":  "https://logostv.es/",
+        "country":  "ES",
+        "streams":  "https://streamer1.streamhost.org/salive/logosH/master.m3u8"
+    },
+    {
+        "name":  "Logos TV Estudio",
+        "logo":  "https://i.imgur.com/qkHrttj.png",
+        "website":  "https://logostv.es/",
+        "country":  "ES",
+        "streams":  "https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8"
+    },
+    {
+        "name":  "Logos TV Kids",
+        "logo":  "https://i.imgur.com/Kr3U3Ub.png",
+        "website":  "https://logostv.es/",
+        "country":  "ES",
+        "streams":  "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8"
+    },
+    {
+        "name":  "Logos TV Salud",
+        "logo":  "https://i.imgur.com/qkHrttj.png",
+        "website":  "https://logostv.es/",
+        "country":  "ES",
+        "streams":  "https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8"
+    },
+    {
+        "name":  "Love The Planet",
+        "logo":  "https://i.imgur.com/RBcD49X.png",
+        "website":  "https://lovetvchannels.com/en/our-channels/#planet",
+        "country":  "ES",
+        "streams":  "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name":  "M95 Television Marbella",
+        "logo":  "https://i.imgur.com/RzAkP1V.png",
+        "website":  "http://m95tv.es/",
+        "country":  "ES",
+        "streams":  "https://limited2.todostreaming.es/live/m95-livestream.m3u8"
+    },
+    {
+        "name":  "Maestrat TV",
+        "logo":  "https://i.imgur.com/9gOS1ts.png",
+        "website":  "https://www.maestrat.tv/",
+        "country":  "ES",
+        "streams":  "https://stream.maestrat.tv/hls/stream.m3u8"
+    },
+    {
+        "name":  "Mar TV",
+        "logo":  "https://i.postimg.cc/w38x6Nts/martv.png",
+        "website":  "http://martv.tv/emissio-en-directe/",
+        "country":  "ES",
+        "streams":  "http://iptv.services.everywan.net:8080/martv-web/video.m3u8"
+    },
+    {
+        "name":  "Mataro Televisio",
+        "logo":  "https://i.imgur.com/FTGbu8A.png",
+        "website":  "https://mataroaudiovisual.alacarta.cat/directe",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR="
+    },
+    {
+        "name":  "Mega",
+        "logo":  "https://i.imgur.com/Udrt2eK.png",
+        "website":  "https://mega.atresmedia.com/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a0a5/index.m3u8"
+    },
+    {
+        "name":  "Mijas 3.40TV",
+        "logo":  "https://i.imgur.com/RH1zLLs.png",
+        "website":  "https://mijascomunicacion.com/mijas-340-tv-en-directo/",
+        "country":  "ES",
+        "streams":  "https://streaming004.gestec-video.com/hls/MIJAS.m3u8"
+    },
+    {
+        "name":  "Mirame TV",
+        "logo":  "https://i.imgur.com/LK4pLgT.png",
+        "website":  "http://www.mirametv.com/",
+        "country":  "ES",
+        "streams":  "https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8"
+    },
+    {
+        "name":  "Molahits TV",
+        "logo":  "https://i.imgur.com/FYcLtqT.png",
+        "website":  "https://www.molatv.cat/",
+        "country":  "ES",
+        "streams":  "http://ventdelnord.tv:8080/mola/directe.m3u8"
+    },
+    {
+        "name":  "MTV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
+        "website":  "http://www.mtv.es/",
+        "country":  "ES",
+        "streams":  [
+                        "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8"
+                    ]
+    },
+    {
+        "name":  "MyTime Movie Network",
+        "logo":  "https://i.imgur.com/pw4NZK1.png",
+        "website":  "https://mytimemovienetwork.com/",
+        "country":  "ES",
+        "streams":  "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name":  "National Geographic",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "website":  "http://natgeotv.nationalgeographic.es/es",
+        "country":  "ES",
+        "streams":  [
+                        "http://62.210.211.188:2095/play/a00d",
+                        "http://78.130.250.2:8023/play/a02e/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeohd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "National Geographic Wild",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "website":  "http://www.natgeowild.co.uk/",
+        "country":  "ES",
+        "streams":  [
+                        "http://78.130.250.2:8023/play/a02c/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeowild/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "NatureTime",
+        "logo":  "https://i.imgur.com/72JmyjM.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  [
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fc0df14159c40007250432/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=8e0689f1-1f2c-11ef-86d8-5d587df108c6\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=c6eb9bb4-6b13-4301-ab2b-7475ad0a7145",
+                        "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8",
+                        "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Negocios TV",
+        "logo":  "https://m.media-amazon.com/images/I/21HEgSJn2gL.png",
+        "website":  "https://www.negocios.com/",
+        "country":  "ES",
+        "streams":  "https://streaming013.gestec-video.com/hls/negociostv.m3u8"
+    },
+    {
+        "name":  "Neox",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png",
+        "website":  "http://www.antena3.com/neox/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a0ag/index.m3u8"
+    },
+    {
+        "name":  "Nickelodeon",
+        "logo":  "https://i.postimg.cc/VkdqdrkH/nickelodeon.png",
+        "website":  "http://www.nickelodeon.es/",
+        "country":  "ES",
+        "streams":  [
+                        "http://185.236.229.62:9981/play/a067",
+                        "http://195.64.140.147:10121/121",
+                        "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+                        "http://46.8.46.14/Nickelodeon/index.m3u8",
+                        "http://87.246.60.6:11004/?token=fas-tv.com",
+                        "http://92.114.85.72:8000/play/a02o",
+                        "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php"
+                    ]
+    },
+    {
+        "name":  "Noroeste TV",
+        "logo":  "https://i.imgur.com/s6V8rQd.png",
+        "website":  "http://www.noroestetv.es/",
+        "country":  "ES",
+        "streams":  "https://cloudvideo.servers10.com:8081/8032/index.m3u8"
+    },
+    {
+        "name":  "Nortevision",
+        "logo":  "https://i.imgur.com/C5SYw7B.png",
+        "website":  "http://nortevision.es/directo/",
+        "country":  "ES",
+        "streams":  "http://amaru.dyndns.org:8870/0.m3u8"
+    },
+    {
+        "name":  "Nova",
+        "logo":  "https://i.postimg.cc/fRnz01zn/nova.png",
+        "website":  "http://nova.atresmedia.com/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a0ah/index.m3u8"
+    },
+    {
+        "name":  "Olot TV",
+        "logo":  "https://i.imgur.com/u8wO4Lf.png",
+        "website":  "https://www.olot.tv/olot-televisio-en-directe/",
+        "country":  "ES",
+        "streams":  "https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8?DVR="
+    },
+    {
+        "name":  "Olympic Channel",
+        "logo":  "https://i.imgur.com/wPQVVtj.png",
+        "website":  "https://olympics.com/",
+        "country":  "ES",
+        "streams":  "https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8"
+    },
+    {
+        "name":  "Onda 15 TV",
+        "logo":  "https://i.imgur.com/mUrZz9O.png",
+        "website":  "https://onda15.es/radio/onlinetv",
+        "country":  "ES",
+        "streams":  "https://cloudvideo.servers10.com:8081/8034/index.m3u8"
+    },
+    {
+        "name":  "Onda Algeciras",
+        "logo":  "https://i.imgur.com/kUhFkVF.png",
+        "website":  "https://ondaalgecirastv.com/en-directo/",
+        "country":  "ES",
+        "streams":  "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8"
+    },
+    {
+        "name":  "Onda Cadiz",
+        "logo":  "https://i.imgur.com/sOBMnby.png",
+        "website":  "https://ondacadiz.es/",
+        "country":  "ES",
+        "streams":  "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8"
+    },
+    {
+        "name":  "Onda Madrid",
+        "logo":  "https://i.imgur.com/Q1YwYsR.png",
+        "website":  "https://www.telemadrid.es/onda-madrid/",
+        "country":  "ES",
+        "streams":  "https://tvradio-1-23-secure2.akamaized.net/master.m3u8"
+    },
+    {
+        "name":  "Onda Valencia TV",
+        "logo":  "https://i.imgur.com/6HxLUQd.png",
+        "website":  "https://ondavalencia.es/en-directo/onda-valencia-tv",
+        "country":  "ES",
+        "streams":  "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
+    },
+    {
+        "name":  "Paramount Network",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
+        "website":  "http://www.paramountchannel.es/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a09i/index.m3u8"
+    },
+    {
+        "name":  "Parlamento de Andalucia",
+        "logo":  "https://i.imgur.com/J6h5IQS.png",
+        "website":  "https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/actividadparlamentaria/parlamentoabierto/sesionesendirecto/programacion.do",
+        "country":  "ES",
+        "streams":  "http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8"
+    },
+    {
+        "name":  "Parlamento de Navarra",
+        "logo":  "https://i.imgur.com/JnhWxKv.png",
+        "website":  "https://www.parlamentodenavarra.es/",
+        "country":  "ES",
+        "streams":  "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+    },
+    {
+        "name":  "Penedes Televisio",
+        "logo":  "https://i.imgur.com/mNuv3OL.png",
+        "website":  "https://www.rtvvilafranca.cat/penedes-televisio-en-directe/",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR="
+    },
+    {
+        "name":  "Pequeradio",
+        "logo":  "https://i.imgur.com/BNqZwxS.png",
+        "website":  "https://www.pequeradio.es/",
+        "country":  "ES",
+        "streams":  "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
+    },
+    {
+        "name":  "Piera TV",
+        "logo":  "https://i.imgur.com/R4BzwqR.png",
+        "website":  "http://08-produccions.cat/pieratv/",
+        "country":  "ES",
+        "streams":  "http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8"
+    },
+    {
+        "name":  "Platzi TV",
+        "logo":  "https://i.imgur.com/vEzeqHP.png",
+        "website":  "https://platzi.com/blog/conoce-platzi-tv/",
+        "country":  "ES",
+        "streams":  "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8"
+    },
+    {
+        "name":  "Popular TV Melilla",
+        "logo":  "https://i.imgur.com/TbevWX4.png",
+        "website":  "http://populartvmelilla.com/",
+        "country":  "ES",
+        "streams":  "http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8"
+    },
+    {
+        "name":  "Popular TV Murcia",
+        "logo":  "https://i.imgur.com/jFg9dGO.png",
+        "website":  "https://www.populartvmurcia.com/",
+        "country":  "ES",
+        "streams":  "https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8"
+    },
+    {
+        "name":  "POP World TV",
+        "logo":  "https://i.postimg.cc/kGkDh4Wf/popworldtv.png",
+        "website":  "https://xptv.live/",
+        "country":  "ES",
+        "streams":  "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8"
+    },
+    {
+        "name":  "PTV Almeria",
+        "logo":  "https://i.imgur.com/X3eIdVf.png",
+        "website":  "https://www.ptvtelecom.com/canales/almeria.html",
+        "country":  "ES",
+        "streams":  "https://streamer.zapitv.com/ptv_almeria/index.m3u8"
+    },
+    {
+        "name":  "PTV Cordoba",
+        "logo":  "https://i.imgur.com/X3eIdVf.png",
+        "website":  "https://ptvtelecom.com/canales/cordoba.html",
+        "country":  "ES",
+        "streams":  "https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8"
+    },
+    {
+        "name":  "PTV Granada",
+        "logo":  "https://i.imgur.com/eOcAakM.png",
+        "website":  "https://ptvtelecom.com/canales/granada.html",
+        "country":  "ES",
+        "streams":  "https://streamer.zapitv.com/PTV-granada/index.m3u8"
+    },
+    {
+        "name":  "PTV Linares",
+        "logo":  "https://i.imgur.com/IqChsLQ.png",
+        "website":  "https://ptvtelecom.com/canales/linares.html",
+        "country":  "ES",
+        "streams":  "https://streamer.zapitv.com/ptv-linarez/index.m3u8"
+    },
+    {
+        "name":  "PTV Malaga",
+        "logo":  "https://i.imgur.com/4eZYIX1.png",
+        "website":  "https://ptvtelecom.com/canales/malaga.html",
+        "country":  "ES",
+        "streams":  "https://streamer.zapitv.com/PTV-malaga/index.m3u8"
+    },
+    {
+        "name":  "PTV Sevilla",
+        "logo":  "https://i.imgur.com/EcinFGu.png",
+        "website":  "https://ptvtelecom.com/canales/sevilla.html",
+        "country":  "ES",
+        "streams":  "https://streamer.zapitv.com/PTV_sevilla/index.m3u8"
+    },
+    {
+        "name":  "Punt 3",
+        "logo":  "https://i.imgur.com/i9tsnhD.png",
+        "website":  "https://www.punt3.es/",
+        "country":  "ES",
+        "streams":  "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8"
+    },
+    {
+        "name":  "Radio Bocairent TV",
+        "logo":  "https://i.imgur.com/MzUQtrl.png",
+        "website":  "https://ondavalencia.es/en-directo/onda-valencia-tv",
+        "country":  "ES",
+        "streams":  "http://185.81.77.4/BocairentTV/index.m3u8"
+    },
+    {
+        "name":  "Radio Carnaval TV",
+        "logo":  "https://i.imgur.com/cdpbkSo.png",
+        "website":  "https://multicarnaval.com/",
+        "country":  "ES",
+        "streams":  "https://eu1.servers10.com:8081/8116/index.m3u8"
+    },
+    {
+        "name":  "Radio Television Marbella",
+        "logo":  "https://i.imgur.com/o9Ro8TR.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
+    },
+    {
+        "name":  "Radio Television Mogan",
+        "logo":  "https://i.imgur.com/oefjONS.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://cloudvideo.servers10.com:8081/8028/index.m3u8"
+    },
+    {
+        "name":  "Rakuten TV Action Movies",
+        "logo":  "https://i.imgur.com/Meew6eX.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  [
+                        "https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8",
+                        "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8",
+                        "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8",
+                        "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8",
+                        "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8",
+                        "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rakuten TV Comedy Movies",
+        "logo":  "https://i.imgur.com/Meew6eX.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  [
+                        "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8",
+                        "https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8",
+                        "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8",
+                        "https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8",
+                        "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8",
+                        "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rakuten TV Drama Movies",
+        "logo":  "https://i.imgur.com/Meew6eX.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  [
+                        "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8",
+                        "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8",
+                        "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8",
+                        "https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8",
+                        "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8",
+                        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rakuten TV Family Movies",
+        "logo":  "https://i.imgur.com/Meew6eX.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  [
+                        "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8",
+                        "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8",
+                        "https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8",
+                        "https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8",
+                        "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8",
+                        "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8",
+                        "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rakuten TV Nordic Films",
+        "logo":  "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/ff79e878-3eea-45fc-b0cd-55d6acce9b18-width200-quality90.jpeg",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8"
+    },
+    {
+        "name":  "Rakuten TV Top Movies",
+        "logo":  "https://i.imgur.com/Meew6eX.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  [
+                        "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8",
+                        "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8",
+                        "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8",
+                        "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8",
+                        "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rakuten Viki",
+        "logo":  "https://i.imgur.com/pbyd1g2.png",
+        "website":  "https://www.viki.com/",
+        "country":  "ES",
+        "streams":  [
+                        "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8",
+                        "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8",
+                        "https://newidco-rakutenviki-3-es.rakuten.wurl.tv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Real Madrid TV",
+        "logo":  "https://i.postimg.cc/2yp7nzVN/realmadridtv.png",
+        "website":  "https://www.realmadrid.com/real-madrid-tv",
+        "country":  "ES",
+        "streams":  [
+                        "http://176.65.146.237:8401/play/a0ak/index.m3u8",
+                        "https://aegis-cloudfront-1.tubi.video/6009b36d-1660-4a24-b1b9-f4d3371b352e/playlist.m3u8",
+                        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8",
+                        "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+                        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545"
+                    ]
+    },
+    {
+        "name":  "Ribera TV",
+        "logo":  "https://i.imgur.com/mPvSubP.png",
+        "website":  "https://www.elperiodicvalencia.com/",
+        "country":  "ES",
+        "streams":  "https://common01.todostreaming.es/live/ribera-livestream.m3u8"
+    },
+    {
+        "name":  "ROTV Valencia",
+        "logo":  "https://i.imgur.com/0TDnVQ4.png",
+        "website":  "https://romediavalencia.com/",
+        "country":  "ES",
+        "streams":  "https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8"
+    },
+    {
+        "name":  "RTVC",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_del_Ente_P%C3%BAblico_Radio_Televisi%C3%B3n_Canaria.svg/512px-Logo_del_Ente_P%C3%BAblico_Radio_Televisi%C3%B3n_Canaria.svg.png",
+        "website":  "http://www.rtvc.es/",
+        "country":  "ES",
+        "streams":  "https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8"
+    },
+    {
+        "name":  "RTVC Cardedeu",
+        "logo":  "https://i.imgur.com/rrCJyza.png",
+        "website":  "https://www.rtvc.cat/tele/",
+        "country":  "ES",
+        "streams":  "https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8"
+    },
+    {
+        "name":  "RTV El Vendrell",
+        "logo":  "https://i.imgur.com/x9CgczD.png",
+        "website":  "https://www.rtvelvendrell.cat/directes/televisio/",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:live.smil/playlist.m3u8"
+    },
+    {
+        "name":  "RTV Manilva",
+        "logo":  "https://i.imgur.com/zKgrnXx.png",
+        "website":  "https://www.rtvmanilva.com/",
+        "country":  "ES",
+        "streams":  "https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/index.m3u8"
+    },
+    {
+        "name":  "RTV Vida",
+        "logo":  "https://i.imgur.com/EqUfEAh.png",
+        "website":  "https://vidartv.com/",
+        "country":  "ES",
+        "streams":  "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8"
+    },
+    {
+        "name":  "Sal Television",
+        "logo":  "https://i.imgur.com/7ewYJ4Y.jpg",
+        "website":  "https://saltv.es/",
+        "country":  "ES",
+        "streams":  "https://cloudvideo.servers10.com:8081/8254/index.m3u8"
+    },
+    {
+        "name":  "Sevilla FC TV",
+        "logo":  "https://i.imgur.com/yujGVbm.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8"
+    },
+    {
+        "name":  "Solidaria TV",
+        "logo":  "https://i.imgur.com/Bgm2iZY.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8"
+    },
+    {
+        "name":  "Sol Musica",
+        "logo":  "https://i.postimg.cc/QxQLVR5K/solmusica.png",
+        "website":  "https://tuamc.tv/sol-musica",
+        "country":  "ES",
+        "streams":  "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8"
+    },
+    {
+        "name":  "Sophia TV",
+        "logo":  "https://i.postimg.cc/br6RB4Tm/sophiatv.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  [
+                        "https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8",
+                        "https://www.onairport.live/sophiatv-it-live/livestream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "SpektraTV",
+        "logo":  "https://i.imgur.com/0zCt8e4.png",
+        "website":  "https://spektratv.com/",
+        "country":  "ES",
+        "streams":  "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8"
+    },
+    {
+        "name":  "Squirrel",
+        "logo":  "https://i.imgur.com/9y8VcBr.png",
+        "website":  "https://squirrelmedia.es/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a09h/index.m3u8"
+    },
+    {
+        "name":  "STZ Telebista",
+        "logo":  "https://i.imgur.com/rFQuAEv.png",
+        "website":  "https://stztelebista.com/",
+        "country":  "ES",
+        "streams":  "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8"
+    },
+    {
+        "name":  "SX3",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/512px-SX3_logo.svg.png",
+        "website":  "https://www.3cat.cat/tv3/sx3/directe/",
+        "country":  "ES",
+        "streams":  [
+                        "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8",
+                        "https://directes-tv-es.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "Taroteame",
+        "logo":  null,
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8"
+    },
+    {
+        "name":  "TarotVision",
+        "logo":  "https://i.imgur.com/yOQ9e3a.png",
+        "website":  "https://www.tarotvision.es/",
+        "country":  "ES",
+        "streams":  "https://stream.andalhost.com/hls/tarotvision.m3u8"
+    },
+    {
+        "name":  "TBN Espana",
+        "logo":  "https://i.postimg.cc/63K3k3bQ/tbnespana.png",
+        "website":  "https://xn--tbnespaa-j3a.es/",
+        "country":  "ES",
+        "streams":  "https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8"
+    },
+    {
+        "name":  "Tele 7",
+        "logo":  "https://i.imgur.com/JcuV9ZE.png",
+        "website":  "https://tele7.tv/",
+        "country":  "ES",
+        "streams":  "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8"
+    },
+    {
+        "name":  "TeleBilbao",
+        "logo":  "https://i.imgur.com/x2HmBq1.png",
+        "website":  "https://www.telebilbao.es/",
+        "country":  "ES",
+        "streams":  "https://tbilbo.dyndns.org/hls/stream.m3u8"
+    },
+    {
+        "name":  "Telecinco",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png",
+        "website":  "https://www.telecinco.es/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a09r/index.m3u8"
+    },
+    {
+        "name":  "Teledeporte",
+        "logo":  "https://i.postimg.cc/fR8r9Zby/teledeporte.png",
+        "website":  "http://www.rtve.es/television/",
+        "country":  "ES",
+        "streams":  "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8"
+    },
+    {
+        "name":  "Tele Elx",
+        "logo":  "https://i.imgur.com/w5NTWpl.png",
+        "website":  "https://teleelx.es/",
+        "country":  "ES",
+        "streams":  "https://tvdirecto.teleelx.es/stream/teleelx.m3u8"
+    },
+    {
+        "name":  "Teleganes",
+        "logo":  "https://i.imgur.com/BXyplMX.png",
+        "website":  "https://www.teleganes.com/en-directo/",
+        "country":  "ES",
+        "streams":  "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8"
+    },
+    {
+        "name":  "Telemadrid",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://telemadrid-23-secure2.akamaized.net/master.m3u8"
+    },
+    {
+        "name":  "Telemadrid INT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TeleMadrid_INT_Logo.jpg/400px-TeleMadrid_INT_Logo.jpg",
+        "website":  "https://telemadrid.es",
+        "country":  "ES",
+        "streams":  "https://new-international-23-secure2.akamaized.net/index.m3u8"
+    },
+    {
+        "name":  "Telemotril",
+        "logo":  "https://i.imgur.com/4nspLHb.png",
+        "website":  "https://telemotril.com/",
+        "country":  "ES",
+        "streams":  "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
+    },
+    {
+        "name":  "Teleonuba",
+        "logo":  "https://i.imgur.com/cHMfmO7.png",
+        "website":  "https://teleonuba.es/en-directo/",
+        "country":  "ES",
+        "streams":  "https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8"
+    },
+    {
+        "name":  "TeleRibera",
+        "logo":  "https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://video1.lhdserver.es/teleribera/live.m3u8"
+    },
+    {
+        "name":  "Tele Safor",
+        "logo":  "https://i.imgur.com/EowJfr0.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://video.telesafor.com/hls/video.m3u8"
+    },
+    {
+        "name":  "TeleVigo",
+        "logo":  "https://i.imgur.com/4iVmlFa.png",
+        "website":  "https://televigo.com/",
+        "country":  "ES",
+        "streams":  "https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8"
+    },
+    {
+        "name":  "Television Aranda",
+        "logo":  "https://i.imgur.com/FwIIdKG.png",
+        "website":  "http://www.telearanda.es/",
+        "country":  "ES",
+        "streams":  "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8"
+    },
+    {
+        "name":  "Television Consciente",
+        "logo":  "https://i.imgur.com/6QVHKPw.png",
+        "website":  "https://www.televisionconsciente.com/",
+        "country":  "ES",
+        "streams":  "https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8"
+    },
+    {
+        "name":  "Television de San Vicente",
+        "logo":  "https://i.imgur.com/oLnrf0d.png",
+        "website":  "https://www.televisiondesanvicente.es/",
+        "country":  "ES",
+        "streams":  "https://emision.arpamedia.es:4343/hls/tvsanvicenteweb.m3u8"
+    },
+    {
+        "name":  "TEN",
+        "logo":  "https://i.postimg.cc/nhYVJTv4/ten.png",
+        "website":  "https://tentv.es/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a0al/index.m3u8"
+    },
+    {
+        "name":  "Travel TV",
+        "logo":  "https://i.imgur.com/zsGt5iH.png",
+        "website":  "http://traveltve.com/",
+        "country":  "ES",
+        "streams":  "https://streamer103.neterra.tv/travel/live.m3u8"
+    },
+    {
+        "name":  "Trece",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/512px-Trece.svg.png",
+        "website":  "https://www.cope.es/trecetv",
+        "country":  "ES",
+        "streams":  [
+                        "http://176.65.146.237:8401/play/a0a9/index.m3u8",
+                        "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8",
+                        "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Tuya La Janda Television",
+        "logo":  "https://i.imgur.com/KjWuini.png",
+        "website":  "https://tuyatv.com/",
+        "country":  "ES",
+        "streams":  "http://185.210.20.13:8080/0.m3u8"
+    },
+    {
+        "name":  "TV10",
+        "logo":  "https://i.imgur.com/eBZiBia.png",
+        "website":  "https://rtv10.alacarta.cat/",
+        "country":  "ES",
+        "streams":  "https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8"
+    },
+    {
+        "name":  "TV3",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png",
+        "website":  "https://www.ccma.cat/tv3/directe-avancat/tv3",
+        "country":  "ES",
+        "streams":  "https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8"
+    },
+    {
+        "name":  "TV3CAT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png",
+        "website":  "http://www.ccma.cat/tv3/directe/tv3cat/",
+        "country":  "ES",
+        "streams":  [
+                        "https://directes-tv-cat.3catdirectes.cat/live-origin/tvi-hls/master.m3u8",
+                        "https://directes-tv-es.3catdirectes.cat/live-origin/tvi-hls/master.m3u8",
+                        "https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV4",
+        "logo":  "https://i.imgur.com/pQ6JJAk.jpeg",
+        "website":  "https://teve4.com/",
+        "country":  "ES",
+        "streams":  [
+                        "http://194.76.186.33:8000/play/a02z/index.m3u8",
+                        "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8",
+                        "https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd",
+                        "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"
+                    ]
+    },
+    {
+        "name":  "TVA",
+        "logo":  "https://i.imgur.com/aobkgrS.png",
+        "website":  "https://www.artequatre.com/",
+        "country":  "ES",
+        "streams":  "https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8"
+    },
+    {
+        "name":  "TV Almassora",
+        "logo":  "https://i.imgur.com/syeJXGh.png",
+        "website":  "https://www.tvalmassora.com/",
+        "country":  "ES",
+        "streams":  "https://live.fullsport.es/hls/tvalmassora.m3u8"
+    },
+    {
+        "name":  "TV Bergueda",
+        "logo":  "https://i.imgur.com/U5OVi3L.png",
+        "website":  "https://tvbergueda.alacarta.cat/",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/berguedatvlive/smil:migracion.smil/playlist.m3u8?DVR="
+    },
+    {
+        "name":  "TV BRICS Spanish",
+        "logo":  "https://i.imgur.com/vLpm8tN.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8"
+    },
+    {
+        "name":  "TVCentro Andalucia",
+        "logo":  "https://i.imgur.com/xQAzYOD.png",
+        "website":  "https://tvcentroandalucia.com/",
+        "country":  "ES",
+        "streams":  "https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8"
+    },
+    {
+        "name":  "TV Costa Brava",
+        "logo":  "https://i.imgur.com/i6EnVZa.png",
+        "website":  "https://www.tvcostabrava.com/canals-online/televisio-costa-brava-online",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8"
+    },
+    {
+        "name":  "TVE Internacional America",
+        "logo":  "https://i.imgur.com/iODADvi.png",
+        "website":  "https://www.rtve.es/television/tve-internacional/america1/",
+        "country":  "ES",
+        "streams":  "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8"
+    },
+    {
+        "name":  "TVE Internacional Asia-Oceania",
+        "logo":  "https://i.imgur.com/dwzOBZ1.png",
+        "website":  "https://www.rtve.es/television/tve-internacional/europa/",
+        "country":  "ES",
+        "streams":  "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8"
+    },
+    {
+        "name":  "TVE Internacional Europe-Asia",
+        "logo":  "https://i.imgur.com/ow1HArj.png",
+        "website":  "https://www.rtve.es/television/tve-internacional/asia/",
+        "country":  "ES",
+        "streams":  [
+                        "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8"
+                    ]
+    },
+    {
+        "name":  "TVE Star HD",
+        "logo":  "https://i.imgur.com/zsCZHMh.png",
+        "website":  "http://www.rtve.es/rtve/20150921/star-hd/1223927.shtml",
+        "country":  "ES",
+        "streams":  "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
+    },
+    {
+        "name":  "TVG2",
+        "logo":  "https://i.imgur.com/yFy6gxg.png",
+        "website":  "http://www.crtvg.es/",
+        "country":  "ES",
+        "streams":  "https://crtvg-tvg2.flumotion.cloud/playlist.m3u8"
+    },
+    {
+        "name":  "TV Girona",
+        "logo":  "https://i.imgur.com/yfiK1Vp.png",
+        "website":  "http://tvgirona.alacarta.cat/",
+        "country":  "ES",
+        "streams":  "http://ventdelnord.tv:8080/girona/directe.m3u8"
+    },
+    {
+        "name":  "TV L\u0027Hospitalet",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotip_TV_L%27H.svg/400px-Logotip_TV_L%27H.svg.png",
+        "website":  "https://lhdigital.cat/web/digital-h/en-directe",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR="
+    },
+    {
+        "name":  "TVM Cordoba",
+        "logo":  "https://i.imgur.com/jN5k8Ob.png",
+        "website":  null,
+        "country":  "ES",
+        "streams":  [
+                        "http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8",
+                        "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TVR",
+        "logo":  "https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png",
+        "website":  "https://www.tvr.es/",
+        "country":  "ES",
+        "streams":  "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8"
+    },
+    {
+        "name":  "TVReus",
+        "logo":  "https://i.imgur.com/Ee0C8UH.jpg",
+        "website":  "https://radiotelevisionmxm.com/",
+        "country":  "ES",
+        "streams":  "https://eu1.servers10.com:8081/8166/index.m3u8"
+    },
+    {
+        "name":  "TV Ripolles",
+        "logo":  "https://i.imgur.com/S5KB9DS.png",
+        "website":  "https://televisiodelripolles.alacarta.cat/",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/tvripolleslive/smil:live.smil/playlist.m3u8?DVR="
+    },
+    {
+        "name":  "TV Sabadell-Valles",
+        "logo":  "https://i.imgur.com/fSTsGbG.png",
+        "website":  "https://tvsabadell-valles.cat/",
+        "country":  "ES",
+        "streams":  "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8"
+    },
+    {
+        "name":  "Une Vinalopo",
+        "logo":  "https://i.imgur.com/WpGR7RQ.png",
+        "website":  "https://www.unevinalopo.es/directo/",
+        "country":  "ES",
+        "streams":  "https://streamingtvi.gestec-video.com/hls/unesd.m3u8"
+    },
+    {
+        "name":  "Univers TV",
+        "logo":  "https://i.imgur.com/EW2bfix.png",
+        "website":  "https://universvalencia.es/",
+        "country":  "ES",
+        "streams":  "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
+    },
+    {
+        "name":  "Urola Telebista",
+        "logo":  "https://i.imgur.com/V23bltn.png",
+        "website":  "https://www.urolatelebista.com/",
+        "country":  "ES",
+        "streams":  "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8"
+    },
+    {
+        "name":  "Valles Visio",
+        "logo":  "https://www.vallesvisio.cat/wp-content/uploads/cropped-Logo-Valles-Visio-1.png",
+        "website":  "https://www.vallesvisio.cat/directe/",
+        "country":  "ES",
+        "streams":  "https://liveingesta318.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Ventdelnord TV",
+        "logo":  "https://i.imgur.com/6sUkVOd.png",
+        "website":  "https://www.ventdelnord.tv/",
+        "country":  "ES",
+        "streams":  "http://ventdelnord.tv:8080/hls/directe.m3u8"
+    },
+    {
+        "name":  "Veo7",
+        "logo":  "https://i.imgur.com/kklTIMm.png",
+        "website":  "https://www.veo7.com/",
+        "country":  "ES",
+        "streams":  "http://176.65.146.237:8401/play/a09k/index.m3u8"
+    },
+    {
+        "name":  "Vivamovil",
+        "logo":  "https://i.imgur.com/QQviU5m.png",
+        "website":  "https://vivamovil.tv/en-directo/",
+        "country":  "ES",
+        "streams":  "https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8"
+    },
+    {
+        "name":  "Viva Murcia TV",
+        "logo":  "https://i.imgur.com/8G2FlfF.jpg",
+        "website":  "http://www.vivamurcia.com/",
+        "country":  "ES",
+        "streams":  "http://185.36.211.142:8080/tmp_hls/viva/index.m3u8"
+    },
+    {
+        "name":  "VOTV",
+        "logo":  "https://i.imgur.com/1g2Z64L.png",
+        "website":  "http://votv.alacarta.cat/votv-en-directe",
+        "country":  "ES",
+        "streams":  "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8"
+    },
+    {
+        "name":  "XPTV1",
+        "logo":  "https://i.postimg.cc/d16Z9qhk/xptv1.png",
+        "website":  "https://xptv.live/",
+        "country":  "ES",
+        "streams":  "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8"
+    },
+    {
+        "name":  "XPTV2",
+        "logo":  "https://i.postimg.cc/prdhGgj0/xptv2.png",
+        "website":  "https://xptv.live/",
+        "country":  "ES",
+        "streams":  "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8"
+    },
+    {
+        "name":  "XPTV US",
+        "logo":  "https://i.imgur.com/1m7kDmc.png",
+        "website":  "https://xptv.live/",
+        "country":  "ES",
+        "streams":  "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8"
+    },
+    {
+        "name":  "Xtra TV",
+        "logo":  "https://i.imgur.com/w1Lc150.jpg",
+        "website":  null,
+        "country":  "ES",
+        "streams":  "https://cnn.essastream.com:3387/live/xtratvlive.m3u8"
+    }
+]

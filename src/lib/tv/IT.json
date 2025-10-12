@@ -1,0 +1,2586 @@
+﻿[
+    {
+        "name":  "111 TV",
+        "logo":  "https://i.imgur.com/kVREx1Q.png",
+        "website":  "https://www.111tv.it/",
+        "country":  "IT",
+        "streams":  "https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8"
+    },
+    {
+        "name":  "12 TV Parma",
+        "logo":  "https://i.imgur.com/mBYxWOg.png",
+        "website":  "https://www.12tvparma.it/",
+        "country":  "IT",
+        "streams":  "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "20",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png",
+        "website":  "https://www.mediasetplay.mediaset.it/20mediaset",
+        "country":  "IT",
+        "streams":  "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8"
+    },
+    {
+        "name":  "51 Radio TV",
+        "logo":  "https://www.51news.it/images/loghi/logo_tv_radio_51news.png",
+        "website":  "https://www.51news.it/index.php",
+        "country":  "IT",
+        "streams":  [
+                        "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8",
+                        "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "70-80 TV",
+        "logo":  "https://i.imgur.com/y4kNV3Q.png",
+        "website":  "https://www.70-80.it/tv-player/",
+        "country":  "IT",
+        "streams":  "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8"
+    },
+    {
+        "name":  "7 RadioVisione",
+        "logo":  "https://radio7note.com/img/favicon/android-icon-192x192.png",
+        "website":  "https://radio7note.com/",
+        "country":  "IT",
+        "streams":  "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8"
+    },
+    {
+        "name":  "7 STORIA",
+        "logo":  "https://i.imgur.com/rF3tpbR.jpeg",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8"
+    },
+    {
+        "name":  "7 YOU \u0026 ME",
+        "logo":  "https://i.imgur.com/Rte2K3x.png",
+        "website":  "https://radioyoume.com",
+        "country":  "IT",
+        "streams":  "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8"
+    },
+    {
+        "name":  "A2i TV",
+        "logo":  "https://i.imgur.com/YlDFir7.jpg",
+        "website":  "https://a2itv.com/",
+        "country":  "IT",
+        "streams":  "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8"
+    },
+    {
+        "name":  "ACI Sport TV",
+        "logo":  "https://i.postimg.cc/TYFRCdyy/acisporttv.png",
+        "website":  "https://www.acisport.it/",
+        "country":  "IT",
+        "streams":  "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8"
+    },
+    {
+        "name":  "Adnkronos",
+        "logo":  "https://i.imgur.com/mEoDAf1.png",
+        "website":  "https://www.adnkronos.com/",
+        "country":  "IT",
+        "streams":  "https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Alma TV",
+        "logo":  "https://i.postimg.cc/bNtJXSf0/almatv.png",
+        "website":  "https://almamediaitalia.it/televisione/",
+        "country":  "IT",
+        "streams":  [
+                        "http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8",
+                        "http://80.79.6.221:25461/smash/public/27"
+                    ]
+    },
+    {
+        "name":  "AltoAdige TV",
+        "logo":  "https://i.imgur.com/yt7JJrn.png",
+        "website":  "https://www.altoadigetv.it/",
+        "country":  "IT",
+        "streams":  "https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Antenna 2 TV",
+        "logo":  "https://i.imgur.com/kNrzk3X.png",
+        "website":  "https://players.fluidstream.it/Antenna2TV/",
+        "country":  "IT",
+        "streams":  "https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Antenna Sud",
+        "logo":  "https://i.postimg.cc/3wpVY7Jc/antennasud.png",
+        "website":  "https://www.antennasud.com/streaming/",
+        "country":  "IT",
+        "streams":  "https://live.antennasudwebtv.it:9443/hls/vod.m3u8"
+    },
+    {
+        "name":  "Antenna Sud Extra",
+        "logo":  "https://i.imgur.com/kiCcHzc.png",
+        "website":  "https://www.antennasud.com/streaming-92/",
+        "country":  "IT",
+        "streams":  "https://live.antennasudwebtv.it:9443/hls/vod92.m3u8"
+    },
+    {
+        "name":  "Antenna Tre",
+        "logo":  null,
+        "website":  "https://antennatre.medianordest.it/",
+        "country":  "IT",
+        "streams":  "https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8"
+    },
+    {
+        "name":  "Apulia Web TV",
+        "logo":  "https://i.imgur.com/IALtpMt.png",
+        "website":  "https://www.apuliawebtv.it/",
+        "country":  "IT",
+        "streams":  "https://cp1.server89.com:19360/apuliawebtv/apuliawebtv.m3u8"
+    },
+    {
+        "name":  "Arte Investimenti",
+        "logo":  "https://i.postimg.cc/4nkhCz8M/arteinvestimenti.png",
+        "website":  "https://www.arteinvestimenti.it/",
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/arteinvestimenti/playlist.m3u8"
+    },
+    {
+        "name":  "Aurora Arte",
+        "logo":  "https://i.postimg.cc/s2QQ26t8/auroraarte.png",
+        "website":  "https://www.auroraarte.it/it/",
+        "country":  "IT",
+        "streams":  "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8"
+    },
+    {
+        "name":  "Azzurra TV",
+        "logo":  "https://i.imgur.com/qWIZNEc.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8"
+    },
+    {
+        "name":  "BeJoy.kids",
+        "logo":  "https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png",
+        "website":  "https://www.bejoy.kids",
+        "country":  "IT",
+        "streams":  "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8"
+    },
+    {
+        "name":  "Bergamo TV",
+        "logo":  "https://i.imgur.com/Np3RaKv.png",
+        "website":  "https://bergamotv.it/",
+        "country":  "IT",
+        "streams":  "https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8"
+    },
+    {
+        "name":  "Bike Channel",
+        "logo":  "https://i.postimg.cc/yxy4yKSG/bikechannel.png",
+        "website":  "https://bikechannel.it/",
+        "country":  "IT",
+        "streams":  "http://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/playlist.m3u8"
+    },
+    {
+        "name":  "Blaze",
+        "logo":  "https://i.postimg.cc/Hn2R7tqD/blaze.png",
+        "website":  "http://www.blazetv.it/",
+        "country":  "IT",
+        "streams":  "https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8"
+    },
+    {
+        "name":  "Bom Channel",
+        "logo":  "https://i.postimg.cc/3wTXPHy1/bomchannel.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/bomchannel/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "ByoBlu",
+        "logo":  "https://www.lyngsat.com/logo/tv/bb/byoblu-it.png",
+        "website":  "https://www.byoblu.com/diretta-tv/",
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/byoblu/playlist.m3u8"
+    },
+    {
+        "name":  "CafeTV24",
+        "logo":  "https://i.imgur.com/SRFzjja.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://srvx1.selftv.video/cafe/live/playlist.m3u8"
+    },
+    {
+        "name":  "Calabria TV",
+        "logo":  "https://i.imgur.com/noTgJJp.png",
+        "website":  "https://calabriatv.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://5db313b643fd8.streamlock.net/CalabriaTv2/CalabriaTv2/playlist.m3u8",
+                        "https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Camera dei Deputati",
+        "logo":  "https://i.postimg.cc/QxgpGd7z/cameradeideputati.png",
+        "website":  "https://www.camera.it/",
+        "country":  "IT",
+        "streams":  "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
+    },
+    {
+        "name":  "Canale 21 Extra",
+        "logo":  "https://i.imgur.com/Jy8lMOg.png",
+        "website":  "http://www.canale21.it/",
+        "country":  "IT",
+        "streams":  "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8"
+    },
+    {
+        "name":  "Canale 2 Altamura",
+        "logo":  "https://i.imgur.com/7XXdN5T.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8"
+    },
+    {
+        "name":  "Canale 5",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png",
+        "website":  "https://mediasetinfinity.mediaset.it/canale5",
+        "country":  "IT",
+        "streams":  [
+                        "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canale 7",
+        "logo":  "https://i.postimg.cc/qByKyv17/canale7.png",
+        "website":  "https://www.canale7.tv/contatti.html",
+        "country":  "IT",
+        "streams":  [
+                        "http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8",
+                        "http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canale 8",
+        "logo":  "https://i.imgur.com/xwYmFgj.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8",
+                        "http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canale Dieci",
+        "logo":  "https://i.imgur.com/8Pay0Vv.png",
+        "website":  "https://canaledieci.it/",
+        "country":  "IT",
+        "streams":  "http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8"
+    },
+    {
+        "name":  "Canale Italia",
+        "logo":  "https://i.postimg.cc/4xNHDbsK/canaleitalia.png",
+        "website":  "https://canaleitalia.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/canaleitaliaextra/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "CarinaTV",
+        "logo":  "https://i.imgur.com/ANGD7gv.png",
+        "website":  "https://www.carinatv.it/",
+        "country":  "IT",
+        "streams":  "https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8"
+    },
+    {
+        "name":  "Casa Italia 53",
+        "logo":  "https://i.imgur.com/X8BI1Md.png",
+        "website":  "https://casaitalia.tv/streaming-tv/",
+        "country":  "IT",
+        "streams":  "https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8"
+    },
+    {
+        "name":  "CG Entertainment",
+        "logo":  "https://i.imgur.com/XeWzy7e.png",
+        "website":  "https://www.cgtv.it/",
+        "country":  "IT",
+        "streams":  "https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "name":  "Channel 24",
+        "logo":  "https://i.imgur.com/5bI0vsw.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/channel24/playlist.m3u8"
+    },
+    {
+        "name":  "Cielo",
+        "logo":  "https://i.postimg.cc/QdTVG6vd/cielo.png",
+        "website":  "https://www.cielotv.it/",
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/cielo/playlist.m3u8"
+    },
+    {
+        "name":  "Cine34",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/512px-Cine34_logo.svg.png",
+        "website":  "https://www.mediasetplay.mediaset.it/cine34",
+        "country":  "IT",
+        "streams":  [
+                        "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/cine34/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Class CNBC",
+        "logo":  "https://i.postimg.cc/MKsr25VN/classcnbc.png",
+        "website":  "https://video.milanofinanza.it/",
+        "country":  "IT",
+        "streams":  "https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8"
+    },
+    {
+        "name":  "Classica",
+        "logo":  "https://i.imgur.com/AiOZyXP.png",
+        "website":  "http://www.mondoclassica.it/",
+        "country":  "IT",
+        "streams":  [
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=6c280711-30d3-11ef-9cf5-e9ddff8ff496\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=1c3ac7db-5cfe-4d39-aec3-70a684e58c38",
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240c3f9189ce00087dd17e/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=2c799157-35fc-11ef-a031-2b5d494037a2\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=b0939c7d-0d09-49b1-a6ca-f5d30195d075"
+                    ]
+    },
+    {
+        "name":  "Comedy Central",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png",
+        "website":  "http://www.comedycentral.it/",
+        "country":  "IT",
+        "streams":  "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=bc03faa5-401f-4a68-9972-153b1f336cac"
+    },
+    {
+        "name":  "Company TV",
+        "logo":  "https://i.imgur.com/ccdwsWj.png",
+        "website":  "https://www.radiocompany.com/companytv/",
+        "country":  "IT",
+        "streams":  "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8"
+    },
+    {
+        "name":  "Crime + Investigation",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "https://fl7.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8",
+                        "https://tvpass.org/live/CrimePlusInvestigation/hd",
+                        "https://tvpass.org/live/CrimePlusInvestigation/sd"
+                    ]
+    },
+    {
+        "name":  "Cusano Italia TV",
+        "logo":  "https://i.postimg.cc/yYVYr1yn/cusanoitaliatv.png",
+        "website":  "https://cusanoitaliatv.it/",
+        "country":  "IT",
+        "streams":  "https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8"
+    },
+    {
+        "name":  "Deejay TV",
+        "logo":  "https://i.postimg.cc/8zyC82zW/deejaytv.png",
+        "website":  "https://www.deejay.it/",
+        "country":  "IT",
+        "streams":  "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
+    },
+    {
+        "name":  "Deluxe 139",
+        "logo":  "https://i.postimg.cc/Y0wrfkdc/deluxe139.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/deluxe139/playlist.m3u8"
+    },
+    {
+        "name":  "DI.TV 80",
+        "logo":  "https://i.imgur.com/2AqKAMy.png",
+        "website":  "http://www.di-tv.net/diretta-streaming/ditv-80/",
+        "country":  "IT",
+        "streams":  "https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8"
+    },
+    {
+        "name":  "Donna Shopping",
+        "logo":  "https://i.imgur.com/PmFmapr.png",
+        "website":  "https://donnashoppingtv.it/",
+        "country":  "IT",
+        "streams":  "https://5926fc9c7c5b2.streamlock.net/9354/9354/playlist.m3u8"
+    },
+    {
+        "name":  "Donna TV",
+        "logo":  "https://i.postimg.cc/6QmLQbY4/donnatv.png",
+        "website":  "https://www.donnatv.com/",
+        "country":  "IT",
+        "streams":  "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
+    },
+    {
+        "name":  "Elive TV Brescia",
+        "logo":  "https://i.imgur.com/gZxjLph.png",
+        "website":  "https://www.elivebrescia.tv/",
+        "country":  "IT",
+        "streams":  "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8"
+    },
+    {
+        "name":  "Entella TV",
+        "logo":  "https://i.imgur.com/pGJcMmB.png",
+        "website":  "https://www.entellatv.net/",
+        "country":  "IT",
+        "streams":  "https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8"
+    },
+    {
+        "name":  "EQUtv",
+        "logo":  "https://i.postimg.cc/QN5PRcdJ/equtv.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/equtv/playlist.m3u8"
+    },
+    {
+        "name":  "Esperia TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png",
+        "website":  "https://esperia.tv/",
+        "country":  "IT",
+        "streams":  [
+                        "http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8",
+                        "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Etna Espresso Channel",
+        "logo":  "https://i.imgur.com/lSI5QgV.png",
+        "website":  "https://www.radioetnaespresso.com/",
+        "country":  "IT",
+        "streams":  "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8"
+    },
+    {
+        "name":  "eTv Marche",
+        "logo":  "https://i.imgur.com/U6OW577.png",
+        "website":  "https://etvmarche.it/",
+        "country":  "IT",
+        "streams":  "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8"
+    },
+    {
+        "name":  "eTv Rete 7",
+        "logo":  "https://i.imgur.com/xYVI5OC.png",
+        "website":  "https://e-tv.it/",
+        "country":  "IT",
+        "streams":  "https://live.ipstream.it/etv/etv.stream/playlist.m3u8"
+    },
+    {
+        "name":  "Euro Indie Music Chart TV",
+        "logo":  "https://i.imgur.com/lF0iofX.png",
+        "website":  "https://euroindiemusic.info/",
+        "country":  "IT",
+        "streams":  "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8"
+    },
+    {
+        "name":  "Euro TV",
+        "logo":  "https://i.imgur.com/HFWWzKT.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8"
+    },
+    {
+        "name":  "Extra TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/ee/extra-tv-it.png",
+        "website":  "https://www.extratv.it/",
+        "country":  "IT",
+        "streams":  "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8"
+    },
+    {
+        "name":  "Fano TV",
+        "logo":  "https://i.imgur.com/rN6h7XU.png",
+        "website":  "https://www.fanotv.it/",
+        "country":  "IT",
+        "streams":  "https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8"
+    },
+    {
+        "name":  "Fire TV",
+        "logo":  "https://i.imgur.com/B6OZOvN.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/firetv/playlist.m3u8"
+    },
+    {
+        "name":  "FM ITALIA",
+        "logo":  "https://i.imgur.com/54CO2u9.png",
+        "website":  "https://www.radiofmitalia.it/",
+        "country":  "IT",
+        "streams":  "https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8"
+    },
+    {
+        "name":  "Genius 240",
+        "logo":  "https://www.lyngsat.com/logo/tv/gg/genius-240-it.png",
+        "website":  "https://vaughn.live/geniussrl",
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/genius240/playlist.m3u8"
+    },
+    {
+        "name":  "Giornale Radio TV",
+        "logo":  "https://i.imgur.com/2Y5qiao.png",
+        "website":  "https://giornaleradio.fm/canali-tv/giornaleradio-tv",
+        "country":  "IT",
+        "streams":  "https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Giovanni Paolo TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/gg/giovanni-paolo-tv-it.png",
+        "website":  "https://diretta.giovannipaolotv.it/",
+        "country":  "IT",
+        "streams":  "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8"
+    },
+    {
+        "name":  "GM24",
+        "logo":  "https://i.imgur.com/PoXd0su.png",
+        "website":  "https://www.gm24.it/",
+        "country":  "IT",
+        "streams":  "https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8"
+    },
+    {
+        "name":  "Gold TV",
+        "logo":  "https://i.imgur.com/Yzc47k9.png",
+        "website":  "https://www.goldtv.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8",
+                        "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/goldtvitalia/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Gold TV Sat",
+        "logo":  "https://i.imgur.com/gQzNIg5.png",
+        "website":  "https://www.grupposciscione.it/gold-tv-sat/",
+        "country":  "IT",
+        "streams":  [
+                        "https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8",
+                        "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "GO-TV Canale 163",
+        "logo":  "https://i.imgur.com/11V0QSp.png",
+        "website":  "https://www.go-tv.org/it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/globaltv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "GRP VERATV",
+        "logo":  "https://i.imgur.com/jasSHXJ.png",
+        "website":  "https://grp.it/diretta/",
+        "country":  "IT",
+        "streams":  "https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8"
+    },
+    {
+        "name":  "History",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",
+        "website":  "https://www.historychannel.it/",
+        "country":  "IT",
+        "streams":  "https://fl7.moveonjoy.com/history_channel/index.m3u8"
+    },
+    {
+        "name":  "Horse TV",
+        "logo":  "https://i.postimg.cc/B6W5DY18/horsetv.png",
+        "website":  "https://www.classhorse.tv/",
+        "country":  "IT",
+        "streams":  "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8"
+    },
+    {
+        "name":  "Icaro TV",
+        "logo":  "https://i.imgur.com/nWBWzNy.png",
+        "website":  "https://www.icaroplay.it/icarotv/",
+        "country":  "IT",
+        "streams":  "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8"
+    },
+    {
+        "name":  "Info Media News",
+        "logo":  "https://i.imgur.com/uFSDnOr.png",
+        "website":  "https://infomedianews.com/",
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/infomedianews/playlist.m3u8"
+    },
+    {
+        "name":  "InWild",
+        "logo":  "https://i.imgur.com/48atMgj.png",
+        "website":  "https://www.inwild.com/",
+        "country":  "IT",
+        "streams":  [
+                        "https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8",
+                        "https://inwild-samsungau.amagi.tv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Iris",
+        "logo":  "https://i.postimg.cc/VvtktgnN/iris.png",
+        "website":  "https://www.mediasetplay.mediaset.it/iris",
+        "country":  "IT",
+        "streams":  "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8"
+    },
+    {
+        "name":  "Italia 1",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png",
+        "website":  "https://www.mediasetplay.mediaset.it/italia1",
+        "country":  "IT",
+        "streams":  [
+                        "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8"
+                    ]
+    },
+    {
+        "name":  "Italia 2",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/512px-Logo_Italia2.svg.png",
+        "website":  "https://www.mediasetplay.mediaset.it/italia2",
+        "country":  "IT",
+        "streams":  [
+                        "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8",
+                        "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Italia2TV",
+        "logo":  "https://i.imgur.com/TDSgG28.png",
+        "website":  "https://www.italia2tv.it/",
+        "country":  "IT",
+        "streams":  "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8"
+    },
+    {
+        "name":  "Italia 7",
+        "logo":  "https://i.imgur.com/xc0kUHk.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "http://151.0.207.99:1935/italia7/italia7/playlist.m3u8",
+                        "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Italia Channel",
+        "logo":  "https://i.postimg.cc/TPP20fgF/italiachannel.png",
+        "website":  "https://www.italiachannel.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://stream1.aswifi.it/italiachannel/stream/index.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/italiachannel/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Italian Fishing TV",
+        "logo":  "https://i.postimg.cc/7LQHQdN6/italianfishingtv.png",
+        "website":  "https://www.italianfishingtv.it/",
+        "country":  "IT",
+        "streams":  "https://fms.premio.link/fishingtv/playlist.m3u8"
+    },
+    {
+        "name":  "Iunior TV",
+        "logo":  "https://i.imgur.com/FBOJnfT.png",
+        "website":  "https://iuniortv.blogspot.com/2021/06/iunior-tv-e-una-televisione-tematica.html",
+        "country":  "IT",
+        "streams":  "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8"
+    },
+    {
+        "name":  "Juwelo",
+        "logo":  "https://i.postimg.cc/bwD3t2FB/juwelo.png",
+        "website":  "https://www.juwelo.it/",
+        "country":  "IT",
+        "streams":  "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8"
+    },
+    {
+        "name":  "K2",
+        "logo":  "https://i.postimg.cc/N0RDNvt8/k2.png",
+        "website":  "https://www.discoveryplus.com/it/channel/k2",
+        "country":  "IT",
+        "streams":  "http://212.28.87.173:8000/play/a10y/index.m3u8"
+    },
+    {
+        "name":  "Kiss Kiss Napoli TV",
+        "logo":  "https://i.imgur.com/RsGiBwE.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Kiss Kiss TV",
+        "logo":  "https://i.imgur.com/ja6c2YZ.png",
+        "website":  "https://www.kisskiss.it/kisskiss-tv.html",
+        "country":  "IT",
+        "streams":  [
+                        "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
+                        "https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8",
+                        "https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/radiokisskisstv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "La4 Italia",
+        "logo":  "https://i.imgur.com/U5t2uhw.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/la4italia/playlist.m3u8"
+    },
+    {
+        "name":  "La5",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La5_Mediaset.svg/512px-La5_Mediaset.svg.png",
+        "website":  "https://www.mediasetplay.mediaset.it/la5",
+        "country":  "IT",
+        "streams":  "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8"
+    },
+    {
+        "name":  "LA7",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png",
+        "website":  "https://www.la7.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live.m3u8",
+                        "https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/la7hd/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8"
+                    ]
+    },
+    {
+        "name":  "LA7d",
+        "logo":  "https://i.postimg.cc/2y58cYsV/la7d.png",
+        "website":  "https://www.la7.it/la7d",
+        "country":  "IT",
+        "streams":  [
+                        "https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/la7d/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8"
+                    ]
+    },
+    {
+        "name":  "Lab TV",
+        "logo":  "https://i.imgur.com/bgtw1fu.png",
+        "website":  "https://www.labtv.net/",
+        "country":  "IT",
+        "streams":  "http://live.sloode.com:1935/labtv_live/labtv/playlist.m3u8"
+    },
+    {
+        "name":  "LaC News 24",
+        "logo":  "https://www.omnys.com/media/news/lac-news24-icona.png",
+        "website":  "https://www.lacplay.it/dirette/lac-news24/",
+        "country":  "IT",
+        "streams":  "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
+    },
+    {
+        "name":  "La C TV",
+        "logo":  "https://i.postimg.cc/7ZzPQmWM/lactv.png",
+        "website":  "https://www.lactv.it/",
+        "country":  "IT",
+        "streams":  "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8"
+    },
+    {
+        "name":  "L\u0027altro Corriere TV",
+        "logo":  "https://i.imgur.com/05YWVCq.png",
+        "website":  "https://www.laltrocorriere.it/",
+        "country":  "IT",
+        "streams":  "https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8"
+    },
+    {
+        "name":  "La TR3 Marsala",
+        "logo":  "https://i.imgur.com/R4sqZQu.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8"
+    },
+    {
+        "name":  "Lazio TV",
+        "logo":  "https://i.imgur.com/TNLD9yD.png",
+        "website":  "https://www.laziotv.it/",
+        "country":  "IT",
+        "streams":  [
+                        "http://151.0.207.99:1935/live/LAZIOTV12/playlist.m3u8",
+                        "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Le Cronache TV",
+        "logo":  "https://i.imgur.com/d8ziiEJ.png",
+        "website":  "http://www.lecronache.info/diretta/",
+        "country":  "IT",
+        "streams":  [
+                        "http://77.68.40.210:8888/hls/cronache.m3u8",
+                        "http://stucazz.com:8888/hls/cronache.m3u8"
+                    ]
+    },
+    {
+        "name":  "Linea Gem",
+        "logo":  "https://i.imgur.com/hga7xDe.png",
+        "website":  "https://www.lineagem.it/",
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/lineagem/playlist.m3u8"
+    },
+    {
+        "name":  "Lira TV",
+        "logo":  "https://i.imgur.com/sC9ELuY.jpg",
+        "website":  "https://www.liratv.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8",
+                        "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Lombardia TV",
+        "logo":  "https://i.imgur.com/frVhm9q.png",
+        "website":  "https://www.lombardiatv.com/",
+        "country":  "IT",
+        "streams":  "https://5db313b643fd8.streamlock.net/LOMBARDIATV/LOMBARDIATV/playlist.m3u8"
+    },
+    {
+        "name":  "Love in Venice",
+        "logo":  "https://i.imgur.com/Jv4WiO6.png",
+        "website":  "https://live-tv-channels.org/livetv/love-in-venice-live-stream",
+        "country":  "IT",
+        "streams":  "https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8"
+    },
+    {
+        "name":  "Lucania Channel",
+        "logo":  "https://i.imgur.com/Hje56yA.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "http://wms.shared.streamshow.it/lucaniatv/lucaniatv/playlist.m3u8"
+    },
+    {
+        "name":  "Luna TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/ll/luna-tv-it.png",
+        "website":  "https://www.teleliguriasud.it/diretta-lunatv/",
+        "country":  "IT",
+        "streams":  "https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8"
+    },
+    {
+        "name":  "m2o TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png",
+        "website":  "https://www.m2o.it/",
+        "country":  "IT",
+        "streams":  "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8"
+    },
+    {
+        "name":  "MadeinBO TV",
+        "logo":  "https://i.postimg.cc/TY4qcYz5/madeinbotv.png",
+        "website":  "https://www.madeinbo.tv/",
+        "country":  "IT",
+        "streams":  "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8"
+    },
+    {
+        "name":  "Maria Vision Italia",
+        "logo":  "https://www.lyngsat.com/logo/tv/mm/maria-plus-vision-italia-mx-it.png",
+        "website":  "https://www.mariavision.com/mvitaliaenvivo",
+        "country":  "IT",
+        "streams":  [
+                        "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/mariavision/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Mediaset Extra",
+        "logo":  "https://i.postimg.cc/76SwK6tH/mediasetextra.png",
+        "website":  "https://www.mediasetplay.mediaset.it/mediasetextra",
+        "country":  "IT",
+        "streams":  "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8"
+    },
+    {
+        "name":  "Mediaset Italia",
+        "logo":  "https://i.postimg.cc/PJ4hk7k0/mediasetitalia.png",
+        "website":  "https://mediasetitalia.com/",
+        "country":  "IT",
+        "streams":  "https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8"
+    },
+    {
+        "name":  "Media TV",
+        "logo":  "https://i.ibb.co/sH68dFn/300071550-488761809922583-110799127788713907-n.jpg",
+        "website":  "https://www.media-tv.it/",
+        "country":  "IT",
+        "streams":  "http://live.sloode.com:1935/mediatv/live/playlist.m3u8"
+    },
+    {
+        "name":  "MediterraniaTV",
+        "logo":  "https://i.imgur.com/PJbXCoe.png",
+        "website":  "https://www.mediterraneatv.it/",
+        "country":  "IT",
+        "streams":  "https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8"
+    },
+    {
+        "name":  "Medjugorje Italia TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/mm/medjugorje_italia_tv_ba.png",
+        "website":  "https://www.medjugorjeitaliatv.net/",
+        "country":  "IT",
+        "streams":  "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
+    },
+    {
+        "name":  "Minformo TV",
+        "logo":  "https://i.imgur.com/9Oq6fLw.png",
+        "website":  "https://www.minformo.tv/",
+        "country":  "IT",
+        "streams":  "https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8"
+    },
+    {
+        "name":  "Motor Trend",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/512px-Motor_Trend_logo.svg.png",
+        "website":  "http://www.motortrendtv.it/",
+        "country":  "IT",
+        "streams":  "http://104.255.88.155/motortrend/index.m3u8"
+    },
+    {
+        "name":  "MTV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
+        "website":  "https://www.mtv.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8"
+                    ]
+    },
+    {
+        "name":  "MTV Music",
+        "logo":  "https://i.postimg.cc/RCJvRprX/mtvmusic.png",
+        "website":  "http://www.mtv.it/",
+        "country":  "IT",
+        "streams":  [
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=a56dace8-66e4-4b9a-a55f-d5348160dae2",
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=84ae0440-4b92-11ef-aece-533610f1ea34\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=64060fde-9aa0-457f-ba59-1d8c28109d33",
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=bc848fc8-4b91-11ef-8a44-83c5e90e038f\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=f02a8ef1-7c07-44f9-9197-c9b197dbc277"
+                    ]
+    },
+    {
+        "name":  "National Geographic",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "website":  "http://natgeotv.nationalgeographic.it/",
+        "country":  "IT",
+        "streams":  [
+                        "http://62.210.211.188:2095/play/a00d",
+                        "http://78.130.250.2:8023/play/a02e/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeohd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "National Geographic Wild",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "website":  "http://www.natgeowild.it/",
+        "country":  "IT",
+        "streams":  [
+                        "http://78.130.250.2:8023/play/a02c/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeowild/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Nautical Channel",
+        "logo":  "https://i.postimg.cc/j2xQsnrj/nauticalchannel.png",
+        "website":  "https://nauticalchannel.com/",
+        "country":  "IT",
+        "streams":  [
+                        "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8",
+                        "https://streams2.sofast.tv/vglive-sk-231198/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "NewSignal",
+        "logo":  "https://i.imgur.com/UnZoS95.png",
+        "website":  "https://www.newsignal.it/",
+        "country":  "IT",
+        "streams":  "https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8"
+    },
+    {
+        "name":  "Nickelodeon",
+        "logo":  "https://i.postimg.cc/VkdqdrkH/nickelodeon.png",
+        "website":  "http://www.nicktv.it/",
+        "country":  "IT",
+        "streams":  [
+                        "http://185.236.229.62:9981/play/a067",
+                        "http://195.64.140.147:10121/121",
+                        "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+                        "http://46.8.46.14/Nickelodeon/index.m3u8",
+                        "http://87.246.60.6:11004/?token=fas-tv.com",
+                        "http://92.114.85.72:8000/play/a02o",
+                        "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php"
+                    ]
+    },
+    {
+        "name":  "NTN",
+        "logo":  "https://i.imgur.com/AW5fJwa.png",
+        "website":  "https://www.nuovatvnazionale.it/",
+        "country":  "IT",
+        "streams":  "https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8"
+    },
+    {
+        "name":  "Nuova TV 1",
+        "logo":  "https://i.imgur.com/zRu9WGh.png",
+        "website":  "https://nuovatv.net/",
+        "country":  "IT",
+        "streams":  "https://nuovatv.net:8443/tv/stream.m3u8"
+    },
+    {
+        "name":  "Nuova TV 2",
+        "logo":  "https://i.imgur.com/zRu9WGh.png",
+        "website":  "https://nuovatv.net/",
+        "country":  "IT",
+        "streams":  "https://nuovatv.net:8443/tv2/stream.m3u8"
+    },
+    {
+        "name":  "Odeon 24",
+        "logo":  "https://i.postimg.cc/MKc0GfT3/odeon24.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8"
+    },
+    {
+        "name":  "Onda Novara TV",
+        "logo":  "https://i.imgur.com/DTxhOhT.png",
+        "website":  "https://www.ondanovara.it/",
+        "country":  "IT",
+        "streams":  "https://585b674743bbb.streamlock.net/9006/9006/master.m3u8"
+    },
+    {
+        "name":  "Onda TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg",
+        "website":  "https://www.ondatv.it/",
+        "country":  "IT",
+        "streams":  "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8"
+    },
+    {
+        "name":  "Orler TV",
+        "logo":  "https://i.postimg.cc/RZH2z89h/orlertv.png",
+        "website":  "https://www.orler.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/orlertv/playlist.m3u8",
+                        "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Otto Channel",
+        "logo":  "https://i.imgur.com/zxdwM4f.png",
+        "website":  "https://www.ottochannel.tv/",
+        "country":  "IT",
+        "streams":  "https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8"
+    },
+    {
+        "name":  "Paci Contemporary Channel",
+        "logo":  "https://i.postimg.cc/L8KNjsK4/pacicontemporarychannel.png",
+        "website":  "https://www.pacicontemporary.com/",
+        "country":  "IT",
+        "streams":  "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
+    },
+    {
+        "name":  "Padre Pio TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg",
+        "website":  "https://www.teleradiopadrepio.it/",
+        "country":  "IT",
+        "streams":  [
+                        "http://80.79.6.221:25461/smash/public/8",
+                        "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/padrepiotv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Paradise TV",
+        "logo":  "https://i.imgur.com/OKhpyWr.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8"
+    },
+    {
+        "name":  "Parole di Vita",
+        "logo":  "https://i.postimg.cc/FF0pbLmf/paroledivita.png",
+        "website":  "https://paroledivita.org/",
+        "country":  "IT",
+        "streams":  "https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8"
+    },
+    {
+        "name":  "Partenope TV",
+        "logo":  "https://i.imgur.com/6PxkHBR.png",
+        "website":  "https://www.partenope.tv/",
+        "country":  "IT",
+        "streams":  "https://streamlive.arcapuglia.it:8080/live/partenope/index.m3u8"
+    },
+    {
+        "name":  "Passione Lotto",
+        "logo":  "https://i.imgur.com/jYmy4G5.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8"
+    },
+    {
+        "name":  "Peer TV Alto Adige",
+        "logo":  "https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",
+        "website":  "https://www.peer.tv/it",
+        "country":  "IT",
+        "streams":  "https://iptv.peer.biz/live/peertv-it.m3u8"
+    },
+    {
+        "name":  "Peer TV South Tyrol",
+        "logo":  "https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png",
+        "website":  "https://www.peer.tv/en",
+        "country":  "IT",
+        "streams":  "https://iptv.peer.biz/live/peertv-en.m3u8"
+    },
+    {
+        "name":  "Peer TV Sudtirol",
+        "logo":  "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png",
+        "website":  "https://www.peer.tv/",
+        "country":  "IT",
+        "streams":  "https://iptv.peer.biz/live/peertv.m3u8"
+    },
+    {
+        "name":  "Prima Free",
+        "logo":  "https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg",
+        "website":  "https://www.primafree.net/",
+        "country":  "IT",
+        "streams":  [
+                        "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/primafree/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "PrimAntenna TV",
+        "logo":  "https://i.imgur.com/4Bx2321.png",
+        "website":  "https://www.primantenna.tv/",
+        "country":  "IT",
+        "streams":  "https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8"
+    },
+    {
+        "name":  "Prima TV",
+        "logo":  "https://i.imgur.com/HE9c8Sk.png",
+        "website":  "https://www.primatv.tv/",
+        "country":  "IT",
+        "streams":  "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
+    },
+    {
+        "name":  "Prima TV Napoli",
+        "logo":  "https://i.imgur.com/48BCOUZ.png",
+        "website":  "http://www.primatvnapoli.com/",
+        "country":  "IT",
+        "streams":  "https://stream1.aswifi.it/primatvnapoli/live/index.m3u8"
+    },
+    {
+        "name":  "Primocanale",
+        "logo":  "https://i.imgur.com/eunZ2Sa.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/primocanale/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Promovideo TV",
+        "logo":  "https://i.imgur.com/eKpS5Ck.png",
+        "website":  "https://www.promovideotv.com/",
+        "country":  "IT",
+        "streams":  "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8"
+    },
+    {
+        "name":  "Quarto Canale Flegreo",
+        "logo":  "https://i.imgur.com/XfNSWp0.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "QVC",
+        "logo":  "https://i.postimg.cc/7PXF1dqJ/qvc.png",
+        "website":  "https://www.qvc.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/qvchd/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "R101 TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/R101_-_Logo_2015.svg/512px-R101_-_Logo_2015.svg.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8"
+    },
+    {
+        "name":  "Radio 105 TV",
+        "logo":  "https://i.postimg.cc/HWSN8MtQ/radio105tv.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8"
+    },
+    {
+        "name":  "Radio 51 TV",
+        "logo":  "https://i.imgur.com/UupkBt6.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "http://178.32.140.155/canale51/canale51/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Birikina TV",
+        "logo":  "https://i.imgur.com/CFAx6m5.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Radiofreccia",
+        "logo":  "https://i.postimg.cc/6QLjW434/radiofreccia.png",
+        "website":  "https://play.rtl.it/live/17/radiofreccia-radiovisione/",
+        "country":  "IT",
+        "streams":  [
+                        "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/radiofreccia/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Radio Ibiza TV",
+        "logo":  "https://i.imgur.com/KfFqYQi.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Iglesias",
+        "logo":  "https://i.postimg.cc/C1ccDybF/radioiglesias.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Iglesias Sardegna",
+        "logo":  "https://i.imgur.com/KDtVpLl.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Italia Anni 60 TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/rr/radio-italia-anni-60-tv-it.png",
+        "website":  "https://www.radioitaliaanni60.it/",
+        "country":  "IT",
+        "streams":  "https://tvd-ria60.fluid.stream/Anni60TV/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Italia Trend TV",
+        "logo":  "https://i.postimg.cc/Zn0VxfL6/radioitaliatrendtv.png",
+        "website":  "https://www.radioitalia.it/radioitaliatrend.php",
+        "country":  "IT",
+        "streams":  [
+                        "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8",
+                        "https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Radio Italia TV",
+        "logo":  "https://i.imgur.com/XqNhQp6.png",
+        "website":  "https://www.radioitalia.it/info/radio-italia-tv",
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/radioitalia/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Monte Carlo TV",
+        "logo":  "https://i.imgur.com/by9XvWF.png",
+        "website":  "https://www.radiomontecarlo.net/",
+        "country":  "IT",
+        "streams":  "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8"
+    },
+    {
+        "name":  "Radio Number One",
+        "logo":  "https://i.postimg.cc/c4gFKbCS/radionumberone.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Piter Pan TV",
+        "logo":  "https://i.imgur.com/hbqVWV4.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Radio TV",
+        "logo":  "https://i.postimg.cc/rw5gjR5Z/radioradiotv.png",
+        "website":  "https://www.radioradio.it/",
+        "country":  "IT",
+        "streams":  "https://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8"
+    },
+    {
+        "name":  "Radio Studio Delta TV",
+        "logo":  "https://i.imgur.com/xJqVOpn.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Taormina Sicilia",
+        "logo":  "https://i.imgur.com/SrhtocV.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Zeta",
+        "logo":  "https://i.imgur.com/K2xLMin.png",
+        "website":  "https://play.rtl.it/live/18/radio-zeta-radiovisione/",
+        "country":  "IT",
+        "streams":  [
+                        "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8",
+                        "https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/radiozeta/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rai 1",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png",
+        "website":  "https://www.rai.it/rai1/",
+        "country":  "IT",
+        "streams":  [
+                        "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
+                        "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803",
+                        "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803",
+                        "https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rai 2",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png",
+        "website":  "https://www.rai.it/rai2/",
+        "country":  "IT",
+        "streams":  [
+                        "http://stream.tvtap.net:8081/live/it-rai2.stream/playlist.m3u8",
+                        "https://m3u.iranvids.com/rai02/output.m3u8",
+                        "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718",
+                        "https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rai 3",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
+        "website":  "https://www.rai.it/rai3/",
+        "country":  "IT",
+        "streams":  [
+                        "http://stream.tvtap.net:8081/live/it-rai3.stream/playlist.m3u8",
+                        "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8",
+                        "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709",
+                        "https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8",
+                        "https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8",
+                        "https://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rai 4",
+        "logo":  "https://i.postimg.cc/kXbyMRYM/rai4.png",
+        "website":  "https://www.rai.it/rai4/",
+        "country":  "IT",
+        "streams":  [
+                        "http://stream.tvtap.net:8081/live/it-rai4.stream/playlist.m3u8",
+                        "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966",
+                        "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966"
+                    ]
+    },
+    {
+        "name":  "Rai 4K",
+        "logo":  "https://i.postimg.cc/BnfBjZRT/rai4k.png",
+        "website":  "http://www.rai.it/",
+        "country":  "IT",
+        "streams":  "https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8"
+    },
+    {
+        "name":  "Rai 5",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png",
+        "website":  "http://www.rai.it/rai5/",
+        "country":  "IT",
+        "streams":  [
+                        "http://stream.tvtap.net:8081/live/it-rai5.stream/playlist.m3u8",
+                        "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276"
+                    ]
+    },
+    {
+        "name":  "Rai Gulp",
+        "logo":  "https://i.postimg.cc/pd2QBGWy/raigulp.png",
+        "website":  "http://www.raigulp.rai.it/",
+        "country":  "IT",
+        "streams":  [
+                        "http://188.60.179.180:8000/play/xxRaiGulpxx",
+                        "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953",
+                        "https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rai Italia",
+        "logo":  "https://i.postimg.cc/mr8YpYkj/raiitalia.png",
+        "website":  "http://www.raitalia.it/",
+        "country":  "IT",
+        "streams":  "http://210.210.155.37/x6bnqe/s/s63/index2.m3u8"
+    },
+    {
+        "name":  "Rai Movie",
+        "logo":  "https://i.postimg.cc/LX5zcJZp/raimovie.png",
+        "website":  "http://www.rai.it/raimovie/",
+        "country":  "IT",
+        "streams":  [
+                        "http://188.60.179.180:8000/play/xxRaiMOviexx",
+                        "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002"
+                    ]
+    },
+    {
+        "name":  "Rai News 24",
+        "logo":  "https://i.postimg.cc/76RgwqgT/rainews24.png",
+        "website":  "https://www.rainews.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rai Premium",
+        "logo":  "https://i.postimg.cc/rst5p7JZ/raipremium.png",
+        "website":  "http://www.rai.it/raipremium/",
+        "country":  "IT",
+        "streams":  [
+                        "http://188.60.179.180:8000/play/a0oy",
+                        "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992"
+                    ]
+    },
+    {
+        "name":  "Rai Scuola",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png",
+        "website":  "http://www.raiscuola.rai.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011",
+                        "https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rai Sport",
+        "logo":  "https://i.postimg.cc/v81K9B2k/raisport.png",
+        "website":  "https://www.raisport.rai.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rai Storia",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png",
+        "website":  "http://www.rai.it/raistoria/",
+        "country":  "IT",
+        "streams":  [
+                        "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990",
+                        "https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rai Yoyo",
+        "logo":  "https://i.postimg.cc/mgSpRFhz/raiyoyo.png",
+        "website":  "http://www.raiyoyo.rai.it/",
+        "country":  "IT",
+        "streams":  [
+                        "http://188.60.179.180:8000/play/xxRaiYoyo",
+                        "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899"
+                    ]
+    },
+    {
+        "name":  "RDS Social TV",
+        "logo":  "https://i.postimg.cc/Fs5TLxLk/rdssocialtv.png",
+        "website":  "https://www.rds.it/rds-social-tv",
+        "country":  "IT",
+        "streams":  [
+                        "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/rdssocialtv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "ReggioTV",
+        "logo":  "https://i.imgur.com/cEwJkRV.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8"
+    },
+    {
+        "name":  "Rete 4",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png",
+        "website":  "https://www.mediasetplay.mediaset.it/rete4",
+        "country":  "IT",
+        "streams":  [
+                        "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rete 55",
+        "logo":  "https://i.imgur.com/UtS9YLc.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://stream.internet.one/Rete55_Live/index.m3u8"
+    },
+    {
+        "name":  "Rete 8",
+        "logo":  "https://i.imgur.com/jojCxg3.png",
+        "website":  "https://www.rete8.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/rete8/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Rete 8 Sport",
+        "logo":  "https://www.lyngsat.com/logo/tv/rr/rete-8-sport-it.png",
+        "website":  "https://www.rete8.it/canali-tv/rete8-sport/",
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/rete8sport/playlist.m3u8"
+    },
+    {
+        "name":  "Rete 8 VGA",
+        "logo":  "https://i.imgur.com/d2w0wA1.png",
+        "website":  "http://www.telerimini.it/",
+        "country":  "IT",
+        "streams":  "https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8"
+    },
+    {
+        "name":  "Rete Biella TV",
+        "logo":  "https://i.imgur.com/I4OVxIb.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://sb.top-ix.org/retebiella/streaming/playlist.m3u8"
+    },
+    {
+        "name":  "Retemia",
+        "logo":  "https://i.imgur.com/IbzQpfn.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8"
+    },
+    {
+        "name":  "Rete Oro",
+        "logo":  "https://i.postimg.cc/3wsvct7g/reteoro.png",
+        "website":  "https://www.reteoro.tv/",
+        "country":  "IT",
+        "streams":  "https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8"
+    },
+    {
+        "name":  "Retesole Lazio",
+        "logo":  "https://i.imgur.com/vvVgZN2.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8"
+    },
+    {
+        "name":  "Rete TV Italia",
+        "logo":  "https://i.imgur.com/BR7QfUF.png",
+        "website":  "https://www.retetvitalia.it",
+        "country":  "IT",
+        "streams":  "https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8"
+    },
+    {
+        "name":  "Reteveneta",
+        "logo":  "https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8"
+    },
+    {
+        "name":  "Roma TV 82",
+        "logo":  "https://i.imgur.com/tCVlMcj.png",
+        "website":  "https://www.grupposciscione.it/",
+        "country":  "IT",
+        "streams":  "https://streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8"
+    },
+    {
+        "name":  "Rossini TV",
+        "logo":  "https://i.imgur.com/wGKsAk3.png",
+        "website":  "https://www.rossinitv.it/",
+        "country":  "IT",
+        "streams":  "https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-63A6-9EB8-4492/playlist.m3u8"
+    },
+    {
+        "name":  "RTC Quarta Rete",
+        "logo":  "https://i.imgur.com/JZnlFRx.png",
+        "website":  "https://www.rtcquartarete.it",
+        "country":  "IT",
+        "streams":  "https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "RTC Telecalabria",
+        "logo":  "https://i.imgur.com/NnFopuS.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8",
+                        "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "RTL 102.5 Best",
+        "logo":  "https://i.imgur.com/9PNlbaq.png",
+        "website":  "https://play.rtl.it/live/2/rtl-1025-best-tv/",
+        "country":  "IT",
+        "streams":  [
+                        "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/rtl102.5/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "RTL 102.5 Bro\u0026Sis",
+        "logo":  "https://i.imgur.com/EWbK4XZ.png",
+        "website":  "https://play.rtl.it/live/16/bro-and-sis-tv/",
+        "country":  "IT",
+        "streams":  "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8"
+    },
+    {
+        "name":  "RTL 102.5 Caliente",
+        "logo":  "https://i.imgur.com/P0zsi6I.png",
+        "website":  "https://play.rtl.it/live/15/romeo-and-juliet-tv/",
+        "country":  "IT",
+        "streams":  "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8"
+    },
+    {
+        "name":  "RTL 102.5 Disco",
+        "logo":  "https://i.postimg.cc/rwQ6jH1P/rtl1025doc.png",
+        "website":  "https://play.rtl.it/live/21/rtl-1025-doc-tv/",
+        "country":  "IT",
+        "streams":  "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8"
+    },
+    {
+        "name":  "RTL 102.5 Napule",
+        "logo":  "https://i.imgur.com/HFPw1YW.png",
+        "website":  "https://play.rtl.it/live/20/rtl-1025-napule-tv/",
+        "country":  "IT",
+        "streams":  "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8"
+    },
+    {
+        "name":  "RTL 102.5 Traffic",
+        "logo":  "https://i.postimg.cc/pdTw6BkX/rtl1025news.png",
+        "website":  "https://play.rtl.it/live/35/rtl-1025-news-tv/",
+        "country":  "IT",
+        "streams":  "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8"
+    },
+    {
+        "name":  "RTL 102.5 TV",
+        "logo":  "https://i.imgur.com/75qUdR7.png",
+        "website":  "https://play.rtl.it/live/1/radiovisione/",
+        "country":  "IT",
+        "streams":  "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
+    },
+    {
+        "name":  "RTM TV",
+        "logo":  "https://i.imgur.com/w9Twxsi.png",
+        "website":  "https://www.mediasetplay.mediaset.it/mediasetextra",
+        "country":  "IT",
+        "streams":  "https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8"
+    },
+    {
+        "name":  "RTP",
+        "logo":  "https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8"
+    },
+    {
+        "name":  "RTTR Trento",
+        "logo":  "https://i.imgur.com/6DyzN8M.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "RTV38",
+        "logo":  "https://i.imgur.com/YOlwudm.png",
+        "website":  "http://www.rtv38.com/wordpress/",
+        "country":  "IT",
+        "streams":  "https://streamcdne1-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8"
+    },
+    {
+        "name":  "Sardegna Uno",
+        "logo":  "https://i.postimg.cc/C1DScNLn/sardegnauno.png",
+        "website":  "http://www.sardegna1.tv/",
+        "country":  "IT",
+        "streams":  "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Sardegna1.m3u8"
+    },
+    {
+        "name":  "Senato TV",
+        "logo":  "https://i.imgur.com/h4NyN5d.png",
+        "website":  "http://webtv.senato.it/",
+        "country":  "IT",
+        "streams":  "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
+    },
+    {
+        "name":  "Sfera TV",
+        "logo":  "https://i.imgur.com/aGtJnyg.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Siena TV",
+        "logo":  "https://i.imgur.com/KmMIvu8.png",
+        "website":  "https://www.radiosienatv.it/",
+        "country":  "IT",
+        "streams":  "https://stream10.xdevel.com/video0s976727-1544/stream/playlist.m3u8"
+    },
+    {
+        "name":  "SL48 TV",
+        "logo":  "https://i.imgur.com/0iPU3JE.png",
+        "website":  "http://www.sl48.tv/web/home.asp",
+        "country":  "IT",
+        "streams":  "http://media.velcom.it:1935/sl48/sl48/playlist.m3u8"
+    },
+    {
+        "name":  "Sophia TV",
+        "logo":  "https://i.postimg.cc/br6RB4Tm/sophiatv.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8",
+                        "https://www.onairport.live/sophiatv-it-live/livestream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Sportitalia",
+        "logo":  "https://i.postimg.cc/3Nyy36hS/sportitalia.png",
+        "website":  "https://www.sportitalia.com/",
+        "country":  "IT",
+        "streams":  [
+                        "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
+                        "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8",
+                        "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
+                        "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/sportitalia/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Sportitalia 24",
+        "logo":  "https://i.imgur.com/RSwnoLn.png",
+        "website":  "http://www.sportitalia.com/",
+        "country":  "IT",
+        "streams":  "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Sportitalia Motori",
+        "logo":  "https://i.imgur.com/hu56Ya5.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Sportitalia Solocalcio",
+        "logo":  "https://i.postimg.cc/26t69wW4/sportitaliasolocalcio.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8",
+                        "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Stereo 5 TV",
+        "logo":  "https://i.imgur.com/sCDcYFW.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://stream1.aswifi.it/stereo5/live/index.m3u8"
+    },
+    {
+        "name":  "ST Europe Channel",
+        "logo":  "https://i.imgur.com/M5j7y2N.png",
+        "website":  "https://www.globusmagazine.it/st-europe-channel-radiotelevision/",
+        "country":  "IT",
+        "streams":  "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8"
+    },
+    {
+        "name":  "Super!",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/512px-Super%21_logo_2021.svg.png",
+        "website":  "https://www.supertv.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/super!/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Super J TV Teramo",
+        "logo":  "https://i.imgur.com/H3uItqg.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8",
+                        "https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/superj/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Super Six",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png",
+        "website":  "https://www.supersixtv.net/",
+        "country":  "IT",
+        "streams":  "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8"
+    },
+    {
+        "name":  "SuperTennis",
+        "logo":  "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png",
+        "website":  "https://www.supertennis.tv/",
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/supertennis/playlist.m3u8"
+    },
+    {
+        "name":  "Super TV",
+        "logo":  "https://i.imgur.com/hxF3yhw.png",
+        "website":  "http://www.bresciasat.it/",
+        "country":  "IT",
+        "streams":  [
+                        "http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8",
+                        "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Super TV Oristano",
+        "logo":  "https://upload.wikimedia.org/wikipedia/it/2/22/Logosupertvoristano.png",
+        "website":  "http://www.supertvoristano.it/diretta-tv/",
+        "country":  "IT",
+        "streams":  "http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8"
+    },
+    {
+        "name":  "T9",
+        "logo":  "https://i.imgur.com/kQKzpYj.png",
+        "website":  "https://www.grupposciscione.it/t9-2/",
+        "country":  "IT",
+        "streams":  "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
+    },
+    {
+        "name":  "TCF TV",
+        "logo":  "https://i.imgur.com/OeLOX8x.png",
+        "website":  "https://www.tcftv.it/",
+        "country":  "IT",
+        "streams":  "http://live.sloode.com:1935/tcf_live/telecineforum/playlist.m3u8"
+    },
+    {
+        "name":  "TCI",
+        "logo":  "https://i.postimg.cc/28y6RgGn/tci.png",
+        "website":  "https://www.tci-italia.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/tci/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Teatro TV",
+        "logo":  "https://i.imgur.com/GbyLSc2.png",
+        "website":  "http://www.teatrotv.it/",
+        "country":  "IT",
+        "streams":  "https://m.iostream.it/hls/teatrotv/teatrotv.m3u8"
+    },
+    {
+        "name":  "Tele Abruzzo",
+        "logo":  "https://i.imgur.com/XymK2PR.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8"
+    },
+    {
+        "name":  "Teleacras",
+        "logo":  "https://i.imgur.com/c3Kw2XT.png",
+        "website":  "https://www.teleacras.it/",
+        "country":  "IT",
+        "streams":  "https://5cbd3bc28341f.streamlock.net:444/teleacras/live/playlist.m3u8"
+    },
+    {
+        "name":  "TeleAmbiente TV",
+        "logo":  "https://i.imgur.com/c7w7DRL.png",
+        "website":  "https://www.teleambiente.it/",
+        "country":  "IT",
+        "streams":  "https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8"
+    },
+    {
+        "name":  "TeleArena",
+        "logo":  "https://i.postimg.cc/Gh6c0tH1/telearena.png",
+        "website":  "https://www.telearena.it/",
+        "country":  "IT",
+        "streams":  "https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8"
+    },
+    {
+        "name":  "Telearte",
+        "logo":  "https://www.lyngsat.com/logo/tv/tt/tele_arte_it.png",
+        "website":  "https://www.teleartetv.it/streaming/",
+        "country":  "IT",
+        "streams":  "https://s.emisoras.tv:8081/telearte/index.m3u8"
+    },
+    {
+        "name":  "Telebari",
+        "logo":  "https://i.postimg.cc/nh7nnxD9/telebari.png",
+        "website":  "https://www.telebari.it/diretta-tv",
+        "country":  "IT",
+        "streams":  "http://fl1.mediastreaming.it:1935/telebari/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Telebelluno",
+        "logo":  "https://i.postimg.cc/T1pXFvxw/telebelluno.png",
+        "website":  "https://www.telebelluno.it/",
+        "country":  "IT",
+        "streams":  "https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8"
+    },
+    {
+        "name":  "Tele Chiara",
+        "logo":  "https://i.imgur.com/LpXeY4v.png",
+        "website":  "https://telechiara.gruppovideomedia.it/",
+        "country":  "IT",
+        "streams":  "http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8"
+    },
+    {
+        "name":  "Telecolor Lombardia",
+        "logo":  "https://i.imgur.com/QfJqBno.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8"
+    },
+    {
+        "name":  "Telefoggia",
+        "logo":  "https://i.postimg.cc/PqNFbcL4/telefoggia.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8",
+                        "https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Telefriuli",
+        "logo":  "https://i.imgur.com/He3uCs6.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8"
+    },
+    {
+        "name":  "Telegela 647",
+        "logo":  "https://i.imgur.com/ppkX45f.png",
+        "website":  "https://www.quotidianodigela.it/telegela/",
+        "country":  "IT",
+        "streams":  [
+                        "http://live.sloode.com:1935/qdg_live/AF74-FF2C-7350-41F2/playlist.m3u8",
+                        "https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TeleGenova",
+        "logo":  "https://i.imgur.com/UYIUDWF.png",
+        "website":  "https://telegenova.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/telegenova/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Telegranda",
+        "logo":  "https://i.imgur.com/j3r0URO.png",
+        "website":  "https://www.telegranda.net/",
+        "country":  "IT",
+        "streams":  "http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8"
+    },
+    {
+        "name":  "Telejato",
+        "logo":  "https://i.imgur.com/2EJdCJO.png",
+        "website":  "https://www.telejato.it/",
+        "country":  "IT",
+        "streams":  "https://telejato.liberotratto.com/hls/0/stream.m3u8"
+    },
+    {
+        "name":  "Teleliberta",
+        "logo":  "https://i.imgur.com/424KS6J.png",
+        "website":  "https://www.liberta.it/teleliberta-live/",
+        "country":  "IT",
+        "streams":  "https://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8"
+    },
+    {
+        "name":  "Tele Liguria Sud",
+        "logo":  "https://i.imgur.com/OxgSGUW.png",
+        "website":  "https://www.teleliguriasud.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/teleliguriasud/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TeleMajg",
+        "logo":  "https://i.imgur.com/j5fnQ1h.png",
+        "website":  "http://www.telemajg.com/",
+        "country":  "IT",
+        "streams":  "https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8"
+    },
+    {
+        "name":  "Telemantova",
+        "logo":  "https://i.postimg.cc/bww68MRh/telemantova.png",
+        "website":  "https://www.telemantova.it/",
+        "country":  "IT",
+        "streams":  "https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "TeleMia",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png",
+        "website":  "https://www.telemia.it/",
+        "country":  "IT",
+        "streams":  "https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8"
+    },
+    {
+        "name":  "TeleMia Extra",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png",
+        "website":  "https://www.telemia.it/telemia-extra/",
+        "country":  "IT",
+        "streams":  "https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8"
+    },
+    {
+        "name":  "TeleMistretta",
+        "logo":  "https://i.postimg.cc/s2tKY2Cj/telemistretta.png",
+        "website":  "https://www.telemistretta.it/",
+        "country":  "IT",
+        "streams":  "https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Telemolise",
+        "logo":  "https://i.imgur.com/aTs88Es.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/telemolise/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "teleMonteneve",
+        "logo":  "https://i.imgur.com/UAtEkvI.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8"
+    },
+    {
+        "name":  "Telenorba",
+        "logo":  "https://upload.wikimedia.org/wikipedia/it/4/40/Telenorba.png",
+        "website":  "https://norbaonline.it/",
+        "country":  "IT",
+        "streams":  "http://stream2.xdevel.com/video2s976570-2303/stream/playlist_dvr.m3u8"
+    },
+    {
+        "name":  "Telenord",
+        "logo":  "https://telenord.it/assets/images/logo.png",
+        "website":  "https://telenord.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/telenord/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Telenova",
+        "logo":  "https://i.imgur.com/lo9OiWg.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8"
+    },
+    {
+        "name":  "Tele One 16",
+        "logo":  "https://www.lyngsat.com/logo/tv/tt/tele-one-16-it.png",
+        "website":  "https://www.mediaoneonline.it/diretta/",
+        "country":  "IT",
+        "streams":  "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8"
+    },
+    {
+        "name":  "Telepace 1",
+        "logo":  "https://i.imgur.com/TpdsPWG.png",
+        "website":  "https://www.teleradiopace.tv/trasmissioni/",
+        "country":  "IT",
+        "streams":  "https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Telepace 2",
+        "logo":  "https://i.imgur.com/qvcf6QC.png",
+        "website":  "https://www.teleradiopace.tv/trasmissioni/",
+        "country":  "IT",
+        "streams":  "https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Telepace 3",
+        "logo":  "https://i.imgur.com/hE4i2ft.png",
+        "website":  "https://www.teleradiopace.tv/palinsesti-settimana/telepace-3-canale-115/",
+        "country":  "IT",
+        "streams":  "https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Telepace 4",
+        "logo":  "https://i.imgur.com/JKHEL1H.png",
+        "website":  "https://www.teleradiopace.tv/palinsesti-settimana/telepace-4-canale-218/",
+        "country":  "IT",
+        "streams":  "https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Telepace News",
+        "logo":  "https://i.imgur.com/kC0c9Q6.png",
+        "website":  "https://www.teleradiopace.tv/trasmissioni/",
+        "country":  "IT",
+        "streams":  "https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8"
+    },
+    {
+        "name":  "Telepace Trento",
+        "logo":  "https://tvtvtv.ru/icons/telepace_trento.png",
+        "website":  "https://www.telepacetrento.it/diretta/",
+        "country":  "IT",
+        "streams":  "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8"
+    },
+    {
+        "name":  "Telepavia",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "http://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8",
+                        "http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8",
+                        "http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8"
+                    ]
+    },
+    {
+        "name":  "Tele Pegaso Catania",
+        "logo":  "https://i.imgur.com/2syaOJz.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8"
+    },
+    {
+        "name":  "Tele Quattro",
+        "logo":  "https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8",
+                        "https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Tele Radio Sciacca",
+        "logo":  "https://i.imgur.com/uyNOVUW.png",
+        "website":  "http://www.teleradiosciacca.it/",
+        "country":  "IT",
+        "streams":  "http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m3u8"
+    },
+    {
+        "name":  "TeleRama",
+        "logo":  "https://i.postimg.cc/J41xcgvk/telerama.png",
+        "website":  "https://www.trnews.it/",
+        "country":  "IT",
+        "streams":  "https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Teleregione",
+        "logo":  "https://www.lyngsat.com/logo/tv/tt/tele_regione_it_barletta.png",
+        "website":  "https://www.teleregionecolor.com/teleregione-live-stream/",
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/teleregione/playlist.m3u8"
+    },
+    {
+        "name":  "Teleromagna",
+        "logo":  "https://i.imgur.com/GGPtHX3.png",
+        "website":  "https://teleromagna.it/it/live/teleromagna",
+        "country":  "IT",
+        "streams":  "https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8"
+    },
+    {
+        "name":  "Tele Roma Uno",
+        "logo":  "https://i.imgur.com/Kyi2yFA.png",
+        "website":  "http://www.teleromauno.com/",
+        "country":  "IT",
+        "streams":  "https://stream9.xdevel.com/video0s976607-1377/stream/playlist_dvr.m3u8"
+    },
+    {
+        "name":  "TeleSanDomenico",
+        "logo":  "https://i.imgur.com/l52v9uv.png",
+        "website":  "https://www.tsdtv.it/",
+        "country":  "IT",
+        "streams":  "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Tele Shopping",
+        "logo":  "https://i.postimg.cc/Pf3wGftX/teleshopping.png",
+        "website":  "https://www.tele-shopping.it/",
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/teleshopping/playlist.m3u8"
+    },
+    {
+        "name":  "Telesirio Web TV",
+        "logo":  "https://i.imgur.com/V4EpXXG.png",
+        "website":  "https://www.telesirio.it/",
+        "country":  "IT",
+        "streams":  "https://www.telesirio.it/live/stream.m3u8"
+    },
+    {
+        "name":  "Telestense",
+        "logo":  "https://i.imgur.com/E3ZVcJ3.png",
+        "website":  "https://www.telestense.it/",
+        "country":  "IT",
+        "streams":  "https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Telesud",
+        "logo":  "https://i.imgur.com/7Oytr4I.png",
+        "website":  "http://www.telesud.it/",
+        "country":  "IT",
+        "streams":  "https://webtv.pugliaservice.it:1936/telesud-webtv/telesud-webtv/playlist.m3u8"
+    },
+    {
+        "name":  "Telesud Trapani",
+        "logo":  "https://i.postimg.cc/Sx82zWcR/telesudtrapani.png",
+        "website":  "https://www.telesudweb.it/",
+        "country":  "IT",
+        "streams":  [
+                        "http://5cbd3bc28341f.streamlock.net:1935/telesud/live/playlist.m3u8",
+                        "https://5cbd3bc28341f.streamlock.net:444/telesud/live/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TeleTerni",
+        "logo":  "https://i.imgur.com/U1BjkEl.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://diretta.teleterni.it:8080/show/show.m3u8"
+    },
+    {
+        "name":  "Teletricolore",
+        "logo":  "https://i.imgur.com/GajzIN6.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8"
+    },
+    {
+        "name":  "TeleTusciaSabina 2000",
+        "logo":  "https://i.imgur.com/cfexNL9.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8"
+    },
+    {
+        "name":  "Teleuniverso",
+        "logo":  "https://www.lyngsat.com/logo/tv/tt/tele_universo_it.png",
+        "website":  "https://www.teleuniverso.it/diretta-streaming/",
+        "country":  "IT",
+        "streams":  "https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8"
+    },
+    {
+        "name":  "Televallo",
+        "logo":  "https://i.imgur.com/SfGVu6a.png",
+        "website":  "https://www.televallo.it/",
+        "country":  "IT",
+        "streams":  "https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8"
+    },
+    {
+        "name":  "TeleVenezia",
+        "logo":  "https://i.imgur.com/RG4o4Ni.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8",
+                        "https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TeleVideo Agrigento",
+        "logo":  "https://i.postimg.cc/bYBsC6Td/televideoagrigento.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8"
+    },
+    {
+        "name":  "Tesory Channel",
+        "logo":  "https://www.lyngsat.com/logo/tv/tt/tesory_channel_it.png",
+        "website":  "https://www.prontogold.tv/tesory-cannel-live-stream",
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/tesorychannel/playlist.m3u8"
+    },
+    {
+        "name":  "TGCom24",
+        "logo":  "https://i.postimg.cc/brYnkXrY/tgcom24.png",
+        "website":  "https://www.tgcom24.mediaset.it/",
+        "country":  "IT",
+        "streams":  "https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8"
+    },
+    {
+        "name":  "TG Norba 24",
+        "logo":  "https://i.postimg.cc/4y8918H6/tgnorba24.png",
+        "website":  "http://www.norbaonline.it/",
+        "country":  "IT",
+        "streams":  "https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8"
+    },
+    {
+        "name":  "TLT Molise",
+        "logo":  "https://i.imgur.com/4G8fqtn.png",
+        "website":  "https://www.tltmolise.it/",
+        "country":  "IT",
+        "streams":  [
+                        "https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/tltcanale77/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Top Crime",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/512px-Top_Crime_-_Logo_2013.svg.png",
+        "website":  "http://www.mediaset.it/topcrime/",
+        "country":  "IT",
+        "streams":  "https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8"
+    },
+    {
+        "name":  "Trentino TV",
+        "logo":  "https://i.imgur.com/Xcw3TRB.png",
+        "website":  "https://www.trentinotv.it/",
+        "country":  "IT",
+        "streams":  "https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "TR Sport",
+        "logo":  "https://i.imgur.com/ELXmaqg.png",
+        "website":  "https://teleromagna.it/it/live/tr-sport",
+        "country":  "IT",
+        "streams":  "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
+    },
+    {
+        "name":  "TSN TeleSondrio News",
+        "logo":  "https://i.imgur.com/eE37h7Q.png",
+        "website":  "https://radiotsn.tv/tsn-telesondrio-news-live/",
+        "country":  "IT",
+        "streams":  [
+                        "http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8",
+                        "https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TT24 Teletutto",
+        "logo":  "https://i.imgur.com/RhrJjD5.png",
+        "website":  "https://www.teletutto.it/in_diretta/12556.html",
+        "country":  "IT",
+        "streams":  "https://600f07e114306.streamlock.net/TT24_TELETUTTO/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "TT2 Teletutto",
+        "logo":  "https://i.imgur.com/85BolCh.png",
+        "website":  "https://www.teletutto.it/in_diretta/12550.html",
+        "country":  "IT",
+        "streams":  "https://600f07e114306.streamlock.net/TT2_TELETUTTO/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "TT Teletutto",
+        "logo":  "https://i.imgur.com/jfXBTGp.png",
+        "website":  "https://www.teletutto.it/in_diretta/",
+        "country":  "IT",
+        "streams":  "https://600f07e114306.streamlock.net/TT_TELETUTTO/smil:TT.smil/playlist.m3u8"
+    },
+    {
+        "name":  "TV1",
+        "logo":  "https://massimoemanuelli.files.wordpress.com/2018/05/tv1-montevarchi.jpg",
+        "website":  "https://www.1web.tv/",
+        "country":  "IT",
+        "streams":  [
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+                        "https://frn.rtsp.me/jDzHciIUzTOuXiUaI-Vg1w/1738881610/hls/BtBbfbnK.m3u8",
+                        "https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047\u0026token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047",
+                        "https://live.tv1.rw/live/tv1rwanda_480/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV2000",
+        "logo":  "https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/512px-Logo_tv2000_2015.svg.png",
+        "website":  "https://www.tv2000.it/",
+        "country":  "IT",
+        "streams":  [
+                        "http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8",
+                        "http://mi1.wz.tv2000.it/tv2000_alfa.m3u8",
+                        "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/tv2000/playlist.m3u8",
+                        "https://videotv2000-meride-tv.akamaized.net/branded/monoscopio/monoscopio.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV7 Benevento",
+        "logo":  "https://i.imgur.com/VBhVaKB.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "TV7 Triveneta",
+        "logo":  "https://i.postimg.cc/mkq9v9cH/tv7triveneta.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://www.gruppotv7.com:8090/hls/ireporter.m3u8"
+    },
+    {
+        "name":  "TV8",
+        "logo":  "https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/512px-TV8_Logo_2016.svg.png",
+        "website":  "https://tv8.it/",
+        "country":  "IT",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/tv8/playlist.m3u8"
+    },
+    {
+        "name":  "tv9 Telemaremma",
+        "logo":  "https://i.imgur.com/3WAyf6H.png",
+        "website":  "https://www.tv9italia.it/",
+        "country":  "IT",
+        "streams":  "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8"
+    },
+    {
+        "name":  "TVA Vicenza",
+        "logo":  "https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/TVA_Vicenza_-_Logo_2018.svg/512px-TVA_Vicenza_-_Logo_2018.svg.png",
+        "website":  "https://tvavicenza.gruppovideomedia.it/",
+        "country":  "IT",
+        "streams":  "http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8"
+    },
+    {
+        "name":  "TV Campane 1",
+        "logo":  "https://i.imgur.com/GsdVpll.png",
+        "website":  "https://tv.tvcampane.com/",
+        "country":  "IT",
+        "streams":  "https://eu1.servers10.com:8081/8032/index.m3u8"
+    },
+    {
+        "name":  "TVL",
+        "logo":  "https://i.imgur.com/2wkSHNI.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "TV Prato",
+        "logo":  "https://i.imgur.com/72mAJtf.png",
+        "website":  "https://www.tvprato.it/",
+        "country":  "IT",
+        "streams":  "https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8"
+    },
+    {
+        "name":  "TV Qui Modena",
+        "logo":  "https://i.imgur.com/YfMVNDE.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8"
+    },
+    {
+        "name":  "TVRS",
+        "logo":  "https://i.imgur.com/6bxtL6D.png",
+        "website":  "https://www.tvrs.it/",
+        "country":  "IT",
+        "streams":  "http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8"
+    },
+    {
+        "name":  "TV Sei",
+        "logo":  "https://i.imgur.com/H8fklOG.png",
+        "website":  "https://www.tvsei.it/",
+        "country":  "IT",
+        "streams":  [
+                        "http://185.202.128.1:1935/Tv6Stream/tv6TV.stream/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/tvsei/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV Yes Italia",
+        "logo":  "https://i.imgur.com/3CDxatu.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://stream1.aswifi.it/radioyes/live/index.m3u8"
+    },
+    {
+        "name":  "Twentyseven",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/512px-Twentyseven_logo.svg.png",
+        "website":  "https://www.mediasetplay.mediaset.it/27twentyseven",
+        "country":  "IT",
+        "streams":  "https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8"
+    },
+    {
+        "name":  "Umbria TV",
+        "logo":  "https://i.imgur.com/olJIJ7c.png",
+        "website":  "https://www.umbriatv.com/",
+        "country":  "IT",
+        "streams":  "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8"
+    },
+    {
+        "name":  "UniNettuno University TV",
+        "logo":  "https://i.postimg.cc/sfLJhc7Y/uninettunouniversitytv.png",
+        "website":  "https://www.uninettuno.tv/",
+        "country":  "IT",
+        "streams":  "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8"
+    },
+    {
+        "name":  "Vera TV",
+        "logo":  "https://i.imgur.com/7o1bq3p.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  [
+                        "http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8",
+                        "http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "VH1",
+        "logo":  "https://i.postimg.cc/hGhLvQvy/vh1.png",
+        "website":  "https://www.mtv.it/topic/vh1",
+        "country":  "IT",
+        "streams":  "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8"
+    },
+    {
+        "name":  "Videolina Sardegna",
+        "logo":  "https://i.imgur.com/nQwXaef.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "http://livestreaming.videolina.it/live/Videolina/playlist.m3u8"
+    },
+    {
+        "name":  "Video Rola",
+        "logo":  "https://i.imgur.com/9w54eVy.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8"
+    },
+    {
+        "name":  "Visual Radio",
+        "logo":  "https://i.imgur.com/ah14ah0.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8"
+    },
+    {
+        "name":  "Vuemme",
+        "logo":  "https://i.imgur.com/Cs1kX12.png",
+        "website":  "http://www.vuemmetv.it/",
+        "country":  "IT",
+        "streams":  "https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8"
+    },
+    {
+        "name":  "Wedding TV",
+        "logo":  "https://i.imgur.com/dFCrfbk.png",
+        "website":  "https://www.weddingtv.it/",
+        "country":  "IT",
+        "streams":  "https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8"
+    },
+    {
+        "name":  "Well TV",
+        "logo":  "https://i.postimg.cc/T3Nkt6Ws/welltv.png",
+        "website":  "https://www.welltv.eu/",
+        "country":  "IT",
+        "streams":  "https://5f22d76e220e1.streamlock.net/canale5/canale5/playlist.m3u8"
+    },
+    {
+        "name":  "Zerouno TV Music",
+        "logo":  "https://i.imgur.com/RMPVvGR.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8"
+    },
+    {
+        "name":  "Zerouno TV News",
+        "logo":  "https://i.imgur.com/wYntmOt.png",
+        "website":  null,
+        "country":  "IT",
+        "streams":  "https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8"
+    }
+]

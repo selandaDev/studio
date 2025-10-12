@@ -1,0 +1,1809 @@
+﻿[
+    {
+        "name":  "002 Radio TV",
+        "logo":  "https://i.imgur.com/7oNe8xj.png",
+        "website":  "https://www.002radio.com/",
+        "country":  "DO",
+        "streams":  "https://cdn.002radio.com:3909/live/radio002live.m3u8"
+    },
+    {
+        "name":  "Acento TV",
+        "logo":  "https://i.imgur.com/jhiZfHf.png",
+        "website":  "https://acentotv.do/",
+        "country":  "DO",
+        "streams":  "https://acentotv01.streamprolive.com/hls/live.m3u8"
+    },
+    {
+        "name":  "ADOCCO TV",
+        "logo":  "https://i.imgur.com/kuv6S3j.png",
+        "website":  "https://adocco.tv/",
+        "country":  "DO",
+        "streams":  "https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8"
+    },
+    {
+        "name":  "Adoram TV",
+        "logo":  "https://i.imgur.com/uU01KHz.png",
+        "website":  "https://adoramtv.org/",
+        "country":  "DO",
+        "streams":  "https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8"
+    },
+    {
+        "name":  "Agenda 56 TV",
+        "logo":  "https://i.imgur.com/G7zIVB7.png",
+        "website":  "https://agenda56.com/agenda56tv/",
+        "country":  "DO",
+        "streams":  "https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8"
+    },
+    {
+        "name":  "Ahora TV",
+        "logo":  "https://i.imgur.com/dyJyuXc.png",
+        "website":  "https://www.ahoratv.com/",
+        "country":  "DO",
+        "streams":  "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8"
+    },
+    {
+        "name":  "AION TV",
+        "logo":  "https://i.imgur.com/DBvm7YS.png",
+        "website":  "https://aiontelevision.com/",
+        "country":  "DO",
+        "streams":  "https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8"
+    },
+    {
+        "name":  "Alcarrizos TV",
+        "logo":  "https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg",
+        "website":  "https://alcarrizostv.com/",
+        "country":  "DO",
+        "streams":  "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8"
+    },
+    {
+        "name":  "Alegre TV RD",
+        "logo":  "https://i.imgur.com/O6USO8r.png",
+        "website":  "https://www.vivalivetv.com/channel/alegre-tv-rd",
+        "country":  "DO",
+        "streams":  "https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8"
+    },
+    {
+        "name":  "Altanto TV",
+        "logo":  "https://i.imgur.com/KWvVLhc.png",
+        "website":  "https://altanto.com.do/",
+        "country":  "DO",
+        "streams":  "https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8"
+    },
+    {
+        "name":  "Ame 47",
+        "logo":  "https://i.imgur.com/MUEbjeP.png",
+        "website":  "https://www.rdmusica.com/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8"
+    },
+    {
+        "name":  "Anime Zone TV",
+        "logo":  "https://i.imgur.com/AHaXlCh.png",
+        "website":  "http://animezonetv.com",
+        "country":  "DO",
+        "streams":  "http://animezonetv.net/hls/stream.m3u8"
+    },
+    {
+        "name":  "Antena 21",
+        "logo":  "https://i.imgur.com/QE0XWLh.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  [
+                        "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8",
+                        "https://d1p8txxph783az.cloudfront.net/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Antena 7",
+        "logo":  "https://i.imgur.com/zKWFgeQ.png",
+        "website":  "https://www.antena7.com.do/",
+        "country":  "DO",
+        "streams":  [
+                        "https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8",
+                        "https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Area 809 El Original",
+        "logo":  "https://i.ibb.co/WkMfnGs/Channels4-profile-8.jpg",
+        "website":  "http://www.rudyrudisimo.com",
+        "country":  "DO",
+        "streams":  "https://vdo.voxhdnet.com:3159/stream/play.m3u8"
+    },
+    {
+        "name":  "Atabal TV",
+        "logo":  "https://imgur.com/QWR9SOH.png",
+        "website":  "https://www.tvdominicana.net/livetv/watch/atabaltv/51",
+        "country":  "DO",
+        "streams":  "https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8"
+    },
+    {
+        "name":  "Avivamiento TV",
+        "logo":  "https://i.imgur.com/cXmqELf.jpeg",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
+    },
+    {
+        "name":  "Bajo Techo TV",
+        "logo":  "https://i.imgur.com/I2wRq88.png",
+        "website":  "http://bajotecho.tv/",
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8"
+    },
+    {
+        "name":  "Bebeto TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/bb/bebeto-tv-do.png",
+        "website":  "https://bebetohd.com/en-vivo/",
+        "country":  "DO",
+        "streams":  "https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8"
+    },
+    {
+        "name":  "Bellavision",
+        "logo":  "https://i.imgur.com/XqQ3kCs.png",
+        "website":  "https://bellavision8.com/",
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8"
+    },
+    {
+        "name":  "Boca Chica TV",
+        "logo":  "https://i.imgur.com/npiRBPC.png",
+        "website":  "https://dominicanchannels.com/boca-chica-tv/",
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3154/live/bocachicatvlive.m3u8"
+    },
+    {
+        "name":  "Bonao TV",
+        "logo":  "https://i.imgur.com/en1vCZB.png",
+        "website":  "https://www.bonaotv.com/",
+        "country":  "DO",
+        "streams":  "https://bonaotv.com/stream2/index.m3u8"
+    },
+    {
+        "name":  "Bonches Latinos TV",
+        "logo":  "https://i.imgur.com/Kp8x0NS.png",
+        "website":  "https://boncheslatinos.com/",
+        "country":  "DO",
+        "streams":  "https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8"
+    },
+    {
+        "name":  "Boreal",
+        "logo":  "https://i.imgur.com/KSquHTG.png",
+        "website":  "https://borealtelevision.com/",
+        "country":  "DO",
+        "streams":  "https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8"
+    },
+    {
+        "name":  "Cacique TV",
+        "logo":  "https://dominicanchannels.com/wp-content/uploads/caciquetv.jpg",
+        "website":  "https://dominicanchannels.com/cacique-tv_rd/",
+        "country":  "DO",
+        "streams":  "https://5790d294af2dc.streamlock.net/Caciquetvcloud/Caciquetvcloud/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 17 RTVD",
+        "logo":  "https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png",
+        "website":  "https://rtvd.gob.do/",
+        "country":  "DO",
+        "streams":  "https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 25",
+        "logo":  "https://i.imgur.com/lmWu73V.png",
+        "website":  "https://www.canal25rd.com/",
+        "country":  "DO",
+        "streams":  "https://live20.bozztv.com/akamaissh101/ssh101/canal25stgo/chunks.m3u8"
+    },
+    {
+        "name":  "Canal 4 RD",
+        "logo":  "https://i.imgur.com/eiqpffH.png",
+        "website":  "https://canal4rd.com/",
+        "country":  "DO",
+        "streams":  "https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8"
+    },
+    {
+        "name":  "Canal 56",
+        "logo":  "https://i.imgur.com/HcLs5eM.png",
+        "website":  "https://www.canal56rd.net/",
+        "country":  "DO",
+        "streams":  "https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8"
+    },
+    {
+        "name":  "Canal America TV",
+        "logo":  null,
+        "website":  "https://canalamerica.tv/",
+        "country":  "DO",
+        "streams":  "http://newyorkstream.ddns.net:5854/enlacecanalamerica/encoderRD/playlist.m3u8"
+    },
+    {
+        "name":  "Canal Catorce",
+        "logo":  "https://i.imgur.com/iKLGBbA.png",
+        "website":  "http://14tv.live/",
+        "country":  "DO",
+        "streams":  "https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8"
+    },
+    {
+        "name":  "Canalda 26 HD",
+        "logo":  "https://canaldahd.com/wp-content/uploads/2023/03/cropped-canaldahdlogo-1.png",
+        "website":  "https://canaldahd.com/",
+        "country":  "DO",
+        "streams":  "https://canalda.rgradio.net:3084/live/canaldalive.m3u8"
+    },
+    {
+        "name":  "Canal del Sol",
+        "logo":  "https://i.imgur.com/gK0M1jB.png",
+        "website":  "https://www.canaldelsol.com/",
+        "country":  "DO",
+        "streams":  "https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8"
+    },
+    {
+        "name":  "Canal DTV",
+        "logo":  "https://i.imgur.com/JO5yuNC.png",
+        "website":  "https://dominiodtv.blogspot.com/",
+        "country":  "DO",
+        "streams":  "https://s.emisoras.tv:8081/dtv/index.m3u8"
+    },
+    {
+        "name":  "Canal Multivision",
+        "logo":  "https://i.imgur.com/puOrL7B.jpg",
+        "website":  "https://canalmultivision.com/",
+        "country":  "DO",
+        "streams":  "https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/playlist.m3u8"
+    },
+    {
+        "name":  "Cananga TV",
+        "logo":  "https://i.imgur.com/isXlMAh.png",
+        "website":  "https://canangatv.com/",
+        "country":  "DO",
+        "streams":  "https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8"
+    },
+    {
+        "name":  "Cana TV Digital",
+        "logo":  "https://i.imgur.com/k8jxt12.png",
+        "website":  "https://canatvdigital.com/",
+        "country":  "DO",
+        "streams":  "https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8"
+    },
+    {
+        "name":  "Canela TV",
+        "logo":  "https://imgur.com/TRCvLdz.png",
+        "website":  "https://www.vivalivetv.com/channel/canela-tv",
+        "country":  "DO",
+        "streams":  "https://cnn.hostlagarto.com/canelatv/index.m3u8"
+    },
+    {
+        "name":  "Carivision",
+        "logo":  "https://i.imgur.com/XjGb2UM.png",
+        "website":  "http://carivision.online/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8"
+    },
+    {
+        "name":  "Cascara TV",
+        "logo":  "https://i.imgur.com/DEUR7mB.png",
+        "website":  "https://cascaratv.com/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8"
+    },
+    {
+        "name":  "CDN",
+        "logo":  "https://i.imgur.com/eQyjIgf.png",
+        "website":  "https://cdn.com.do/",
+        "country":  "DO",
+        "streams":  "http://190.123.76.22:8000/play/a025/index.m3u8"
+    },
+    {
+        "name":  "CDN Deportes",
+        "logo":  "https://i.imgur.com/yU5LqTL.png",
+        "website":  "https://cdndeportes.com.do/",
+        "country":  "DO",
+        "streams":  "http://200.125.170.122:8000/play/a03j/index.m3u8"
+    },
+    {
+        "name":  "Cenovision HD",
+        "logo":  "https://imgur.com/ShPaOvn.jpg",
+        "website":  "https://cenovision.com/",
+        "country":  "DO",
+        "streams":  "https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8"
+    },
+    {
+        "name":  "Chinola TV",
+        "logo":  "https://i.imgur.com/ybud4dI.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8"
+    },
+    {
+        "name":  "Cibaena TV",
+        "logo":  "https://i.imgur.com/iHjdckl.png",
+        "website":  "https://www.vivalivetv.com/channel/cibaena-tv",
+        "country":  "DO",
+        "streams":  "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8"
+    },
+    {
+        "name":  "Cielo TV",
+        "logo":  "https://i.imgur.com/2PNw6BA.png",
+        "website":  "https://cielotv.do/",
+        "country":  "DO",
+        "streams":  "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8"
+    },
+    {
+        "name":  "Cinevision Canal 19",
+        "logo":  "https://i.imgur.com/mJN2XNm.png",
+        "website":  "http://www.canal19.do/",
+        "country":  "DO",
+        "streams":  "https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8"
+    },
+    {
+        "name":  "Citrico TV",
+        "logo":  "https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg",
+        "website":  "https://citricotv.com/",
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3996/live/citricotvlive.m3u8"
+    },
+    {
+        "name":  "Claro Television Dominicana",
+        "logo":  "https://i.imgur.com/fJD7OxB.png",
+        "website":  "https://www.vivalivetv.com/channel/claro-tv-dominicana",
+        "country":  "DO",
+        "streams":  "https://streamunoapp.com:3960/live/claroteledomlive.m3u8"
+    },
+    {
+        "name":  "Claro Vision TV",
+        "logo":  "https://i.imgur.com/MpTgJMJ.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8"
+    },
+    {
+        "name":  "COCO TV",
+        "logo":  "https://i.imgur.com/CnAc7jU.png",
+        "website":  "https://canalesdominicanos.live/coco-tv/",
+        "country":  "DO",
+        "streams":  "https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8"
+    },
+    {
+        "name":  "Codigo TV",
+        "logo":  "https://imgur.com/DbjywI3.png",
+        "website":  "https://codigotv.net/en-vivo/",
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8"
+    },
+    {
+        "name":  "Colimdo TV",
+        "logo":  "https://i.imgur.com/ZeUgLCa.png",
+        "website":  "https://colimdotv.com/",
+        "country":  "DO",
+        "streams":  "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
+    },
+    {
+        "name":  "Colome TV",
+        "logo":  "https://colometv.com/assets/images/logo.png",
+        "website":  "https://colometv.com/#/other/vivo",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8"
+    },
+    {
+        "name":  "Color Vision",
+        "logo":  "https://i.imgur.com/rkgWToA.jpg",
+        "website":  "https://colorvision.com.do/",
+        "country":  "DO",
+        "streams":  "http://190.110.36.254:80/COLORVISION/index.m3u8"
+    },
+    {
+        "name":  "ConstanzaTV",
+        "logo":  "https://i.imgur.com/4uV90gw.png",
+        "website":  "https://www.constanzatv.com/",
+        "country":  "DO",
+        "streams":  "https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8"
+    },
+    {
+        "name":  "Coral 39",
+        "logo":  "https://i.imgur.com/k6cv9A9.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "http://181.189.244.252:8000/play/a00y/index.m3u8"
+    },
+    {
+        "name":  "Cotubanama TV",
+        "logo":  "https://i.imgur.com/D6gAezp.png",
+        "website":  "https://cotubanamadigital.net/",
+        "country":  "DO",
+        "streams":  "https://host.streamingnation.live/p/3588/hybrid/play.m3u8"
+    },
+    {
+        "name":  "CromTV",
+        "logo":  "https://i.imgur.com/jk1lkOV.png",
+        "website":  "https://www.cromtv.com/",
+        "country":  "DO",
+        "streams":  "https://cnn.essastream.com:3333/live/cromtvlive.m3u8"
+    },
+    {
+        "name":  "CTV Canal 76",
+        "logo":  "https://i.imgur.com/nLRLsPn.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3978/live/ctvlive.m3u8"
+    },
+    {
+        "name":  "CV Vision TV",
+        "logo":  "https://dominicanchannels.com/wp-content/uploads/ccviison-1.png",
+        "website":  "https://www.ccvdigital.com/",
+        "country":  "DO",
+        "streams":  "https://eu1.servers10.com:8081/8128/index.m3u8"
+    },
+    {
+        "name":  "DAN TV",
+        "logo":  "https://i.imgur.com/vWKtPDJ.png",
+        "website":  "http://www.dantvrd.com/",
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3562/live/dantvlive.m3u8"
+    },
+    {
+        "name":  "Del Pueblo TV",
+        "logo":  "https://imgur.com/Pw7ZUT1.jpg",
+        "website":  "https://www.tvdominicana.net/livetv/watch/delpueblotv/49",
+        "country":  "DO",
+        "streams":  "https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8"
+    },
+    {
+        "name":  "Delta TV Canal 50",
+        "logo":  "https://imgur.com/Z1K1tyl.jpg",
+        "website":  "https://dominicanchannels.com/delta-tv-canal-50/",
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3949/live/deltatv50live.m3u8"
+    },
+    {
+        "name":  "De Ultimo Minuto TV",
+        "logo":  "https://i.imgur.com/6ML2z17.png",
+        "website":  "https://deultimominuto.net/",
+        "country":  "DO",
+        "streams":  "https://soportedvb.click:3620/live/deultimominutomedialive.m3u8"
+    },
+    {
+        "name":  "Digital 15",
+        "logo":  "https://i.imgur.com/v3mkmZa.png",
+        "website":  "https://telemicro.com.do/",
+        "country":  "DO",
+        "streams":  "http://181.188.216.5:18000/play/a0aw/index.m3u8"
+    },
+    {
+        "name":  "Digital809 TV",
+        "logo":  "https://i.imgur.com/NKdV8b1.png",
+        "website":  "https://digital809tv.com/",
+        "country":  "DO",
+        "streams":  "https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8"
+    },
+    {
+        "name":  "Digital Vision 63",
+        "logo":  "https://i.imgur.com/FQkLIMR.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8"
+    },
+    {
+        "name":  "Ecos Canal 57",
+        "logo":  "https://imgur.com/ccFwraQ.png",
+        "website":  "https://rnn.com.do/ecos57-en-vivo/",
+        "country":  "DO",
+        "streams":  "https://2-fss-1.streamhoster.com/pl_122/206532-5753032-1/playlist.m3u8"
+    },
+    {
+        "name":  "Ecovision",
+        "logo":  "https://imgur.com/a/pUlIJZX.png",
+        "website":  "http://grupomediosdelnorte.com/",
+        "country":  "DO",
+        "streams":  "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
+    },
+    {
+        "name":  "Edu+ TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3610-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/edu",
+        "country":  "DO",
+        "streams":  "https://vdopanel.jlahozconsulting.com:3720/hybrid/play.m3u8"
+    },
+    {
+        "name":  "El Nuevo Diario TV",
+        "logo":  "https://i.imgur.com/yjuTl6N.png",
+        "website":  "https://elnuevodiario.com.do/tv/",
+        "country":  "DO",
+        "streams":  "https://nuevodiario01.streamprolive.com/hls/live.m3u8"
+    },
+    {
+        "name":  "El Pituco TV",
+        "logo":  "https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png",
+        "website":  "https://elpituco.com/",
+        "country":  "DO",
+        "streams":  "https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8"
+    },
+    {
+        "name":  "El Puerto TV",
+        "logo":  "https://i.imgur.com/FnshExB.jpg",
+        "website":  "https://elpuerto.com.do/",
+        "country":  "DO",
+        "streams":  "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8"
+    },
+    {
+        "name":  "El Seis 6",
+        "logo":  "https://elseis.do/wp-content/uploads/2025/02/logo-el-seis-horizontal.png",
+        "website":  "https://elseis.do/",
+        "country":  "DO",
+        "streams":  "https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8"
+    },
+    {
+        "name":  "Enntivision",
+        "logo":  "https://i.imgur.com/nePOFZW.png",
+        "website":  "https://www.tonyconelpueblofm.com/enntivision",
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3356/live/enntivisiontvlive.m3u8"
+    },
+    {
+        "name":  "entelevision",
+        "logo":  "https://i.imgur.com/gVtLpMD.png",
+        "website":  "https://entelevision.com/",
+        "country":  "DO",
+        "streams":  "https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8"
+    },
+    {
+        "name":  "Enterate RD",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3508-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/enterate-rd",
+        "country":  "DO",
+        "streams":  "https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8"
+    },
+    {
+        "name":  "Entuno TV",
+        "logo":  "https://imgur.com/U9OsybQ.jpg",
+        "website":  "https://www.tvdominicana.net/livetv/details/entuno-tv/50",
+        "country":  "DO",
+        "streams":  "https://vdopanel.jlahozconsulting.com:3460/hybrid/play.m3u8"
+    },
+    {
+        "name":  "EStylo TV",
+        "logo":  "https://i.imgur.com/GLpeqpp.png",
+        "website":  "https://canalesdominicanos.live/estylo-tv/",
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3035/live/estylotvlive.m3u8"
+    },
+    {
+        "name":  "Farovision",
+        "logo":  "https://i.imgur.com/YtdOXWb.png",
+        "website":  "http://farovision.net/",
+        "country":  "DO",
+        "streams":  "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8"
+    },
+    {
+        "name":  "FRATA TV",
+        "logo":  "https://i.imgur.com/VxeTREd.png",
+        "website":  "https://fratatv.com/en-vivo/",
+        "country":  "DO",
+        "streams":  "https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8"
+    },
+    {
+        "name":  "Fuego TV",
+        "logo":  "https://i.imgur.com/T9vWjeB.png",
+        "website":  "http://fuego40.com/",
+        "country":  "DO",
+        "streams":  "https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8"
+    },
+    {
+        "name":  "GalaxiATeVe",
+        "logo":  "https://grupomediosdelnorte.com/iptv/galaxia.png",
+        "website":  "https://grupomediosdelnorte.com/",
+        "country":  "DO",
+        "streams":  "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8"
+    },
+    {
+        "name":  "GDMTV",
+        "logo":  "https://i.imgur.com/sroIZuc.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3216/live/gdmtvlive.m3u8"
+    },
+    {
+        "name":  "GET tv",
+        "logo":  "https://www.lyngsat.com/logo/tv/gg/get-tv-do.png",
+        "website":  "https://www.gettvrd.com/",
+        "country":  "DO",
+        "streams":  "https://cnn.livestreaminggroup.info:3050/live/gettvlive.m3u8"
+    },
+    {
+        "name":  "GH Television",
+        "logo":  "https://i.imgur.com/xhkiiO3.png",
+        "website":  "https://ghtelevision.com/",
+        "country":  "DO",
+        "streams":  "https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8"
+    },
+    {
+        "name":  "Gi Television",
+        "logo":  "https://i.imgur.com/br9TNG8.png",
+        "website":  "https://gitelevision.com/",
+        "country":  "DO",
+        "streams":  "https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8"
+    },
+    {
+        "name":  "Global Social TV",
+        "logo":  "https://imgur.com/sGN1NbR.png",
+        "website":  "https://globalsocialtv.com/",
+        "country":  "DO",
+        "streams":  "https://stream.castr.com/6809124f3f3e7e594c63cf15/live_8e5d0b50206a11f08690576446b3c082/index.fmp4.m3u8"
+    },
+    {
+        "name":  "Global TV",
+        "logo":  "https://i.imgur.com/1rQaROm.png",
+        "website":  "https://globaltv.com.do/",
+        "country":  "DO",
+        "streams":  "https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8"
+    },
+    {
+        "name":  "Guacara TV",
+        "logo":  "https://i.imgur.com/f0gWvU9.png",
+        "website":  "http://www.guacaratv.com/",
+        "country":  "DO",
+        "streams":  "https://imagenuniversaltv.net:3820/live/guacaratvlive.m3u8"
+    },
+    {
+        "name":  "Guaymate TV",
+        "logo":  "https://i.imgur.com/PBgQi9a.png",
+        "website":  "https://guaymatetvdigital.blogspot.com/2022/04/guayumate-tv-digital.html",
+        "country":  "DO",
+        "streams":  "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
+    },
+    {
+        "name":  "Haina Vision",
+        "logo":  "https://i.imgur.com/eoodUNJ.png",
+        "website":  "https://hainavision.com/",
+        "country":  "DO",
+        "streams":  "https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8"
+    },
+    {
+        "name":  "Hermanas Mirabal TV",
+        "logo":  "https://i.imgur.com/cbKgcGh.png",
+        "website":  "https://hermanasmirabal.com/tv/",
+        "country":  "DO",
+        "streams":  "https://cnn.essastream.com:3091/live/hmtvlive.m3u8"
+    },
+    {
+        "name":  "Hilando Fino TV",
+        "logo":  "https://i.imgur.com/E7ta6g8.png",
+        "website":  "http://www.hilandofinotv.com/",
+        "country":  "DO",
+        "streams":  "https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8"
+    },
+    {
+        "name":  "Hits 360 TV",
+        "logo":  "https://i.imgur.com/Cx5V233.jpg",
+        "website":  "http://www.hits360live.com/",
+        "country":  "DO",
+        "streams":  "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8"
+    },
+    {
+        "name":  "HTV Live",
+        "logo":  "https://i.imgur.com/0WBsAin.png",
+        "website":  "https://canalhtvlive.com/",
+        "country":  "DO",
+        "streams":  "https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8"
+    },
+    {
+        "name":  "Imagen Universal TV",
+        "logo":  "https://i.imgur.com/DP6HmDV.png",
+        "website":  "https://imagenuniversaltv.com/",
+        "country":  "DO",
+        "streams":  "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8"
+    },
+    {
+        "name":  "Infinito TV",
+        "logo":  "https://imgur.com/YqNSEM6.jpg",
+        "website":  "https://infinitotv.net/",
+        "country":  "DO",
+        "streams":  "https://vdo1.streamgato.us:3057/live/infinitotvlive.m3u8"
+    },
+    {
+        "name":  "Informe TV",
+        "logo":  "https://imgur.com/TmJaXrO.jpg",
+        "website":  "https://dominicanchannels.com/informe-tv/",
+        "country":  "DO",
+        "streams":  "https://vdo1.streamgato.us:3986/live/informetvlive.m3u8"
+    },
+    {
+        "name":  "Jimani TV",
+        "logo":  "https://imgur.com/EPYHUSc.jpeg",
+        "website":  "https://dominicanchannels.com/jimani-tv/",
+        "country":  "DO",
+        "streams":  "https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8"
+    },
+    {
+        "name":  "JPD TV",
+        "logo":  "https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png",
+        "website":  "https://juanpabloduartetv.com/",
+        "country":  "DO",
+        "streams":  "https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8"
+    },
+    {
+        "name":  "La Caleta TV",
+        "logo":  "https://i.imgur.com/EfMtOja.png",
+        "website":  "https://lacaletatv.com/",
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8"
+    },
+    {
+        "name":  "La Descarga TV",
+        "logo":  "https://imgur.com/kq1CrDE.png",
+        "website":  "https://www.vivalivetv.com/channel/la-descarga-tv",
+        "country":  "DO",
+        "streams":  "https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8"
+    },
+    {
+        "name":  "La Hora TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3807-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/la-hora-tv",
+        "country":  "DO",
+        "streams":  "https://cloud5.livescast.com:19360/lahoratv/lahoratv.m3u8"
+    },
+    {
+        "name":  "LA MIA TV",
+        "logo":  "https://i.imgur.com/XIwTM1h.png",
+        "website":  "https://lamiatv.net/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8"
+    },
+    {
+        "name":  "La Reina TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3386-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/la-reina-tv",
+        "country":  "DO",
+        "streams":  "https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8"
+    },
+    {
+        "name":  "Larivision TV",
+        "logo":  "https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png",
+        "website":  "https://www.larivision.com/",
+        "country":  "DO",
+        "streams":  "https://live.larimartv.net/livelan/stream.m3u8"
+    },
+    {
+        "name":  "La Ruta TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/2896-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/la-ruta-tv",
+        "country":  "DO",
+        "streams":  "https://streamunoapp.com:3983/live/larutatvlive.m3u8"
+    },
+    {
+        "name":  "Latina TV Internacional",
+        "logo":  "https://i.imgur.com/UAfyeYT.png",
+        "website":  "https://latinatvinternacional.com/",
+        "country":  "DO",
+        "streams":  "https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8"
+    },
+    {
+        "name":  "La Voz de Jesus HD",
+        "logo":  "https://gia.tv/streams/pstream/208429.png",
+        "website":  "https://gia.tv/watchssh101.php?pptv=208429",
+        "country":  "DO",
+        "streams":  "https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8"
+    },
+    {
+        "name":  "La Voz del Tropico",
+        "logo":  "https://i.imgur.com/DKDFpHt.png",
+        "website":  "http://lavozdeltropico.online/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8"
+    },
+    {
+        "name":  "La Voz de Maria",
+        "logo":  "https://i.imgur.com/Zv8CxZX.png",
+        "website":  "http://www.lavozdemariatv.org/",
+        "country":  "DO",
+        "streams":  "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8"
+    },
+    {
+        "name":  "Lena TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3232-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/lena-radio-tv",
+        "country":  "DO",
+        "streams":  "https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8"
+    },
+    {
+        "name":  "Luna TV Canal 53",
+        "logo":  "https://i.imgur.com/EvX5aqI.png",
+        "website":  "https://lunatv.do/",
+        "country":  "DO",
+        "streams":  "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8"
+    },
+    {
+        "name":  "Luz Divina TV",
+        "logo":  "https://imgur.com/BHZw3PK.jpeg",
+        "website":  "https://dominicanchannels.com/luz-divina-tv/",
+        "country":  "DO",
+        "streams":  "https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8"
+    },
+    {
+        "name":  "Maimon TV Canal 3",
+        "logo":  "https://i.imgur.com/twldaaC.png",
+        "website":  "https://www.maimontv.com/",
+        "country":  "DO",
+        "streams":  "https://ss3.domint.net:3138/mtv_str/maimon/playlist.m3u8"
+    },
+    {
+        "name":  "Makao TV",
+        "logo":  "https://i.imgur.com/asD5y7i.png",
+        "website":  "https://makaoradio.com/#makaotv",
+        "country":  "DO",
+        "streams":  "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8"
+    },
+    {
+        "name":  "Makina TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/makina-tv",
+        "country":  "DO",
+        "streams":  "https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8"
+    },
+    {
+        "name":  "Manaclar Television",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/manaclar-television",
+        "country":  "DO",
+        "streams":  "https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8"
+    },
+    {
+        "name":  "Marka TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/marka-tv",
+        "country":  "DO",
+        "streams":  "https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8"
+    },
+    {
+        "name":  "MegaVision TV",
+        "logo":  "https://i.imgur.com/u5ECnZd.png",
+        "website":  "http://www.megavisiontvrd.com/",
+        "country":  "DO",
+        "streams":  [
+                        "http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8",
+                        "https://server2grupocam.com/megavision/MV/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Miavision TV",
+        "logo":  "https://imgur.com/Bbcrjvs.png",
+        "website":  "https://www.vivalivetv.com/channel/miavision",
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8"
+    },
+    {
+        "name":  "Microvision 10",
+        "logo":  "https://i.imgur.com/wMl1fNZ.png",
+        "website":  "https://microvision.com.do/",
+        "country":  "DO",
+        "streams":  "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8"
+    },
+    {
+        "name":  "Mi Pueblo Tv",
+        "logo":  "https://imgur.com/x5qt5aK.jpg",
+        "website":  "https://dominicanchannels.com/mi-pueblo-tv-canal-26/",
+        "country":  "DO",
+        "streams":  "https://ds.tvabierta.net/memfs/e02e5624-6ff9-42b0-b500-68b22e5adc64.m3u8"
+    },
+    {
+        "name":  "MI Turno TV",
+        "logo":  "https://imgur.com/uODDaEY.png",
+        "website":  "https://miturno.com.do/miturnotv/",
+        "country":  "DO",
+        "streams":  "https://video.udwn.net:19360/miturnotv/miturnotv.m3u8"
+    },
+    {
+        "name":  "MiTV",
+        "logo":  "https://i.imgur.com/qsyjdR8.png",
+        "website":  "https://www.mitv-hd.com/",
+        "country":  "DO",
+        "streams":  "https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8"
+    },
+    {
+        "name":  "Moca Vision Canal 48",
+        "logo":  "https://i.imgur.com/vclDXV7.jpeg",
+        "website":  "https://www.televiaducto.com.do/",
+        "country":  "DO",
+        "streams":  "https://stream.castr.com/5da89a909db964293ad13301/live_8252710021ba11f0b7e18b4de1df97ab/index.fmp4.m3u8"
+    },
+    {
+        "name":  "Montecristi Digital 8",
+        "logo":  "https://imgur.com/ExoOHQI.jpeg",
+        "website":  "https://dominicanchannels.com/montecristi-digital-8/",
+        "country":  "DO",
+        "streams":  "https://soportedvb.click:3400/live/montecristitvlive.m3u8"
+    },
+    {
+        "name":  "MorroTV",
+        "logo":  null,
+        "website":  "https://www.morrodigital.com/",
+        "country":  "DO",
+        "streams":  "https://soportedvb.click:3257/live/morrotvlive.m3u8"
+    },
+    {
+        "name":  "MQTV",
+        "logo":  "https://i.imgur.com/y7rmtec.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8"
+    },
+    {
+        "name":  "Mun2TV",
+        "logo":  "https://i.imgur.com/e38DNzI.png",
+        "website":  "https://www.mun2-tv.com/",
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8"
+    },
+    {
+        "name":  "Musavision",
+        "logo":  "https://i.imgur.com/wMse6cT.png",
+        "website":  "https://musavision.com/",
+        "country":  "DO",
+        "streams":  "https://soportedvb.click:3827/live/musavisiontvlive.m3u8"
+    },
+    {
+        "name":  "Naranja TV",
+        "logo":  "https://i.imgur.com/g7iFN3s.png",
+        "website":  "https://naranjatvrd.com/",
+        "country":  "DO",
+        "streams":  "https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8"
+    },
+    {
+        "name":  "Nexxo TV",
+        "logo":  "https://i.imgur.com/2OpCxa6.png",
+        "website":  "http://nexxo.tv/",
+        "country":  "DO",
+        "streams":  "https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8"
+    },
+    {
+        "name":  "Nitida TV",
+        "logo":  "https://i.imgur.com/z9JkxcM.png",
+        "website":  "https://nitidafm.com/",
+        "country":  "DO",
+        "streams":  "https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8"
+    },
+    {
+        "name":  "Noticias 16",
+        "logo":  "https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png",
+        "website":  "https://noticias16.com.do/en-vivo/",
+        "country":  "DO",
+        "streams":  "https://cdn.essastream.com:3457/live/noticiasn16live.m3u8"
+    },
+    {
+        "name":  "Notisur TV",
+        "logo":  "https://rdomint.com/images/station/300.jpg",
+        "website":  "https://www.notisurbani.com/index.php",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8"
+    },
+    {
+        "name":  "Nueva Vision 14",
+        "logo":  "https://imgur.com/0fWQS53.png",
+        "website":  "https://dominicanchannels.com/nueva-vision-14/",
+        "country":  "DO",
+        "streams":  "https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8"
+    },
+    {
+        "name":  "OEPM TV",
+        "logo":  "https://i.imgur.com/QghtwMB.jpeg",
+        "website":  "https://proinversiontv.com/",
+        "country":  "DO",
+        "streams":  "https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8"
+    },
+    {
+        "name":  "Onda TV",
+        "logo":  "https://i.imgur.com/RUIyD9a.png",
+        "website":  "https://cableondaoriental.com/onda-tv/",
+        "country":  "DO",
+        "streams":  "https://cnn.hostlagarto.com/ondatv/index.m3u8"
+    },
+    {
+        "name":  "ORBIT TV",
+        "logo":  "https://i.imgur.com/lizQs3n.png",
+        "website":  "https://orbittv.net/",
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8"
+    },
+    {
+        "name":  "OxiTV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/oxi-tv",
+        "country":  "DO",
+        "streams":  "https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8"
+    },
+    {
+        "name":  "Palmar TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/palmar-tv",
+        "country":  "DO",
+        "streams":  "https://streamunoapp.com:3255/live/palmartvlive.m3u8"
+    },
+    {
+        "name":  "Peravia Vision",
+        "logo":  "https://i.imgur.com/k1Wj5ka.png",
+        "website":  "https://peraviavision.tv/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8"
+    },
+    {
+        "name":  "PHTV",
+        "logo":  "https://i.imgur.com/KUIRM02.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://vdo1.streamgato.us:3138/live/phtvlive.m3u8"
+    },
+    {
+        "name":  "Policia TV",
+        "logo":  "https://i.imgur.com/jIwlQK3.png",
+        "website":  "https://canalesdominicanos.live/policia-tv/",
+        "country":  "DO",
+        "streams":  "https://cdn2.streamgato.us/policiard/policiard/playlist.m3u8"
+    },
+    {
+        "name":  "Portal Digital TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3664-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/portal-digital-tv",
+        "country":  "DO",
+        "streams":  "https://vdo1.streamgato.us:3999/live/portaldigitallive.m3u8"
+    },
+    {
+        "name":  "Pronems TV",
+        "logo":  "https://i.imgur.com/a9ORO1G.png",
+        "website":  "https://www.pronemstv.com/",
+        "country":  "DO",
+        "streams":  "https://vdo1.streamgato.us:3418/live/pronemstvlive.m3u8"
+    },
+    {
+        "name":  "Pula TV",
+        "logo":  "https://i.imgur.com/8gSLJ2f.png",
+        "website":  "https://www.vivalivetv.com/channel/pula-tv",
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8"
+    },
+    {
+        "name":  "Punta Cana TV",
+        "logo":  "https://i.imgur.com/KF7fLTx.png",
+        "website":  "http://www.puntacanatvrd.com/",
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8"
+    },
+    {
+        "name":  "Punto TV",
+        "logo":  "https://imgur.com/vfvN6ox.png",
+        "website":  "https://dominicanchannels.com/punto-tv-canal-40/",
+        "country":  "DO",
+        "streams":  "https://vdo1.streamgato.us:3599/live/puntotvlive.m3u8"
+    },
+    {
+        "name":  "Punto TV Digital 40",
+        "logo":  "https://puntotvdigital.net/wp-content/uploads/2024/02/logo.png",
+        "website":  "https://puntotvdigital.net/television-online/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8"
+    },
+    {
+        "name":  "RDN",
+        "logo":  "https://i.imgur.com/x02CGSW.png",
+        "website":  "http://www.rdn.com.do/",
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8"
+    },
+    {
+        "name":  "Ready TV Canal 6",
+        "logo":  "https://i.imgur.com/ZONPQhR.png",
+        "website":  "https://readytelevision.com/en-vivo/",
+        "country":  "DO",
+        "streams":  "https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8"
+    },
+    {
+        "name":  "Red Social Codi TV",
+        "logo":  "https://i.imgur.com/Yb4lhpG.png",
+        "website":  "https://redsocialcodi.com/",
+        "country":  "DO",
+        "streams":  "https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8"
+    },
+    {
+        "name":  "Reportero TV",
+        "logo":  "https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png",
+        "website":  "https://dominicanchannels.com/reportero-tv/",
+        "country":  "DO",
+        "streams":  "https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8"
+    },
+    {
+        "name":  "Resplandor TV",
+        "logo":  "https://i.imgur.com/PkDMero.png",
+        "website":  "https://resplandorvision.com/",
+        "country":  "DO",
+        "streams":  "https://ss2.domint.net:3100/rtv_str/rvision/playlist.m3u8"
+    },
+    {
+        "name":  "R\u0026E TV",
+        "logo":  "https://i.imgur.com/HpKQYp3.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://live.ryetv.net/livelan/stream.m3u8"
+    },
+    {
+        "name":  "RNN",
+        "logo":  "https://i.imgur.com/12Z9qPw.png",
+        "website":  "https://rnn.com.do/",
+        "country":  "DO",
+        "streams":  "https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8"
+    },
+    {
+        "name":  "Rocavision TV",
+        "logo":  "https://imgur.com/FkHqqsi.jpg",
+        "website":  "https://www.tvdominicana.net/livetv/watch/roka-vision/48",
+        "country":  "DO",
+        "streams":  "https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8"
+    },
+    {
+        "name":  "Romana TV Canal 42",
+        "logo":  "https://i.imgur.com/EXnsmhx.png",
+        "website":  "https://romanatv42.com/",
+        "country":  "DO",
+        "streams":  "https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8"
+    },
+    {
+        "name":  "R Television",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg",
+        "website":  "https://www.tvdominicana.net/livetv/watch/r-television/38",
+        "country":  "DO",
+        "streams":  "https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8"
+    },
+    {
+        "name":  "Rumba 98.5 FM",
+        "logo":  "https://i.imgur.com/snbcCWi.png",
+        "website":  "https://rumba985fm.com/",
+        "country":  "DO",
+        "streams":  "https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8"
+    },
+    {
+        "name":  "Ruta 66 TV",
+        "logo":  "https://i.imgur.com/oY4Xfvq.png",
+        "website":  "https://ruta66tv.com/",
+        "country":  "DO",
+        "streams":  "https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8"
+    },
+    {
+        "name":  "San Isidro TV",
+        "logo":  "https://i.imgur.com/pwmJrsm.jpg",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8"
+    },
+    {
+        "name":  "Santiago TV",
+        "logo":  "https://i.imgur.com/10SUxGZ.png",
+        "website":  "http://www.santiagotv.net/",
+        "country":  "DO",
+        "streams":  "https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8"
+    },
+    {
+        "name":  "Senal Digital TV",
+        "logo":  "https://imgur.com/KGqUu1X.jpg",
+        "website":  "https://canalesdominicanos.live/senal-digital-tv/",
+        "country":  "DO",
+        "streams":  "https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8"
+    },
+    {
+        "name":  "Sensacion TV",
+        "logo":  null,
+        "website":  "https://dominicaninternet.com/client-details/1563",
+        "country":  "DO",
+        "streams":  "https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8"
+    },
+    {
+        "name":  "Siembra TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://streamunoapp.com:3809/live/siembratvlive.m3u8"
+    },
+    {
+        "name":  "Simavision Canal 18",
+        "logo":  "https://i.imgur.com/io9o30K.jpg",
+        "website":  "https://simavision.tv/",
+        "country":  "DO",
+        "streams":  "https://soportedvb.click:3668/live/simavisiontvlive.m3u8"
+    },
+    {
+        "name":  "Solucion TV",
+        "logo":  "https://rdomint.com/images/station/domint1705img07-27-20221658956991.jpeg",
+        "website":  "https://soluciontv.com/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/soluciontv/soluciontv/playlist.m3u8"
+    },
+    {
+        "name":  "Somos Topo Point TV",
+        "logo":  "https://i.imgur.com/7Jx45yQ.png",
+        "website":  "https://somostopopointtv.net/",
+        "country":  "DO",
+        "streams":  "https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8"
+    },
+    {
+        "name":  "SRC Media TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3433-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/src-media-tv",
+        "country":  "DO",
+        "streams":  "https://video.misistemareseller.com/srctv/srctv/chunklist_w846929347.m3u8"
+    },
+    {
+        "name":  "Su Mundo TV",
+        "logo":  "https://i.imgur.com/twGGfJr.png",
+        "website":  "https://www.sumundotv.com",
+        "country":  "DO",
+        "streams":  "https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8"
+    },
+    {
+        "name":  "Super7FM",
+        "logo":  "https://i.imgur.com/TJEqwZo.png",
+        "website":  "https://super7fm.com/",
+        "country":  "DO",
+        "streams":  "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8"
+    },
+    {
+        "name":  "Super Digital TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3431-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/super-digital-tv",
+        "country":  "DO",
+        "streams":  "https://inliveserver.com:1936/11516/11516/playlist.m3u8"
+    },
+    {
+        "name":  "Super TV 55",
+        "logo":  "https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg",
+        "website":  "https://www.supertv55.tv/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8"
+    },
+    {
+        "name":  "Supremateve",
+        "logo":  "https://canalesdominicanos.live/template/images/radios/small/supremateve.jpeg",
+        "website":  "https://supremateve.com/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8"
+    },
+    {
+        "name":  "Telealtura",
+        "logo":  "https://i.imgur.com/Ql2eaP0.png",
+        "website":  "https://www.telealtura.com/",
+        "country":  "DO",
+        "streams":  "https://live20.bozztv.com/akamaissh101/ssh101/codificador7/playlist.m3u8"
+    },
+    {
+        "name":  "Tele Antillas",
+        "logo":  "https://i.imgur.com/G1pJZkC.png",
+        "website":  "https://teleantillas.com.do/",
+        "country":  "DO",
+        "streams":  "http://181.189.244.252:8000/play/a00x/index.m3u8"
+    },
+    {
+        "name":  "TeleBendicion",
+        "logo":  "https://i.imgur.com/nh4sNVI.png",
+        "website":  "https://www.telebendicion.com.do/",
+        "country":  "DO",
+        "streams":  "https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8"
+    },
+    {
+        "name":  "Telecanal 12",
+        "logo":  "https://i.imgur.com/90cTK8S.png",
+        "website":  "https://telecanal12.net/",
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3258/live/telecanal12live.m3u8"
+    },
+    {
+        "name":  "Telecanal 28",
+        "logo":  "https://i.imgur.com/hEJ6lZ9.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8"
+    },
+    {
+        "name":  "Tele Caribe",
+        "logo":  "https://i.imgur.com/zDL8mGu.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR="
+    },
+    {
+        "name":  "Telecentro",
+        "logo":  "https://i.imgur.com/F17zNXh.png",
+        "website":  "https://telecentro.com.do/",
+        "country":  "DO",
+        "streams":  "https://cors-proxy.cooks.fyi/http://200.125.170.122:8000/play/a03n/index.m3u8"
+    },
+    {
+        "name":  "TeleCibaoHD",
+        "logo":  "https://i.imgur.com/IpInp05.png",
+        "website":  "http://www.telecibaohd.tv/",
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8"
+    },
+    {
+        "name":  "Telecomercio TV",
+        "logo":  "https://imgur.com/FtV5TCs.jpg",
+        "website":  "https://dominicanchannels.com/telecomercio/",
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3566/live/telecomerciotvlive.m3u8"
+    },
+    {
+        "name":  "Telecontacto",
+        "logo":  "https://i.imgur.com/TMvV9dF.png",
+        "website":  "http://www.telecontacto.tv/",
+        "country":  "DO",
+        "streams":  "https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8"
+    },
+    {
+        "name":  "Tele Dajabon TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3822-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/tele-dajabon",
+        "country":  "DO",
+        "streams":  "https://cloud5.streaminglivehd.com:3880/hybrid/play.m3u8"
+    },
+    {
+        "name":  "Tele Dominicana TV",
+        "logo":  "https://dominicanchannels.com/wp-content/uploads/teledominicana.png",
+        "website":  "https://dominicanchannels.com/tele-dominicana/",
+        "country":  "DO",
+        "streams":  "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8"
+    },
+    {
+        "name":  "Telefuturo",
+        "logo":  "https://i.imgur.com/QpnctoU.png",
+        "website":  "http://telefuturo.com.do/",
+        "country":  "DO",
+        "streams":  "http://190.110.36.254/TELEFUTURO/index.m3u8"
+    },
+    {
+        "name":  "Teleimpacto",
+        "logo":  "https://i.imgur.com/dBEysOV.png",
+        "website":  "https://teleimpacto52.com/",
+        "country":  "DO",
+        "streams":  "https://vpss2003.streamprolive.com/hls/live.m3u8"
+    },
+    {
+        "name":  "Telemax",
+        "logo":  "https://i.imgur.com/QvKmjvV.png",
+        "website":  "https://telemaxrd.com.do/",
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8"
+    },
+    {
+        "name":  "Telemedio Digital TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3869-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/telemedio-digital",
+        "country":  "DO",
+        "streams":  "https://mlb.essastream.com:8081/telemediodigital/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name":  "Telemetro TV",
+        "logo":  "https://imgur.com/Ck2NL0t.png",
+        "website":  "https://www.vivalivetv.com/channel/telemetro",
+        "country":  "DO",
+        "streams":  "https://streamunoapp.com:3366/live/telemetrolive.m3u8"
+    },
+    {
+        "name":  "Telemicro",
+        "logo":  "https://i.imgur.com/WhgySAk.png",
+        "website":  "https://telemicro.com.do/",
+        "country":  "DO",
+        "streams":  "http://181.119.108.27:8000/play/a04b/index.m3u8"
+    },
+    {
+        "name":  "Telemilenio",
+        "logo":  "https://i.imgur.com/Y8ah4ym.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8"
+    },
+    {
+        "name":  "Telenews TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3878-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/telenews",
+        "country":  "DO",
+        "streams":  "https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8"
+    },
+    {
+        "name":  "Telenord 10",
+        "logo":  "https://i.imgur.com/1Ei0kB8.png",
+        "website":  "https://www.telenord.com/canales/canal-10",
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3676/live/telenord10live.m3u8"
+    },
+    {
+        "name":  "Telenord 12",
+        "logo":  "https://i.imgur.com/o7EzEsV.png",
+        "website":  "http://telenord.com.do/index.php/canales/canal-12",
+        "country":  "DO",
+        "streams":  "https://vdo1.streamgato.us:3345/live/telenord12live.m3u8"
+    },
+    {
+        "name":  "Telenord 8",
+        "logo":  "https://i.imgur.com/1Ei0kB8.png",
+        "website":  "http://telenord.com.do/index.php/canales/canal-8",
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3170/live/telenord8live.m3u8"
+    },
+    {
+        "name":  "Telenovisa43",
+        "logo":  "https://i.imgur.com/iHvf3bR.png",
+        "website":  "https://telenovisa43.com/",
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3230/live/telenovisa43live.m3u8"
+    },
+    {
+        "name":  "Tele Ola 44",
+        "logo":  "https://dominicanchannels.com/wp-content/uploads/tele-ola.jpeg",
+        "website":  "https://dominicanchannels.com/tele-ola-cnal-44/",
+        "country":  "DO",
+        "streams":  "https://teleola.ddns.net/hls/stream.m3u8"
+    },
+    {
+        "name":  "Tele Oriental",
+        "logo":  "https://i.imgur.com/WV6lmco.png",
+        "website":  "https://teleoriental.com.do/",
+        "country":  "DO",
+        "streams":  "https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8"
+    },
+    {
+        "name":  "Tele Proyecto TV",
+        "logo":  "https://imgur.com/LmBxN5x.png",
+        "website":  "https://dominicanchannels.com/teleproyecto/",
+        "country":  "DO",
+        "streams":  "https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8"
+    },
+    {
+        "name":  "TeleRadioNorte",
+        "logo":  "https://i.imgur.com/s43eFy0.png",
+        "website":  "https://teleradionorte.com/",
+        "country":  "DO",
+        "streams":  "https://angelistic.live:3785/live/tvoficiallive.m3u8"
+    },
+    {
+        "name":  "Telerumba TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3649-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/telerumba",
+        "country":  "DO",
+        "streams":  "https://inliveserver.com:1936/18506/18506/playlist.m3u8"
+    },
+    {
+        "name":  "Telesantodomingo",
+        "logo":  "https://i.imgur.com/rI8c5UM.png",
+        "website":  "https://www.telesantodomingo.com/index.html",
+        "country":  "DO",
+        "streams":  "https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8"
+    },
+    {
+        "name":  "Telesistema 11",
+        "logo":  "https://i.imgur.com/ZzeZKCu.png",
+        "website":  "https://telesistema11.com.do/",
+        "country":  "DO",
+        "streams":  "http://181.189.244.252:8000/play/a00w/index.m3u8"
+    },
+    {
+        "name":  "Telesur Canal 10",
+        "logo":  "https://i.imgur.com/qsxaOFq.png",
+        "website":  "https://www.telesur.com.do",
+        "country":  "DO",
+        "streams":  "https://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8"
+    },
+    {
+        "name":  "Teletur",
+        "logo":  "https://i.imgur.com/Ig4gR93.png",
+        "website":  "https://dominicanchannels.com/teletur-tv/",
+        "country":  "DO",
+        "streams":  "https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8"
+    },
+    {
+        "name":  "Teleunion",
+        "logo":  "https://i.imgur.com/vTfxkjW.png",
+        "website":  "http://teleuniontvrd.com/",
+        "country":  "DO",
+        "streams":  [
+                        "http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8",
+                        "http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Tele Universal DC",
+        "logo":  "https://imgur.com/0akQ7d3.jpg",
+        "website":  "https://dominicanchannels.com/tele-universal-dc/",
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3466/live/teleuniversaldclive.m3u8"
+    },
+    {
+        "name":  "Teleuniverso",
+        "logo":  "https://i.imgur.com/gQev8ST.png",
+        "website":  "https://teleuniversotv.com/",
+        "country":  "DO",
+        "streams":  "https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8"
+    },
+    {
+        "name":  "Telever",
+        "logo":  "https://imgur.com/ejKctXc.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://soportedvb.click:3413/live/televerlive.m3u8"
+    },
+    {
+        "name":  "Televiaducto Canal 14",
+        "logo":  "https://i.imgur.com/M9A6hqR.png",
+        "website":  "https://www.televiaducto.com.do/",
+        "country":  "DO",
+        "streams":  "https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_35cdedd0092a11f089a6e578a102a00d/index.fmp4.m3u8"
+    },
+    {
+        "name":  "Televiaducto Canal 3",
+        "logo":  "https://i.imgur.com/M9A6hqR.png",
+        "website":  "https://www.televiaducto.com.do/",
+        "country":  "DO",
+        "streams":  "https://stream.castr.com/5da89a909db964293ad13301/live_aec52a7076c411f0a58c4101395f61cc/index.fmp4.m3u8"
+    },
+    {
+        "name":  "Televida",
+        "logo":  "https://i.imgur.com/S8Zdn41.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://vdo1.streamgato.us:3035/live/televidalive.m3u8"
+    },
+    {
+        "name":  "Television del Este",
+        "logo":  "https://i.imgur.com/mmjbcGr.png",
+        "website":  "https://televisiondeleste.net/",
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8"
+    },
+    {
+        "name":  "Tenarenses TV",
+        "logo":  "https://i.imgur.com/cPIgs0v.png",
+        "website":  "https://www.tenarenses.com/tenarenses-tv-3/",
+        "country":  "DO",
+        "streams":  "https://vdo2.streamgato.us:3305/live/tenarensestvrdlive.m3u8"
+    },
+    {
+        "name":  "Tiguerito TV",
+        "logo":  "https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg",
+        "website":  "https://www.tigueritos.com/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8"
+    },
+    {
+        "name":  "TNE Canal 58",
+        "logo":  "https://i.imgur.com/rSIB579.jpeg",
+        "website":  "https://www.televiaducto.com.do/",
+        "country":  "DO",
+        "streams":  "https://stream.castr.com/5da89a909db964293ad13301/live_3d61f47076c511f089458d738ae60887/index.fmp4.m3u8"
+    },
+    {
+        "name":  "TNI Canal51",
+        "logo":  "https://i.imgur.com/jizId9Z.png",
+        "website":  "https://tni51online.com/",
+        "country":  "DO",
+        "streams":  "https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8"
+    },
+    {
+        "name":  "Tom And Jerry",
+        "logo":  "https://gia.tv/streams/pptv/208314.jpg?1750373428",
+        "website":  "https://gia.tv/watchssh101.php?pptv=208314",
+        "country":  "DO",
+        "streams":  "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
+    },
+    {
+        "name":  "TRA 2",
+        "logo":  "https://i.imgur.com/iwJ42rD.png",
+        "website":  "https://www.teleradioamerica2.com/",
+        "country":  "DO",
+        "streams":  "https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8"
+    },
+    {
+        "name":  "TRA Noticias",
+        "logo":  "https://i.imgur.com/M6ZhJqM.png",
+        "website":  "http://www.teleradioamerica.com/",
+        "country":  "DO",
+        "streams":  "hhttps://fl1002.bozztv.com/ssh101/rctvhdtra/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name":  "Tu Musica HD",
+        "logo":  "https://i.imgur.com/HnjUjog.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8"
+    },
+    {
+        "name":  "Turismo HD",
+        "logo":  "https://gia.tv/streams/pptv/208343.jpg",
+        "website":  "https://gia.tv/watchssh101.php?psid=54",
+        "country":  "DO",
+        "streams":  "https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8"
+    },
+    {
+        "name":  "TV 10 San Juan",
+        "logo":  "https://i.imgur.com/e2BXUdH.png",
+        "website":  "https://tv10sanjuan.com.do/",
+        "country":  "DO",
+        "streams":  "https://59d39900ebfb8.streamlock.net/TV10SanJuan/TV10SanJuan/playlist.m3u8"
+    },
+    {
+        "name":  "TV43",
+        "logo":  "https://i.imgur.com/nnx7Eb1.png",
+        "website":  "https://www.tv43.net/",
+        "country":  "DO",
+        "streams":  "https://ss5.domint.net:3058/tv43_str/tv43/chunklist_w594470939.m3u8"
+    },
+    {
+        "name":  "TV Canal Sur",
+        "logo":  "https://www.lyngsat.com/logo/tv/tt/tv-canal-sur-do.png",
+        "website":  "https://tvcanalsur.com.do/en-vivo/",
+        "country":  "DO",
+        "streams":  "https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8"
+    },
+    {
+        "name":  "TV Cotui Canal 31",
+        "logo":  "https://i.imgur.com/sMF7JDm.png",
+        "website":  "http://tvcotuicanal31.com/",
+        "country":  "DO",
+        "streams":  [
+                        "https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8",
+                        "https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV Daja",
+        "logo":  "https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png",
+        "website":  "https://dajatv.com/",
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3388/live/dajatvlive.m3u8"
+    },
+    {
+        "name":  "TV Exitos",
+        "logo":  "https://i.imgur.com/ahz7X7u.png",
+        "website":  "http://grupomediosdelnorte.com/",
+        "country":  "DO",
+        "streams":  "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8"
+    },
+    {
+        "name":  "TV Higuey Digital",
+        "logo":  "https://i.imgur.com/ptQyOMi.png",
+        "website":  "https://tvhigueydigital.com/",
+        "country":  "DO",
+        "streams":  "https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8"
+    },
+    {
+        "name":  "TV Luz",
+        "logo":  "https://i.imgur.com/FZUQ2WP.png",
+        "website":  "https://tvluzrd.com/",
+        "country":  "DO",
+        "streams":  "https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8"
+    },
+    {
+        "name":  "TV Montana Canal 10",
+        "logo":  "https://i.imgur.com/DHyRWc0.png",
+        "website":  "https://tvmontana.com/",
+        "country":  "DO",
+        "streams":  "https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8"
+    },
+    {
+        "name":  "TVN24",
+        "logo":  "https://i.imgur.com/bu6bQMa.png",
+        "website":  "https://tvn24.do/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8"
+    },
+    {
+        "name":  "TV Plata",
+        "logo":  "https://i.imgur.com/r3urUnn.png",
+        "website":  "http://www.tvplata.net/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8"
+    },
+    {
+        "name":  "TVS",
+        "logo":  "https://i.imgur.com/a2YX1oj.jpg",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://imagenuniversaltv.net:3741/live/tvslive.m3u8"
+    },
+    {
+        "name":  "Valle Nuevo TV",
+        "logo":  "https://i.imgur.com/RvIkFxp.png",
+        "website":  "https://generacionesradio.com/",
+        "country":  "DO",
+        "streams":  "https://media.streambrothers.com:1936/8262/8262/playlist.m3u8"
+    },
+    {
+        "name":  "Vallevision",
+        "logo":  "https://i.imgur.com/lNpgFAU.png",
+        "website":  "https://vallevision.com.do/",
+        "country":  "DO",
+        "streams":  "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8"
+    },
+    {
+        "name":  "Vega Teve",
+        "logo":  "https://i.imgur.com/jiyMOZx.png",
+        "website":  "http://www.vegateve.com/",
+        "country":  "DO",
+        "streams":  "https://cloud6.livescast.com:3797/live/vegatevelive.m3u8"
+    },
+    {
+        "name":  "Vegavision Canal 18",
+        "logo":  "https://i.imgur.com/352jxnd.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://rdn.essastream.com:3400/live/canal18hdlive.m3u8"
+    },
+    {
+        "name":  "Villa Altagracia TV",
+        "logo":  "https://i.imgur.com/uQAeKKa.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://inliveserver.com:1936/10016/10016/playlist.m3u8"
+    },
+    {
+        "name":  "Vision 3000",
+        "logo":  "https://i.imgur.com/mogsnzp.png",
+        "website":  "https://peraviavision.tv/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8"
+    },
+    {
+        "name":  "Vision NDV",
+        "logo":  "https://i.imgur.com/4gj5NMa.png",
+        "website":  "https://www.visionndv.com/",
+        "country":  "DO",
+        "streams":  "https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8"
+    },
+    {
+        "name":  "VTV Canal 32",
+        "logo":  "https://i.imgur.com/qjm4B0J.png",
+        "website":  "https://vtvcanal32.com.do/",
+        "country":  "DO",
+        "streams":  "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8"
+    },
+    {
+        "name":  "Xtra Tv",
+        "logo":  "https://xtratvrd.com/logo512.png",
+        "website":  "https://xtratvrd.com/",
+        "country":  "DO",
+        "streams":  "https://cnn.essastream.com:3387/live/xtratvlive.m3u8"
+    },
+    {
+        "name":  "Xtremo Channel",
+        "logo":  "https://i.imgur.com/bvPh0Uq.png",
+        "website":  "https://www.xtremochannel.com/",
+        "country":  "DO",
+        "streams":  "https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8"
+    },
+    {
+        "name":  "Yunavision",
+        "logo":  "https://i.imgur.com/YjceEv5.png",
+        "website":  "https://www.yunavision.com/",
+        "country":  "DO",
+        "streams":  "https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8"
+    },
+    {
+        "name":  "Zinc Nombre TV",
+        "logo":  "https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg",
+        "website":  "https://www.vivalivetv.com/channel/zinc-nombre-radio-y-tv",
+        "country":  "DO",
+        "streams":  "https://5790d294af2dc.streamlock.net/zincnombreradiotv24@gmail.com/zincnombreradiotv24@gmail.com/playlist.m3u8"
+    },
+    {
+        "name":  "Zol106",
+        "logo":  "https://i.imgur.com/xz4LQoD.png",
+        "website":  null,
+        "country":  "DO",
+        "streams":  "https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8"
+    },
+    {
+        "name":  "Zonavision TV",
+        "logo":  "https://imgur.com/B3PrrMH.png",
+        "website":  "https://dominicanchannels.com/zonavision/",
+        "country":  "DO",
+        "streams":  "https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8"
+    },
+    {
+        "name":  "ZTV",
+        "logo":  "https://i.imgur.com/7F4jQ13.png",
+        "website":  "https://z101digital.com/",
+        "country":  "DO",
+        "streams":  "https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8"
+    }
+]

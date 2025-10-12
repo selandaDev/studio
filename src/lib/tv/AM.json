@@ -1,0 +1,73 @@
+﻿[
+    {
+        "name":  "Armenia 1",
+        "logo":  "https://i.postimg.cc/4yrpfC3W/armenia1.png",
+        "website":  "https://www.1tv.am/",
+        "country":  "AM",
+        "streams":  [
+                        "https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8",
+                        "https://amtv1.livestreamingcdn.com/am2abr/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Armenia 2",
+        "logo":  "https://i.imgur.com/AXmXw9X.png",
+        "website":  "http://www.tv.am/",
+        "country":  "AM",
+        "streams":  "https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8"
+    },
+    {
+        "name":  "ATV",
+        "logo":  "https://i.imgur.com/xrqFEou.png",
+        "website":  "http://www.atv.am/",
+        "country":  "AM",
+        "streams":  [
+                        "http://116.202.238.88/ATV_TR/index.m3u8",
+                        "http://146.59.85.40:89/atv/index.m3u8",
+                        "http://194.76.186.33:8000/play/a01g/index.m3u8",
+                        "http://89.187.191.41/ATV-HD-TR/video.m3u8",
+                        "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+                        "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+                        "https://guineetvdirect.online:3320/live/atvguineelive.m3u8",
+                        "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8",
+                        "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8",
+                        "https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8",
+                        "https://strm.hdtvizlecanli.com/live/atv.m3u8",
+                        "https://videos.rtva.ad/live/rtva/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Delta TV",
+        "logo":  "https://i.imgur.com/HYpkMAX.png",
+        "website":  "http://www.deltatv.am/channel/%D4%B4%D5%A5%D5%AC%D5%BF%D5%A1-TV",
+        "country":  "AM",
+        "streams":  "http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "First Channel News",
+        "logo":  "https://i.imgur.com/RlYJUH4.png",
+        "website":  "https://www.1lurer.am/",
+        "country":  "AM",
+        "streams":  [
+                        "https://amtv1-2.livestreamingcdn.com/am3abr/index.m3u8",
+                        "https://amtvusdvr.tulix.tv/am3abr/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Fortuna TV",
+        "logo":  "https://i.imgur.com/bFrpJ5n.png",
+        "website":  null,
+        "country":  "AM",
+        "streams":  [
+                        "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
+                        "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
+                    ]
+    },
+    {
+        "name":  "SONGTV Armenia",
+        "logo":  "https://i.imgur.com/nM7LbmV.png",
+        "website":  "https://songtv.am/",
+        "country":  "AM",
+        "streams":  "https://songtv.hls.iptvdc.com/web-armenia/index.m3u8"
+    }
+]

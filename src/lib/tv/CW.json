@@ -1,0 +1,30 @@
+﻿[
+    {
+        "name":  "Bonce TV",
+        "logo":  "https://i.postimg.cc/mDZQgNyF/boncetv.png",
+        "website":  "https://www.bonce.tv/",
+        "country":  "CW",
+        "streams":  "https://seswa.bonce.tv/hls/bonceswa.m3u8"
+    },
+    {
+        "name":  "Nos Pais",
+        "logo":  "https://i.postimg.cc/br5vMJfs/nospais.png",
+        "website":  "https://www.nospais.com/",
+        "country":  "CW",
+        "streams":  "https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8"
+    },
+    {
+        "name":  "TV Direct 13",
+        "logo":  "https://i.postimg.cc/nzVV1qbZ/tvdirect13.png",
+        "website":  "https://directmediacuracao.com/",
+        "country":  "CW",
+        "streams":  "https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "VAM TV",
+        "logo":  "https://i.imgur.com/CD1PffA.png",
+        "website":  "https://vamcuracao.com/",
+        "country":  "CW",
+        "streams":  "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8"
+    }
+]

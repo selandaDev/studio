@@ -1,0 +1,23 @@
+﻿[
+    {
+        "name":  "Kringvarp Foroya",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KVF_logo_2019.svg/512px-KVF_logo_2019.svg.png",
+        "website":  "https://kvf.fo/",
+        "country":  "FO",
+        "streams":  "https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8"
+    },
+    {
+        "name":  "KVF Sjonvarp",
+        "logo":  "https://www.lyngsat.com/logo/tv/kk/kvf-sjonvarp-fo.png",
+        "website":  "https://kvf.fo/live/1",
+        "country":  "FO",
+        "streams":  "https://live.kringvarp.fo/uttanlands/720/playlist.m3u8"
+    },
+    {
+        "name":  "KVF Tingvarp",
+        "logo":  "https://www.lyngsat.com/logo/tv/kk/kvf-sjonvarp-fo.png",
+        "website":  "https://kvf.fo/live/tingvarp",
+        "country":  "FO",
+        "streams":  "https://live.kringvarp.fo/kvf-2_utland/720/playlist.m3u8"
+    }
+]

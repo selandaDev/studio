@@ -1,0 +1,132 @@
+﻿[
+    {
+        "name":  "CTV",
+        "logo":  "https://i.imgur.com/tpNyrbi.png",
+        "website":  null,
+        "country":  "MZ",
+        "streams":  [
+                        "https://live.ctvbolivia.com/hls/ctv.m3u8",
+                        "https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8"
+                    ]
+    },
+    {
+        "name":  "Ebenezer TV",
+        "logo":  "https://i.imgur.com/DvJDmuk.png",
+        "website":  "https://ministeriodivinaesperanca.org/ebenezer-tv/",
+        "country":  "MZ",
+        "streams":  "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8"
+    },
+    {
+        "name":  "FTV",
+        "logo":  "https://i.imgur.com/M0FMe3Z.png",
+        "website":  null,
+        "country":  "MZ",
+        "streams":  [
+                        "https://master.tucableip.com/ftvhd/index.m3u8",
+                        "https://stream8.cinerama.uz/1018/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "ITV",
+        "logo":  "https://i.imgur.com/1gRXL9P.png",
+        "website":  null,
+        "country":  "MZ",
+        "streams":  [
+                        "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/itv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "JTV",
+        "logo":  "https://i.imgur.com/7uvJ1CJ.jpeg",
+        "website":  null,
+        "country":  "MZ",
+        "streams":  "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8"
+    },
+    {
+        "name":  "KTV",
+        "logo":  "https://i.imgur.com/ppm4Tct.png",
+        "website":  null,
+        "country":  "MZ",
+        "streams":  [
+                        "https://live.dinesh29.com.np/stream/jiotvplus/ktvhd/master.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/ktv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "MBC TV",
+        "logo":  "https://i.imgur.com/IFrtQ38.jpeg",
+        "website":  "https://mbc.co.mz/",
+        "country":  "MZ",
+        "streams":  "http://www.hwado.net/webtv/catv/503_CFEA7803.php"
+    },
+    {
+        "name":  "Mega TV",
+        "logo":  "https://i.imgur.com/2tXDcdM.png",
+        "website":  "https://mega.co.mz/",
+        "country":  "MZ",
+        "streams":  [
+                        "https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
+                        "https://vdo1.streamgato.us:3711/live/megatvlive.m3u8"
+                    ]
+    },
+    {
+        "name":  "STV",
+        "logo":  "https://i.imgur.com/G9b0UgR.png",
+        "website":  "https://stv.co.mz/",
+        "country":  "MZ",
+        "streams":  [
+                        "http://89.201.163.244:8080/hls/hdmi.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120429/stvcameroon/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Top TV",
+        "logo":  "https://i.postimg.cc/VLc5bPSj/toptv.png",
+        "website":  null,
+        "country":  "MZ",
+        "streams":  [
+                        "http://82.165.71.58:8081/TopTV/live/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/toptv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TVM",
+        "logo":  "https://i.imgur.com/Vqv7R3Y.png",
+        "website":  "https://www.tvm.co.mz/",
+        "country":  "MZ",
+        "streams":  [
+                        "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
+                        "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/tvm/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV Mana Mocambique",
+        "logo":  "https://i.imgur.com/R5YrV5s.png",
+        "website":  "https://tvmana-mocambique.com/",
+        "country":  "MZ",
+        "streams":  "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8"
+    },
+    {
+        "name":  "TVM Internacional",
+        "logo":  "https://i.imgur.com/fRV6p50.png",
+        "website":  "https://www.tvm.co.mz/",
+        "country":  "MZ",
+        "streams":  "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8"
+    },
+    {
+        "name":  "TVM Telescola",
+        "logo":  "https://i.imgur.com/JNTc68X.png",
+        "website":  "https://www.tvm.co.mz/",
+        "country":  "MZ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/telescola/playlist.m3u8"
+    },
+    {
+        "name":  "TV Vitoria",
+        "logo":  "https://i.imgur.com/HlWzzfj.png",
+        "website":  "https://www.vitoriacomunicacoes.site/",
+        "country":  "MZ",
+        "streams":  "https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8"
+    }
+]

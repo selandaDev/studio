@@ -1,0 +1,7 @@
+﻿{
+    "name":  "TV Centrafricaine",
+    "logo":  "https://i.imgur.com/BiLrKn2.jpeg",
+    "website":  null,
+    "country":  "CF",
+    "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/tcf/playlist.m3u8"
+}

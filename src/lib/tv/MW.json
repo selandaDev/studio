@@ -1,0 +1,36 @@
+﻿[
+    {
+        "name":  "CAN TV",
+        "logo":  "https://i.imgur.com/nTZZeWQ.jpg",
+        "website":  null,
+        "country":  "MW",
+        "streams":  [
+                        "http://canbroadcast.com:7000/canlican/tv.m3u8",
+                        "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8"
+                    ]
+    },
+    {
+        "name":  "GBS TV",
+        "logo":  "https://i.imgur.com/5j9YppC.png",
+        "website":  null,
+        "country":  "MW",
+        "streams":  "https://goliveafrica.media:9998/live/647460ac1ddd6/index.m3u8"
+    },
+    {
+        "name":  "MBC",
+        "logo":  "https://i.imgur.com/7afBZh2.png",
+        "website":  "http://www.mbc.mw/",
+        "country":  "MW",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/mbc1/playlist.m3u8"
+    },
+    {
+        "name":  "MBC 2",
+        "logo":  "https://i.imgur.com/qPnolMM.png",
+        "website":  "https://mbc.mw/",
+        "country":  "MW",
+        "streams":  [
+                        "http://213.57.91.138:8000/play/a05k",
+                        "https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8"
+                    ]
+    }
+]

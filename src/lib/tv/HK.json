@@ -1,0 +1,146 @@
+﻿[
+    {
+        "name":  "BSTV",
+        "logo":  "https://i.imgur.com/GVYSSgm.png",
+        "website":  "http://bschannel.com/zh",
+        "country":  "HK",
+        "streams":  "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8"
+    },
+    {
+        "name":  "CHTV",
+        "logo":  "https://i.imgur.com/53NcI8d.png",
+        "website":  "http://www.chtv.com.hk/",
+        "country":  "HK",
+        "streams":  "https://viewhn.com/chtv/live/playlist.m3u8"
+    },
+    {
+        "name":  "Creation TV",
+        "logo":  "https://i.imgur.com/f8bTPRn.png",
+        "website":  "http://www.creation-tv.com/ctv_hk/",
+        "country":  "HK",
+        "streams":  "https://cdn.deepcore.online/hlsme/ctv_hk.m3u8"
+    },
+    {
+        "name":  "HKIBC",
+        "logo":  "https://i.imgur.com/jaIdkbz.png",
+        "website":  "http://www.hkibchannel.com.hk/",
+        "country":  "HK",
+        "streams":  [
+                        "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8",
+                        "https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8"
+                    ]
+    },
+    {
+        "name":  "HOY Infotainment",
+        "logo":  "https://i.imgur.com/LNokYLQ.png",
+        "website":  "https://hoy.tv/live?channel_no=78",
+        "country":  "HK",
+        "streams":  "https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8"
+    },
+    {
+        "name":  "HOY TV",
+        "logo":  "https://i.imgur.com/NfVZPTT.png",
+        "website":  "https://hoy.tv/",
+        "country":  "HK",
+        "streams":  "https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8"
+    },
+    {
+        "name":  "National Geographic",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "website":  "http://natgeotv.com/hk",
+        "country":  "HK",
+        "streams":  [
+                        "http://62.210.211.188:2095/play/a00d",
+                        "http://78.130.250.2:8023/play/a02e/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeohd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "National Geographic Wild",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "website":  "http://natgeotv.com/asia",
+        "country":  "HK",
+        "streams":  [
+                        "http://78.130.250.2:8023/play/a02c/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeowild/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Pet Club TV",
+        "logo":  "https://i.imgur.com/ykPNNwQ.png",
+        "website":  "https://www.lightninginternational.net/channels",
+        "country":  "HK",
+        "streams":  "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"
+    },
+    {
+        "name":  "Phoenix Chinese Channel",
+        "logo":  "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",
+        "website":  "http://phtv.ifeng.com/",
+        "country":  "HK",
+        "streams":  [
+                        "http://125.210.152.18:9090/live/FHZW_1200.m3u8",
+                        "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+                        "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8",
+                        "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Phoenix InfoNews Channel",
+        "logo":  "https://i.postimg.cc/FRrrPS89/phoenixinfonewschannel.png",
+        "website":  "http://phtv.ifeng.com/phoenixinfonews/",
+        "country":  "HK",
+        "streams":  [
+                        "http://125.210.152.18:9090/live/FHZX_1200.m3u8",
+                        "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8",
+                        "http://php.17186.eu.org/phtv/fhzx.m3u8"
+                    ]
+    },
+    {
+        "name":  "RTHK TV 31",
+        "logo":  "https://i.imgur.com/kf818kM.png",
+        "website":  "https://www.rthk.hk/",
+        "country":  "HK",
+        "streams":  [
+                        "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8",
+                        "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "RTHK TV 32",
+        "logo":  "https://i.imgur.com/MXLuUoU.png",
+        "website":  "https://www.rthk.hk/",
+        "country":  "HK",
+        "streams":  [
+                        "https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8",
+                        "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8"
+                    ]
+    },
+    {
+        "name":  "RTHK TV 33",
+        "logo":  "https://i.imgur.com/2MProun.png",
+        "website":  "https://www.rthk.hk/",
+        "country":  "HK",
+        "streams":  "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8"
+    },
+    {
+        "name":  "RTHK TV 34",
+        "logo":  "https://i.imgur.com/Kq5A6Qn.png",
+        "website":  "https://www.rthk.hk/",
+        "country":  "HK",
+        "streams":  "https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8"
+    },
+    {
+        "name":  "Sun TV",
+        "logo":  "https://i.imgur.com/X9DP6oq.png",
+        "website":  "https://www.isuntv.com/zh/index",
+        "country":  "HK",
+        "streams":  "https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8"
+    },
+    {
+        "name":  "tvN Movies Asia",
+        "logo":  "https://i.imgur.com/c4XvwO2.png",
+        "website":  "https://tvnmovies.net/",
+        "country":  "HK",
+        "streams":  "http://210.210.155.37/dr9445/h/h21/index.m3u8"
+    }
+]

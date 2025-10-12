@@ -1,0 +1,626 @@
+﻿[
+    {
+        "name":  "ABN TV",
+        "logo":  "https://i.imgur.com/ciAu5ar.png",
+        "website":  "https://abntv.com.ng/",
+        "country":  "NG",
+        "streams":  "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
+    },
+    {
+        "name":  "ACNN",
+        "logo":  "https://i.imgur.com/91JLpxr.png",
+        "website":  "https://www.acnntv.com/",
+        "country":  "NG",
+        "streams":  "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Advocate Broadcasting Network",
+        "logo":  "https://i.imgur.com/ZkBEAp7.png",
+        "website":  "https://www.abn.ng/",
+        "country":  "NG",
+        "streams":  "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Africa TV3",
+        "logo":  "https://i.postimg.cc/J7BmtwYM/africatv3.png",
+        "website":  "https://africatv3.tv/",
+        "country":  "NG",
+        "streams":  "http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8"
+    },
+    {
+        "name":  "AfroSport Nigeria",
+        "logo":  "https://pbs.twimg.com/profile_images/1451668129042599936/Uh-Z6Sh1_400x400.jpg",
+        "website":  "https://www.afrosportgroup.com/",
+        "country":  "NG",
+        "streams":  "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8"
+    },
+    {
+        "name":  "AIT National",
+        "logo":  "https://i.imgur.com/n9sZsWv.jpeg",
+        "website":  "https://ait.live/",
+        "country":  "NG",
+        "streams":  "https://webstreaming.viewmedia.tv/web_036/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "AMusic Channel",
+        "logo":  "https://i.imgur.com/06zuf64.png",
+        "website":  "http://amusic.tv/",
+        "country":  "NG",
+        "streams":  [
+                        "http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
+                        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Approval TV",
+        "logo":  "https://live.approvaltv.com/logov.png",
+        "website":  "https://live.approvaltv.com",
+        "country":  "NG",
+        "streams":  "https://live.approvaltv.com/approvaltv/index.m3u8"
+    },
+    {
+        "name":  "APTIM TV",
+        "logo":  "https://i.imgur.com/gWgvm0I.png",
+        "website":  "https://www.aptimministries.com/",
+        "country":  "NG",
+        "streams":  "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_222c2dc0b69f11ee8c3c99218c8c67c4/index.fmp4.m3u8"
+    },
+    {
+        "name":  "Arewa 24",
+        "logo":  "https://i.postimg.cc/Z56xqqpp/arewa24.png",
+        "website":  "https://arewa24.com/",
+        "country":  "NG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/arewa24/playlist.m3u8"
+    },
+    {
+        "name":  "ATN",
+        "logo":  "https://i.ibb.co/9nHgK9t/logo-light.jpg",
+        "website":  "https://atlanticnetwork.tv/",
+        "country":  "NG",
+        "streams":  "https://tv2.ifastekpanel.com:3013/live/atntvlive.m3u8"
+    },
+    {
+        "name":  "BCS StarCross TV",
+        "logo":  "https://i.imgur.com/VKv1Y6p.png",
+        "website":  "http://ooo-bcsonline.org/starcross-tv/",
+        "country":  "NG",
+        "streams":  "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Bride TV",
+        "logo":  "https://i.imgur.com/snZMucg.png",
+        "website":  "https://bridetv.org/",
+        "country":  "NG",
+        "streams":  [
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/endtimemessagetv/playlist.m3u8",
+                        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "BRTV",
+        "logo":  "https://i.imgur.com/O1WoTHl.png",
+        "website":  "https://brtv24.live/",
+        "country":  "NG",
+        "streams":  [
+                        "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8",
+                        "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Capital TV",
+        "logo":  "https://i.imgur.com/N6bRAUM.jpeg",
+        "website":  "https://capitaltvnigeria.com/",
+        "country":  "NG",
+        "streams":  "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8"
+    },
+    {
+        "name":  "Catholic TV",
+        "logo":  "https://i.imgur.com/LWJlu4E.png",
+        "website":  null,
+        "country":  "NG",
+        "streams":  "https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8"
+    },
+    {
+        "name":  "Caught-Up TV",
+        "logo":  "https://i.imgur.com/7jeoulU.png",
+        "website":  "https://gewcministry.org/caught-up-tv/",
+        "country":  "NG",
+        "streams":  "https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Channels 24",
+        "logo":  "https://i.postimg.cc/TwGKcr7Y/channels24.png",
+        "website":  "https://www.channelstv.com/",
+        "country":  "NG",
+        "streams":  "https://live20.bozztv.com/dvrfl06/astv/astv-channel24africa/index.m3u8"
+    },
+    {
+        "name":  "Channels TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg",
+        "website":  "https://www.channelstv.com/",
+        "country":  "NG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/channelstv/playlist.m3u8"
+    },
+    {
+        "name":  "Chosen TV English",
+        "logo":  "https://www.lyngsat.com/logo/tv/cc/chosen-tv-ng.png",
+        "website":  "https://www.tlccrm.org/",
+        "country":  "NG",
+        "streams":  [
+                        "https://live20.bozztv.com/dvrfl06/astv/astv-chosentv/index.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/chosentv/playlist.m3u8",
+                        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "cLoveworld TV",
+        "logo":  "https://i.imgur.com/MKKap2F.png",
+        "website":  "https://cloveworld.org/",
+        "country":  "NG",
+        "streams":  "https://live-hls-5rxy.livepush.io/live_cdn/em_LJ5aZjqp0LdiQ/index.m3u8"
+    },
+    {
+        "name":  "Coza TV",
+        "logo":  "https://i.imgur.com/QVBdpuF.png",
+        "website":  "https://coza.org.ng/",
+        "country":  "NG",
+        "streams":  "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Dove TV",
+        "logo":  "https://i.postimg.cc/4Ngvn9bP/dovetv.png",
+        "website":  "https://dovevision.org/",
+        "country":  "NG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/dovetv/playlist.m3u8"
+    },
+    {
+        "name":  "Dunamis TV",
+        "logo":  "https://i.postimg.cc/kXg4jMn9/dunamistv.png",
+        "website":  "https://www.dunamisgospel.org/",
+        "country":  "NG",
+        "streams":  "https://atechgroupuk.site/DTV.m3u8"
+    },
+    {
+        "name":  "Emmanuel TV",
+        "logo":  "https://i.postimg.cc/6p0xFnzm/emmanueltv.png",
+        "website":  "https://emmanuel.tv/",
+        "country":  "NG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/elmmanueltv/playlist.m3u8"
+    },
+    {
+        "name":  "Encounter Jesus TV",
+        "logo":  "https://i.imgur.com/6a75lqD.png",
+        "website":  "https://www.encounterjesusministriesinternational.org/",
+        "country":  "NG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/encounterjesustv/playlist.m3u8"
+    },
+    {
+        "name":  "Flame TV",
+        "logo":  "https://i.imgur.com/ORKcnzr.png",
+        "website":  "https://flametv.tv/",
+        "country":  "NG",
+        "streams":  [
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/flametv/playlist.m3u8",
+                        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Foursquare TV",
+        "logo":  "https://i.imgur.com/ORer9ag.png",
+        "website":  "http://foursquare.org.ng/",
+        "country":  "NG",
+        "streams":  "https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Full Life TV",
+        "logo":  "https://i.imgur.com/DQcReWU.png",
+        "website":  "https://fulllifefoundation.org/",
+        "country":  "NG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/fulllifetv/playlist.m3u8"
+    },
+    {
+        "name":  "Galaxy TV",
+        "logo":  "https://i.imgur.com/BV0JuyX.png",
+        "website":  "https://www.galaxytvonline.com/",
+        "country":  "NG",
+        "streams":  "https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8"
+    },
+    {
+        "name":  "Global TV",
+        "logo":  "https://i.imgur.com/2gDLoLj.jpeg",
+        "website":  "https://globaltvabuja.com/",
+        "country":  "NG",
+        "streams":  [
+                        "http://181.188.216.5:18000/play/a0m5/index.m3u8",
+                        "https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8",
+                        "https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "GMTV",
+        "logo":  "https://i.ibb.co/cvDyWs1/IMG-20230628-152516.jpg",
+        "website":  null,
+        "country":  "NG",
+        "streams":  "https://webstreaming-11.viewmedia.tv/web_160/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "HoremowTV",
+        "logo":  "https://i.imgur.com/LzTqsW9.png",
+        "website":  "https://www.horemowtv.com/",
+        "country":  "NG",
+        "streams":  "https://tvsw6-hls.secdn.net/tvsw6-chorigin/play/prod-2859eecc9b514f2bb955290066ef172d/playlist.m3u8"
+    },
+    {
+        "name":  "Itage TV",
+        "logo":  "https://i.imgur.com/FP1aUPw.jpg",
+        "website":  "http://itagetv.com/",
+        "country":  "NG",
+        "streams":  "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Kingsview TV",
+        "logo":  "https://i.imgur.com/py1XOXX.png",
+        "website":  "https://kingsview.tv/",
+        "country":  "NG",
+        "streams":  "https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Liberation TV",
+        "logo":  "https://i.postimg.cc/0yC5sb9b/liberationtv.png",
+        "website":  "https://gracenation.ng/liberationtv",
+        "country":  "NG",
+        "streams":  "https://webstreaming.viewmedia.tv/web_011/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Life Center Network",
+        "logo":  "https://www.lyngsat.com/logo/tv/ll/life-center-network-ng.png",
+        "website":  null,
+        "country":  "NG",
+        "streams":  "https://webstreaming-11.viewmedia.tv/web_152/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "LN247",
+        "logo":  "https://i.imgur.com/s6PUehQ.jpg",
+        "website":  "https://ln247.news/",
+        "country":  "NG",
+        "streams":  "https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Lovetoons TV",
+        "logo":  "https://i.imgur.com/omsvAEM.png",
+        "website":  "https://lovetoons.org/",
+        "country":  "NG",
+        "streams":  "https://kali1.everestcast.com:3674/stream/play.m3u8"
+    },
+    {
+        "name":  "LoveWorld Arabic",
+        "logo":  "https://i.postimg.cc/Zq9QLMs4/loveworldarabic.png",
+        "website":  "http://loveworldarabic.tv/",
+        "country":  "NG",
+        "streams":  "https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "LoveWorld Asia",
+        "logo":  "https://www.lyngsat.com/logo/tv/ll/love_world_ng_asia.png",
+        "website":  "https://cloveworld.org/?tv=5a098fdb0c4105wjug1qiet7v",
+        "country":  "NG",
+        "streams":  "https://cdnstack.internetmultimediaonline.org/auxano/Hindilanx/index.m3u8"
+    },
+    {
+        "name":  "LoveWorld CASA",
+        "logo":  "https://www.lyngsat.com/logo/tv/ll/loveworld-casa-ng.png",
+        "website":  "https://cloveworld.org/?tv=5a099019dcdbax4kpil9ujrzy",
+        "country":  "NG",
+        "streams":  "https://j78dp6reyq5r-hls-live.5centscdn.com/kview/5c6d78cffa59e129f040fcec2d788532.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "LoveWorld Euro",
+        "logo":  "https://www.lyngsat.com/logo/tv/ll/love_world_ng_euro.png",
+        "website":  "https://cloveworld.org/?tv=5a098ffad71f9cy8g5uns1x70",
+        "country":  "NG",
+        "streams":  "https://cdnstack.internetmultimediaonline.org/auxano/Cespain/index.m3u8"
+    },
+    {
+        "name":  "LoveWorld Italia",
+        "logo":  "https://www.lyngsat.com/logo/tv/ll/loveworld-italia-ng-it.png",
+        "website":  "https://cloveworld.org/?tv=60f97930bc0830lwf4sx1zrnc",
+        "country":  "NG",
+        "streams":  "https://cdnstack.internetmultimediaonline.org/auxano/italianlanx/index.m3u8"
+    },
+    {
+        "name":  "LoveWorld Persia",
+        "logo":  "https://i.imgur.com/Vd2xPxh.png",
+        "website":  "https://loveworldpersia.org/",
+        "country":  "NG",
+        "streams":  "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8"
+    },
+    {
+        "name":  "LoveworldSAT",
+        "logo":  "https://i.postimg.cc/VN3VZW2M/loveworldsat.png",
+        "website":  "http://www.loveworldsat.org/",
+        "country":  "NG",
+        "streams":  [
+                        "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8",
+                        "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "LoveWorld USA",
+        "logo":  null,
+        "website":  "https://www.loveworldusa.org/",
+        "country":  "NG",
+        "streams":  "https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8"
+    },
+    {
+        "name":  "Loveworld XP",
+        "logo":  "https://www.lyngsat.com/logo/tv/ll/loveworld-xp-ng.png",
+        "website":  "https://www.lxp.tv/watch/",
+        "country":  "NG",
+        "streams":  "https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:livestream2022_main_all_transcode/playlist.m3u8"
+    },
+    {
+        "name":  "Master\u0027s TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/mm/masters-tv-ng.png",
+        "website":  "https://themastersplace.org/",
+        "country":  "NG",
+        "streams":  "https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8"
+    },
+    {
+        "name":  "MITV",
+        "logo":  "https://rndcdn.dstv.com/dstvcms/2018/07/03/MiTV_logo_4-3_001_xlrg.png",
+        "website":  null,
+        "country":  "NG",
+        "streams":  [
+                        "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
+                        "https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "More Grace TV",
+        "logo":  "https://i.imgur.com/DNTeCQt.png",
+        "website":  "https://moregrace.tv/",
+        "country":  "NG",
+        "streams":  "https://atechgroupuk.site/ETV.m3u8"
+    },
+    {
+        "name":  "NBS TV",
+        "logo":  "https://i.imgur.com/SQ80lHw.png",
+        "website":  "https://nbs.na.gov.ng/",
+        "country":  "NG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/nbs/playlist.m3u8"
+    },
+    {
+        "name":  "New Frontiers TV",
+        "logo":  "https://i.imgur.com/dYRIJjh.png",
+        "website":  "http://newfrontierstv.info/",
+        "country":  "NG",
+        "streams":  "https://media2.streambrothers.com:1936/8044/8044/playlist.m3u8"
+    },
+    {
+        "name":  "News Central",
+        "logo":  "https://i.postimg.cc/9fsJWPPp/newscentral.png",
+        "website":  "http://newscentral.africa/",
+        "country":  "NG",
+        "streams":  "https://wf.newscentral.ng:8443/hls/stream.m3u8"
+    },
+    {
+        "name":  "New Vision TV",
+        "logo":  "https://www.lyngsat.com/logo/tv/nn/new-vision-tv-ng.png",
+        "website":  "https://crichurch.org/",
+        "country":  "NG",
+        "streams":  "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Nigbati",
+        "logo":  "https://www.lyngsat.com/logo/tv/nn/nigbati-ng.png",
+        "website":  "https://www.nigbati.tv/",
+        "country":  "NG",
+        "streams":  "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "NTA International",
+        "logo":  "https://i.postimg.cc/MKGPmGG1/ntainternational.png",
+        "website":  "https://www.nta.ng/",
+        "country":  "NG",
+        "streams":  "https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8"
+    },
+    {
+        "name":  "NTA Sports 24",
+        "logo":  "https://i.imgur.com/Hh9lKb9.png",
+        "website":  "http://www.nta.ng/channels/nta-sports-24/",
+        "country":  "NG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120427/ntasports/playlist.m3u8"
+    },
+    {
+        "name":  "OSBC TV",
+        "logo":  "https://i.imgur.com/lj9WEq8.png",
+        "website":  "https://osbcng.org/",
+        "country":  "NG",
+        "streams":  "https://cloud.odysee.live/content/0edfb4b7fb52d2d5ae30e052ce6b61d376fcd662/master.m3u8"
+    },
+    {
+        "name":  "Phenomenal Life TV",
+        "logo":  "https://i.imgur.com/JHbhLuK.jpg",
+        "website":  null,
+        "country":  "NG",
+        "streams":  "https://5be80bd118c27.streamlock.net:433/phenomenaltv/phenomenal/playlist.m3u8"
+    },
+    {
+        "name":  "Plus TV Africa",
+        "logo":  "https://i.postimg.cc/nc0P7DY4/plustvafrica.png",
+        "website":  "https://plustvafrica.com/",
+        "country":  "NG",
+        "streams":  "https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8"
+    },
+    {
+        "name":  "Praise TV",
+        "logo":  "https://i.imgur.com/53ulHrJ.png",
+        "website":  null,
+        "country":  "NG",
+        "streams":  [
+                        "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
+                        "https://pixelsmedia.live/livepraisetv/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Qausain TV",
+        "logo":  "https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png",
+        "website":  "https://www.qausaintv.com/",
+        "country":  "NG",
+        "streams":  "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
+    },
+    {
+        "name":  "Quest TV",
+        "logo":  "https://i.imgur.com/4ATTIQi.png",
+        "website":  "https://questfmtv.com/",
+        "country":  "NG",
+        "streams":  "https://media2.streambrothers.com:19360/8028/8028.m3u8"
+    },
+    {
+        "name":  "Rave TV",
+        "logo":  "https://i.imgur.com/pXKQE0G.png",
+        "website":  "http://raveng.tv/",
+        "country":  "NG",
+        "streams":  "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Salvation TV",
+        "logo":  "https://i.imgur.com/Nb08dfK.png",
+        "website":  "https://www.salvationtv.tv/",
+        "country":  "NG",
+        "streams":  [
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/salvationtv/playlist.m3u8",
+                        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Shalom TV",
+        "logo":  "https://i.imgur.com/KO7TH3M.png",
+        "website":  null,
+        "country":  "NG",
+        "streams":  [
+                        "https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8",
+                        "https://media.streambrothers.com:1936/8400/8400/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Shekinah TV",
+        "logo":  "https://i.imgur.com/BPgn7nl.png",
+        "website":  "https://www.saigmt.org/",
+        "country":  "NG",
+        "streams":  "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8"
+    },
+    {
+        "name":  "Silverbird News 24",
+        "logo":  "https://i.imgur.com/9jcV9oG.png",
+        "website":  null,
+        "country":  "NG",
+        "streams":  "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Sunna TV",
+        "logo":  "https://i.imgur.com/K2Snk2T.png",
+        "website":  null,
+        "country":  "NG",
+        "streams":  "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8"
+    },
+    {
+        "name":  "Sunna TV Savana",
+        "logo":  "https://i.imgur.com/kcI4DCP.png",
+        "website":  "http://sunnah-tv.com/",
+        "country":  "NG",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/sunnatvsavana/playlist.m3u8"
+    },
+    {
+        "name":  "Superscreen TV",
+        "logo":  "https://i.imgur.com/uTNmSWE.png",
+        "website":  "https://superscreen.tv/",
+        "country":  "NG",
+        "streams":  "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
+    },
+    {
+        "name":  "Synagogue TV",
+        "logo":  "https://i.imgur.com/MOaBr9M.png",
+        "website":  "https://synagoguetv.org/",
+        "country":  "NG",
+        "streams":  [
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/synagoguetv/playlist.m3u8",
+                        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Temple TV",
+        "logo":  "https://i.imgur.com/qy9Mutu.png",
+        "website":  "https://jctm.org/",
+        "country":  "NG",
+        "streams":  "https://5a1178b42cc03.streamlock.net/jesustemple/jesustemple/playlist.m3u8"
+    },
+    {
+        "name":  "Trust TV",
+        "logo":  "https://i.imgur.com/2le4qYj.png",
+        "website":  "https://trusttv.com/",
+        "country":  "NG",
+        "streams":  "https://panel.freedomflixtv.org:3900/hybrid/play.m3u8"
+    },
+    {
+        "name":  "TVC",
+        "logo":  "https://i.imgur.com/ReV8R5S.png",
+        "website":  "https://www.tvcentertainment.tv/",
+        "country":  "NG",
+        "streams":  "https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8"
+    },
+    {
+        "name":  "TVC News",
+        "logo":  "https://i.postimg.cc/tRSJ2v4c/tvcnews.png",
+        "website":  "https://tvcnews.tv/",
+        "country":  "NG",
+        "streams":  [
+                        "http://69.64.57.208/tvcnews/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/tvcnews/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-dash/tvcnews.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-HLS8/tvcnews.m3u8"
+                    ]
+    },
+    {
+        "name":  "Waffi TV",
+        "logo":  "https://i.imgur.com/3uEuzVH.jpeg",
+        "website":  "https://waffitv.com/",
+        "country":  "NG",
+        "streams":  "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Wap TV",
+        "logo":  "https://i.postimg.cc/T1nSs4XD/waptv.png",
+        "website":  "https://waptvchannel.com/",
+        "country":  "NG",
+        "streams":  "https://newproxy3.vidivu.tv/waptv/index.m3u8"
+    },
+    {
+        "name":  "Wazobia Max TV Abuja",
+        "logo":  "https://i.imgur.com/XYMKPPT.png",
+        "website":  "https://www.wazobiamax.ng/abuja",
+        "country":  "NG",
+        "streams":  "https://wazobia.live:8333/channel/wmaxabuja.m3u8"
+    },
+    {
+        "name":  "Wazobia Max TV Nigeria",
+        "logo":  "https://i.imgur.com/IeioxBp.png",
+        "website":  "https://www.wazobiamax.ng/",
+        "country":  "NG",
+        "streams":  "https://wazobia.live:8333/channel/wmax.m3u8"
+    },
+    {
+        "name":  "Wazobia Max TV Port-Harcourt",
+        "logo":  "https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png",
+        "website":  "https://www.wazobiamax.ng/ph",
+        "country":  "NG",
+        "streams":  "https://wazobia.live:8333/channel/wmaxph.m3u8"
+    },
+    {
+        "name":  "Whole Word TV",
+        "logo":  "https://i.imgur.com/71MRtuK.png",
+        "website":  "https://godhouse.org/",
+        "country":  "NG",
+        "streams":  "https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8"
+    }
+]

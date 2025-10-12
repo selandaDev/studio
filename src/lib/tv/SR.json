@@ -1,0 +1,68 @@
+﻿[
+    {
+        "name":  "Alpha Channel",
+        "logo":  "https://i.imgur.com/9VWFVel.jpeg",
+        "website":  "https://www.dbsuriname.com/",
+        "country":  "SR",
+        "streams":  "https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8"
+    },
+    {
+        "name":  "ATV",
+        "logo":  "https://i.imgur.com/KuSRvMr.png",
+        "website":  "http://www.atv.sr/",
+        "country":  "SR",
+        "streams":  [
+                        "http://116.202.238.88/ATV_TR/index.m3u8",
+                        "http://146.59.85.40:89/atv/index.m3u8",
+                        "http://194.76.186.33:8000/play/a01g/index.m3u8",
+                        "http://89.187.191.41/ATV-HD-TR/video.m3u8",
+                        "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+                        "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+                        "https://guineetvdirect.online:3320/live/atvguineelive.m3u8",
+                        "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8",
+                        "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8",
+                        "https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8",
+                        "https://strm.hdtvizlecanli.com/live/atv.m3u8",
+                        "https://videos.rtva.ad/live/rtva/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Ishara TV",
+        "logo":  "https://i.imgur.com/LRBk9xw.jpg",
+        "website":  "http://www.isharafm.com/",
+        "country":  "SR",
+        "streams":  "https://epiconvh.akamaized.net/live/ishaara/master.m3u8"
+    },
+    {
+        "name":  "Maranatha TV",
+        "logo":  "https://i.imgur.com/lJ4MLHn.png",
+        "website":  "https://shalomsuriname.com/",
+        "country":  "SR",
+        "streams":  "https://media.streambrothers.com:1936/8298/8298/playlist.m3u8"
+    },
+    {
+        "name":  "RTV",
+        "logo":  "https://i.imgur.com/9TW6CQ3.png",
+        "website":  null,
+        "country":  "SR",
+        "streams":  [
+                        "http://iptv.rtv-ooe.at/stream.m3u8",
+                        "https://dvrfl03.bozztv.com/hondu/hondu-rtvtv/index.m3u8",
+                        "https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8"
+                    ]
+    },
+    {
+        "name":  "Shalom TV",
+        "logo":  "https://i.imgur.com/lJ4MLHn.png",
+        "website":  "https://shalomsuriname.com/",
+        "country":  "SR",
+        "streams":  "https://media.streambrothers.com:1936/8400/8400/playlist.m3u8"
+    },
+    {
+        "name":  "Trishul Broadcasting Network",
+        "logo":  "https://i.imgur.com/Fhl1dtY.jpg",
+        "website":  "https://radiotrishul.com/",
+        "country":  "SR",
+        "streams":  "https://live.suricloud.com/hls/tbntv/index.m3u8"
+    }
+]

@@ -1,0 +1,64 @@
+﻿[
+    {
+        "name":  "ADO TV",
+        "logo":  "https://i.imgur.com/pxFamLr.png",
+        "website":  "https://srtb.bj/directbenintvjuniors/",
+        "country":  "BJ",
+        "streams":  "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
+    },
+    {
+        "name":  "Benin Web TV",
+        "logo":  "https://i.imgur.com/CYy4n0N.png",
+        "website":  "https://beninwebtv.com/",
+        "country":  "BJ",
+        "streams":  "https://stream.beninwebtv.bj/2/live/stream.m3u8"
+    },
+    {
+        "name":  "Canal 3 Benin",
+        "logo":  "https://i.imgur.com/F7QcNTf.png",
+        "website":  "https://canal3television.com/",
+        "country":  "BJ",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119195/canal3benin/playlist.m3u8"
+    },
+    {
+        "name":  "Eden TV",
+        "logo":  "https://i.imgur.com/4ClnG0x.png",
+        "website":  "http://benin-eden.tv/",
+        "country":  "BJ",
+        "streams":  [
+                        "https://rtmp.edentv.bj/hls/stream.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/edentv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "ORTB TV",
+        "logo":  "https://i.imgur.com/o6zAR88.png",
+        "website":  "https://srtb.bj/benintv/",
+        "country":  "BJ",
+        "streams":  [
+                        "https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/ortb/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Power TV",
+        "logo":  "https://i.imgur.com/IiP7djp.png",
+        "website":  "https://www.charlespasso.org/",
+        "country":  "BJ",
+        "streams":  [
+                        "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8",
+                        "https://liveboxvideoconference.livebox.co.in/PowersmartMediahls/powertvlive.m3u8",
+                        "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TVC Benin",
+        "logo":  "https://i.imgur.com/oUnEYl5.png",
+        "website":  "https://www.tvcbenin.com/",
+        "country":  "BJ",
+        "streams":  [
+                        "https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/tvcbenin/playlist.m3u8"
+                    ]
+    }
+]

@@ -1,0 +1,55 @@
+﻿[
+    {
+        "name":  "Canal 10",
+        "logo":  "https://i.imgur.com/FAbd8jL.png",
+        "website":  null,
+        "country":  "GP",
+        "streams":  [
+                        "http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8",
+                        "https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8",
+                        "https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "ETV",
+        "logo":  "https://i.imgur.com/m5E2VP0.png",
+        "website":  "https://www.etv.gp/",
+        "country":  "GP",
+        "streams":  "https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8"
+    },
+    {
+        "name":  "Madras FM TV",
+        "logo":  "https://i.imgur.com/spGg1CZ.png",
+        "website":  "https://www.madrasfm.tv/",
+        "country":  "GP",
+        "streams":  "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8"
+    },
+    {
+        "name":  "Radio TV Basse-Terre",
+        "logo":  "https://i.imgur.com/OvnRplq.png",
+        "website":  "https://www.rtvbt.fr/",
+        "country":  "GP",
+        "streams":  "https://vdo.ssl-stream.com:3412/stream/play.m3u8"
+    },
+    {
+        "name":  "RHT Guadeloupe",
+        "logo":  "https://i.imgur.com/hQ0Q6nE.png",
+        "website":  "https://www.rhtguadeloupe.fr/",
+        "country":  "GP",
+        "streams":  "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8"
+    },
+    {
+        "name":  "TEVEKA",
+        "logo":  "https://i.imgur.com/IAtKJZk.png",
+        "website":  "http://www.teveka.net/",
+        "country":  "GP",
+        "streams":  "https://www.teveka.net:8443/show/teveka/index.m3u8"
+    },
+    {
+        "name":  "TMA",
+        "logo":  "https://i.postimg.cc/GtsCMtHX/tma.png",
+        "website":  "http://www.tmacaraibes.com/",
+        "country":  "GP",
+        "streams":  "http://hls.tmacaraibes.com/live/index.m3u8"
+    }
+]

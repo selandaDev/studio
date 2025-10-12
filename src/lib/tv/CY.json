@@ -1,0 +1,200 @@
+﻿[
+    {
+        "name":  "Ada TV",
+        "logo":  "https://i.imgur.com/YWmkUWU.png",
+        "website":  "http://adatv.tv/",
+        "country":  "CY",
+        "streams":  "https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8"
+    },
+    {
+        "name":  "Alfa Sport",
+        "logo":  "https://i.imgur.com/vhMPYIW.png",
+        "website":  "https://www.alphacyprus.com.cy/live",
+        "country":  "CY",
+        "streams":  "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx"
+    },
+    {
+        "name":  "Alfa TV",
+        "logo":  "https://i.imgur.com/3hF0Mtb.png",
+        "website":  "https://www.alphacyprus.com.cy",
+        "country":  "CY",
+        "streams":  "http://135.125.204.34:8081/tvstanici/4/playlist.m3u8"
+    },
+    {
+        "name":  "ANT1 Cyprus",
+        "logo":  "https://i.imgur.com/2KAObBt.png",
+        "website":  "https://www.ant1.com.cy/",
+        "country":  "CY",
+        "streams":  "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8"
+    },
+    {
+        "name":  "BRT 1",
+        "logo":  "https://i.imgur.com/gOPAi2c.png",
+        "website":  "https://brtk.net/",
+        "country":  "CY",
+        "streams":  [
+                        "https://canlitvulusal.xyz/live/brt1/index.m3u8",
+                        "https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "BRT 2",
+        "logo":  "https://i.imgur.com/t5kbIuj.png",
+        "website":  "https://brtk.net/",
+        "country":  "CY",
+        "streams":  [
+                        "http://bozztv.com/gin-36bay3/gt-kibrisbrt3/index.m3u8",
+                        "https://canlitvulusal.xyz/live/brt2/index.m3u8",
+                        "https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "BRT 3",
+        "logo":  "https://i.postimg.cc/qvXh66Rc/brt3.png",
+        "website":  "https://brtk.net/",
+        "country":  "CY",
+        "streams":  "http://185.234.111.229:8000/play/a07e"
+    },
+    {
+        "name":  "Capital TV",
+        "logo":  "https://i.imgur.com/CinkZYH.png",
+        "website":  "https://capitaltv.cy/",
+        "country":  "CY",
+        "streams":  "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8"
+    },
+    {
+        "name":  "City Channel",
+        "logo":  "https://i.imgur.com/oo2fxta.png",
+        "website":  "http://www.citychannel.ie",
+        "country":  "CY",
+        "streams":  "https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx"
+    },
+    {
+        "name":  "Kanal Sim",
+        "logo":  "https://i.postimg.cc/4dmzDCkF/kanalsim.png",
+        "website":  "http://www.kanalsim.com/",
+        "country":  "CY",
+        "streams":  "https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8"
+    },
+    {
+        "name":  "Kibris Genc TV",
+        "logo":  "https://i.postimg.cc/K8mKh7rX/kibrisgenctv.png",
+        "website":  "https://www.kibrisgenctv.com/",
+        "country":  "CY",
+        "streams":  "https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8"
+    },
+    {
+        "name":  "Kibris Kanal T",
+        "logo":  "https://i.postimg.cc/XYxrjZQr/kibriskanalt.png",
+        "website":  "http://www.kanalt.com/",
+        "country":  "CY",
+        "streams":  "https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8"
+    },
+    {
+        "name":  "Kibris TV",
+        "logo":  "https://i.postimg.cc/vZsCbhmv/kibristv.png",
+        "website":  "https://www.kibristv.com/",
+        "country":  "CY",
+        "streams":  "https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8"
+    },
+    {
+        "name":  "Magic TV",
+        "logo":  "https://i.imgur.com/QZQhg6C.png",
+        "website":  null,
+        "country":  "CY",
+        "streams":  [
+                        "https://bss1.neterra.tv/magictv/magictv.m3u8",
+                        "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
+                    ]
+    },
+    {
+        "name":  "OMONOIA TV",
+        "logo":  "https://i.imgur.com/nLLDMgR.png",
+        "website":  "https://primetel.com.cy/omonoia-tv-el",
+        "country":  "CY",
+        "streams":  "http://62.233.57.226:8001/play/a00b00"
+    },
+    {
+        "name":  "Plus TV",
+        "logo":  "https://i.imgur.com/edpkfIi.png",
+        "website":  null,
+        "country":  "CY",
+        "streams":  [
+                        "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+                        "https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "RIK Sat",
+        "logo":  "https://i.postimg.cc/kXYDHTvB/riksat.png",
+        "website":  "http://cybc.com.cy/",
+        "country":  "CY",
+        "streams":  [
+                        "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+                        "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Sat 7 Arabic",
+        "logo":  "https://i.imgur.com/BzDjQeQ.png",
+        "website":  "https://sat7.org/our-channels/channel-overview/sat-7-arabic",
+        "country":  "CY",
+        "streams":  [
+                        "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119687/sat7/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Sat 7 Kids",
+        "logo":  "https://i.postimg.cc/rFgcZzcj/sat7kids.png",
+        "website":  "http://sat7kids.com/",
+        "country":  "CY",
+        "streams":  "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8"
+    },
+    {
+        "name":  "Sat 7 Pars",
+        "logo":  "https://i.postimg.cc/wjvzCHjp/sat7pars.png",
+        "website":  "https://www.sat7pars.com/",
+        "country":  "CY",
+        "streams":  "https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Sat 7 Turk",
+        "logo":  "https://i.postimg.cc/QdyDsPFW/sat7turk.png",
+        "website":  "https://www.sat7turk.com/",
+        "country":  "CY",
+        "streams":  [
+                        "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8",
+                        "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8",
+                        "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8"
+                    ]
+    },
+    {
+        "name":  "Sigma TV",
+        "logo":  "https://i.postimg.cc/25d0rDB2/sigmatv.png",
+        "website":  "https://www.sigmatv.com/",
+        "country":  "CY",
+        "streams":  "https://sl2.sigmatv.com/hls/live.m3u8"
+    },
+    {
+        "name":  "TV 2020",
+        "logo":  "https://i.postimg.cc/k4GB74PF/tv2020.png",
+        "website":  "https://www.diyaloggazetesi.com/",
+        "country":  "CY",
+        "streams":  "https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8"
+    },
+    {
+        "name":  "TV Gunes",
+        "logo":  "https://i.imgur.com/XmlXofJ.png",
+        "website":  null,
+        "country":  "CY",
+        "streams":  "https://sc-kuzeykibrissmarttv.ercdn.net/gunestv/bant1/playlist.m3u8"
+    },
+    {
+        "name":  "Vouli TV",
+        "logo":  "https://i.postimg.cc/SN2b6D5k/voulitv.png",
+        "website":  "https://vouli.tv/",
+        "country":  "CY",
+        "streams":  "https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx"
+    }
+]

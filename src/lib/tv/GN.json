@@ -1,0 +1,95 @@
+﻿[
+    {
+        "name":  "ATV",
+        "logo":  "https://i.imgur.com/YkJPCfR.jpeg",
+        "website":  "https://atvguinee.net/",
+        "country":  "GN",
+        "streams":  "https://guineetvdirect.online:3320/live/atvguineelive.m3u8"
+    },
+    {
+        "name":  "BTA TV",
+        "logo":  "https://i.imgur.com/bYfPxnN.jpeg",
+        "website":  "https://btagroupe.com/",
+        "country":  "GN",
+        "streams":  "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+    },
+    {
+        "name":  "CIS TV",
+        "logo":  "https://i.imgur.com/7KdUOqY.png",
+        "website":  "http://www.cismedias.com/cis-tv/",
+        "country":  "GN",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120430/cistv/playlist.m3u8"
+    },
+    {
+        "name":  "Espace TV",
+        "logo":  "https://i.imgur.com/R5tbzFI.png",
+        "website":  "https://www.espacetvguinee.info/",
+        "country":  "GN",
+        "streams":  "https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8"
+    },
+    {
+        "name":  "Fasso TV Kankan",
+        "logo":  "https://i.imgur.com/xrV3Qrr.png",
+        "website":  null,
+        "country":  "GN",
+        "streams":  [
+                        "https://dvrfl06.bozztv.com/astv-fassotv/index.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/fassotv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Guinee TV1",
+        "logo":  "https://i.imgur.com/X1AUjHr.png",
+        "website":  "https://guineetv1.com/",
+        "country":  "GN",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/gtv1/playlist.m3u8"
+    },
+    {
+        "name":  "Kaback TV",
+        "logo":  "https://i.imgur.com/oIe98p4.png",
+        "website":  "https://www.lerenifleur224.com/",
+        "country":  "GN",
+        "streams":  [
+                        "https://guineetvdirect.online:3842/live/kabacktvlive.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/kabactv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Kalac TV",
+        "logo":  "https://i.imgur.com/FgKJiHZ.png",
+        "website":  "https://www.espacetvguinee.info/",
+        "country":  "GN",
+        "streams":  "https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8"
+    },
+    {
+        "name":  "RTG 1",
+        "logo":  "https://i.imgur.com/E1sMcXz.png",
+        "website":  "https://rtgkoloma.info/tv/",
+        "country":  "GN",
+        "streams":  [
+                        "http://69.64.57.208/rtg/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/rtg1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "RTG 2",
+        "logo":  "https://i.imgur.com/E1sMcXz.png",
+        "website":  "https://rtgkoloma.info/tv/",
+        "country":  "GN",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/rtg2/playlist.m3u8"
+    },
+    {
+        "name":  "Sab TV",
+        "logo":  "https://i.imgur.com/llpjrWU.jpeg",
+        "website":  "https://sabtvguinee.com/",
+        "country":  "GN",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/sabtv/playlist.m3u8"
+    },
+    {
+        "name":  "West Africa TV",
+        "logo":  "https://i.imgur.com/slJHucp.png",
+        "website":  "https://westafricatv.net/",
+        "country":  "GN",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/westafricatv/playlist.m3u8"
+    }
+]

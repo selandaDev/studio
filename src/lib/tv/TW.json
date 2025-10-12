@@ -1,0 +1,256 @@
+﻿[
+    {
+        "name":  "Beautiful Life TV",
+        "logo":  "https://i.imgur.com/hkwcBM9.png",
+        "website":  "http://www.bltv.tv/",
+        "country":  "TW",
+        "streams":  "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
+    },
+    {
+        "name":  "CGNTV Chinese",
+        "logo":  "https://i.imgur.com/bPoPAbR.png",
+        "website":  "http://chinese.cgntv.net/",
+        "country":  "TW",
+        "streams":  "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8"
+    },
+    {
+        "name":  "CTi News",
+        "logo":  "https://i.imgur.com/FZONZEr.png",
+        "website":  "http://www.ctitv.com.tw/",
+        "country":  "TW",
+        "streams":  "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8"
+    },
+    {
+        "name":  "CTi Variety",
+        "logo":  "https://i.imgur.com/tqsKObw.png",
+        "website":  "https://www.ctitv.com.tw/channel36",
+        "country":  "TW",
+        "streams":  "http://23.237.10.66:16372"
+    },
+    {
+        "name":  "CTS News",
+        "logo":  "https://i.imgur.com/V1EVtRm.png",
+        "website":  "https://www.cts.com.tw/",
+        "country":  "TW",
+        "streams":  "http://seb.sason.top/sc/hsxw_fhd.m3u8"
+    },
+    {
+        "name":  "CTV",
+        "logo":  "https://i.imgur.com/7W6d5pM.png",
+        "website":  "http://new.ctv.com.tw/",
+        "country":  "TW",
+        "streams":  [
+                        "https://live.ctvbolivia.com/hls/ctv.m3u8",
+                        "https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8"
+                    ]
+    },
+    {
+        "name":  "DaAi 1",
+        "logo":  "https://i.imgur.com/KdJi9af.png",
+        "website":  "http://www.daai.tv/",
+        "country":  "TW",
+        "streams":  "https://pulltv1.wanfudaluye.com/live/tv1.m3u8"
+    },
+    {
+        "name":  "DaAi 2",
+        "logo":  "https://i.imgur.com/KdJi9af.png",
+        "website":  "http://www.daai.tv/",
+        "country":  "TW",
+        "streams":  "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
+    },
+    {
+        "name":  "Dali TV",
+        "logo":  "https://i.imgur.com/pFIMLsA.png",
+        "website":  null,
+        "country":  "TW",
+        "streams":  "http://www.dalitv.com.tw:4568/live/dali/index.m3u8"
+    },
+    {
+        "name":  "EBC Financial News",
+        "logo":  "https://i.imgur.com/uFDkOhV.png",
+        "website":  "https://fnc.ebc.net.tw/",
+        "country":  "TW",
+        "streams":  "http://seb.sason.top/sc/dscjxw_fhd.m3u8"
+    },
+    {
+        "name":  "EBC News",
+        "logo":  "https://i.imgur.com/QFZs80p.png",
+        "website":  "https://news.ebc.net.tw/",
+        "country":  "TW",
+        "streams":  "http://seb.sason.top/sc/dsxw_fhd.m3u8"
+    },
+    {
+        "name":  "ET Mall 60",
+        "logo":  "https://i.imgur.com/nvm6dyH.png",
+        "website":  "https://www.etmall.com.tw/",
+        "country":  "TW",
+        "streams":  "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8"
+    },
+    {
+        "name":  "FTV",
+        "logo":  "https://i.imgur.com/q8ahtbT.png",
+        "website":  "https://www.ftv.com.tw/",
+        "country":  "TW",
+        "streams":  "http://seb.sason.top/ptv/ftv.php?id=ms"
+    },
+    {
+        "name":  "FTV One",
+        "logo":  "https://i.imgur.com/HBT2o0I.png",
+        "website":  "https://www.ftv.com.tw/",
+        "country":  "TW",
+        "streams":  "http://seb.sason.top/ptv/ftv.php?id=dy"
+    },
+    {
+        "name":  "FTV Taiwan",
+        "logo":  "https://i.imgur.com/p108I5g.png",
+        "website":  "https://www.ftv.com.tw/",
+        "country":  "TW",
+        "streams":  "http://seb.sason.top/ptv/ftv.php?id=tw"
+    },
+    {
+        "name":  "Genius Go Go Go",
+        "logo":  null,
+        "website":  "https://www.cts.com.tw/",
+        "country":  "TW",
+        "streams":  "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8"
+    },
+    {
+        "name":  "Global News",
+        "logo":  "https://yt3.googleusercontent.com/N017-8I-vc4i_gbztqHFzM9Bap8EWKmsfPBu0HBWM6O4zGX1HBFn5DdLuWcwQLlPQ7F4ej8Mlw=s512-c-k-c0x00ffffff-no-rj",
+        "website":  "http://www.asiadigital.com.tw/archives/category/globalnews",
+        "country":  "TW",
+        "streams":  "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8"
+    },
+    {
+        "name":  "Good 2",
+        "logo":  "https://i.imgur.com/YxFRoft.png",
+        "website":  "https://www.goodtv.tv/",
+        "country":  "TW",
+        "streams":  "https://live.streamingfast.net/osmflivech2.m3u8"
+    },
+    {
+        "name":  "Good TV",
+        "logo":  "https://i.imgur.com/k28Kc3o.png",
+        "website":  "https://www.goodtv.tv/",
+        "country":  "TW",
+        "streams":  "https://live.streamingfast.net/osmflivech1.m3u8"
+    },
+    {
+        "name":  "Indigenous TV",
+        "logo":  "https://i.imgur.com/vmk4F9u.png",
+        "website":  "https://www.ipcf.org.tw/",
+        "country":  "TW",
+        "streams":  "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Life TV",
+        "logo":  "https://i.imgur.com/flAIJZO.png",
+        "website":  "http://www.lifetv.org.tw/",
+        "country":  "TW",
+        "streams":  [
+                        "http://59c3ec70cfde0.streamlock.net/channel_6/channel6/playlist.m3u8",
+                        "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+                        "https://lifetv.bitflip.ee/live/stream1.m3u8",
+                        "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
+                        "https://origin3.afxp.telemedia.co.za/PremiumFree/lifetv/playlist.m3u8",
+                        "https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "MTV",
+        "logo":  "https://i.postimg.cc/4d3rmyGW/mtv.png",
+        "website":  "http://www.mtv.com.tw/",
+        "country":  "TW",
+        "streams":  [
+                        "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8"
+                    ]
+    },
+    {
+        "name":  "National Geographic",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "website":  "http://natgeotv.com/asia",
+        "country":  "TW",
+        "streams":  [
+                        "http://62.210.211.188:2095/play/a00d",
+                        "http://78.130.250.2:8023/play/a02e/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeohd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "SET News",
+        "logo":  "https://i.imgur.com/EGVbAvJ.png",
+        "website":  "https://www.settv.com.tw/",
+        "country":  "TW",
+        "streams":  "http://seb.sason.top/sc/sllive_fhd.m3u8"
+    },
+    {
+        "name":  "Supreme Master TV",
+        "logo":  "https://i.imgur.com/kFMHayP.png",
+        "website":  "http://suprememastertv.com/",
+        "country":  "TW",
+        "streams":  "https://lbs-us1.suprememastertv.com/720p.m3u8"
+    },
+    {
+        "name":  "Taiwan Indigenous TV",
+        "logo":  "https://i.imgur.com/QqIdVqz.png",
+        "website":  null,
+        "country":  "TW",
+        "streams":  "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"
+    },
+    {
+        "name":  "Taiwan Plus TV",
+        "logo":  "https://i.imgur.com/SfcZyqm.png",
+        "website":  "https://www.taiwanplus.com",
+        "country":  "TW",
+        "streams":  [
+                        "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+                        "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8"
+                    ]
+    },
+    {
+        "name":  "Top TV",
+        "logo":  "https://i.imgur.com/ga770gI.png",
+        "website":  null,
+        "country":  "TW",
+        "streams":  [
+                        "http://82.165.71.58:8081/TopTV/live/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/toptv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TTV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/512px-TTV_2nd_logo.svg.png",
+        "website":  "https://www.ttv.com.tw/",
+        "country":  "TW",
+        "streams":  "http://162.19.247.76:22222/live/taishi/index.m3u8"
+    },
+    {
+        "name":  "TVBS-Asia",
+        "logo":  "https://i.imgur.com/4S1rkhm.png",
+        "website":  "https://www.tvbs.com.tw/ours/en/tvbsasia",
+        "country":  "TW",
+        "streams":  "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8"
+    },
+    {
+        "name":  "TVBS News",
+        "logo":  "https://i.imgur.com/171lwfg.png",
+        "website":  "https://news.tvbs.com.tw/",
+        "country":  "TW",
+        "streams":  "http://seb.sason.top/sc/tvbsxw_fhd.m3u8"
+    },
+    {
+        "name":  "UCTV",
+        "logo":  "https://www.lyngsat.com/logo/tv/uu/universal_culture_tv_tw.png",
+        "website":  null,
+        "country":  "TW",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/uctv/playlist.m3u8"
+    },
+    {
+        "name":  "WXTV",
+        "logo":  "https://i.imgur.com/s8tiTeb.png",
+        "website":  null,
+        "country":  "TW",
+        "streams":  "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
+    }
+]

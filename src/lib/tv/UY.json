@@ -1,0 +1,69 @@
+﻿[
+    {
+        "name":  "Canal 10",
+        "logo":  "https://i.imgur.com/LowlfG2.png",
+        "website":  "https://www.canal10.com.uy/",
+        "country":  "UY",
+        "streams":  [
+                        "http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8",
+                        "https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8",
+                        "https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canal 4",
+        "logo":  "https://i.imgur.com/E4gotbu.png",
+        "website":  "https://www.canal4.com.uy/",
+        "country":  "UY",
+        "streams":  [
+                        "http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8",
+                        "http://tmp-sv3.teleon.live:8080/play/a011/index.m3u8",
+                        "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Canal 5",
+        "logo":  "https://i.imgur.com/IpYxSr1.png",
+        "website":  "https://mediospublicos.uy/",
+        "country":  "UY",
+        "streams":  "http://104.238.205.28:8989/278329_.m3u8"
+    },
+    {
+        "name":  "La Red",
+        "logo":  "https://i.imgur.com/COThfaj.png",
+        "website":  "http://www.redtv.com.uy/",
+        "country":  "UY",
+        "streams":  "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8"
+    },
+    {
+        "name":  "Pop TV",
+        "logo":  "https://i.imgur.com/WOy1wnx.png",
+        "website":  "https://poptv.uy/",
+        "country":  "UY",
+        "streams":  "https://fl7.moveonjoy.com/Pop_TV/index.m3u8"
+    },
+    {
+        "name":  "UCL",
+        "logo":  "https://i.imgur.com/BzQphbw.png",
+        "website":  "https://www.ucltelevision.com/",
+        "country":  "UY",
+        "streams":  "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
+    },
+    {
+        "name":  "VIVO TV",
+        "logo":  "https://i.ibb.co/Drx6fgZ/Logo-white.png",
+        "website":  "https://vivotv.uy/",
+        "country":  "UY",
+        "streams":  "https://stream.vivotv.uy/hls/stream.m3u8"
+    },
+    {
+        "name":  "VTV",
+        "logo":  "https://i.imgur.com/SiImXjJ.png",
+        "website":  "https://www.vtv.com.uy/",
+        "country":  "UY",
+        "streams":  [
+                        "https://d3q93l5bumjyoq.cloudfront.net/index.m3u8",
+                        "https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8"
+                    ]
+    }
+]

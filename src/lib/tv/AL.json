@@ -1,0 +1,152 @@
+﻿[
+    {
+        "name":  "ABC News",
+        "logo":  "https://i.postimg.cc/TwJw4Zzz/abcnews.png",
+        "website":  "https://abcnews.al/",
+        "country":  "AL",
+        "streams":  [
+                        "https://c.mjh.nz/abc-news.m3u8",
+                        "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+                    ]
+    },
+    {
+        "name":  "AlbKanale Music TV",
+        "logo":  "https://i.imgur.com/JdKxscs.png",
+        "website":  "https://albportal.net/",
+        "country":  "AL",
+        "streams":  "https://albportal.net/albkanalemusic.m3u8"
+    },
+    {
+        "name":  "Bang Bang",
+        "logo":  "https://i.postimg.cc/WpKyFhFH/bangbang.png",
+        "website":  "https://www.digitalb.al/",
+        "country":  "AL",
+        "streams":  "https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?application_id=backoffice1\u0026application_installation_id=1\u0026authority_instance_id=spectar-prd-digitalb\u0026detected_delivery_method=hls\u0026id=DAL_1_004\u0026playlist_template=nginx\u0026profile_id=1\u0026ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25\u0026subscriber_id=1\u0026token=142cda7d50870275a9ca7988ff001b32ab30709b\u0026uuid=backoffice1\u0026vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783\u0026video_id=16377"
+    },
+    {
+        "name":  "City TV",
+        "logo":  "https://i.imgur.com/Pq8XScs.jpg",
+        "website":  "https://cityradio.al/",
+        "country":  "AL",
+        "streams":  [
+                        "https://citytv.hu/media/live/stream.m3u8",
+                        "https://tv.city.bg/play/tshls/citytv/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "CNA",
+        "logo":  "https://codeit.al/wp-content/uploads/2020/08/cna.png",
+        "website":  "https://www.cna.al/",
+        "country":  "AL",
+        "streams":  "https://live1.mediadesk.al/cnatvlive.m3u8"
+    },
+    {
+        "name":  "Cufo",
+        "logo":  "https://i.postimg.cc/KjbvbxSG/cufo.png",
+        "website":  "https://www.digitalb.al/",
+        "country":  "AL",
+        "streams":  "https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1\u0026application_installation_id=1\u0026authority_instance_id=spectar-prd-digitalb\u0026detected_delivery_method=hls\u0026id=DAL_1_005\u0026playlist_template=nginx\u0026profile_id=1\u0026ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8\u0026subscriber_id=1\u0026token=142cda7d50870275a9ca7988ff001b32ab30709b\u0026uuid=backoffice1\u0026vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11\u0026video_id=12498"
+    },
+    {
+        "name":  "Euronews Albania",
+        "logo":  "https://i.postimg.cc/RhN0ZGph/euronewsalbania.png",
+        "website":  "https://euronews.al/",
+        "country":  "AL",
+        "streams":  "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8"
+    },
+    {
+        "name":  "IN TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/IN_TV.svg/512px-IN_TV.svg.png",
+        "website":  "http://www.intv.al/",
+        "country":  "AL",
+        "streams":  "https://envivo.bolivia-link.com:3580/live/intvlive.m3u8"
+    },
+    {
+        "name":  "Kanal D Drama",
+        "logo":  "https://i.postimg.cc/zDyjMhqX/kanalddrama.png",
+        "website":  null,
+        "country":  "AL",
+        "streams":  "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8"
+    },
+    {
+        "name":  "MCN TV",
+        "logo":  "https://i.postimg.cc/dVSs1gTY/mcntv.png",
+        "website":  "http://www.mcntv.al/",
+        "country":  "AL",
+        "streams":  "https://mcn24.tv/hidden_stream/mcntv.m3u8"
+    },
+    {
+        "name":  "News 24",
+        "logo":  "https://i.imgur.com/eG33jue.png",
+        "website":  "https://balkanweb.com/",
+        "country":  "AL",
+        "streams":  [
+                        "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+                        "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "ntv",
+        "logo":  "https://i.imgur.com/gtZLzxq.png",
+        "website":  "https://ntv.al/",
+        "country":  "AL",
+        "streams":  [
+                        "http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8",
+                        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd",
+                        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8",
+                        "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
+                        "https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8",
+                        "https://panel.miplay.cl:8082/ntv/index.m3u8",
+                        "https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Ora News",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png",
+        "website":  "https://www.oranews.tv/",
+        "country":  "AL",
+        "streams":  "https://live1.mediadesk.al/oranews.m3u8"
+    },
+    {
+        "name":  "Panorama TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png",
+        "website":  "https://www.panorama.com.al/panoramatv/",
+        "country":  "AL",
+        "streams":  "https://tv.panorama.com.al/panorama/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Report TV",
+        "logo":  "https://i.postimg.cc/ZKH65PFS/reporttv.png",
+        "website":  "https://shqiptarja.com/",
+        "country":  "AL",
+        "streams":  "https://deb10stream.duckdns.org/hls/stream.m3u8"
+    },
+    {
+        "name":  "Top Channel",
+        "logo":  "https://i.postimg.cc/4d7npJb1/topchannel.png",
+        "website":  "https://top-channel.tv/",
+        "country":  "AL",
+        "streams":  "http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8"
+    },
+    {
+        "name":  "Top News",
+        "logo":  "https://i.postimg.cc/Jnf0q9pC/topnews.png",
+        "website":  "https://top-channel.tv/",
+        "country":  "AL",
+        "streams":  "https://live.topnews.co.th/hls/topnews_a_720.m3u8"
+    },
+    {
+        "name":  "Vizion Plus",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png",
+        "website":  "https://www.vizionplus.tv/",
+        "country":  "AL",
+        "streams":  "https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8"
+    },
+    {
+        "name":  "Zjarr TV",
+        "logo":  "https://i.imgur.com/hNuWZWe.png",
+        "website":  "https://zjarr.tv/",
+        "country":  "AL",
+        "streams":  "https://zjarr.future.al/hls/playlist.m3u8"
+    }
+]

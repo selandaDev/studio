@@ -1,0 +1,491 @@
+﻿[
+    {
+        "name":  "Abu Dhabi Emirates",
+        "logo":  "https://i.imgur.com/iSbZqn4.png",
+        "website":  "https://www.adtv.ae/",
+        "country":  "AE",
+        "streams":  "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8"
+    },
+    {
+        "name":  "Abu Dhabi Sports 1",
+        "logo":  "https://i.postimg.cc/FKjsYMHY/abudhabisports1.png",
+        "website":  "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+        "country":  "AE",
+        "streams":  [
+                        "http://213.57.91.138:8000/play/a057",
+                        "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Abu Dhabi Sports 2",
+        "logo":  "https://i.postimg.cc/1tsRwv8J/abudhabisports2.png",
+        "website":  "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
+        "country":  "AE",
+        "streams":  [
+                        "http://213.57.91.138:8000/play/a058",
+                        "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Abu Dhabi TV",
+        "logo":  "https://i.postimg.cc/3R18B2p7/abudhabitv.png",
+        "website":  "https://adtv.ae/",
+        "country":  "AE",
+        "streams":  "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8"
+    },
+    {
+        "name":  "Ajman TV",
+        "logo":  "https://i.imgur.com/hVNIwgE.png",
+        "website":  "https://www.ajmantv.com/",
+        "country":  "AE",
+        "streams":  "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
+    },
+    {
+        "name":  "Alarabiya",
+        "logo":  "https://i.postimg.cc/KYdqHWPD/alarabiya.png",
+        "website":  "https://www.alarabiya.net/",
+        "country":  "AE",
+        "streams":  [
+                        "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+                        "https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
+                        "https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alarabia/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8"
+                    ]
+    },
+    {
+        "name":  "Al Arabiya Business",
+        "logo":  "https://i.postimg.cc/85MKQbwQ/alarabiyabusiness.png",
+        "website":  "https://www.alarabiya.net/aswaq",
+        "country":  "AE",
+        "streams":  "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Al Arabiya Programs",
+        "logo":  "https://i.imgur.com/Hoc3cfO.png",
+        "website":  "https://www.alarabiya.net/programs",
+        "country":  "AE",
+        "streams":  "https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8"
+    },
+    {
+        "name":  "Al Dafrah TV",
+        "logo":  "https://i.postimg.cc/VNb4nFxr/aldafrahtv.png",
+        "website":  "https://aldafrah.ae/",
+        "country":  "AE",
+        "streams":  "https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8"
+    },
+    {
+        "name":  "Al Qamar TV",
+        "logo":  "https://i.postimg.cc/c6yd1TGR/alqamartv.png",
+        "website":  null,
+        "country":  "AE",
+        "streams":  "https://streamer3.premio.link/alqamar/playlist.m3u8"
+    },
+    {
+        "name":  "Al Shallal TV",
+        "logo":  "https://i.imgur.com/otAHLRo.png",
+        "website":  "https://www.alshallalchannel.com/",
+        "country":  "AE",
+        "streams":  "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name":  "Al Sharqiya Min Kabla",
+        "logo":  "https://i.imgur.com/WGX5SCx.png",
+        "website":  null,
+        "country":  "AE",
+        "streams":  "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Al Wousta TV",
+        "logo":  "https://i.imgur.com/zgMqQPQ.png",
+        "website":  "https://sba.net.ae/ar/tv/channel/38",
+        "country":  "AE",
+        "streams":  "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Al Yaum TV",
+        "logo":  "https://i.imgur.com/rBixF3P.png",
+        "website":  null,
+        "country":  "AE",
+        "streams":  "https://iko-live.akamaized.net/AlyuamTV/master.m3u8"
+    },
+    {
+        "name":  "Baynounah TV",
+        "logo":  "https://i.postimg.cc/QtzfTytT/baynounahtv.png",
+        "website":  "https://adtv.ae/en/live/Baynounah",
+        "country":  "AE",
+        "streams":  "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8"
+    },
+    {
+        "name":  "China Arab TV",
+        "logo":  "https://i.postimg.cc/DfxSq4qn/chinaarabtv.png",
+        "website":  "http://www.catv.ae/",
+        "country":  "AE",
+        "streams":  "http://213.57.91.138:8000/play/a061"
+    },
+    {
+        "name":  "CNBC Arabiya",
+        "logo":  "https://i.imgur.com/opBXx1K.png",
+        "website":  "https://www.cnbcarabia.com/",
+        "country":  "AE",
+        "streams":  "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
+    },
+    {
+        "name":  "Dubai One",
+        "logo":  "https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubaione-logo.png",
+        "website":  "http://www.dubaione.ae/",
+        "country":  "AE",
+        "streams":  [
+                        "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/dubaione/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Dubai Racing",
+        "logo":  "https://i.postimg.cc/VLKS1r7d/dubairacing.png",
+        "website":  "http://www.dubairacing.ae/",
+        "country":  "AE",
+        "streams":  "https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8"
+    },
+    {
+        "name":  "Dubai Racing 2",
+        "logo":  "https://i.postimg.cc/zG3yfzMp/dubairacing2.png",
+        "website":  "http://www.dubairacing.ae/",
+        "country":  "AE",
+        "streams":  "https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8"
+    },
+    {
+        "name":  "Dubai Racing 3",
+        "logo":  "https://i.postimg.cc/5tCjwPfC/dubairacing3.png",
+        "website":  "http://www.dubairacing.ae/",
+        "country":  "AE",
+        "streams":  "https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8"
+    },
+    {
+        "name":  "Dubai Sports 1",
+        "logo":  "https://i.imgur.com/Poxw8lG.png",
+        "website":  "http://www.dubaisports.ae/",
+        "country":  "AE",
+        "streams":  "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8"
+    },
+    {
+        "name":  "Dubai Sports 2",
+        "logo":  "https://i.postimg.cc/qRHqQ87Z/dubaisports2.png",
+        "website":  "http://www.dubaisports.ae/",
+        "country":  "AE",
+        "streams":  "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+    },
+    {
+        "name":  "Dubai Sports 3",
+        "logo":  "https://i.postimg.cc/hj8jYfz4/dubaisports3.png",
+        "website":  "http://www.dubaisports.ae/",
+        "country":  "AE",
+        "streams":  "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8"
+    },
+    {
+        "name":  "Dubai TV",
+        "logo":  "https://i.postimg.cc/T1RwvfgV/dubaitv.png",
+        "website":  "http://www.dubaitv.ae/",
+        "country":  "AE",
+        "streams":  "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8"
+    },
+    {
+        "name":  "Dubai Zaman",
+        "logo":  "https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-ar/dubaizaman.png",
+        "website":  "http://www.dubaizaman.ae/",
+        "country":  "AE",
+        "streams":  "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+    },
+    {
+        "name":  "Fujairah TV",
+        "logo":  "https://i.postimg.cc/6TxTbnzQ/fujairahtv.png",
+        "website":  "https://www.fujairahtv.ae/",
+        "country":  "AE",
+        "streams":  "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Majid",
+        "logo":  "https://i.imgur.com/TzOKMMy.png",
+        "website":  "https://adtv.ae/ar/kids/majid-tv",
+        "country":  "AE",
+        "streams":  "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8"
+    },
+    {
+        "name":  "MBC 1",
+        "logo":  "https://i.postimg.cc/DzZSpq12/mbc1.png",
+        "website":  "http://www.mbc.net/mbc1",
+        "country":  "AE",
+        "streams":  [
+                        "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8",
+                        "https://shls-live-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "MBC 2",
+        "logo":  "https://i.postimg.cc/1zjfkfKD/mbc2.png",
+        "website":  "https://www.mbc.net/channels/mbc2",
+        "country":  "AE",
+        "streams":  "http://213.57.91.138:8000/play/a05k"
+    },
+    {
+        "name":  "MBC 3",
+        "logo":  "https://i.postimg.cc/C1nzSSvX/mbc3.png",
+        "website":  "https://mbc3.mbc.net/",
+        "country":  "AE",
+        "streams":  "https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel3/index.m3u8"
+    },
+    {
+        "name":  "MBC 4",
+        "logo":  "https://i.postimg.cc/D0VmzHHZ/mbc4.png",
+        "website":  "http://www.mbc.net/mbc4",
+        "country":  "AE",
+        "streams":  "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8"
+    },
+    {
+        "name":  "MBC 5",
+        "logo":  "https://i.postimg.cc/brQrSLfR/mbc5.png",
+        "website":  "https://www.mbc.net/channels/mbc5",
+        "country":  "AE",
+        "streams":  "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8"
+    },
+    {
+        "name":  "MBC Action",
+        "logo":  "https://i.postimg.cc/G3YHf3Ts/mbcaction.png",
+        "website":  "http://www.mbc.net/en/mbc-action.html",
+        "country":  "AE",
+        "streams":  "http://213.57.91.138:8000/play/a05l"
+    },
+    {
+        "name":  "MBC Bollywood",
+        "logo":  "https://i.postimg.cc/7YkfrvSt/mbcbollywood.png",
+        "website":  "http://mbc.net/bollywood",
+        "country":  "AE",
+        "streams":  "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8"
+    },
+    {
+        "name":  "MBC Drama",
+        "logo":  "https://i.postimg.cc/Hs9jpS2Y/mbcdrama.png",
+        "website":  "https://www.mbc.net/channels/mbc-drama",
+        "country":  "AE",
+        "streams":  "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8"
+    },
+    {
+        "name":  "MBC FM",
+        "logo":  "https://i.postimg.cc/0y5jrpWp/mbcfm.png",
+        "website":  "https://www.mbc.net/en/corporate/channels/mbcfm.html",
+        "country":  "AE",
+        "streams":  [
+                        "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8",
+                        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "MBC Persia",
+        "logo":  "https://i.postimg.cc/D0dfwZ1j/mbcpersia.png",
+        "website":  "http://www.mbc.net/en/corporate/channels/mbc-persia.html",
+        "country":  "AE",
+        "streams":  [
+                        "https://hls.mbcpersia.live/hls/stream.m3u8",
+                        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "National Geographic Abu Dhabi",
+        "logo":  "https://i.postimg.cc/mgtjz91z/nationalgeographicabudhabi.png",
+        "website":  "http://www.natgeotv.ae/",
+        "country":  "AE",
+        "streams":  [
+                        "http://213.57.91.138:8000/play/a05a",
+                        "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Noor Dubai",
+        "logo":  "https://i.postimg.cc/mr3tDBC5/noordubai.png",
+        "website":  "https://www.noordubai.com/",
+        "country":  "AE",
+        "streams":  "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8"
+    },
+    {
+        "name":  "Nour TV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg",
+        "website":  "https://nourtv.net/",
+        "country":  "AE",
+        "streams":  "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
+    },
+    {
+        "name":  "NTV",
+        "logo":  "https://i.imgur.com/t59sqk1.png",
+        "website":  "http://www.ntvuae.tv/",
+        "country":  "AE",
+        "streams":  [
+                        "http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8",
+                        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd",
+                        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8",
+                        "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
+                        "https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8",
+                        "https://panel.miplay.cl:8082/ntv/index.m3u8",
+                        "https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Peace TV Bangla",
+        "logo":  "https://i.imgur.com/1ztVXUi.png",
+        "website":  "https://peacetv.tv/",
+        "country":  "AE",
+        "streams":  "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
+    },
+    {
+        "name":  "Peace TV Chinese",
+        "logo":  "https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg",
+        "website":  "https://peacetv.tv/",
+        "country":  "AE",
+        "streams":  "https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8"
+    },
+    {
+        "name":  "Peace TV English",
+        "logo":  "https://i.postimg.cc/VLDj49hN/peacetvenglish.png",
+        "website":  "https://peacetv.tv/",
+        "country":  "AE",
+        "streams":  "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
+    },
+    {
+        "name":  "Peace TV Urdu",
+        "logo":  "https://i.postimg.cc/cLCfzgqB/peacetvurdu.png",
+        "website":  "https://peacetv.tv/",
+        "country":  "AE",
+        "streams":  "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
+    },
+    {
+        "name":  "PMC Royale",
+        "logo":  "https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png",
+        "website":  "https://www.pmc.tv/",
+        "country":  "AE",
+        "streams":  "https://pmcrohls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "Pulse95 Radio",
+        "logo":  "https://maraya.faulio.com/storage/mediagallery/60/26/fullhd_d5c3c81b0562a76bc63f073a5e0947f309b0215b.png",
+        "website":  null,
+        "country":  "AE",
+        "streams":  "https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8"
+    },
+    {
+        "name":  "Sama Dubai",
+        "logo":  "https://i.postimg.cc/NjfGQmbZ/samadubai.png",
+        "website":  "http://www.samadubai.ae/",
+        "country":  "AE",
+        "streams":  "https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8"
+    },
+    {
+        "name":  "Sharjah 2",
+        "logo":  "https://i.postimg.cc/y6TCnMQh/sharjah2.png",
+        "website":  null,
+        "country":  "AE",
+        "streams":  "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Sharjah Radio",
+        "logo":  "https://maraya.faulio.com/storage/mediagallery/fc/07/fullhd_fb3f953fb01b1ea69482560690383ce2836f4134.png",
+        "website":  null,
+        "country":  "AE",
+        "streams":  "https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8"
+    },
+    {
+        "name":  "Sharjah Radio Quran",
+        "logo":  "https://i.imgur.com/MxZlOvc.png",
+        "website":  null,
+        "country":  "AE",
+        "streams":  "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8"
+    },
+    {
+        "name":  "Sharjah Sports",
+        "logo":  "https://i.postimg.cc/Sxn0SJyV/sharjahsports.png",
+        "website":  "https://sba.net.ae/ar/tv/channel/35",
+        "country":  "AE",
+        "streams":  [
+                        "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+                        "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Sharjah TV",
+        "logo":  "https://i.imgur.com/Oz2bPOt.png",
+        "website":  "https://sba.net.ae/ar/tv/channel/34",
+        "country":  "AE",
+        "streams":  [
+                        "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8",
+                        "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Sky News Arabia",
+        "logo":  "https://i.postimg.cc/6pMd0pns/skynewsarabia.png",
+        "website":  "https://www.skynewsarabia.com/",
+        "country":  "AE",
+        "streams":  [
+                        "https://stream.skynewsarabia.com/hls/sna.m3u8",
+                        "https://stream.skynewsarabia.com/ott/ott.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119687/skynewsarabic/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Sky News Arabia Vertical",
+        "logo":  "https://i.imgur.com/FjtzQQs.png",
+        "website":  "https://www.skynewsarabia.com/",
+        "country":  "AE",
+        "streams":  "https://stream.skynewsarabia.com/vertical/vertical.m3u8"
+    },
+    {
+        "name":  "Spacetoon Arabic",
+        "logo":  "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
+        "website":  "http://www.spacetoon.com/",
+        "country":  "AE",
+        "streams":  [
+                        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8",
+                        "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Wanasah",
+        "logo":  "https://i.postimg.cc/HxqRBCFm/wanasah.png",
+        "website":  "https://www.mbc.net/en/corporate/channels/wanasah.html",
+        "country":  "AE",
+        "streams":  "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8"
+    },
+    {
+        "name":  "Watar Radio",
+        "logo":  "https://sbauae.faulio.com/storage/mediagallery/d2/ad/fullhd_48adf2291d08266c05ed1b0c24f326c86b1095b7.png",
+        "website":  null,
+        "country":  "AE",
+        "streams":  "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8"
+    },
+    {
+        "name":  "Yas TV",
+        "logo":  "https://i.imgur.com/CSHQhP4.png",
+        "website":  "https://adtv.ae/ar/live/YAS%20Sports%20Channel",
+        "country":  "AE",
+        "streams":  [
+                        "http://213.57.91.138:8000/play/a059",
+                        "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Zee Aflam",
+        "logo":  "https://i.postimg.cc/ht8Dm2zh/zeeaflam.png",
+        "website":  "http://www.zeeaflam.com/",
+        "country":  "AE",
+        "streams":  "http://213.57.91.138:8000/play/a05s"
+    },
+    {
+        "name":  "Zee Alwan",
+        "logo":  "https://i.postimg.cc/VNDzG5F8/zeealwan.png",
+        "website":  "https://www.zeealwan.com/",
+        "country":  "AE",
+        "streams":  [
+                        "http://213.57.91.138:8000/play/a05t",
+                        "http://213.57.91.138:8000/play/a05u"
+                    ]
+    }
+]

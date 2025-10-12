@@ -1,0 +1,10 @@
+﻿{
+    "name":  "Korean Central Television",
+    "logo":  "https://i.imgur.com/p02AEOF.png",
+    "website":  "https://kcnawatch.org/korea-central-tv-livestream/",
+    "country":  "KP",
+    "streams":  [
+                    "https://tv.nknews.org/tvdash/stream.mpd",
+                    "https://tv.nknews.org/tvhls/stream.m3u8"
+                ]
+}

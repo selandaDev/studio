@@ -1,0 +1,925 @@
+﻿[
+    {
+        "name":  "16tv Budapest",
+        "logo":  "https://i.imgur.com/04fCzHl.png",
+        "website":  "http://www.16tv.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "7.TV",
+        "logo":  "https://i.imgur.com/CnUhAlK.png",
+        "website":  "https://behir.hu/tv",
+        "country":  "HU",
+        "streams":  "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8"
+    },
+    {
+        "name":  "Alfold TV",
+        "logo":  "https://i.imgur.com/W6jg8iM.png",
+        "website":  "http://www.hajdupress.hu/alfoldtv",
+        "country":  "HU",
+        "streams":  "https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Apostol TV",
+        "logo":  "https://i.imgur.com/C43Cc9N.png",
+        "website":  "http://apostoltv.hu/",
+        "country":  "HU",
+        "streams":  "https://live.apostoltv.hu/live/playlist.m3u8"
+    },
+    {
+        "name":  "ATV",
+        "logo":  "https://i.imgur.com/85sIvrX.png",
+        "website":  "http://www.atv.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "http://146.59.85.40:89/atv/index.m3u8",
+                        "http://194.76.186.33:8000/play/a01g/index.m3u8",
+                        "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8",
+                        "https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "ATV Spirit",
+        "logo":  "https://i.postimg.cc/hPs7Z7LC/atvspirit.png",
+        "website":  "http://www.atv.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "http://146.59.85.40:89/atvspirit/index.m3u8",
+                        "http://194.76.186.33:8000/play/a02e/index.m3u8",
+                        "https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Bajai TV",
+        "logo":  "https://i.imgur.com/cyReGWh.png",
+        "website":  "http://www.bajaitelevizio.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Balaton TV",
+        "logo":  "https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png",
+        "website":  "https://balatontelevizio.hu/",
+        "country":  "HU",
+        "streams":  "https://stream.iptvservice.eu/hls/balatontv.m3u8"
+    },
+    {
+        "name":  "Berente TV",
+        "logo":  "https://i.imgur.com/3H3Ct9f.png",
+        "website":  "https://berente.hu",
+        "country":  "HU",
+        "streams":  "https://stream.streaming4u.hu/BerenteTV/index.m3u8"
+    },
+    {
+        "name":  "BTV",
+        "logo":  "https://i.imgur.com/0PKqn3V.png",
+        "website":  "http://www.btv.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Budapest Europa Televizio",
+        "logo":  "https://i.imgur.com/CqqWtzo.png",
+        "website":  "https://www.bpetv.org/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "City TV",
+        "logo":  "https://i.imgur.com/u0AKhzj.png",
+        "website":  "https://citytv.hu/",
+        "country":  "HU",
+        "streams":  "https://citytv.hu/media/live/stream.m3u8"
+    },
+    {
+        "name":  "Comedy Central",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png",
+        "website":  "http://www.comedycentral.hu/",
+        "country":  "HU",
+        "streams":  "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=bc03faa5-401f-4a68-9972-153b1f336cac"
+    },
+    {
+        "name":  "Cool TV",
+        "logo":  "https://i.imgur.com/rXJtthd.png",
+        "website":  "http://rtlmost.hu/cool",
+        "country":  "HU",
+        "streams":  [
+                        "http://146.59.85.40:89/coolhd/index.m3u8",
+                        "http://194.76.186.33:8000/play/a01l/index.m3u8",
+                        "http://194.76.186.33:8000/play/a04i/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Csurgo TV",
+        "logo":  "https://i.imgur.com/vVOEYuj.png",
+        "website":  "http://www.csurgotv.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8",
+                        "https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Daru TV",
+        "logo":  "https://i.imgur.com/0P7QHde.png",
+        "website":  "https://balmazujvaros.hu/daru-tv",
+        "country":  "HU",
+        "streams":  "https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8"
+    },
+    {
+        "name":  "Dikh TV",
+        "logo":  "https://i.postimg.cc/MTSN9TJY/dikhtv.png",
+        "website":  "https://www.dikhtv.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "http://194.76.186.33:8000/play/a04h/index.m3u8",
+                        "http://195.189.60.31:8003/play/a0gq/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Disney Channel",
+        "logo":  "https://i.postimg.cc/854KwmH1/disneychannel.png",
+        "website":  "http://www.disney.hu/DisneyChannel",
+        "country":  "HU",
+        "streams":  [
+                        "http://116.90.120.149:8000/play/a0bx/index.m3u8",
+                        "http://84.54.128.52:9090/play/3006/index.m3u8",
+                        "https://e3.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8",
+                        "https://e5.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8?",
+                        "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8"
+                    ]
+    },
+    {
+        "name":  "Disney Junior",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
+        "website":  "http://disneyjunior.disney.com/",
+        "country":  "HU",
+        "streams":  "http://116.90.120.149:8000/play/a0b3/index.m3u8"
+    },
+    {
+        "name":  "DSTV",
+        "logo":  "https://i.imgur.com/xKJoN8L.png",
+        "website":  "http://dstv.hu/",
+        "country":  "HU",
+        "streams":  "http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8"
+    },
+    {
+        "name":  "DTV",
+        "logo":  "https://i.imgur.com/YSpqmSO.png",
+        "website":  "https://dehir.hu/dtv",
+        "country":  "HU",
+        "streams":  "http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8"
+    },
+    {
+        "name":  "Duna",
+        "logo":  "https://i.postimg.cc/pXcd3NTj/duna.png",
+        "website":  "https://mediaklikk.hu/duna",
+        "country":  "HU",
+        "streams":  [
+                        "http://146.59.85.40:89/dunahd/index.m3u8",
+                        "http://194.76.186.33:8000/play/a01u/index.m3u8",
+                        "http://194.76.186.33:8000/play/a029/index.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8"
+                    ]
+    },
+    {
+        "name":  "Duna World",
+        "logo":  "https://i.postimg.cc/dV70YWkx/dunaworld.png",
+        "website":  "https://mediaklikk.hu/dunaworld/",
+        "country":  "HU",
+        "streams":  [
+                        "http://146.59.85.40:89/dunaworld/index.m3u8",
+                        "http://194.76.186.33:8000/play/a01i/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Egyker TV",
+        "logo":  "https://i.imgur.com/yhMhvPq.png",
+        "website":  "https://media1.hu/cimke/egyker-tv/",
+        "country":  "HU",
+        "streams":  "https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8"
+    },
+    {
+        "name":  "ESTV",
+        "logo":  "https://i.imgur.com/OCZ8CfK.png",
+        "website":  "http://estv.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "EWTN/Bonum TV",
+        "logo":  "https://i.imgur.com/LdsRz2E.png",
+        "website":  "https://katolikus.tv/musorok/",
+        "country":  "HU",
+        "streams":  "https://stream.y5.hu/stream/stream_bonum/stream.m3u8"
+    },
+    {
+        "name":  "Fehervar TV",
+        "logo":  "https://www.fehervartv.hu/css/img/icon-1-2.png",
+        "website":  "https://www.fehervartv.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "FIX TV",
+        "logo":  "https://i.imgur.com/PLhh0Ps.png",
+        "website":  "https://www.fixhd.tv/",
+        "country":  "HU",
+        "streams":  "https://fixhd.tv:8082/fix/1080i/playlist.m3u8"
+    },
+    {
+        "name":  "Fonix TV",
+        "logo":  "https://i.ibb.co/ZMRpGqY/6171.png",
+        "website":  "http://www.fonixtv.hu/",
+        "country":  "HU",
+        "streams":  "https://stream.streaming4u.hu/FonixTV/index.fmp4.m3u8"
+    },
+    {
+        "name":  "Globo TV",
+        "logo":  "https://i.imgur.com/PJ4c4jq.png",
+        "website":  "http://www.globotv.hu/",
+        "country":  "HU",
+        "streams":  "https://stream.streaming4u.hu/GloboTV/index.m3u8"
+    },
+    {
+        "name":  "Golya TV",
+        "logo":  "https://i.imgur.com/TeK6Pzb.png",
+        "website":  "https://cuttingroom.hu/",
+        "country":  "HU",
+        "streams":  "https://stream.streaming4u.hu/GolyaTV/index.m3u8"
+    },
+    {
+        "name":  "Gran TV",
+        "logo":  "https://i.ibb.co/qJN7Qh2/gran-kicsi.png",
+        "website":  "http://www.grantv.hu/",
+        "country":  "HU",
+        "streams":  "https://stream.medialive.hu/gran/grantvlive/playlist.m3u8"
+    },
+    {
+        "name":  "Gyongyosi TV",
+        "logo":  "https://i.imgur.com/RHgaPCk.png",
+        "website":  "https://gyongyostv.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Halom TV",
+        "logo":  "https://i.imgur.com/x8shi7l.png",
+        "website":  "https://www.halomtv.hu/",
+        "country":  "HU",
+        "streams":  "http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8"
+    },
+    {
+        "name":  "Hangulat TV",
+        "logo":  "https://play-lh.googleusercontent.com/uBasB1USS1zI0tdHUbhUg356TwmworMA5P_7UGnhvg3z6LXX6n1bEk7Qj3cE3-yuToA",
+        "website":  "https://onlinestream.live/hangulat-tv/online/9001-1",
+        "country":  "HU",
+        "streams":  "https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8"
+    },
+    {
+        "name":  "Hatoscsatorna",
+        "logo":  "https://i.imgur.com/XZqg1Pj.png",
+        "website":  "https://hatoscsatorna.hu/",
+        "country":  "HU",
+        "streams":  "https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8"
+    },
+    {
+        "name":  "Hegyvidek TV",
+        "logo":  "https://i.imgur.com/t5bw1J1.png",
+        "website":  "https://hegyvidektv.hu/",
+        "country":  "HU",
+        "streams":  "https://tv.hegyvidek.hu/stream_mpeg.flv"
+    },
+    {
+        "name":  "Hevizi TV",
+        "logo":  "https://i.imgur.com/zuWQKDm.png",
+        "website":  "https://hevizitv.hu",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "History",
+        "logo":  "https://i.postimg.cc/4dr0YQXw/history.png",
+        "website":  "https://www.historychannel.co.hu/hu",
+        "country":  "HU",
+        "streams":  "https://fl7.moveonjoy.com/history_channel/index.m3u8"
+    },
+    {
+        "name":  "H!t Music Channel",
+        "logo":  "https://i.imgur.com/sqC2hqV.png",
+        "website":  "http://hitmusic.hu/",
+        "country":  "HU",
+        "streams":  "http://hitmusic.hu/hitmusic.m3u8"
+    },
+    {
+        "name":  "Izaura TV",
+        "logo":  "https://i.postimg.cc/ht2cf66r/izauratv.png",
+        "website":  "https://tv2play.hu/izauratv",
+        "country":  "HU",
+        "streams":  [
+                        "http://146.59.85.40:89/izaura/index.m3u8",
+                        "http://194.76.186.33:8000/play/a05j/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Jaszsagi Tersegi TV",
+        "logo":  "https://i.imgur.com/bsDN0lH.png",
+        "website":  "http://jttv.hu",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "JimJam",
+        "logo":  "https://i.postimg.cc/g22PF4j6/jimjam.png",
+        "website":  "http://hu.jimjam.tv/",
+        "country":  "HU",
+        "streams":  "https://saruman1.tharen.cfd/jimy/usergenq3n0lz7kr.m3u8"
+    },
+    {
+        "name":  "Jocky TV",
+        "logo":  "https://i.postimg.cc/gJRCqTS1/jockytv.png",
+        "website":  "https://tv2play.hu/jockytv",
+        "country":  "HU",
+        "streams":  [
+                        "http://146.59.85.40:89/jocky/index.m3u8",
+                        "http://194.76.186.33:8000/play/a012/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Kanizsa TV",
+        "logo":  "https://i.imgur.com/l02znlE.png",
+        "website":  "https://kanizsatv.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Kapos TV",
+        "logo":  "https://i.imgur.com/ZMrj2C5.png",
+        "website":  "https://kapos.hu/kapostv/",
+        "country":  "HU",
+        "streams":  "https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Karcag TV",
+        "logo":  "https://i.imgur.com/QcrVj3Q.png",
+        "website":  "http://www.karcagtv.hu",
+        "country":  "HU",
+        "streams":  "https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Kecskemeti TV",
+        "logo":  "https://i.imgur.com/yxwrX2N.png",
+        "website":  "https://kecskemetitv.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "http://rtmp1.40e.hu:8000/live/ktv.m3u8",
+                        "https://eurobioinvest.hu:444/live/ktv.m3u8"
+                    ]
+    },
+    {
+        "name":  "Kiskoros TV",
+        "logo":  "https://i.imgur.com/Y74Mve1.png",
+        "website":  "http://www.kiskorostv.hu",
+        "country":  "HU",
+        "streams":  "https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8"
+    },
+    {
+        "name":  "Komaromi Televizio",
+        "logo":  "https://i.imgur.com/DifVZkz.png",
+        "website":  "http://www.komaromtv.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Komlos TV",
+        "logo":  "https://i.imgur.com/dnITSUz.png",
+        "website":  "http://www.komlostv.hu/komlostv.html",
+        "country":  "HU",
+        "streams":  "https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name":  "Liceum TV",
+        "logo":  "https://i.imgur.com/Hf122ZD.png",
+        "website":  "http://www.liceumtv.hu/",
+        "country":  "HU",
+        "streams":  "http://193.225.32.62:8890/live.m3u8"
+    },
+    {
+        "name":  "Life TV",
+        "logo":  "https://i.imgur.com/3znYv1N.png",
+        "website":  "https://lifetv.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "http://59c3ec70cfde0.streamlock.net/channel_6/channel6/playlist.m3u8",
+                        "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+                        "https://lifetv.bitflip.ee/live/stream1.m3u8",
+                        "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
+                        "https://origin3.afxp.telemedia.co.za/PremiumFree/lifetv/playlist.m3u8",
+                        "https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Light Channel",
+        "logo":  "https://i.imgur.com/WEbDwE3.png",
+        "website":  null,
+        "country":  "HU",
+        "streams":  "http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8"
+    },
+    {
+        "name":  "Loverseny kozvetites",
+        "logo":  "https://i.imgur.com/IGajR6G.png",
+        "website":  "https://lovifogadas.hu/",
+        "country":  "HU",
+        "streams":  "http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "M1",
+        "logo":  "https://i.postimg.cc/Nffp4nLS/m1.png",
+        "website":  "https://mediaklikk.hu/m1/",
+        "country":  "HU",
+        "streams":  [
+                        "http://146.59.85.40:89/m1sd/index.m3u8",
+                        "http://194.76.186.33:8000/play/a00w/index.m3u8",
+                        "http://194.76.186.33:8000/play/a024/index.m3u8",
+                        "http://195.189.60.31:8003/play/a09o/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "M2",
+        "logo":  "https://i.postimg.cc/cLvTq8Rc/m2.png",
+        "website":  "https://mediaklikk.hu/m2/",
+        "country":  "HU",
+        "streams":  [
+                        "http://146.59.85.40:89/m2/index.m3u8",
+                        "http://146.59.85.40:89/m2hd/index.m3u8",
+                        "http://194.76.186.33:8000/play/a00x/index.m3u8",
+                        "http://194.76.186.33:8000/play/a03z/index.m3u8",
+                        "http://195.189.60.31:8003/play/a0f1/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "M4 Sport",
+        "logo":  "https://i.postimg.cc/GpYQtwS8/m4sport.png",
+        "website":  "https://m4sport.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "http://146.59.85.40:89/m4hd/index.m3u8",
+                        "http://194.76.186.33:8000/play/a02c/index.m3u8",
+                        "http://194.76.186.33:8000/play/a02p/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "M5",
+        "logo":  "https://i.postimg.cc/XJbgyHT2/m5.png",
+        "website":  "https://www.mediaklikk.hu/m5/",
+        "country":  "HU",
+        "streams":  [
+                        "http://146.59.85.40:89/m5/index.m3u8",
+                        "http://194.76.186.33:8000/play/a030/index.m3u8",
+                        "http://194.76.186.33:8000/play/a045/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Makoi Varosi Televizio",
+        "logo":  "https://i.imgur.com/PF3BP4X.png",
+        "website":  "https://makotv.hu/",
+        "country":  "HU",
+        "streams":  "http://makomedia.mikrohalo.hu/hls/makotv.m3u8"
+    },
+    {
+        "name":  "Match4",
+        "logo":  "https://i.postimg.cc/HWfbJPXb/match4.png",
+        "website":  null,
+        "country":  "HU",
+        "streams":  "http://194.76.186.33:8000/play/a04d/index.m3u8"
+    },
+    {
+        "name":  "MAX4",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Max4_logo.png/375px-Max4_logo.png",
+        "website":  "https://net4.network4.hu/",
+        "country":  "HU",
+        "streams":  "http://146.59.85.40:89/max4/index.m3u8"
+    },
+    {
+        "name":  "Mezokovesdi Televizio",
+        "logo":  "https://i.imgur.com/2zCOXmH.png",
+        "website":  "https://www.kovesdimedia.com/mezokovesdi-televizio.html",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Minimax",
+        "logo":  "https://i.postimg.cc/cJkFkmqc/minimax.png",
+        "website":  "https://www.minimax.hu/",
+        "country":  "HU",
+        "streams":  "http://116.90.120.149:8000/play/a01c/index.m3u8"
+    },
+    {
+        "name":  "Miskolc TV",
+        "logo":  "https://i.imgur.com/IoiNus2.png",
+        "website":  "https://minap.hu/miskolc-tv",
+        "country":  "HU",
+        "streams":  "https://video.mhzrt.hu/live/mitv/playlist.m3u8"
+    },
+    {
+        "name":  "Mora-Net TV",
+        "logo":  "https://i.imgur.com/yT0RmKi.png",
+        "website":  "https://moranettv.hu/",
+        "country":  "HU",
+        "streams":  "https://stream.moranettv.hu/live/index.m3u8"
+    },
+    {
+        "name":  "MTV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
+        "website":  "http://mtv.co.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8"
+                    ]
+    },
+    {
+        "name":  "Music Channel",
+        "logo":  "https://i.postimg.cc/J0jVWgM8/musicchannel.png",
+        "website":  "http://1music.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "http://1music.hu/1music.m3u8",
+                        "http://www.1music.hu/1music.m3u8"
+                    ]
+    },
+    {
+        "name":  "Muzsika TV",
+        "logo":  "https://i.postimg.cc/Wb6LWQ56/muzsikatv.png",
+        "website":  "https://rtl.hu/",
+        "country":  "HU",
+        "streams":  "http://194.76.186.33:8000/play/a05f/index.m3u8"
+    },
+    {
+        "name":  "National Geographic",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "website":  "http://www.natgeotv.com/hu",
+        "country":  "HU",
+        "streams":  [
+                        "http://62.210.211.188:2095/play/a00d",
+                        "http://78.130.250.2:8023/play/a02e/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeohd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "National Geographic Wild",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "website":  "http://natgeotv.com/hu/wild",
+        "country":  "HU",
+        "streams":  [
+                        "http://78.130.250.2:8023/play/a02c/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeowild/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Nickelodeon",
+        "logo":  "https://i.postimg.cc/VkdqdrkH/nickelodeon.png",
+        "website":  "http://www.nickelodeon.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "http://185.236.229.62:9981/play/a067",
+                        "http://195.64.140.147:10121/121",
+                        "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+                        "http://46.8.46.14/Nickelodeon/index.m3u8",
+                        "http://87.246.60.6:11004/?token=fas-tv.com",
+                        "http://92.114.85.72:8000/play/a02o",
+                        "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php"
+                    ]
+    },
+    {
+        "name":  "Nicktoons",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
+        "website":  "http://www.nickelodeon.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "http://143.244.60.30/NICKTOONS/index.m3u8",
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=359ee837-a829-4fe0-9d99-8dc36018ced2"
+                    ]
+    },
+    {
+        "name":  "Obuda TV",
+        "logo":  "https://i.ibb.co/42C026p/6172.png",
+        "website":  "http://obudatv.hu/",
+        "country":  "HU",
+        "streams":  "https://stream.streaming4u.hu/ObudaTV/index.m3u8"
+    },
+    {
+        "name":  "Oroszlanyi Varosi Televizio",
+        "logo":  "https://i.imgur.com/P0fxUH5.png",
+        "website":  "http://www.oroszlanyimedia.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Orszaggyules: OGY plenaris",
+        "logo":  "https://i.imgur.com/hbblRpZ.png",
+        "website":  "https://www.parlament.hu/elo-kozvetitesek",
+        "country":  "HU",
+        "streams":  [
+                        "http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8",
+                        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Orszaggyules: OGY TAB",
+        "logo":  "https://i.imgur.com/hbblRpZ.png",
+        "website":  "https://www.parlament.hu/elo-kozvetitesek",
+        "country":  "HU",
+        "streams":  [
+                        "http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8",
+                        "https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Ozdi Varosi TV",
+        "logo":  "https://i.imgur.com/t0Aq3UD.png",
+        "website":  "https://www.ovtv.eu/",
+        "country":  "HU",
+        "streams":  "http://stream.nmih.hu:7980/live.m3u8"
+    },
+    {
+        "name":  "PilisTV",
+        "logo":  "https://i.imgur.com/5L01wRi.png",
+        "website":  "http://www.pilistelevizio.hu/",
+        "country":  "HU",
+        "streams":  "https://stream.streaming4u.hu/PilisTV/index.m3u8"
+    },
+    {
+        "name":  "PVTV",
+        "logo":  "https://i.imgur.com/eKXPBFb.png",
+        "website":  "http://pvtv.hu/",
+        "country":  "HU",
+        "streams":  "http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null"
+    },
+    {
+        "name":  "Rakosmente TV",
+        "logo":  "https://i.imgur.com/n39a2DT.png",
+        "website":  "http://www.rakosmentetv.hu/",
+        "country":  "HU",
+        "streams":  "http://rakosmentetv.hu:8080/hls/rmtv.m3u8"
+    },
+    {
+        "name":  "RegioPlusz TV",
+        "logo":  "https://i.imgur.com/VXPpukf.png",
+        "website":  "http://www.regioplusztv.hu",
+        "country":  "HU",
+        "streams":  "https://stream.streaming4u.hu/RegioPluszTV/index.m3u8"
+    },
+    {
+        "name":  "RTL",
+        "logo":  "https://i.postimg.cc/zBL1VkRP/rtl.png",
+        "website":  "https://rtl.hu",
+        "country":  "HU",
+        "streams":  [
+                        "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8"
+                    ]
+    },
+    {
+        "name":  "RTL Gold",
+        "logo":  "https://i.postimg.cc/66RDgqVR/rtlgold.png",
+        "website":  "https://rtl.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "http://194.76.186.33:8000/play/a05h/index.m3u8",
+                        "http://195.189.60.31:8003/play/a0dy/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "RTL Harom",
+        "logo":  "https://i.postimg.cc/28DPDYTt/rtlharom.png",
+        "website":  "https://rtl.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "http://194.76.186.33:8000/play/a02a/index.m3u8",
+                        "http://194.76.186.33:8000/play/a05d/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "RTL Ketto",
+        "logo":  "https://i.postimg.cc/020h54By/rtlketto.png",
+        "website":  "https://rtl.hu",
+        "country":  "HU",
+        "streams":  [
+                        "http://194.76.186.33:8000/play/a01z/index.m3u8",
+                        "http://194.76.186.33:8000/play/a05c/index.m3u8",
+                        "http://194.76.186.33:8000/play/a05i/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "SIXO TV",
+        "logo":  "https://i.ibb.co/GTPs9Xy/9068.png",
+        "website":  "https://szikszo.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Soltvadkerti Televizio",
+        "logo":  "https://i.imgur.com/ihdk45P.png",
+        "website":  "http://www.soltvadkertitv.hu/",
+        "country":  "HU",
+        "streams":  "http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8"
+    },
+    {
+        "name":  "Sorozat+",
+        "logo":  "https://i.imgur.com/KsxWZIw.png",
+        "website":  null,
+        "country":  "HU",
+        "streams":  "http://194.76.186.33:8000/play/a05e/index.m3u8"
+    },
+    {
+        "name":  "Szecseny TV",
+        "logo":  "https://i.imgur.com/ilRmZtF.png",
+        "website":  "http://szecseny.hu/szecsenytv/",
+        "country":  "HU",
+        "streams":  "http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8"
+    },
+    {
+        "name":  "Szolnok TV",
+        "logo":  "https://i.imgur.com/Eiab9MP.png",
+        "website":  "https://www.szolnoktv.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Tatai TV",
+        "logo":  "https://i.imgur.com/skXYntc.png",
+        "website":  "http://tataitv.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "TeenNick",
+        "logo":  "https://i.postimg.cc/kG4nCtQ7/teennick.png",
+        "website":  "http://www.nickelodeon.hu/",
+        "country":  "HU",
+        "streams":  "https://fl7.moveonjoy.com/Teen_Nick/index.m3u8"
+    },
+    {
+        "name":  "TelePaks",
+        "logo":  "https://i.imgur.com/T8ueztB.png",
+        "website":  "https://www.telepaks.net/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Tisza TV",
+        "logo":  "https://i.imgur.com/Q2bShnh.png",
+        "website":  "https://www.tiszatv.hu/",
+        "country":  "HU",
+        "streams":  "https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8"
+    },
+    {
+        "name":  "Trimedio TV",
+        "logo":  "https://i.imgur.com/P4hxWVZ.png",
+        "website":  "https://trimedio.tv",
+        "country":  "HU",
+        "streams":  "https://stream.streaming4u.hu/TriMedioTV/index.m3u8"
+    },
+    {
+        "name":  "TV2",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/512px-TV2_2008.svg.png",
+        "website":  "https://tv2play.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
+                        "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d\u0026token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/canalalgerie/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd",
+                        "https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV2 Comedy",
+        "logo":  "https://i.postimg.cc/nLgT4GQ9/tv2comedy.png",
+        "website":  "https://tv2play.hu/tv2comedy",
+        "country":  "HU",
+        "streams":  "http://194.76.186.33:8000/play/a031/index.m3u8"
+    },
+    {
+        "name":  "TV2 Kids",
+        "logo":  "https://i.postimg.cc/jdtc45Cc/tv2kids.png",
+        "website":  "https://tv2play.hu/tv2kids",
+        "country":  "HU",
+        "streams":  [
+                        "http://146.59.85.40:89/tv2kids/index.m3u8",
+                        "http://194.76.186.33:8000/play/a033/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV2 Sef",
+        "logo":  "https://i.postimg.cc/Rh97dsCh/tv2sef.png",
+        "website":  "https://tv2play.hu/tv2sef",
+        "country":  "HU",
+        "streams":  "http://194.76.186.33:8000/play/a02s/index.m3u8"
+    },
+    {
+        "name":  "TV4",
+        "logo":  "https://i.imgur.com/cjypCfu.png",
+        "website":  "https://tv4.network4.hu/",
+        "country":  "HU",
+        "streams":  "http://194.76.186.33:8000/play/a02z/index.m3u8"
+    },
+    {
+        "name":  "TV Budakalasz",
+        "logo":  "https://i.imgur.com/97xpqt0.png",
+        "website":  "https://www.szentendre.media.hu/tv-budakalasz",
+        "country":  "HU",
+        "streams":  "https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name":  "TV Eger",
+        "logo":  "https://i.imgur.com/GUVW073.png",
+        "website":  "http://www.tveger.hu/",
+        "country":  "HU",
+        "streams":  "http://stream.tveger.hu:8010/live.m3u8"
+    },
+    {
+        "name":  "TV Keszthely",
+        "logo":  "https://i.imgur.com/2LE8xSW.png",
+        "website":  "http://www.tvkeszthely.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "TV Szentendre",
+        "logo":  "https://i.imgur.com/kzzYLdj.png",
+        "website":  "http://tvszentendre.hu/",
+        "country":  "HU",
+        "streams":  "https://stream.streaming4u.hu/TVSzentendre/index.m3u8"
+    },
+    {
+        "name":  "Vasarhelyi Televizio",
+        "logo":  "https://i.imgur.com/WOEqdmx.png",
+        "website":  "https://vasarhelyitelevizio.hu/",
+        "country":  "HU",
+        "streams":  "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8"
+    },
+    {
+        "name":  "Viasat Explore",
+        "logo":  "https://i.postimg.cc/Bn7FrZpx/viasatexplore.png",
+        "website":  "https://viasatexplore.hu/",
+        "country":  "HU",
+        "streams":  "https://tv.arectv29.sbs/live/viasathistory.m3u8"
+    },
+    {
+        "name":  "Volgyhid TV",
+        "logo":  "https://i.imgur.com/9krKKgU.png",
+        "website":  "https://mediakft.hu",
+        "country":  "HU",
+        "streams":  "https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8"
+    },
+    {
+        "name":  "VTV Fuzesabony",
+        "logo":  "https://i.imgur.com/IoHyW7w.png",
+        "website":  "http://www.fuzesabonytv.hu/",
+        "country":  "HU",
+        "streams":  [
+                        "http://stream.nmih.hu:7960/live.m3u8",
+                        "https://stream.nmih.hu:7962/live.m3u8"
+                    ]
+    },
+    {
+        "name":  "VTV Mor",
+        "logo":  "https://i.imgur.com/x8jstsh.png",
+        "website":  "http://morvtv.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Williams TV",
+        "logo":  "https://i.imgur.com/vysX07C.png",
+        "website":  "https://www.williams.hu/",
+        "country":  "HU",
+        "streams":  "http://79.120.178.90:1935/williams/williamstv/playlist.m3u8"
+    },
+    {
+        "name":  "XV TV",
+        "logo":  "https://i.ibb.co/hH2KF6W/4792.png",
+        "website":  "https://csokonai15.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Zalaegerszegi TV",
+        "logo":  "https://i.imgur.com/MLVPf0i.png",
+        "website":  "https://zegtv.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Zuglo TV",
+        "logo":  "https://i.imgur.com/wPqCtwR.png",
+        "website":  "http://zuglotv.hu/",
+        "country":  "HU",
+        "streams":  "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8"
+    }
+]

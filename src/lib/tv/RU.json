@@ -1,0 +1,2382 @@
+﻿[
+    {
+        "name":  "2x2",
+        "logo":  "https://i.imgur.com/fhQFLEl.png",
+        "website":  "https://2x2tv.ru/",
+        "country":  "RU",
+        "streams":  "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8"
+    },
+    {
+        "name":  "360Â°",
+        "logo":  "https://i.imgur.com/VTJqdoX.png",
+        "website":  "https://360tv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
+                        "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8",
+                        "https://video1.in-news.ru/360/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "360Â° News",
+        "logo":  "https://i.imgur.com/YXDeX8q.png",
+        "website":  "https://360tv.ru/",
+        "country":  "RU",
+        "streams":  "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8"
+    },
+    {
+        "name":  "3ABN Russia",
+        "logo":  "https://i.imgur.com/4fhBbam.png",
+        "website":  "https://www.3angels.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8",
+                        "https://hls.tv.3angels.ru/stream.m3u8"
+                    ]
+    },
+    {
+        "name":  "555",
+        "logo":  "https://i.imgur.com/JQZkxeA.png",
+        "website":  "https://trk555.tv/",
+        "country":  "RU",
+        "streams":  "http://trk555.tv:8888/live"
+    },
+    {
+        "name":  "86",
+        "logo":  "https://i.imgur.com/0dRS4Cb.png",
+        "website":  "https://sitv.ru/efir/86/",
+        "country":  "RU",
+        "streams":  "https://sitv.ru/hls/s86.m3u8"
+    },
+    {
+        "name":  "A1",
+        "logo":  "https://i.imgur.com/2pAHdAi.png",
+        "website":  "http://amediatv.ru/a1/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/A1/index.m3u8"
+    },
+    {
+        "name":  "A2",
+        "logo":  "https://i.imgur.com/NqHla2V.png",
+        "website":  "http://amediatv.ru/a2/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/A2/index.m3u8"
+    },
+    {
+        "name":  "Abaza TV",
+        "logo":  "https://i.imgur.com/7Jo7UAf.png",
+        "website":  "https://abaza.tv/",
+        "country":  "RU",
+        "streams":  "https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8"
+    },
+    {
+        "name":  "AIST TV",
+        "logo":  "https://i.imgur.com/bcw0s4V.png",
+        "website":  "https://aisttv.ru/",
+        "country":  "RU",
+        "streams":  "http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Almaznyy kray",
+        "logo":  "https://i.imgur.com/zErXTdF.png",
+        "website":  "https://www.almaz-media.tv/",
+        "country":  "RU",
+        "streams":  "https://stream.almaz-media.tv:8080/hls/576.m3u8"
+    },
+    {
+        "name":  "Ani",
+        "logo":  "https://i.imgur.com/i2AP0hp.png",
+        "website":  "https://ani.tlum.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://31.148.48.15/Ani/index.m3u8",
+                        "http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Aris 24",
+        "logo":  "https://i.imgur.com/CTFVEAb.png",
+        "website":  "http://aris-tv.ru/aris-24",
+        "country":  "RU",
+        "streams":  "http://serv25.vintera.tv:8081/test/aris/playlist.m3u8"
+    },
+    {
+        "name":  "Arkhyz 24",
+        "logo":  "https://i.imgur.com/blAtdkJ.png",
+        "website":  "https://arkhyz24.ru/",
+        "country":  "RU",
+        "streams":  "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
+    },
+    {
+        "name":  "Arktika 24",
+        "logo":  "https://i.imgur.com/kmbdyr6.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8"
+    },
+    {
+        "name":  "Astrahan 24",
+        "logo":  "https://i.imgur.com/9WcnjQN.png",
+        "website":  "https://cdn.astrakhan-24.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://astrakhan24.bonus-tv.ru/cdn/astrakhan24/playlist.m3u8",
+                        "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Astrahan.Ru Sport",
+        "logo":  "https://i.imgur.com/BKaEtqL.png",
+        "website":  "https://sport.astrakhan.ru/",
+        "country":  "RU",
+        "streams":  "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
+    },
+    {
+        "name":  "Astrahan.Ru TV",
+        "logo":  "https://i.imgur.com/w4ys6zm.png",
+        "website":  "https://live.astrakhan.ru/",
+        "country":  "RU",
+        "streams":  "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8"
+    },
+    {
+        "name":  "Auto Plus",
+        "logo":  "https://i.imgur.com/sVc8cFt.png",
+        "website":  "https://www.autoplustv.ru/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Avto_Plus/index.m3u8"
+    },
+    {
+        "name":  "Bashkortostan 24",
+        "logo":  "https://i.imgur.com/s34Wtz6.png",
+        "website":  "https://gtrk.tv/b24",
+        "country":  "RU",
+        "streams":  "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8"
+    },
+    {
+        "name":  "Belgorod 24",
+        "logo":  "https://i.imgur.com/EEirvyx.png",
+        "website":  "https://www.belnovosti.ru/telekanal-belgorod-24/",
+        "country":  "RU",
+        "streams":  "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8"
+    },
+    {
+        "name":  "BelRos",
+        "logo":  "https://i.imgur.com/tUF33HD.png",
+        "website":  "https://belros.tv/",
+        "country":  "RU",
+        "streams":  "https://live2.mediacdn.ru/sr1/tro/playlist.m3u8"
+    },
+    {
+        "name":  "Big Asia",
+        "logo":  "https://i.imgur.com/vruuPKF.png",
+        "website":  "https://bigasia.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8",
+                        "https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "BRIDGE",
+        "logo":  "https://i.imgur.com/qYObfrG.png",
+        "website":  "https://bridgetv.ru/show-player/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Bridge_TV/index.m3u8"
+    },
+    {
+        "name":  "BRIDGE Classic",
+        "logo":  "https://i.imgur.com/JJTQq81.png",
+        "website":  "https://bridgetv.ru/brands/bridgetv_classic/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Bridge_TV_Classic/index.m3u8"
+    },
+    {
+        "name":  "BRIDGE Deluxe",
+        "logo":  "https://i.imgur.com/EazL8w7.png",
+        "website":  "https://bridgetv.ru/brands/bridgehd/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Bridge_TV_HD/index.m3u8"
+    },
+    {
+        "name":  "BRIDGE Hits",
+        "logo":  "https://i.imgur.com/sIW9oR4.png",
+        "website":  "https://bridgetv.ru/brands/bridgetv_dance/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Bridge_TV_Dance/index.m3u8"
+    },
+    {
+        "name":  "BST",
+        "logo":  "https://i.imgur.com/IDotHmQ.png",
+        "website":  "https://bash.news/bst/",
+        "country":  "RU",
+        "streams":  [
+                        "http://bst.bratsk.ru/hls/bst2/index.m3u8",
+                        "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Carousel",
+        "logo":  "https://i.imgur.com/4wmnx1W.png",
+        "website":  "https://www.karusel-tv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://31.148.48.15/Karusel_HD/index.m3u8",
+                        "https://streaming.televizor-24-tochka.ru/live/11.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "Carousel International",
+        "logo":  "https://i.imgur.com/DnlngRZ.png",
+        "website":  "https://www.karusel-tv.ru/",
+        "country":  "RU",
+        "streams":  "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8"
+    },
+    {
+        "name":  "Central TV",
+        "logo":  "https://i.imgur.com/qdCs08A.png",
+        "website":  "https://contact-agency.ru/channels/tsentralnoe-televidenie/",
+        "country":  "RU",
+        "streams":  "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8"
+    },
+    {
+        "name":  "Channel 10",
+        "logo":  "https://i.imgur.com/k8JjFDw.png",
+        "website":  "https://www.10kanal.ru/",
+        "country":  "RU",
+        "streams":  "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8"
+    },
+    {
+        "name":  "Channel 12",
+        "logo":  "https://i.imgur.com/OA9hm6e.png",
+        "website":  "https://12-kanal.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
+                        "https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Channel-16",
+        "logo":  "https://i.imgur.com/7tNDKHe.png",
+        "website":  "https://sarov24.ru/programma-peredach-kanal-16/",
+        "country":  "RU",
+        "streams":  "http://serv25.vintera.tv:8081/test/k16/playlist.m3u8"
+    },
+    {
+        "name":  "Channel 5",
+        "logo":  "https://i.imgur.com/KPXMa3U.png",
+        "website":  "https://www.5-tv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://streaming.televizor-24-tochka.ru/live/8.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "Channel 8",
+        "logo":  "https://i.imgur.com/nUSx1jF.png",
+        "website":  "http://8tv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8",
+                        "https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8",
+                        "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8",
+                        "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Channel One",
+        "logo":  "https://i.imgur.com/RUSX0rX.png",
+        "website":  "https://www.1tv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd",
+                        "https://streaming.televizor-24-tochka.ru/live/4.m3u8",
+                        "https://streaming.thestream.cyou/live/210.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "Che!",
+        "logo":  "https://i.imgur.com/ZOcDGpB.png",
+        "website":  "https://chetv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://31.148.48.15/Che/index.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "Cinema",
+        "logo":  "https://i.postimg.cc/9MFWM1gT/cinema.png",
+        "website":  "https://cinetv.ru/",
+        "country":  "RU",
+        "streams":  "http://catchup.videoline.ru/cinema/playlist.m3u8"
+    },
+    {
+        "name":  "City Eden AutoGid",
+        "logo":  "https://i.imgur.com/qpe8L27.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/47515/index.m3u8"
+    },
+    {
+        "name":  "City Eden Birma Play",
+        "logo":  "https://i.imgur.com/38Q5L5W.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/34364/index.m3u8"
+    },
+    {
+        "name":  "City Eden Classic Music",
+        "logo":  "https://i.imgur.com/l7BE8l6.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/47400/index.m3u8"
+    },
+    {
+        "name":  "City Eden KinoAction",
+        "logo":  "https://i.imgur.com/uuzuvD0.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/41333/index.m3u8"
+    },
+    {
+        "name":  "City Eden KinoArt",
+        "logo":  "https://i.imgur.com/67CWCtz.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/38398/index.m3u8"
+    },
+    {
+        "name":  "City Eden KinoAsia",
+        "logo":  "https://i.imgur.com/gaket4B.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/34393/index.m3u8"
+    },
+    {
+        "name":  "City Eden KinoDetektiv",
+        "logo":  "https://i.imgur.com/9rKHwBV.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/41327/index.m3u8"
+    },
+    {
+        "name":  "City Eden KinoDok",
+        "logo":  "https://i.imgur.com/itRbMX3.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/38354/index.m3u8"
+    },
+    {
+        "name":  "City Eden KinoDrama",
+        "logo":  "https://i.imgur.com/29ddffh.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/45269/index.m3u8"
+    },
+    {
+        "name":  "City Eden KinoFantastika",
+        "logo":  "https://i.imgur.com/I64FeIO.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/45268/index.m3u8"
+    },
+    {
+        "name":  "City Eden KinoKlassika",
+        "logo":  "https://i.imgur.com/0qGCS1S.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/34185/index.m3u8"
+    },
+    {
+        "name":  "City Eden KinoKomediya",
+        "logo":  "https://i.imgur.com/Aga2XVA.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/41331/index.m3u8"
+    },
+    {
+        "name":  "City Eden KinoMistika",
+        "logo":  "https://i.imgur.com/s1Pid0K.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/40783/index.m3u8"
+    },
+    {
+        "name":  "City Eden KinoSemya",
+        "logo":  "https://i.imgur.com/YoWOZMx.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://v2.catcast.tv/content/38128/index.m3u8"
+    },
+    {
+        "name":  "City Eden Meditation Music",
+        "logo":  "https://i.imgur.com/HPWevWb.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/47410/index.m3u8"
+    },
+    {
+        "name":  "City Eden MedZdrav",
+        "logo":  "https://i.imgur.com/BM4E0Kr.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/47519/index.m3u8"
+    },
+    {
+        "name":  "City Eden Play",
+        "logo":  "https://i.imgur.com/ozEqob9.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/34100/index.m3u8"
+    },
+    {
+        "name":  "City Eden Recepty Gurmana",
+        "logo":  "https://i.imgur.com/wR0pvRc.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/47516/index.m3u8"
+    },
+    {
+        "name":  "City Eden Sirtaki TV",
+        "logo":  "https://i.imgur.com/V3MTfyc.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/46421/index.m3u8"
+    },
+    {
+        "name":  "City Eden TeleNovella",
+        "logo":  "https://i.imgur.com/mT5liTh.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/46209/index.m3u8"
+    },
+    {
+        "name":  "City Eden TV",
+        "logo":  "https://i.imgur.com/X9kACKi.png",
+        "website":  "https://www.cityeden.info/",
+        "country":  "RU",
+        "streams":  "https://cityeden.catcast.tv/content/34246/index.m3u8"
+    },
+    {
+        "name":  "Crimea 24",
+        "logo":  "https://i.imgur.com/k4C0uvp.png",
+        "website":  "https://crimea24tv.ru/",
+        "country":  "RU",
+        "streams":  "https://streaming.televizor-24-tochka.ru/live/28.m3u8"
+    },
+    {
+        "name":  "CuriosityStream",
+        "logo":  "https://i.imgur.com/UFREahx.png",
+        "website":  "https://kion.ru/tv/channel/691736141",
+        "country":  "RU",
+        "streams":  "https://fl7.moveonjoy.com/Curiosity_Stream/index.m3u8"
+    },
+    {
+        "name":  "Dagestan",
+        "logo":  "https://i.imgur.com/jumkRvc.png",
+        "website":  "https://www.rgvktv.ru/",
+        "country":  "RU",
+        "streams":  "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8"
+    },
+    {
+        "name":  "DanceHits80",
+        "logo":  "https://i.imgur.com/uMw3kks.png",
+        "website":  "http://denvs.ru",
+        "country":  "RU",
+        "streams":  "http://dancehits80.denvs.ru:8080/index.m3u8"
+    },
+    {
+        "name":  "Detskoe kino",
+        "logo":  "https://i.imgur.com/dJqFRhQ.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "https://autopilot.catcast.tv/content/38720/index.m3u8"
+    },
+    {
+        "name":  "Disney Channel",
+        "logo":  "https://i.postimg.cc/854KwmH1/disneychannel.png",
+        "website":  "https://kanal.disney.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://116.90.120.149:8000/play/a0bx/index.m3u8",
+                        "http://84.54.128.52:9090/play/3006/index.m3u8",
+                        "https://e3.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8",
+                        "https://e5.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8?",
+                        "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8"
+                    ]
+    },
+    {
+        "name":  "Domashniy",
+        "logo":  "https://i.imgur.com/XVRwgom.png",
+        "website":  "https://domashniy.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://streaming.televizor-24-tochka.ru/live/17.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "Domashniy International",
+        "logo":  "https://i.postimg.cc/3x3ZfvkN/domashniyinternational.png",
+        "website":  "https://domashniy.ru/",
+        "country":  "RU",
+        "streams":  "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8"
+    },
+    {
+        "name":  "Dom kino",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
+        "website":  "http://www.domkino.tv/",
+        "country":  "RU",
+        "streams":  "https://streaming.thestream.cyou/live/44.m3u8"
+    },
+    {
+        "name":  "Dom kino Premium",
+        "logo":  "https://i.postimg.cc/fbLfDQjh/domkinopremium.png",
+        "website":  "https://www.domkino-premium.tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8"
+    },
+    {
+        "name":  "Don 24",
+        "logo":  "https://i.imgur.com/fW15la1.png",
+        "website":  "https://don24.ru/tv/",
+        "country":  "RU",
+        "streams":  "https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8"
+    },
+    {
+        "name":  "Duma TV",
+        "logo":  "https://i.imgur.com/JvlO3PU.png",
+        "website":  "https://dumatv.ru/",
+        "country":  "RU",
+        "streams":  "https://dumatv.iptv2022.com/index.m3u8"
+    },
+    {
+        "name":  "EGE TV",
+        "logo":  "https://i.postimg.cc/0j3LdCkz/egetv.png",
+        "website":  "https://www.ege-tv.ru/",
+        "country":  "RU",
+        "streams":  "http://194.143.148.28:8080/RT_DOC/index.m3u8"
+    },
+    {
+        "name":  "Enisey",
+        "logo":  "https://i.imgur.com/57deE7f.png",
+        "website":  "https://www.enisey.tv/",
+        "country":  "RU",
+        "streams":  "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8"
+    },
+    {
+        "name":  "E TV",
+        "logo":  "https://i.imgur.com/FbPFS8u.png",
+        "website":  "http://etv-media.ru/",
+        "country":  "RU",
+        "streams":  "https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8"
+    },
+    {
+        "name":  "Eurasia",
+        "logo":  "https://i.imgur.com/4JUHIVS.png",
+        "website":  "https://eurasia.orsk.ru/",
+        "country":  "RU",
+        "streams":  "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8"
+    },
+    {
+        "name":  "Europa Plus TV",
+        "logo":  "https://i.imgur.com/GLc4qrc.png",
+        "website":  "https://europaplustv.com/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Europa_Plus_HD/index.m3u8"
+    },
+    {
+        "name":  "Evrokino",
+        "logo":  "https://i.imgur.com/8LPtPf6.png",
+        "website":  "http://eurokino.tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Evrokino/index.m3u8"
+    },
+    {
+        "name":  "FAP TV",
+        "logo":  "https://i.imgur.com/3wLcDnt.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  [
+                        "https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8",
+                        "https://nd106.republicaservers.com/hls/c7284/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Feniks plus Kino",
+        "logo":  "https://i.imgur.com/S9OPMLE.png",
+        "website":  "http://www.fenixplus.tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Feniks_plus_kino/index.m3u8"
+    },
+    {
+        "name":  "FoodTime",
+        "logo":  "https://i.imgur.com/gxCYAwH.png",
+        "website":  "https://www.tveda.ru/tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Eda_Premium_HD/index.m3u8"
+    },
+    {
+        "name":  "Football",
+        "logo":  "https://i.imgur.com/pEuaZVx.png",
+        "website":  "https://www.football-tv.ru/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Futbol_HD/index.m3u8"
+    },
+    {
+        "name":  "Friday!",
+        "logo":  "https://i.imgur.com/UfmlXxe.png",
+        "website":  "https://friday.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://streaming.televizor-24-tochka.ru/live/19.m3u8",
+                        "https://vod.tuva.ru/friday/index.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "Friday! International",
+        "logo":  "https://i.imgur.com/N2z3EZC.png",
+        "website":  "https://friday.ru/",
+        "country":  "RU",
+        "streams":  "https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8"
+    },
+    {
+        "name":  "Govorit Moskva",
+        "logo":  "https://i.imgur.com/z2mxf3E.png",
+        "website":  "https://govoritmoskva.ru/",
+        "country":  "RU",
+        "streams":  "https://video.govoritmoskva.ru/rufm/index.m3u8"
+    },
+    {
+        "name":  "Gubernia Samara",
+        "logo":  "https://i.imgur.com/IlL57Rm.png",
+        "website":  "https://sovainfo.ru/tv/",
+        "country":  "RU",
+        "streams":  "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "HDL",
+        "logo":  "https://i.postimg.cc/DwqM8XNP/hdl.png",
+        "website":  "https://www.tvhdl.ru/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/HD_Life/index.m3u8"
+    },
+    {
+        "name":  "History",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",
+        "website":  "https://www.mediabg.ru/history-channel",
+        "country":  "RU",
+        "streams":  "https://fl7.moveonjoy.com/history_channel/index.m3u8"
+    },
+    {
+        "name":  "Hope Channel Russia",
+        "logo":  "https://i.imgur.com/ah6VnFJ.png",
+        "website":  "https://hopetv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+                        "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Huzur TV",
+        "logo":  "https://i.imgur.com/Abg1fct.png",
+        "website":  "https://huzurtv.ru/",
+        "country":  "RU",
+        "streams":  "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8"
+    },
+    {
+        "name":  "Illusion+",
+        "logo":  "https://i.imgur.com/9GvuHQ5.png",
+        "website":  "http://illusionplus.tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Illusion_plus/index.m3u8"
+    },
+    {
+        "name":  "India",
+        "logo":  "https://i.imgur.com/xDVcDOc.png",
+        "website":  "https://www.red-media.ru/company/channels/81834/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Zee_TV_Russia/index.m3u8"
+    },
+    {
+        "name":  "Ingushetia",
+        "logo":  "https://i.imgur.com/Fw2Hkk4.png",
+        "website":  "https://ingushetiya.tv/",
+        "country":  "RU",
+        "streams":  "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8"
+    },
+    {
+        "name":  "Istoriya",
+        "logo":  "https://i.imgur.com/eEjPail.png",
+        "website":  "https://istoriya.tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Istoriya/index.m3u8"
+    },
+    {
+        "name":  "Izvestia",
+        "logo":  "https://i.postimg.cc/q7g0nQdd/izvestia.png",
+        "website":  "https://iz.ru/",
+        "country":  "RU",
+        "streams":  "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8"
+    },
+    {
+        "name":  "Kabbala TV",
+        "logo":  "https://i.imgur.com/uaffIpV.png",
+        "website":  "http://kab.tv/rus",
+        "country":  "RU",
+        "streams":  "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8"
+    },
+    {
+        "name":  "Kavkaz 24",
+        "logo":  "https://i.imgur.com/DyJw1Pi.png",
+        "website":  "https://kavkaz24.tv/",
+        "country":  "RU",
+        "streams":  "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8"
+    },
+    {
+        "name":  "KHL Prime",
+        "logo":  "https://i.imgur.com/pwxT0ON.png",
+        "website":  "https://www.khl.ru/tv/",
+        "country":  "RU",
+        "streams":  "http://194.143.148.28:8080/KHL_HD/index.m3u8"
+    },
+    {
+        "name":  "Kineko",
+        "logo":  "https://i.imgur.com/Otfvlmf.png",
+        "website":  "http://kineko.tv/",
+        "country":  "RU",
+        "streams":  "http://194.143.148.28:8080/KINEKO/index.m3u8"
+    },
+    {
+        "name":  "Kino 1",
+        "logo":  "https://i.imgur.com/zsCPLs4.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  [
+                        "http://kino-1.catcast.tv/content/38617/index.m3u8",
+                        "https://autopilot.catcast.tv/content/38617/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Kino 24",
+        "logo":  "https://i.imgur.com/QAdDARF.png",
+        "website":  "http://www.teledistribution.ru",
+        "country":  "RU",
+        "streams":  "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
+    },
+    {
+        "name":  "Kinopokaz",
+        "logo":  "https://i.imgur.com/nNjMyAq.png",
+        "website":  "http://www.kinopokaz.tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Kinopokaz/index.m3u8"
+    },
+    {
+        "name":  "Kino TV",
+        "logo":  "https://i.imgur.com/sMpamNO.png",
+        "website":  "https://kinotoday.ru/",
+        "country":  "RU",
+        "streams":  "https://vod.tuva.ru/kinotv/index.m3u8"
+    },
+    {
+        "name":  "Konniy mir",
+        "logo":  "https://i.imgur.com/X6otbK0.png",
+        "website":  "http://news.sportbox.ru/Vidy_sporta/horse_world",
+        "country":  "RU",
+        "streams":  "https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8"
+    },
+    {
+        "name":  "Krik-TV",
+        "logo":  "https://i.postimg.cc/qRy8Jsq8/kriktv.png",
+        "website":  "http://www.ricekb.ru/",
+        "country":  "RU",
+        "streams":  "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8"
+    },
+    {
+        "name":  "Kuban 24",
+        "logo":  "https://i.imgur.com/atzrXcz.png",
+        "website":  "https://kuban24.tv/",
+        "country":  "RU",
+        "streams":  "https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8"
+    },
+    {
+        "name":  "Kukhnya TV",
+        "logo":  "https://i.imgur.com/7jxZnuS.png",
+        "website":  "https://www.kuhnyatv.ru/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Kuhnya_TV/index.m3u8"
+    },
+    {
+        "name":  "Kulinar TV",
+        "logo":  "https://smotret.tv/images/kulinar-tv.webp",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "https://api.alpaca.t62a.com/hls/9110/index.m3u8"
+    },
+    {
+        "name":  "Kuraj-TV",
+        "logo":  "https://i.imgur.com/hZXBD9F.png",
+        "website":  "https://bash.news/kuraj",
+        "country":  "RU",
+        "streams":  "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8"
+    },
+    {
+        "name":  "KVN TV",
+        "logo":  "https://i.imgur.com/Vw3LFLX.png",
+        "website":  "https://kvn.ru/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/KVN_TV/index.m3u8"
+    },
+    {
+        "name":  "LDPR TV",
+        "logo":  "https://i.imgur.com/gCmCRfe.png",
+        "website":  "http://ldpr.tv/",
+        "country":  "RU",
+        "streams":  [
+                        "http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8",
+                        "http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8",
+                        "http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Legendarnyy 24",
+        "logo":  "https://i.imgur.com/z9t6x8B.png",
+        "website":  "https://crimea24tv.ru/broadcasting/",
+        "country":  "RU",
+        "streams":  "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
+    },
+    {
+        "name":  "LenTV24",
+        "logo":  "https://i.imgur.com/d02uxkB.png",
+        "website":  "https://lentv24.ru/",
+        "country":  "RU",
+        "streams":  "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8"
+    },
+    {
+        "name":  "Leomax 24",
+        "logo":  "https://i.postimg.cc/bdXWGH9p/leomax24.png",
+        "website":  "https://www.leomax.ru/",
+        "country":  "RU",
+        "streams":  "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8"
+    },
+    {
+        "name":  "Luch",
+        "logo":  "https://i.imgur.com/tXH51br.png",
+        "website":  "https://purmedia.ru/",
+        "country":  "RU",
+        "streams":  "https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8"
+    },
+    {
+        "name":  "Lyubimoe Indijskoe Kino",
+        "logo":  "https://i.imgur.com/hVptFue.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "https://v2.catcast.tv/content/41596/index.m3u8"
+    },
+    {
+        "name":  "Magnat",
+        "logo":  "https://i.imgur.com/r485aZL.png",
+        "website":  "https://tvmagnat.tv/pryamoy-efir/",
+        "country":  "RU",
+        "streams":  "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8"
+    },
+    {
+        "name":  "Malder Megahit",
+        "logo":  "https://i.imgur.com/Ow2Pawt.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "https://v2.catcast.tv/content/47689/index.m3u8"
+    },
+    {
+        "name":  "Mama",
+        "logo":  "https://i.imgur.com/kmMIjjf.png",
+        "website":  "https://mama.tlum.ru/",
+        "country":  "RU",
+        "streams":  "http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8"
+    },
+    {
+        "name":  "Match! Arena",
+        "logo":  "https://i.imgur.com/udTzwzu.png",
+        "website":  "https://matchtv.ru/channel/arena",
+        "country":  "RU",
+        "streams":  "http://194.143.148.28:8080/MatchArena/index.m3u8"
+    },
+    {
+        "name":  "Match! Strana",
+        "logo":  "https://i.imgur.com/X02s2UE.png",
+        "website":  "https://matchtv.ru/channel/strana",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Match_Strana/index.m3u8"
+    },
+    {
+        "name":  "Matur TV",
+        "logo":  "https://i.imgur.com/Pg7K7eV.png",
+        "website":  "https://matur-tv.ru/",
+        "country":  "RU",
+        "streams":  "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8"
+    },
+    {
+        "name":  "Millet",
+        "logo":  "https://i.imgur.com/hUjLRLy.png",
+        "website":  "http://www.trkmillet.ru/",
+        "country":  "RU",
+        "streams":  "https://live.trkmillet.ru/millet/index.m3u8"
+    },
+    {
+        "name":  "Mir",
+        "logo":  "https://i.postimg.cc/7h0X6r5B/mir.png",
+        "website":  "https://mirtv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
+                        "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8",
+                        "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8",
+                        "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8",
+                        "https://streaming.televizor-24-tochka.ru/live/22.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "Mir 24",
+        "logo":  "https://i.postimg.cc/dQy5nr58/mir24.png",
+        "website":  "https://mir24.tv/",
+        "country":  "RU",
+        "streams":  "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+    },
+    {
+        "name":  "Mir Belogorya",
+        "logo":  "https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png",
+        "website":  "https://mirbelogorya.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+                        "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "MMA-TV.com",
+        "logo":  "https://i.imgur.com/QhdxNsB.png",
+        "website":  "https://www.mma-tv.com/",
+        "country":  "RU",
+        "streams":  "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
+    },
+    {
+        "name":  "Moskva 24",
+        "logo":  "https://i.postimg.cc/5NPQCk8p/moskva24.png",
+        "website":  "https://www.m24.ru/",
+        "country":  "RU",
+        "streams":  "https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe"
+    },
+    {
+        "name":  "MosObrTV",
+        "logo":  "https://i.imgur.com/t6PmOD5.png",
+        "website":  "https://mosobr.shkolamoskva.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://retc.educom.ru/mosobrtv/tv1/index.m3u8",
+                        "http://retj.educom.ru/mosobrtv/tv1/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Motorsport.TV",
+        "logo":  "https://i.postimg.cc/zG6Ldbtg/motorsporttv.png",
+        "website":  "https://ru.motorsport.tv/",
+        "country":  "RU",
+        "streams":  "https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8"
+    },
+    {
+        "name":  "Moya Planeta",
+        "logo":  "https://i.postimg.cc/fW8R2SkR/moyaplaneta.png",
+        "website":  "https://www.moya-planeta.ru/",
+        "country":  "RU",
+        "streams":  "http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8"
+    },
+    {
+        "name":  "MTV",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
+        "website":  "http://www.mtv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8",
+                        "https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8"
+                    ]
+    },
+    {
+        "name":  "MTV Volgograd",
+        "logo":  "https://i.imgur.com/pdCAUrP.png",
+        "website":  "https://xn--b1ats.xn--80asehdb/",
+        "country":  "RU",
+        "streams":  "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Mult",
+        "logo":  "https://i.postimg.cc/xdd2btyG/mult.png",
+        "website":  "http://mult-channel.ru/",
+        "country":  "RU",
+        "streams":  "http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8"
+    },
+    {
+        "name":  "Multimania",
+        "logo":  "https://i.imgur.com/abh8ZBA.png",
+        "website":  "http://www.multimania.lv",
+        "country":  "RU",
+        "streams":  [
+                        "http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8",
+                        "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
+                    ]
+    },
+    {
+        "name":  "Mult i muzyka",
+        "logo":  "https://i.imgur.com/SYt6BZP.png",
+        "website":  "https://mult-music.tlum.ru/",
+        "country":  "RU",
+        "streams":  "http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8"
+    },
+    {
+        "name":  "Muz Soyuz",
+        "logo":  "https://i.postimg.cc/bwmX81cZ/muzsoyuz.png",
+        "website":  "https://muz.tv-soyuz.ru/",
+        "country":  "RU",
+        "streams":  "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8"
+    },
+    {
+        "name":  "Muz-TV",
+        "logo":  "https://i.imgur.com/BtqrHmz.png",
+        "website":  "https://muz-tv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://streaming.televizor-24-tochka.ru/live/20.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "Muzyka 1",
+        "logo":  "https://i.imgur.com/DIKe5vA.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  [
+                        "https://kino-1.catcast.tv/content/37742/index.m3u8",
+                        "https://kino-1.catcast.tv/content/37745/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Muzyka Kino",
+        "logo":  "https://i.imgur.com/2SG0Swa.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "https://kino-1.catcast.tv/content/37739/index.m3u8"
+    },
+    {
+        "name":  "Muzyka Pervogo",
+        "logo":  "https://i.imgur.com/U0vKj3P.png",
+        "website":  "https://www.muz1.tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Muzika_Pervogo/index.m3u8"
+    },
+    {
+        "name":  "Nano",
+        "logo":  "https://i.imgur.com/dYj3XDa.png",
+        "website":  "https://tv-nano.ru/",
+        "country":  "RU",
+        "streams":  "http://s1.tv-nano.com/Nano_rec/index.m3u8"
+    },
+    {
+        "name":  "National Geographic",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "website":  "http://www.natgeotv.com/ru",
+        "country":  "RU",
+        "streams":  [
+                        "http://62.210.211.188:2095/play/a00d",
+                        "http://78.130.250.2:8023/play/a02e/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeohd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "National Geographic Wild",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "website":  "http://natgeotv.com/ru/wild",
+        "country":  "RU",
+        "streams":  [
+                        "http://78.130.250.2:8023/play/a02c/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeowild/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Nauka",
+        "logo":  "https://i.postimg.cc/0Qd0RdF3/nauka.png",
+        "website":  "https://naukatv.ru/",
+        "country":  "RU",
+        "streams":  "https://vod.tuva.ru/nauka2/index.m3u8"
+    },
+    {
+        "name":  "Nickelodeon",
+        "logo":  "https://i.postimg.cc/VkdqdrkH/nickelodeon.png",
+        "website":  "https://nickelodeon.ru/",
+        "country":  "RU",
+        "streams":  "http://46.8.46.14/Nickelodeon/index.m3u8"
+    },
+    {
+        "name":  "Nicktoons",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
+        "website":  "http://www.nickelodeon.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://143.244.60.30/NICKTOONS/index.m3u8",
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=359ee837-a829-4fe0-9d99-8dc36018ced2"
+                    ]
+    },
+    {
+        "name":  "Nika TV",
+        "logo":  "https://i.imgur.com/dccsFAu.png",
+        "website":  "https://nikatv.ru/",
+        "country":  "RU",
+        "streams":  "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "Nizhniy Novgorod 24",
+        "logo":  "https://i.imgur.com/ZWgPVIC.png",
+        "website":  "https://vestinn.ru/online/nn24/",
+        "country":  "RU",
+        "streams":  [
+                        "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "NovgorOblTV",
+        "logo":  "https://i.imgur.com/2JspHVY.png",
+        "website":  "https://novgorod-tv.ru/",
+        "country":  "RU",
+        "streams":  "https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8"
+    },
+    {
+        "name":  "Novy Vek",
+        "logo":  "https://i.imgur.com/8aYYi3r.png",
+        "website":  "https://tvtambov.ru/novyj-vek-online/",
+        "country":  "RU",
+        "streams":  "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8"
+    },
+    {
+        "name":  "NTK 21",
+        "logo":  "https://i.imgur.com/W9s1flH.png",
+        "website":  "https://riabir.ru",
+        "country":  "RU",
+        "streams":  "https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8"
+    },
+    {
+        "name":  "NTM",
+        "logo":  "https://i.imgur.com/AH50pGT.png",
+        "website":  "https://ntm13.ru/",
+        "country":  "RU",
+        "streams":  "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8"
+    },
+    {
+        "name":  "NTS",
+        "logo":  "https://i.imgur.com/skkDR7q.png",
+        "website":  "https://nts-tv.com/",
+        "country":  "RU",
+        "streams":  "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8"
+    },
+    {
+        "name":  "NTV",
+        "logo":  "https://i.imgur.com/9r1BKzK.png",
+        "website":  "https://www.ntv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://cdn.ntv.ru/ntv0/playlist.m3u8",
+                        "https://cdn.ntv.ru/ntv1/playlist.m3u8",
+                        "https://cdn.ntv.ru/ntv2/playlist.m3u8",
+                        "https://cdn.ntv.ru/ntv4/playlist.m3u8",
+                        "https://cdn.ntv.ru/ntv7/playlist.m3u8",
+                        "https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8",
+                        "https://streaming.televizor-24-tochka.ru/live/7.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "NTV-Hit",
+        "logo":  "https://i.imgur.com/FfKBvz5.png",
+        "website":  "https://www.ntv.ru/air/ntvhit/",
+        "country":  "RU",
+        "streams":  "https://cdn.ntv.ru/th_hit/playlist.m3u8"
+    },
+    {
+        "name":  "NTV Law",
+        "logo":  "https://i.imgur.com/3ChnWGg.png",
+        "website":  "https://www.ntv.ru/air/ntvlaw/",
+        "country":  "RU",
+        "streams":  "https://cdn.ntv.ru/th_pravo/playlist.m3u8"
+    },
+    {
+        "name":  "NTV Mir",
+        "logo":  "https://i.postimg.cc/NMYb9sV9/ntvmir.png",
+        "website":  "http://www.ntvmir.ntv.ru/",
+        "country":  "RU",
+        "streams":  "https://streaming.thestream.cyou/live/213.m3u8"
+    },
+    {
+        "name":  "NTV Series",
+        "logo":  "https://i.imgur.com/QdVa8tl.png",
+        "website":  "https://www.ntv.ru/air/ntvseries/",
+        "country":  "RU",
+        "streams":  "https://cdn.ntv.ru/th_serial/playlist.m3u8"
+    },
+    {
+        "name":  "NTV Style",
+        "logo":  "https://i.imgur.com/rX6K6qT.png",
+        "website":  "https://www.ntv.ru/air/ntvstyle/",
+        "country":  "RU",
+        "streams":  "https://cdn.ntv.ru/th_style/playlist.m3u8"
+    },
+    {
+        "name":  "NVK Sakha",
+        "logo":  "https://i.imgur.com/LwXNUhf.png",
+        "website":  "https://nvk-online.ru/",
+        "country":  "RU",
+        "streams":  "https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8"
+    },
+    {
+        "name":  "o2tv",
+        "logo":  "https://i.imgur.com/CM6z7fA.png",
+        "website":  "https://o2tv.ru/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/O2_HD/index.m3u8"
+    },
+    {
+        "name":  "Osetiya-Iryston",
+        "logo":  "https://i.imgur.com/N0Zn4zU.png",
+        "website":  "https://iryston.tv/",
+        "country":  "RU",
+        "streams":  "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8"
+    },
+    {
+        "name":  "OSN",
+        "logo":  "https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png",
+        "website":  "https://www.osnmedia.ru/tv/",
+        "country":  "RU",
+        "streams":  "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8"
+    },
+    {
+        "name":  "Otkritiy mir. Zdorove",
+        "logo":  "https://i.imgur.com/7orZOJA.png",
+        "website":  "https://omir.tv/",
+        "country":  "RU",
+        "streams":  "https://v4.proofix.ru/0mir/index.m3u8"
+    },
+    {
+        "name":  "OTR",
+        "logo":  "https://i.postimg.cc/HsfP325g/otr.png",
+        "website":  "https://otr-online.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://streaming.televizor-24-tochka.ru/live/12.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "OTV",
+        "logo":  "https://obltv.ru/storage/app/uploads/public/67a/1dd/7aa/67a1dd7aac893679045960.svg",
+        "website":  "https://www.obltv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8",
+                        "https://fl1002.bozztv.com/ga-otvlebanon/index.m3u8",
+                        "https://stream.agatin.hr:3559/live/otvlive.m3u8"
+                    ]
+    },
+    {
+        "name":  "Patriot",
+        "logo":  "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
+        "website":  "https://patriotkanal.ru/",
+        "country":  "RU",
+        "streams":  "http://catchup.videoline.ru/asvtv/index.m3u8"
+    },
+    {
+        "name":  "Peretz International",
+        "logo":  "https://i.postimg.cc/Tw6LThsS/peretzinternational.png",
+        "website":  "http://www.ctcmedia.ru/business/peretz_int/",
+        "country":  "RU",
+        "streams":  "https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8"
+    },
+    {
+        "name":  "Pervyy Respublikanskiy",
+        "logo":  "https://i.postimg.cc/3JdR5gRN/pervyyrespublikanskiy.png",
+        "website":  "https://republic-tv.ru/",
+        "country":  "RU",
+        "streams":  "https://streaming.televizor-24-tochka.ru/live/27.m3u8"
+    },
+    {
+        "name":  "Pobeda",
+        "logo":  "https://i.postimg.cc/1XyvVm87/pobeda.png",
+        "website":  "https://pobeda.tv/",
+        "country":  "RU",
+        "streams":  "https://streaming.thestream.cyou/live/43.m3u8"
+    },
+    {
+        "name":  "Poehali!",
+        "logo":  "https://i.imgur.com/ZNCpbII.png",
+        "website":  "http://www.poehali.tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Poehali/index.m3u8"
+    },
+    {
+        "name":  "Prima",
+        "logo":  "https://i.imgur.com/33XGMch.png",
+        "website":  "https://www.prima-tv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8",
+                        "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Pro100TV",
+        "logo":  "https://i.imgur.com/YfQEflM.png",
+        "website":  "https://www.pro100tv.lv/",
+        "country":  "RU",
+        "streams":  "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
+    },
+    {
+        "name":  "Prodvizhenie",
+        "logo":  "https://i.imgur.com/KlsnfG9.png",
+        "website":  "https://www.pro-tv.info/",
+        "country":  "RU",
+        "streams":  "https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8"
+    },
+    {
+        "name":  "Prosveshchenie",
+        "logo":  "https://i.imgur.com/uppFhhq.png",
+        "website":  "http://prosveshenie.tv/",
+        "country":  "RU",
+        "streams":  "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
+    },
+    {
+        "name":  "Radio Hit",
+        "logo":  "https://i.imgur.com/5xKqV1s.png",
+        "website":  "http://smotri.radio/",
+        "country":  "RU",
+        "streams":  [
+                        "http://lova.me/hls/hit.m3u8",
+                        "http://lova.me/hls/hithd.m3u8"
+                    ]
+    },
+    {
+        "name":  "Radio Shanson",
+        "logo":  "https://i.postimg.cc/5t1gR934/radioshanson.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8"
+    },
+    {
+        "name":  "Radost Moya",
+        "logo":  "https://i.postimg.cc/DZpc0rK0/radostmoya.png",
+        "website":  "https://radostmoya.ru/",
+        "country":  "RU",
+        "streams":  "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8"
+    },
+    {
+        "name":  "RBK-TV",
+        "logo":  "https://i.imgur.com/CwhmJby.png",
+        "website":  "https://tv.rbc.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://92.50.128.180/utv/1358/index.m3u8",
+                        "http://online-video.rbc.ru/online2/rbctv.m3u8",
+                        "https://online-video.rbc.ru/spb/rbctv_spb.m3u8",
+                        "https://uiptv.do.am/1ufc/701293058/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Red Line",
+        "logo":  "https://i.imgur.com/TgZ8Uv1.png",
+        "website":  "https://www.rline.tv/",
+        "country":  "RU",
+        "streams":  [
+                        "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8",
+                        "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "REN TV",
+        "logo":  "https://i.postimg.cc/h499HRXh/rentv.png",
+        "website":  "https://ren.tv/",
+        "country":  "RU",
+        "streams":  [
+                        "https://streaming.televizor-24-tochka.ru/live/14.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "REN TV International",
+        "logo":  "https://i.imgur.com/gBjk9oF.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8"
+    },
+    {
+        "name":  "RT",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+        "website":  "https://www.rt.com/",
+        "country":  "RU",
+        "streams":  [
+                        "https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8",
+                        "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
+                        "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+                        "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "RT Arabic",
+        "logo":  "https://i.imgur.com/G8vGrn1.png",
+        "website":  "https://arabic.rt.com/",
+        "country":  "RU",
+        "streams":  [
+                        "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
+                        "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119687/rttodayarabic/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "RT Documentary",
+        "logo":  "https://i.postimg.cc/9QPKMngf/rtdocumentary.png",
+        "website":  "https://rtd.rt.com/",
+        "country":  "RU",
+        "streams":  [
+                        "https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8",
+                        "https://hls.mskycdn.online/tv/rtd/index.m3u8",
+                        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+                        "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+                        "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8",
+                        "https://streaming.thestream.cyou/live/554.m3u8"
+                    ]
+    },
+    {
+        "name":  "RT en Espanol",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+        "website":  "https://actualidad.rt.com/",
+        "country":  "RU",
+        "streams":  [
+                        "https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8",
+                        "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+                        "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "RTG TV",
+        "logo":  "https://i.imgur.com/ZMKPAho.png",
+        "website":  "http://www.rtgtv.ru/channels/rtgtv",
+        "country":  "RU",
+        "streams":  "http://194.143.148.28:8080/RTG_HD/index.m3u8"
+    },
+    {
+        "name":  "RTR-Planeta Asia",
+        "logo":  "https://i.imgur.com/DTtK0z7.png",
+        "website":  "http://rtr-planeta.com/",
+        "country":  "RU",
+        "streams":  "https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363"
+    },
+    {
+        "name":  "RTR-Planeta CIS",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",
+        "website":  "http://rtr-planeta.com/",
+        "country":  "RU",
+        "streams":  "https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f"
+    },
+    {
+        "name":  "RTR-Planeta Europe",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",
+        "website":  "http://rtr-planeta.com/",
+        "country":  "RU",
+        "streams":  "https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603"
+    },
+    {
+        "name":  "Russia-1",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",
+        "website":  "https://russia.tv/",
+        "country":  "RU",
+        "streams":  [
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-hd/index.m3u8",
+                        "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8",
+                        "https://streaming.televizor-24-tochka.ru/live/5.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "Russia-24",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+        "website":  "http://vesti.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8",
+                        "https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04",
+                        "https://streaming.televizor-24-tochka.ru/live/10.m3u8",
+                        "https://uiptv.do.am/1ufc/000000006/playlist.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Russia-K",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",
+        "website":  "http://smotrim.ru/pick/kultura",
+        "country":  "RU",
+        "streams":  [
+                        "http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
+                        "https://streaming.televizor-24-tochka.ru/live/9.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "Russkiy Bestseller",
+        "logo":  "https://i.imgur.com/w0ZE9QJ.png",
+        "website":  "https://bestrussia.tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Russkiy_Bestseller/index.m3u8"
+    },
+    {
+        "name":  "Russkiy Detektiv",
+        "logo":  "https://i.imgur.com/H3qhN8S.png",
+        "website":  "https://rudetective.tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Russkiy_Detektiv/index.m3u8"
+    },
+    {
+        "name":  "Russkiy roman",
+        "logo":  "https://i.imgur.com/cQN0P2B.png",
+        "website":  "https://rusroman.ru/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8"
+    },
+    {
+        "name":  "RU.TV",
+        "logo":  "https://i.postimg.cc/cHV6HC6w/rutv.png",
+        "website":  "https://ru.tv/",
+        "country":  "RU",
+        "streams":  "https://hls-03-video.webcaramba.com/rutv/live.m3u8"
+    },
+    {
+        "name":  "Ryzhiy",
+        "logo":  "https://i.imgur.com/acrU2IE.png",
+        "website":  "http://www.ryzhiy.tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Rizhiy/index.m3u8"
+    },
+    {
+        "name":  "RZD TV",
+        "logo":  "https://i.imgur.com/lf1r9L6.png",
+        "website":  "https://rzdtv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8",
+                        "http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "S1",
+        "logo":  "https://i.imgur.com/chNBF5t.png",
+        "website":  "https://sitv.ru/efir/c1/",
+        "country":  "RU",
+        "streams":  "https://sitv.ru/hls/stv.m3u8"
+    },
+    {
+        "name":  "Salyam",
+        "logo":  "https://i.imgur.com/FfULLr1.png",
+        "website":  "https://bash.news/salyam",
+        "country":  "RU",
+        "streams":  "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8"
+    },
+    {
+        "name":  "Samara 24",
+        "logo":  "https://i.imgur.com/YUe3Dwd.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8"
+    },
+    {
+        "name":  "Samara-GIS",
+        "logo":  "https://samaragis.ru/wp-includes/images/logo.png",
+        "website":  "https://samaragis.ru/efir/",
+        "country":  "RU",
+        "streams":  "http://45.67.57.9:8080/new/new/playlist.m3u8"
+    },
+    {
+        "name":  "Sankt-Peterburg",
+        "logo":  "https://i.imgur.com/9At4oG7.png",
+        "website":  "https://topspb.tv/",
+        "country":  "RU",
+        "streams":  "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8"
+    },
+    {
+        "name":  ".sci-fi",
+        "logo":  "https://i.postimg.cc/VsDmzSy0/scifi.png",
+        "website":  "https://mt.media/channels/sci-fi/",
+        "country":  "RU",
+        "streams":  "http://178.124.179.122:8088/Sci-Fi/index.m3u8"
+    },
+    {
+        "name":  "Sever",
+        "logo":  "https://i.imgur.com/sTOQLYl.png",
+        "website":  "http://trksever.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://live.mediacdn.ru/sr1/sever/playlist.m3u8",
+                        "https://live2.mediacdn.ru/sr1/sever/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "SGDF24.RU",
+        "logo":  "https://i.postimg.cc/hjWR3cRs/sgdf24ru.png",
+        "website":  "http://sgdf24.ru/",
+        "country":  "RU",
+        "streams":  "https://cdnfs.teonvi.com/sgdf/index.fmp4.m3u8"
+    },
+    {
+        "name":  "Shanson TV",
+        "logo":  "https://i.postimg.cc/sxKFXWQH/shansontv.png",
+        "website":  "https://shanson.tv/",
+        "country":  "RU",
+        "streams":  [
+                        "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
+                        "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+                        "https://uiptv.do.am/1ufc/602079679/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Shayan TV",
+        "logo":  "https://i.imgur.com/CvFwczN.png",
+        "website":  "https://shayantv.ru/",
+        "country":  "RU",
+        "streams":  "https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8"
+    },
+    {
+        "name":  "Shchyolkovskoe TV",
+        "logo":  "https://i.imgur.com/0us6l04.png",
+        "website":  "https://tv41.ru/",
+        "country":  "RU",
+        "streams":  "http://stream0.tv41.ru/live.m3u8"
+    },
+    {
+        "name":  "Shopping Live",
+        "logo":  "https://i.postimg.cc/mZjK7Qk8/shoppinglive.png",
+        "website":  "https://www.shoppinglive.ru/",
+        "country":  "RU",
+        "streams":  "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8"
+    },
+    {
+        "name":  "Sibir 24",
+        "logo":  "https://i.imgur.com/jgwQPl0.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  [
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Smile TV",
+        "logo":  "https://static.tildacdn.com/tild3936-3138-4234-b536-326531343933/-_13x.png",
+        "website":  "https://smile-tv.org/",
+        "country":  "RU",
+        "streams":  "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
+    },
+    {
+        "name":  "Smotrim Chestnyy Detektiv",
+        "logo":  "https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Sochi24",
+        "logo":  "https://i.imgur.com/iwWxkl6.png",
+        "website":  "https://sochi24.tv",
+        "country":  "RU",
+        "streams":  "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8"
+    },
+    {
+        "name":  "Sochi Live",
+        "logo":  "https://www.cableman.ru/sites/default/files/sochi_live.png",
+        "website":  "https://sochilive.tv/",
+        "country":  "RU",
+        "streams":  "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8"
+    },
+    {
+        "name":  "Solnce",
+        "logo":  "https://i.imgur.com/HCefxaK.png",
+        "website":  "https://sun-tv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://tv.mediacdn.ru/live/solntse/playlist.m3u8",
+                        "http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "Solovyov Live",
+        "logo":  "https://i.imgur.com/v0OYe1d.png",
+        "website":  "https://smotrim.ru/live/63338",
+        "country":  "RU",
+        "streams":  "https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1"
+    },
+    {
+        "name":  "SONGTV Russia",
+        "logo":  "https://i.imgur.com/nM7LbmV.png",
+        "website":  "https://songtv.ru/",
+        "country":  "RU",
+        "streams":  "https://songtv.hls.iptvdc.com/web-russia/index.m3u8"
+    },
+    {
+        "name":  "Sony Channel",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "https://fl7.moveonjoy.com/Sony_Movie_Channel/index.m3u8"
+    },
+    {
+        "name":  "Soyuz",
+        "logo":  "https://i.postimg.cc/BnPCmY1C/soyuz.png",
+        "website":  "https://tv-soyuz.ru/",
+        "country":  "RU",
+        "streams":  "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
+    },
+    {
+        "name":  "Spas",
+        "logo":  "https://i.postimg.cc/Kzxrvmp9/spas.png",
+        "website":  "http://spastv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://streaming.televizor-24-tochka.ru/live/15.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "Star Cinema",
+        "logo":  "https://i.postimg.cc/Vvc6cN76/starcinema.png",
+        "website":  "http://starcinema.starmediatv.ru/",
+        "country":  "RU",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/starcinema/playlist.m3u8"
+    },
+    {
+        "name":  "Star Family",
+        "logo":  "https://i.postimg.cc/5Nb076YK/starfamily.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8"
+    },
+    {
+        "name":  "START Air",
+        "logo":  "https://i.imgur.com/4bACa7x.png",
+        "website":  "https://starttv.ru/",
+        "country":  "RU",
+        "streams":  "https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8"
+    },
+    {
+        "name":  "Start Triumf",
+        "logo":  "https://i.imgur.com/L9jTieL.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8"
+    },
+    {
+        "name":  "START World",
+        "logo":  "https://i.imgur.com/TXtY5eM.png",
+        "website":  "https://starttv.ru/",
+        "country":  "RU",
+        "streams":  "https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8"
+    },
+    {
+        "name":  "Strana FM",
+        "logo":  "https://i.postimg.cc/RCP88YNr/stranafm.png",
+        "website":  "https://strana.fm/",
+        "country":  "RU",
+        "streams":  [
+                        "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+                        "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "STS",
+        "logo":  "https://i.postimg.cc/kXzHMtQf/sts.png",
+        "website":  "https://ctc.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://streaming.televizor-24-tochka.ru/live/16.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "STS International",
+        "logo":  "https://i.imgur.com/mwiC0RG.png",
+        "website":  "http://ctci.tv/",
+        "country":  "RU",
+        "streams":  "https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8"
+    },
+    {
+        "name":  "STS kids",
+        "logo":  "https://i.imgur.com/o9kLpAL.png",
+        "website":  "https://ctckids.ru/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/STS_Kids_HD/index.m3u8"
+    },
+    {
+        "name":  "STS Love",
+        "logo":  "https://i.imgur.com/YBVZoDd.png",
+        "website":  "https://www.ctclove.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://194.143.148.28:8080/CTC_LOVE/index.m3u8",
+                        "http://31.148.48.15/STS_Love/index.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "Studiya Fakt",
+        "logo":  "https://i.imgur.com/y73pRGZ.png",
+        "website":  "https://xn--80adgql2bfcefn5k.xn--p1ai/",
+        "country":  "RU",
+        "streams":  "https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8"
+    },
+    {
+        "name":  "STV",
+        "logo":  "https://stv92.ru/media/page404/logo-square.svg",
+        "website":  "https://www.stv92.ru/iks-tv/",
+        "country":  "RU",
+        "streams":  [
+                        "http://89.201.163.244:8080/hls/hdmi.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120429/stvcameroon/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Subbota!",
+        "logo":  "https://i.imgur.com/nsk8PpB.png",
+        "website":  "https://subbota.tv/",
+        "country":  "RU",
+        "streams":  [
+                        "http://hls2.hd-tv.club/2_super/index.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "SuperGeroi",
+        "logo":  "https://i.imgur.com/c0zZUR1.png",
+        "website":  "https://supergeroi-tv.ru/",
+        "country":  "RU",
+        "streams":  "http://178.124.179.122:8088/Malish/index.m3u8"
+    },
+    {
+        "name":  "Surgut 24",
+        "logo":  "https://i.imgur.com/OxvqXMt.png",
+        "website":  "https://in-news.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://sitv.ru/vgtrk/stv.m3u8",
+                        "https://video1.in-news.ru/c24/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Svoyo TV",
+        "logo":  "https://i.imgur.com/3cP2fmX.png",
+        "website":  "https://stv24.tv/",
+        "country":  "RU",
+        "streams":  [
+                        "http://live.stv24.tv:8080/svoetv/HQ_video.m3u8",
+                        "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Tamyr",
+        "logo":  "https://i.imgur.com/Ia3acCB.png",
+        "website":  "https://bash.news/tamir",
+        "country":  "RU",
+        "streams":  [
+                        "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8",
+                        "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Tavriya",
+        "logo":  "https://i.imgur.com/gqung6i.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "https://streaming.televizor-24-tochka.ru/live/24.m3u8"
+    },
+    {
+        "name":  "TBN",
+        "logo":  "https://i.imgur.com/XAmPtWu.png",
+        "website":  "https://tbn-tv.com/",
+        "country":  "RU",
+        "streams":  [
+                        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?appName=web\u0026appVersion=unknown\u0026clientTime=0\u0026deviceDNT=0\u0026deviceId=6c2bfeb1-30d3-11ef-9cf5-e9ddff8ff496\u0026deviceMake=Chrome\u0026deviceModel=web\u0026deviceType=web\u0026deviceVersion=unknown\u0026includeExtendedEvents=false\u0026serverSideAds=false\u0026sid=a3bb369c-6039-4656-a79d-8e87112a8232",
+                        "https://d7ge95bb03xsu.cloudfront.net/out/v1/e0fd0e2c760641fa816a3e216b3ca9c0/tbn-stirr.m3u8",
+                        "https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8"
+                    ]
+    },
+    {
+        "name":  "Teatr",
+        "logo":  "https://i.imgur.com/nc2ijCH.png",
+        "website":  "http://www.telekanalteatr.ru/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Sochi_HD/index.m3u8"
+    },
+    {
+        "name":  "Telecafe",
+        "logo":  "https://i.imgur.com/1H3h1HL.png",
+        "website":  "https://www.telecafe.ru/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Telekafe/index.m3u8"
+    },
+    {
+        "name":  "Telekanal Krasnodar",
+        "logo":  "https://i.imgur.com/YVtutzp.png",
+        "website":  "https://tvkrasnodar.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist.m3u8",
+                        "https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Teleputeshestviya",
+        "logo":  "https://i.imgur.com/eXJm1n3.png",
+        "website":  "http://www.teletravel.tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Teleputeshestviya/index.m3u8"
+    },
+    {
+        "name":  "Telplus",
+        "logo":  "https://i.imgur.com/1zbcZ3p.png",
+        "website":  "https://telplus.ru/kvartira/televidenie/kanal/",
+        "country":  "RU",
+        "streams":  "https://streaming.astrakhan.ru/telplushd/playlist.m3u8"
+    },
+    {
+        "name":  "TERRA",
+        "logo":  "https://i.imgur.com/ZxUjCpF.png",
+        "website":  "https://mt.media/channels/terra/",
+        "country":  "RU",
+        "streams":  "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8"
+    },
+    {
+        "name":  "TKR",
+        "logo":  "https://i.imgur.com/VqtPB7L.png",
+        "website":  "https://tkr.su/",
+        "country":  "RU",
+        "streams":  "http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8"
+    },
+    {
+        "name":  "TNT",
+        "logo":  "https://i.imgur.com/T4A6rEI.png",
+        "website":  "http://tnt-online.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://streaming.televizor-24-tochka.ru/live/23.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "TNT4",
+        "logo":  "https://i.postimg.cc/j5mw1Wd9/tnt4.png",
+        "website":  "https://tnt4.ru/",
+        "country":  "RU",
+        "streams":  "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8"
+    },
+    {
+        "name":  "TNT4 International",
+        "logo":  "https://i.imgur.com/SjdOaya.png",
+        "website":  "https://tnt4.ru/",
+        "country":  "RU",
+        "streams":  "https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8"
+    },
+    {
+        "name":  "TNT International",
+        "logo":  "https://i.imgur.com/l0RGbRI.png",
+        "website":  "http://tnt-online.ru/",
+        "country":  "RU",
+        "streams":  "https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8"
+    },
+    {
+        "name":  "TNT Music",
+        "logo":  "https://i.imgur.com/RenuH4S.png",
+        "website":  "https://tntmusic.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8",
+                        "https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TNV-Planet",
+        "logo":  "https://i.imgur.com/ijA1zDw.png",
+        "website":  "https://tnv.ru/",
+        "country":  "RU",
+        "streams":  "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8"
+    },
+    {
+        "name":  "Tolk",
+        "logo":  "https://i.imgur.com/l7JZ79P.png",
+        "website":  "https://tolknews.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
+                        "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV-3",
+        "logo":  "https://i.imgur.com/JLAvq8O.png",
+        "website":  "https://tv3.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://streaming.televizor-24-tochka.ru/live/18.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV BRICS Russian",
+        "logo":  "https://i.imgur.com/vLpm8tN.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8"
+    },
+    {
+        "name":  "TV Centr",
+        "logo":  "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg",
+        "website":  "http://www.tvc.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://streaming.televizor-24-tochka.ru/live/13.m3u8",
+                        "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "TVK",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/e/e7/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A2%D0%92%D0%9A_%282015%29.png",
+        "website":  "http://www.tvknews.ru/",
+        "country":  "RU",
+        "streams":  "https://air.tvk6.ru/tvk24/playlist.m3u8"
+    },
+    {
+        "name":  "Tvoe TV",
+        "logo":  "https://i.imgur.com/kKAM7dP.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "http://tvoetv.space:8080/tvoetv/index.m3u8"
+    },
+    {
+        "name":  "Tvoye TV Yumor",
+        "logo":  "https://smotret.tv/images/tvoe-tv-yumor.webp",
+        "website":  "https://vk.com/tvoetvhd",
+        "country":  "RU",
+        "streams":  "http://tvoetv.space:8080/tvoetv_humor/index.m3u8"
+    },
+    {
+        "name":  "TV PRO",
+        "logo":  "https://i.imgur.com/sbuSefI.png",
+        "website":  "http://tvpro-online.ru/",
+        "country":  "RU",
+        "streams":  "http://rtmp.tvpro-online.ru/hls/ch1.m3u8"
+    },
+    {
+        "name":  "U",
+        "logo":  "https://i.imgur.com/KDZvt0Q.png",
+        "website":  "https://www.u-tv.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8",
+                        "https://cdn-01.bonus-tv.ru/u/playlist.m3u8",
+                        "https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8"
+                    ]
+    },
+    {
+        "name":  "Ugra-TV",
+        "logo":  "https://i.imgur.com/561FRwI.png",
+        "website":  "https://ugra-tv.ru/",
+        "country":  "RU",
+        "streams":  "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8"
+    },
+    {
+        "name":  "Unikum",
+        "logo":  "https://i.imgur.com/kSJZjDL.png",
+        "website":  "https://vk.com/unicum_tv",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Detskiy/index.m3u8"
+    },
+    {
+        "name":  "Univer TV",
+        "logo":  "https://i.imgur.com/r3u0mxr.png",
+        "website":  "https://universmotri.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8",
+                        "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+                        "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "Unknown Russia",
+        "logo":  "https://i.imgur.com/W7ste2f.png",
+        "website":  "https://www.ntv.ru/air/unknown_russia/",
+        "country":  "RU",
+        "streams":  "https://cdn.ntv.ru/unknown_russia/playlist.m3u8"
+    },
+    {
+        "name":  "Ural 24",
+        "logo":  "https://i.imgur.com/eoI4KuB.png",
+        "website":  "https://xn---24-5cd9c2au.xn--p1ai/",
+        "country":  "RU",
+        "streams":  "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8"
+    },
+    {
+        "name":  "Vera 24",
+        "logo":  "https://i.imgur.com/Qer5Lnh.png",
+        "website":  "https://vera24.tv/",
+        "country":  "RU",
+        "streams":  "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8"
+    },
+    {
+        "name":  "Vesti FM",
+        "logo":  "https://i.postimg.cc/NFR7YhFQ/vestifm.png",
+        "website":  "https://vgtrk.ru/radiovesti",
+        "country":  "RU",
+        "streams":  "https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173"
+    },
+    {
+        "name":  "Vetta 24",
+        "logo":  "https://i.imgur.com/zKH1b5k.png",
+        "website":  "https://www.vetta.tv/",
+        "country":  "RU",
+        "streams":  "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8"
+    },
+    {
+        "name":  "VHS TV",
+        "logo":  "https://i.imgur.com/BHCwWBf.png",
+        "website":  "https://vk.com/vhs_tv_live",
+        "country":  "RU",
+        "streams":  "https://v2.catcast.tv/content/47609/index.m3u8"
+    },
+    {
+        "name":  "Vital Basketball",
+        "logo":  "https://i.imgur.com/E67CY0d.png",
+        "website":  "https://vslive.pw/",
+        "country":  "RU",
+        "streams":  "https://vslive.pw/stream/48684/index.m3u8"
+    },
+    {
+        "name":  "Vital Drive",
+        "logo":  "https://i.imgur.com/XoR9zLh.png",
+        "website":  "https://a21network.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://autopilot.catcast.tv/content/37909/index.m3u8",
+                        "https://tv.a21network.ru/stream/37909/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Vital Football",
+        "logo":  "https://i.imgur.com/wXf8nNf.png",
+        "website":  "https://vslive.pw/",
+        "country":  "RU",
+        "streams":  "https://vslive.pw/stream/48682/index.m3u8"
+    },
+    {
+        "name":  "Vital Plus",
+        "logo":  "https://i.imgur.com/7NTLpDt.png",
+        "website":  "https://vslive.pw/",
+        "country":  "RU",
+        "streams":  "https://vslive.pw/stream/48683/index.m3u8"
+    },
+    {
+        "name":  "Vital Sport",
+        "logo":  "https://i.imgur.com/2Kinxqb.png",
+        "website":  "https://vslive.pw/",
+        "country":  "RU",
+        "streams":  "https://vslive.pw/stream/48527/index.m3u8"
+    },
+    {
+        "name":  "Vital Tennis",
+        "logo":  "https://i.imgur.com/RoCOuhJ.png",
+        "website":  "https://vslive.pw/",
+        "country":  "RU",
+        "streams":  "https://vslive.pw/stream/48685/index.m3u8"
+    },
+    {
+        "name":  "Vmeste-RF",
+        "logo":  "https://i.imgur.com/KI1qZNc.png",
+        "website":  "https://vmeste-rf.tv/",
+        "country":  "RU",
+        "streams":  "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
+    },
+    {
+        "name":  "Volga",
+        "logo":  "https://i.imgur.com/xHs1pr1.png",
+        "website":  "https://www.volga-tv.ru/",
+        "country":  "RU",
+        "streams":  "http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8"
+    },
+    {
+        "name":  "Volgograd 24",
+        "logo":  "https://i.imgur.com/gFMnaU5.png",
+        "website":  "https://volgograd24.tv/",
+        "country":  "RU",
+        "streams":  [
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Vostok 24",
+        "logo":  "https://i.imgur.com/YEXDsMn.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  [
+                        "http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8",
+                        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Vremya",
+        "logo":  "https://i.imgur.com/jZlj3ga.png",
+        "website":  "https://www.vremya.tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Vremya/index.m3u8"
+    },
+    {
+        "name":  "YaPervyy",
+        "logo":  "https://yarreg.ru/gallery/news/2025/03/293241/3.jpeg",
+        "website":  "https://1yar.tv/",
+        "country":  "RU",
+        "streams":  "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8"
+    },
+    {
+        "name":  "Yuvelirochka",
+        "logo":  "https://i.imgur.com/IcWtXCZ.png",
+        "website":  "https://uvi.ru/yuvelirochka/",
+        "country":  "RU",
+        "streams":  "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
+    },
+    {
+        "name":  "Zapad 24",
+        "logo":  "https://i.imgur.com/HerCP0u.png",
+        "website":  null,
+        "country":  "RU",
+        "streams":  "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8"
+    },
+    {
+        "name":  "Za! TV",
+        "logo":  "https://i.imgur.com/pVPTl8J.png",
+        "website":  "https://zatvmedia.netlify.app/zatv.html",
+        "country":  "RU",
+        "streams":  "https://streaming.televizor-24-tochka.ru/live/25.m3u8"
+    },
+    {
+        "name":  "Zhar Ptitsa",
+        "logo":  "https://i.imgur.com/19R470V.png",
+        "website":  "http://www.zhar-ptica.tv/",
+        "country":  "RU",
+        "streams":  "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8"
+    },
+    {
+        "name":  "Zhivaya Planeta",
+        "logo":  "https://i.imgur.com/onNv1tM.png",
+        "website":  "https://moya-planeta.ru/tv?channel=live-planet",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Zhivaya_Planeta/index.m3u8"
+    },
+    {
+        "name":  "Zhivi!",
+        "logo":  "https://i.postimg.cc/kGdmp9K9/zhivi.png",
+        "website":  "https://www.jv.ru/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Zhivi/index.m3u8"
+    },
+    {
+        "name":  "Zoo TV",
+        "logo":  "https://i.imgur.com/p7WzqGS.png",
+        "website":  "http://www.telezoo.tv/",
+        "country":  "RU",
+        "streams":  "http://31.148.48.15/Zoo_TV/index.m3u8"
+    },
+    {
+        "name":  "Zvezda",
+        "logo":  "https://i.imgur.com/4PAcpfM.png",
+        "website":  "https://tvzvezda.ru/",
+        "country":  "RU",
+        "streams":  [
+                        "https://streaming.televizor-24-tochka.ru/live/21.m3u8",
+                        "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
+                        "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8",
+                        "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8"
+                    ]
+    },
+    {
+        "name":  "Zvezda Plus",
+        "logo":  "https://i.imgur.com/NNmjD9Z.png",
+        "website":  "https://tvzvezda.ru/sp/zvezda-plus/",
+        "country":  "RU",
+        "streams":  "http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8"
+    }
+]

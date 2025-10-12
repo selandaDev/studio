@@ -1,0 +1,239 @@
+﻿[
+    {
+        "name":  "8TV",
+        "logo":  "https://i.imgur.com/Jkx9W88.png",
+        "website":  "https://www.xtra.com.my/",
+        "country":  "MY",
+        "streams":  [
+                        "http://cdn6.163189.xyz/163189/8tv",
+                        "https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
+                    ]
+    },
+    {
+        "name":  "Awesome TV",
+        "logo":  "https://i.imgur.com/x90U1Bf.png",
+        "website":  "https://awesometv.my/",
+        "country":  "MY",
+        "streams":  "https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8"
+    },
+    {
+        "name":  "Berita RTM",
+        "logo":  "https://i.imgur.com/1Xzxsgl.png",
+        "website":  "https://www.rtm.gov.my/",
+        "country":  "MY",
+        "streams":  "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5"
+    },
+    {
+        "name":  "CinemaWorld",
+        "logo":  "https://i.imgur.com/D2qNVZ7.png",
+        "website":  "https://cinemaworld.asia/",
+        "country":  "MY",
+        "streams":  [
+                        "http://210.210.155.35/dr9445/h/h04/index.m3u8",
+                        "http://210.210.155.37/dr9445/h/h04/index.m3u8",
+                        "https://tv.ddns.vn/tv/cinemaworldhd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Dunia Sinema",
+        "logo":  null,
+        "website":  "https://unifi.com.my/tv",
+        "country":  "MY",
+        "streams":  "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8"
+    },
+    {
+        "name":  "eGG Network",
+        "logo":  "https://i.imgur.com/VyYo7NF.png",
+        "website":  "http://www.egg.network/",
+        "country":  "MY",
+        "streams":  "http://210.210.155.37/uq2663/h/h22/index.m3u8"
+    },
+    {
+        "name":  "Golf Channel",
+        "logo":  "https://i.postimg.cc/CxzK0w60/golfchannel.png",
+        "website":  "https://www.golfchannel.com/",
+        "country":  "MY",
+        "streams":  [
+                        "http://78.130.250.2:8023/play/a02q/index.m3u8",
+                        "https://fl7.moveonjoy.com/GOLF/index.m3u8",
+                        "https://tvpass.org/live/GolfChannel/hd",
+                        "https://tvpass.org/live/GolfChannel/sd"
+                    ]
+    },
+    {
+        "name":  "Maah TV",
+        "logo":  "https://i.postimg.cc/rshG38zb/maahtv.png",
+        "website":  "https://maahtv.com/",
+        "country":  "MY",
+        "streams":  "https://hls.maahtv.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "National Geographic",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "website":  "http://natgeotv.com/asia",
+        "country":  "MY",
+        "streams":  [
+                        "http://62.210.211.188:2095/play/a00d",
+                        "http://78.130.250.2:8023/play/a02e/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeohd/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "National Geographic Wild",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "website":  "http://natgeotv.com/asia",
+        "country":  "MY",
+        "streams":  [
+                        "http://78.130.250.2:8023/play/a02c/index.m3u8",
+                        "https://saran-live.ercdn.net/natgeowild/index.m3u8"
+                    ]
+    },
+    {
+        "name":  "Nickelodeon",
+        "logo":  "https://i.postimg.cc/VkdqdrkH/nickelodeon.png",
+        "website":  "http://www.nick-asia.com/",
+        "country":  "MY",
+        "streams":  [
+                        "http://185.236.229.62:9981/play/a067",
+                        "http://195.64.140.147:10121/121",
+                        "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+                        "http://46.8.46.14/Nickelodeon/index.m3u8",
+                        "http://87.246.60.6:11004/?token=fas-tv.com",
+                        "http://92.114.85.72:8000/play/a02o",
+                        "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php"
+                    ]
+    },
+    {
+        "name":  "NTV7",
+        "logo":  "https://i.imgur.com/jDWR3xI.png",
+        "website":  "https://www.xtra.com.my/",
+        "country":  "MY",
+        "streams":  "https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
+    },
+    {
+        "name":  "Okey",
+        "logo":  "https://i.imgur.com/V2jREQ5.png",
+        "website":  "https://okey.rtm.gov.my/",
+        "country":  "MY",
+        "streams":  "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3"
+    },
+    {
+        "name":  "PRO Sport International",
+        "logo":  "https://i.postimg.cc/7hjCP4mf/PROSport-International.png",
+        "website":  null,
+        "country":  "MY",
+        "streams":  "https://proshls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name":  "RTM ASEAN",
+        "logo":  "https://i.imgur.com/skAiUxg.png",
+        "website":  "https://rtmklik.rtm.gov.my/live/rtmasean",
+        "country":  "MY",
+        "streams":  "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
+    },
+    {
+        "name":  "RTM Parlimen Dewan Negara",
+        "logo":  "https://i.postimg.cc/mgrVsTMY/header.png",
+        "website":  "https://rtmparlimen.rtm.gov.my/",
+        "country":  "MY",
+        "streams":  "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8"
+    },
+    {
+        "name":  "RTM Parlimen Dewan Rakyat",
+        "logo":  "https://i.postimg.cc/mgrVsTMY/header.png",
+        "website":  "https://rtmparlimen.rtm.gov.my/",
+        "country":  "MY",
+        "streams":  "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7"
+    },
+    {
+        "name":  "SelangorTV",
+        "logo":  null,
+        "website":  "https://selangortv.my/",
+        "country":  "MY",
+        "streams":  "https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd\u0026token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd"
+    },
+    {
+        "name":  "Sukan RTM",
+        "logo":  "https://i.imgur.com/1pYYSu2.png",
+        "website":  "http://www.rtm.gov.my/",
+        "country":  "MY",
+        "streams":  "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd"
+    },
+    {
+        "name":  "Suke TV",
+        "logo":  "https://i.imgur.com/hCwH3s0.png",
+        "website":  "https://suketv.com/",
+        "country":  "MY",
+        "streams":  "https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272\u0026token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272"
+    },
+    {
+        "name":  "TV1",
+        "logo":  "https://i.imgur.com/wSyPmiY.png",
+        "website":  null,
+        "country":  "MY",
+        "streams":  [
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+                        "https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047\u0026token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047"
+                    ]
+    },
+    {
+        "name":  "TV2",
+        "logo":  "https://i.imgur.com/LGEdeyJ.png",
+        "website":  null,
+        "country":  "MY",
+        "streams":  [
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
+                        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
+                        "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d\u0026token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d"
+                    ]
+    },
+    {
+        "name":  "TV3",
+        "logo":  "https://i.imgur.com/bHcZgIo.png",
+        "website":  "https://www.xtra.com.my/",
+        "country":  "MY",
+        "streams":  [
+                        "https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8",
+                        "https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8",
+                        "https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8",
+                        "https://live.mediageneral.digital/live/livestream.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/tv3-sd/playlist.m3u8",
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/tv3/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "TV6",
+        "logo":  "https://i.imgur.com/bK8UH9D.png",
+        "website":  null,
+        "country":  "MY",
+        "streams":  "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6"
+    },
+    {
+        "name":  "TV9",
+        "logo":  "https://i.imgur.com/Krh1F8d.png",
+        "website":  "https://www.xtra.com.my/",
+        "country":  "MY",
+        "streams":  "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
+    },
+    {
+        "name":  "TVIKIM",
+        "logo":  "https://i.imgur.com/X6JKNEE.png",
+        "website":  null,
+        "country":  "MY",
+        "streams":  [
+                        "https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8",
+                        "https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942\u0026token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942"
+                    ]
+    },
+    {
+        "name":  "TVS",
+        "logo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/512px-TVS_Sarawak.jpg",
+        "website":  "https://tvstv.my/",
+        "country":  "MY",
+        "streams":  [
+                        "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
+                        "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8"
+                    ]
+    }
+]

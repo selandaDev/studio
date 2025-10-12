@@ -1,0 +1,40 @@
+﻿[
+    {
+        "name":  "3Ktv",
+        "logo":  "https://i.imgur.com/fMxIbjQ.png",
+        "website":  null,
+        "country":  "ZW",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/3ktv/playlist.m3u8"
+    },
+    {
+        "name":  "Meriba TV",
+        "logo":  "https://i.imgur.com/BuhMNU6.png",
+        "website":  null,
+        "country":  "ZW",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/meribatv/playlist.m3u8"
+    },
+    {
+        "name":  "NRTV",
+        "logo":  "https://i.imgur.com/ZgVJdKz.png",
+        "website":  "https://www.nrtv.tv/",
+        "country":  "ZW",
+        "streams":  "https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8"
+    },
+    {
+        "name":  "Yadah TV",
+        "logo":  "https://i.imgur.com/4BNVhoC.png",
+        "website":  "https://www.yadahtv.co/",
+        "country":  "ZW",
+        "streams":  [
+                        "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/yadahtvplus/playlist.m3u8",
+                        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8"
+                    ]
+    },
+    {
+        "name":  "ZBC TV",
+        "logo":  "https://i.imgur.com/NyxeweD.png",
+        "website":  "https://www.zbc.co.zw/",
+        "country":  "ZW",
+        "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/zbctv/playlist.m3u8"
+    }
+]
