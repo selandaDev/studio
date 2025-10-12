@@ -1,7 +1,7 @@
 
 "use client";
 
-import { useEffect, useState, useMemo } from 'react';
+import { useEffect, useState, useRef } from 'react';
 import Image from 'next/image';
 import { getTvChannels, TvChannel, getAvailableTvCountries } from '@/lib/data';
 import { VideoPlayer } from '@/components/video-player';
@@ -17,6 +17,8 @@ export default function TvPage() {
     const [selectedCountry, setSelectedCountry] = useState('ES');
     const [nowPlaying, setNowPlaying] = useState<TvChannel | null>(null);
     const [videoOptions, setVideoOptions] = useState<any>(null);
+    const [hasUserInteracted, setHasUserInteracted] = useState(false);
+    const playerRef = useRef<Player | null>(null);
 
     useEffect(() => {
         async function fetchInitialData() {
@@ -32,15 +34,15 @@ export default function TvPage() {
             const channels = await getTvChannels({ countryCode: selectedCountry });
             setFilteredChannels(channels);
 
-            if (channels.length > 0) {
+            if (channels.length > 0 && !nowPlaying) {
                 handleChannelSelect(channels[0]);
-            } else {
+            } else if (channels.length === 0) {
                 setNowPlaying(null);
                 setVideoOptions(null);
             }
         }
         fetchChannelsForCountry();
-    }, [selectedCountry]);
+    }, [selectedCountry, nowPlaying]);
 
     const handleChannelSelect = (channel: TvChannel) => {
         if (!channel.url) return;
@@ -48,7 +50,7 @@ export default function TvPage() {
         setVideoOptions({
             controls: true,
             autoplay: true,
-            muted: true, // Start muted to allow autoplay in most browsers
+            muted: !hasUserInteracted, // Mute only if user hasn't interacted yet
             preload: 'auto',
             fluid: true,
             sources: [{
@@ -59,10 +61,19 @@ export default function TvPage() {
             }]
         });
     };
+
+    const handlePlayerReady = (player: Player) => {
+        playerRef.current = player;
+        player.on('volumechange', () => {
+            if (!player.muted()) {
+                setHasUserInteracted(true);
+            }
+        });
+    };
     
     const Player = () => {
         if (videoOptions) {
-            return <VideoPlayer options={videoOptions} />;
+            return <VideoPlayer options={videoOptions} onReady={handlePlayerReady} />;
         }
         return (
             <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
@@ -135,4 +146,3 @@ export default function TvPage() {
         </div>
     );
 }
-
