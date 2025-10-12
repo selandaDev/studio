@@ -17,7 +17,6 @@ export default function TvPage() {
     const [selectedCountry, setSelectedCountry] = useState('ES');
     const [nowPlaying, setNowPlaying] = useState<TvChannel | null>(null);
     const [videoOptions, setVideoOptions] = useState<any>(null);
-    const [player, setPlayer] = useState<Player | null>(null);
 
     useEffect(() => {
         async function fetchChannels() {
@@ -31,13 +30,12 @@ export default function TvPage() {
         const channelsFromCountry = allChannels.filter(c => c.country === selectedCountry);
         setFilteredChannels(channelsFromCountry);
 
-        if (channelsFromCountry.length > 0 && (!nowPlaying || nowPlaying.country !== selectedCountry)) {
+        if (channelsFromCountry.length > 0) {
             handleChannelSelect(channelsFromCountry[0]);
-        } else if (channelsFromCountry.length === 0) {
+        } else {
             setNowPlaying(null);
             setVideoOptions(null);
         }
-
     }, [selectedCountry, allChannels]);
 
     const countries = useMemo(() => {
@@ -53,9 +51,10 @@ export default function TvPage() {
     const handleChannelSelect = (channel: TvChannel) => {
         if (!channel.url) return;
         setNowPlaying(channel);
-        const newOptions = {
+        setVideoOptions({
             controls: true,
-            autoplay: false,
+            autoplay: true, // Autoplay is enabled
+            muted: true, // Video starts muted
             preload: 'auto',
             fluid: true,
             sources: [{
@@ -64,28 +63,12 @@ export default function TvPage() {
                     : channel.url.endsWith('.mpd') ? 'application/dash+xml'
                     : `video/${channel.url.split('.').pop()}`
             }]
-        };
-        
-        if (player) {
-            player.src(newOptions.sources);
-            player.play();
-        } else {
-            setVideoOptions(newOptions);
-        }
+        });
     };
     
-    const handlePlayerReady = (p: Player) => {
-        setPlayer(p);
-        if(videoOptions){
-            p.src(videoOptions.sources);
-            p.play();
-        }
-    }
-
-
     const Player = () => {
         if (videoOptions) {
-            return <VideoPlayer options={videoOptions} onReady={handlePlayerReady} />;
+            return <VideoPlayer options={videoOptions} />;
         }
         return (
             <div className="aspect-video bg-black flex items-center justify-center text-muted-foreground">
