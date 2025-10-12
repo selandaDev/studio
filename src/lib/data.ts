@@ -50,7 +50,7 @@ export interface TvChannel {
 }
 
 const dbPath = path.join(process.cwd(), 'db.json');
-const tvDbPath = path.join(process.cwd(), 'tv.json');
+const tvDbDir = path.join(process.cwd(), 'src', 'lib', 'tv');
 
 async function readDb(): Promise<{ content: Content[] }> {
   try {
@@ -64,10 +64,25 @@ async function readDb(): Promise<{ content: Content[] }> {
 
 async function readTvDb(): Promise<TvChannelSource[]> {
   try {
-    const fileContent = await fs.readFile(tvDbPath, 'utf-8');
-    return JSON.parse(fileContent);
+    const files = await fs.readdir(tvDbDir);
+    const jsonFiles = files.filter(file => file.endsWith('.json'));
+    
+    let allChannels: TvChannelSource[] = [];
+
+    for (const file of jsonFiles) {
+        const filePath = path.join(tvDbDir, file);
+        const fileContent = await fs.readFile(filePath, 'utf-8');
+        const channelData = JSON.parse(fileContent);
+
+        if (Array.isArray(channelData)) {
+            allChannels = allChannels.concat(channelData);
+        } else {
+            allChannels.push(channelData);
+        }
+    }
+    return allChannels;
   } catch (error) {
-    console.error('Error reading tv.json:', error);
+    console.error('Error reading TV channels from directory:', error);
     return [];
   }
 }

@@ -1,7 +1,0 @@
-﻿{
-    "name":  "BBS TV",
-    "logo":  "https://i.imgur.com/1CIxIGl.png",
-    "website":  "http://www.bbs.bt/",
-    "country":  "BT",
-    "streams":  "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/bbstv/playlist.m3u8"
-}
