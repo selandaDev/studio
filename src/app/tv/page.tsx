@@ -103,26 +103,26 @@ export default function TvPage() {
                     <Card>
                         <CardContent className="p-2">
                              <ScrollArea className="h-[60vh]">
-                                <div className="space-y-2">
+                                <div className="grid grid-cols-4 gap-2">
                                     {filteredChannels.map(channel => (
                                         <button
                                             key={channel.id}
                                             onClick={() => handleChannelSelect(channel)}
                                             className={cn(
-                                                "w-full flex items-center gap-4 p-2 rounded-lg transition-colors text-left",
+                                                "flex flex-col items-center justify-start gap-2 p-2 rounded-lg transition-colors text-center",
                                                 nowPlaying?.id === channel.id ? "bg-primary/20 text-primary" : "hover:bg-muted"
                                             )}
                                         >
-                                            <div className="relative h-10 w-10 flex-shrink-0">
+                                            <div className="relative h-14 w-full bg-black/20 rounded-md flex items-center justify-center">
                                                 <Image 
                                                     src={channel.logo || '/tvicon.png'} 
                                                     alt={`${channel.name} logo`}
-                                                    fill
-                                                    sizes="40px"
-                                                    className="object-contain rounded-md"
+                                                    width={56}
+                                                    height={56}
+                                                    className="object-contain rounded-sm"
                                                 />
                                             </div>
-                                            <span className="font-medium truncate">{channel.name}</span>
+                                            <span className="text-xs font-medium w-full overflow-hidden text-ellipsis whitespace-nowrap">{channel.name}</span>
                                         </button>
                                     ))}
                                 </div>
@@ -135,3 +135,4 @@ export default function TvPage() {
         </div>
     );
 }
+
