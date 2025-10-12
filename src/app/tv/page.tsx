@@ -3,7 +3,7 @@
 
 import { useEffect, useState, useMemo } from 'react';
 import Image from 'next/image';
-import { getTvChannels, TvChannel } from '@/lib/data';
+import { getTvChannels, TvChannel, getAvailableTvCountries } from '@/lib/data';
 import { VideoPlayer } from '@/components/video-player';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Card, CardContent } from '@/components/ui/card';
@@ -12,49 +12,43 @@ import { cn } from '@/lib/utils';
 import type Player from 'video.js/dist/types/player';
 
 export default function TvPage() {
-    const [allChannels, setAllChannels] = useState<TvChannel[]>([]);
+    const [countries, setCountries] = useState<string[]>([]);
     const [filteredChannels, setFilteredChannels] = useState<TvChannel[]>([]);
     const [selectedCountry, setSelectedCountry] = useState('ES');
     const [nowPlaying, setNowPlaying] = useState<TvChannel | null>(null);
     const [videoOptions, setVideoOptions] = useState<any>(null);
 
     useEffect(() => {
-        async function fetchChannels() {
-            const channels = await getTvChannels();
-            setAllChannels(channels);
+        async function fetchInitialData() {
+            const availableCountries = await getAvailableTvCountries();
+            setCountries(availableCountries);
         }
-        fetchChannels();
+        fetchInitialData();
     }, []);
 
     useEffect(() => {
-        const channelsFromCountry = allChannels.filter(c => c.country === selectedCountry);
-        setFilteredChannels(channelsFromCountry);
+        async function fetchChannelsForCountry() {
+            if (!selectedCountry) return;
+            const channels = await getTvChannels({ countryCode: selectedCountry });
+            setFilteredChannels(channels);
 
-        if (channelsFromCountry.length > 0) {
-            handleChannelSelect(channelsFromCountry[0]);
-        } else {
-            setNowPlaying(null);
-            setVideoOptions(null);
-        }
-    }, [selectedCountry, allChannels]);
-
-    const countries = useMemo(() => {
-        const countryMap = allChannels.reduce((acc, channel) => {
-            if (channel.country && !acc[channel.country]) {
-                acc[channel.country] = channel.country; // Using country code as name for now
+            if (channels.length > 0) {
+                handleChannelSelect(channels[0]);
+            } else {
+                setNowPlaying(null);
+                setVideoOptions(null);
             }
-            return acc;
-        }, {} as Record<string, string>);
-        return Object.entries(countryMap).sort((a,b) => a[1].localeCompare(b[1]));
-    }, [allChannels]);
+        }
+        fetchChannelsForCountry();
+    }, [selectedCountry]);
 
     const handleChannelSelect = (channel: TvChannel) => {
         if (!channel.url) return;
         setNowPlaying(channel);
         setVideoOptions({
             controls: true,
-            autoplay: true, // Autoplay is enabled
-            muted: true, // Video starts muted
+            autoplay: true,
+            muted: true, // Start muted to allow autoplay in most browsers
             preload: 'auto',
             fluid: true,
             sources: [{
@@ -100,8 +94,8 @@ export default function TvPage() {
                             <SelectValue placeholder="Seleccionar país" />
                         </SelectTrigger>
                         <SelectContent>
-                            {countries.map(([code, name]) => (
-                                <SelectItem key={code} value={code}>{name}</SelectItem>
+                            {countries.map((code) => (
+                                <SelectItem key={code} value={code}>{code}</SelectItem>
                             ))}
                         </SelectContent>
                     </Select>

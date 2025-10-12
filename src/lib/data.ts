@@ -62,29 +62,34 @@ async function readDb(): Promise<{ content: Content[] }> {
   }
 }
 
-async function readTvDb(): Promise<TvChannelSource[]> {
+async function readTvDbForCountry(countryCode: string): Promise<TvChannelSource[]> {
+  const filePath = path.join(tvDbDir, `${countryCode.toUpperCase()}.json`);
   try {
-    const files = await fs.readdir(tvDbDir);
-    const jsonFiles = files.filter(file => file.endsWith('.json'));
-    
-    let allChannels: TvChannelSource[] = [];
-
-    for (const file of jsonFiles) {
-        const filePath = path.join(tvDbDir, file);
-        const fileContent = await fs.readFile(filePath, 'utf-8');
-        const channelData = JSON.parse(fileContent);
-
-        if (Array.isArray(channelData)) {
-            allChannels = allChannels.concat(channelData);
-        } else {
-            allChannels.push(channelData);
-        }
-    }
-    return allChannels;
+    const fileContent = await fs.readFile(filePath, 'utf-8');
+    // Handle potential BOM (Byte Order Mark) at the start of the file
+    const cleanedContent = fileContent.charCodeAt(0) === 0xFEFF ? fileContent.substring(1) : fileContent;
+    return JSON.parse(cleanedContent);
   } catch (error) {
-    console.error('Error reading TV channels from directory:', error);
+    if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
+      console.warn(`No TV channel data found for country: ${countryCode}`);
+      return [];
+    }
+    console.error(`Error reading ${countryCode}.json:`, error);
     return [];
   }
+}
+
+export async function getAvailableTvCountries(): Promise<string[]> {
+    try {
+        const files = await fs.readdir(tvDbDir);
+        return files
+            .filter(file => file.endsWith('.json'))
+            .map(file => path.basename(file, '.json'))
+            .sort();
+    } catch (error) {
+        console.error('Error reading TV channels directory:', error);
+        return [];
+    }
 }
 
 
@@ -126,7 +131,9 @@ export async function getContent(filters: { type?: ContentType | ContentType[]; 
 }
 
 export async function getTvChannels(filters: { countryCode?: string } = {}): Promise<TvChannel[]> {
-  const rawChannels = await readTvDb();
+  const countryCode = filters.countryCode || 'ES'; // Default to Spain if no code provided
+  const rawChannels = await readTvDbForCountry(countryCode);
+
   let channels: TvChannel[] = rawChannels.map((channel, index) => {
     let streamUrl: string | null = null;
     if (Array.isArray(channel.streams) && channel.streams.length > 0) {
@@ -136,17 +143,13 @@ export async function getTvChannels(filters: { countryCode?: string } = {}): Pro
     }
 
     return {
-        id: `tv-${index}-${channel.name.replace(/\s+/g, '')}`,
+        id: `${channel.country}-${index}-${channel.name.replace(/\s+/g, '')}`,
         name: channel.name,
         logo: channel.logo,
         country: channel.country,
         url: streamUrl
     };
   }).filter(c => c.url); // Filter out channels with no valid stream URL
-
-  if (filters.countryCode) {
-    channels = channels.filter(channel => channel.country === filters.countryCode);
-  }
 
   channels.sort((a, b) => a.name.localeCompare(b.name));
 
