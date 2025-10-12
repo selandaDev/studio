@@ -31,18 +31,20 @@ export default function TvPage() {
     useEffect(() => {
         async function fetchChannelsForCountry() {
             if (!selectedCountry) return;
+            setNowPlaying(null); // Reset player while loading new country
+            setFilteredChannels([]); // Clear old channels
             const channels = await getTvChannels({ countryCode: selectedCountry });
             setFilteredChannels(channels);
 
-            if (channels.length > 0 && !nowPlaying) {
+            if (channels.length > 0) {
                 handleChannelSelect(channels[0]);
-            } else if (channels.length === 0) {
+            } else {
                 setNowPlaying(null);
                 setVideoOptions(null);
             }
         }
         fetchChannelsForCountry();
-    }, [selectedCountry, nowPlaying]);
+    }, [selectedCountry]);
 
     const handleChannelSelect = (channel: TvChannel) => {
         if (!channel.url) return;
@@ -65,9 +67,13 @@ export default function TvPage() {
     const handlePlayerReady = (player: Player) => {
         playerRef.current = player;
         player.on('volumechange', () => {
+            // This is a one-way street; once unmuted, we consider the user to have interacted.
             if (!player.muted()) {
                 setHasUserInteracted(true);
             }
+        });
+        player.on('error', () => {
+            console.error('Error al reproducir el canal:', player.error());
         });
     };
     
