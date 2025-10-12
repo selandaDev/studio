@@ -309,6 +309,28 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg",
       "imageHint": "movie",
       "url": "/files/pelis/HarryPotter2.mp4"
+    },
+    {
+      "id": "mov17",
+      "title": "Pesadilla antes de Navidad",
+      "type": "movie",
+      "genre": "Fantasía",
+      "year": 1994,
+      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
+      "imageHint": "movie",
+      "url": "/files/pelis/Pesadillanavidad.mp4"
+    },
+    {
+      "id": "mov18",
+      "title": "Raqa",
+      "type": "movie",
+      "genre": "Suspense",
+      "year": 2024,
+      "description": "Raqa muestra la vida en una ciudad dominada por uno de los grupos terroristas más crueles. Los protagonistas tienen la misma misión, pero para distintos servicios secretos: viviendo en el filo de la navaja y sin poder cometer ningún error, la tensión y el miedo se palpan en cada acción.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3dDP4qtfs6Uvc3wyvZRuPtpGlci.jpg",
+      "imageHint": "movie",
+      "url": "/files/pelis/Raqa.mp4"
     }
   ]
 }

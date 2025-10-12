@@ -167,7 +167,7 @@
         "logo":  "https://i.postimg.cc/sfcFMV9F/antena3.png",
         "website":  "https://www.antena3.com/",
         "country":  "ES",
-        "streams":  "http://176.65.146.237:8401/play/a0ae/index.m3u8"
+        "streams":  "https://www.atresplayer.com/directos/antena3/"
     },
     {
         "name":  "Antena 3 Internacional",
@@ -993,7 +993,6 @@
         "website":  "http://www.rtve.es/television/",
         "country":  "ES",
         "streams":  [
-                        "http://176.65.146.237:8401/play/a09u/index.m3u8",
                         "https://ztnr.rtve.es/ztnr/1688877.m3u8"
                     ]
     },
