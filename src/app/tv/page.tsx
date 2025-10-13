@@ -51,8 +51,8 @@ export default function TvPage() {
         setNowPlaying(channel);
         setVideoOptions({
             controls: true,
-            autoplay: true,
-            muted: !hasUserInteracted, // Mute only if user hasn't interacted yet
+            autoplay: hasUserInteracted, // Only autoplay if user has interacted
+            muted: !hasUserInteracted, 
             preload: 'auto',
             fluid: true,
             sources: [{
@@ -60,16 +60,30 @@ export default function TvPage() {
                 type: channel.url.endsWith('.m3u8') ? 'application/x-mpegURL'
                     : channel.url.endsWith('.mpd') ? 'application/dash+xml'
                     : `video/${channel.url.split('.').pop()}`
-            }]
+            }],
+            plugins: {
+              chromecast: {
+                buttonPositionIndex: -1, 
+                receiverAppID: 'CC1AD845', 
+              },
+            },
+            controlBar: {
+              children: [
+                'playToggle',
+                'progressControl',
+                'volumePanel',
+                'chromecastButton',
+                'fullscreenToggle',
+              ],
+            },
         });
     };
 
     const handlePlayerReady = (player: Player) => {
         playerRef.current = player;
         player.on('volumechange', () => {
-            // This is a one-way street; once unmuted, we consider the user to have interacted.
-            if (!player.muted()) {
-                setHasUserInteracted(true);
+            if (!player.muted() && !hasUserInteracted) {
+                 setHasUserInteracted(true);
             }
         });
         player.on('error', () => {
