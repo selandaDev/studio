@@ -6,14 +6,20 @@ import type Player from 'video.js/dist/types/player';
 import 'video.js/dist/video-js.css';
 import '@videojs/http-streaming';
 
-// Importar e inicializar el plugin de Chromecast
+// Importar el plugin de Chromecast y sus estilos
 import '@silvermine/videojs-chromecast/dist/silvermine-videojs-chromecast.css';
 import chromecast from '@silvermine/videojs-chromecast';
 
-// Registrar el plugin con video.js. Esto es seguro hacerlo a nivel de módulo.
-if (videojs.getPlugin('chromecast') === undefined) {
-  videojs.registerPlugin('chromecast', chromecast);
+// Registrar el plugin de forma segura
+try {
+  if (videojs.getPlugin('chromecast') === undefined) {
+    // La función 'chromecast' espera 'videojs' como primer argumento
+    chromecast(videojs);
+  }
+} catch (error) {
+  console.error('Error al registrar el plugin de Chromecast:', error);
 }
+
 
 export const VideoPlayer = (props: { options: any, onReady?: (player: Player) => void }) => {
   const videoRef = useRef<HTMLDivElement>(null);
