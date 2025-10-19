@@ -51,7 +51,7 @@ export default function TvPage() {
         setNowPlaying(channel);
         setVideoOptions({
             controls: true,
-            autoplay: hasUserInteracted, // Only autoplay if user has interacted
+            autoplay: hasUserInteracted,
             muted: !hasUserInteracted, 
             preload: 'auto',
             fluid: true,
@@ -62,10 +62,7 @@ export default function TvPage() {
                     : `video/${channel.url.split('.').pop()}`
             }],
             plugins: {
-              chromecast: {
-                buttonPositionIndex: -1, 
-                receiverAppID: 'CC1AD845', 
-              },
+              chromecast: {},
             },
             controlBar: {
               children: [

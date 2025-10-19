@@ -142,33 +142,6 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
         </CardContent>
     </Card>
   )
-
-
-  const videoJsOptions = {
-    controls: true,
-    autoplay: false,
-    preload: 'auto',
-    fluid: true,
-    sources: [{
-      src: 'https://example.com/video.mp4',
-      type: 'video/mp4'
-    }],
-    plugins: {
-      chromecast: {
-        buttonPositionIndex: 2, // posición del botón en la control bar
-        receiverAppID: 'CC1AD845', // ID por defecto de la app Chromecast
-      },
-    },
-    controlBar: {
-      children: [
-        'playToggle',
-        'progressControl',
-        'volumePanel',
-        'chromecastButton', // 👈 añadimos el botón aquí
-        'fullscreenToggle',
-      ],
-    },
-  };
   
 
   const Player = () => {
@@ -185,17 +158,14 @@ export default function PlayerPage({ params }: { params: { id: string } }) {
                     : `video/${nowPlaying.split('.').pop()}`
             }],
             plugins: {
-              chromecast: {
-                buttonPositionIndex: 2, // posición del botón en la control bar
-                receiverAppID: 'CC1AD845', // ID por defecto de la app Chromecast
-              },
+              chromecast: {},
             },
             controlBar: {
               children: [
                 'playToggle',
                 'progressControl',
                 'volumePanel',
-                'chromecastButton', // 👈 añadimos el botón aquí
+                'chromecastButton', 
                 'fullscreenToggle',
               ],
             },
